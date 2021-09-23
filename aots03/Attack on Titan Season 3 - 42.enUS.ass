@@ -1,0 +1,332 @@
+[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.89,0:00:03.10,Default,,0000,0000,0000,,You had your time, but it's over!
+Dialogue: 0,0:00:03.10,0:00:05.35,Default,,0000,0000,0000,,Look above you, morons!
+Dialogue: 0,0:00:13.78,0:00:15.65,Default,,0000,0000,0000,,Where are Eren and Christa?
+Dialogue: 0,0:00:16.95,0:00:18.62,Default,,0000,0000,0000,,It's no use!
+Dialogue: 0,0:00:18.62,0:00:23.41,Default,,0000,0000,0000,,If you don't turn yourselves in, every last\NScout we captured will get the noose!
+Dialogue: 0,0:00:23.54,0:00:25.96,Default,,0000,0000,0000,,I entrusted something to Commander Pyxis.
+Dialogue: 0,0:00:26.42,0:00:28.75,Default,,0000,0000,0000,,When it comes, I will only watch.
+Dialogue: 0,0:00:29.09,0:00:30.48,Default,,0000,0000,0000,,It's up to you to decide.
+Dialogue: 0,0:00:30.88,0:00:32.96,Default,,0000,0000,0000,,You... and them.
+Dialogue: 0,0:02:03.97,0:02:08.98,Default,,0000,0000,0000,,"Reply"
+Dialogue: 0,0:02:17.95,0:02:19.91,Default,,0000,0000,0000,,That sure is a lot of wagons.
+Dialogue: 0,0:02:21.28,0:02:22.57,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:02:22.57,0:02:24.20,Default,,0000,0000,0000,,You don't know?
+Dialogue: 0,0:02:24.20,0:02:27.71,Default,,0000,0000,0000,,Right now, all the heads of the\Nmilitary are meeting inside the castle
+Dialogue: 0,0:02:27.71,0:02:30.62,Default,,0000,0000,0000,,to finally dismantle the Scout Regiment.
+Dialogue: 0,0:02:30.62,0:02:31.71,Default,,0000,0000,0000,,See?
+Dialogue: 0,0:02:31.71,0:02:34.75,Default,,0000,0000,0000,,There's the gallows for\Nhanging their commander.
+Dialogue: 0,0:02:35.38,0:02:38.51,Default,,0000,0000,0000,,I bet it's ongoing as we speak...\Nhis final judgment.
+Dialogue: 0,0:02:39.76,0:02:45.19,Default,,0000,0000,0000,,If humanity loses the Scout Regiment,\Nthat means humanity loses their spear.
+Dialogue: 0,0:02:46.02,0:02:51.44,Default,,0000,0000,0000,,When enemies close in, you guard not with a\Nshield, but a spear that eliminates the threat.
+Dialogue: 0,0:02:52.23,0:02:56.15,Default,,0000,0000,0000,,Suppose now, if this instant,\NWall Rose were to be breached...
+Dialogue: 0,0:02:57.23,0:03:01.99,Default,,0000,0000,0000,,The residents of Wall Rose would again\Nflee and take refuge in Wall Sina.
+Dialogue: 0,0:03:02.57,0:03:07.83,Default,,0000,0000,0000,,But the earlier evacuation left stockpiles\Nwith no more than a few days at best.
+Dialogue: 0,0:03:08.45,0:03:13.37,Default,,0000,0000,0000,,In the blink of an eye, most of the residents\Nwould be forced to fight for survival.
+Dialogue: 0,0:03:14.34,0:03:20.59,Default,,0000,0000,0000,,Wall Rose and Sina... Humanity would be split\Nin two factions and civil war would erupt.
+Dialogue: 0,0:03:21.63,0:03:27.33,Default,,0000,0000,0000,,Even if the wall was not breached, Wall Rose\Nis continually suffering a food shortage.
+Dialogue: 0,0:03:28.06,0:03:30.89,Default,,0000,0000,0000,,It may not be Titans that breach Wall Sina...
+Dialogue: 0,0:03:31.52,0:03:35.94,Default,,0000,0000,0000,,There's a chance the residents\Nof Wall Rose do it first.
+Dialogue: 0,0:03:40.15,0:03:41.69,Default,,0000,0000,0000,,Reclaim Wall Maria.
+Dialogue: 0,0:03:42.45,0:03:46.43,Default,,0000,0000,0000,,If humanity is to ever hope for\Na future, that is the only way.
+Dialogue: 0,0:03:47.37,0:03:51.02,Default,,0000,0000,0000,,Are you implying that the Scouts\Nare needed for such a cause?
+Dialogue: 0,0:03:51.54,0:03:55.61,Default,,0000,0000,0000,,Our duty as Scouts has always been\Nto charge forth at the enemy.
+Dialogue: 0,0:03:56.13,0:03:58.96,Default,,0000,0000,0000,,Cowering away will not solve anything.
+Dialogue: 0,0:04:00.09,0:04:05.47,Default,,0000,0000,0000,,Or could it be... you have some sort\Nof secret plan to overcome this ordeal?
+Dialogue: 0,0:04:12.18,0:04:15.52,Default,,0000,0000,0000,,Erwin, I don't think you understand.
+Dialogue: 0,0:04:15.52,0:04:19.84,Default,,0000,0000,0000,,The reason you're here today is not\Nto discuss our future within the walls,
+Dialogue: 0,0:04:20.44,0:04:23.48,Default,,0000,0000,0000,,nor is it because of something\Nas simple as murder.
+Dialogue: 0,0:04:24.28,0:04:26.28,Default,,0000,0000,0000,,Clause Six, Charter of Humanity.
+Dialogue: 0,0:04:26.28,0:04:30.83,Default,,0000,0000,0000,,"Thou shall not prioritize one's own\Ngain over the longevity of humanity."
+Dialogue: 0,0:04:31.58,0:04:33.96,Default,,0000,0000,0000,,You're here for this grave offense.
+Dialogue: 0,0:04:33.96,0:04:38.63,Default,,0000,0000,0000,,Indeed. You've refused to hand\Nover Eren Jaeger multiple times.
+Dialogue: 0,0:04:38.63,0:04:41.55,Default,,0000,0000,0000,,In doing so, you've violated the Charter.
+Dialogue: 0,0:04:41.84,0:04:44.93,Default,,0000,0000,0000,,But Eren is vital for reclaiming Wall Maria!
+Dialogue: 0,0:04:45.05,0:04:47.47,Default,,0000,0000,0000,,That is not for the Scouts to decide!
+Dialogue: 0,0:04:47.47,0:04:50.97,Default,,0000,0000,0000,,Eren Jaeger is a Titan whose\Npowers are not understood!
+Dialogue: 0,0:04:50.97,0:04:54.48,Default,,0000,0000,0000,,Sheltering him within the walls\Nis a risk to humanity!
+Dialogue: 0,0:04:54.48,0:04:58.62,Default,,0000,0000,0000,,It's absurd for a single commander\Nto have control of him alone.
+Dialogue: 0,0:04:59.11,0:05:02.48,Default,,0000,0000,0000,,And yet, you stubbornly persisted\Nin some plan of yours.
+Dialogue: 0,0:05:02.90,0:05:07.01,Default,,0000,0000,0000,,Not only did you feign his abduction\Nand conceal Eren Jaeger...
+Dialogue: 0,0:05:07.53,0:05:10.33,Default,,0000,0000,0000,,...but you silenced Dimo Reeves\Nsince he knew of your plans.
+Dialogue: 0,0:05:11.16,0:05:13.20,Default,,0000,0000,0000,,This is clearly treason.
+Dialogue: 0,0:05:13.20,0:05:17.12,Default,,0000,0000,0000,,It is not a stretch to say that\Nyou're the threat to humanity.
+Dialogue: 0,0:05:18.21,0:05:19.54,Default,,0000,0000,0000,,Commander Pyxis.
+Dialogue: 0,0:05:19.54,0:05:20.04,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:05:20.54,0:05:25.09,Default,,0000,0000,0000,,The Garrison and Scout Regiments\Nboth risk their lives on the front lines.
+Dialogue: 0,0:05:25.09,0:05:28.30,Default,,0000,0000,0000,,How are we to know that\Nyou're not his comrade?
+Dialogue: 0,0:05:28.68,0:05:33.56,Default,,0000,0000,0000,,I'm quite disturbed that you believe\Nwe would align ourselves with the Scouts.
+Dialogue: 0,0:05:33.56,0:05:36.60,Default,,0000,0000,0000,,Nothing is more senseless\Nthan humans killing humans.
+Dialogue: 0,0:05:37.27,0:05:42.85,Default,,0000,0000,0000,,In this cramped world that we humans have,\None spark will engulf all in no time.
+Dialogue: 0,0:05:43.57,0:05:46.61,Default,,0000,0000,0000,,When it came time to defend Trost District,
+Dialogue: 0,0:05:46.61,0:05:50.73,Default,,0000,0000,0000,,that's what I told my soldiers\Nbefore sending many to their deaths.
+Dialogue: 0,0:05:51.83,0:05:55.87,Default,,0000,0000,0000,,If the Scout Regiment is that one spark,\Nit should be smothered at once.
+Dialogue: 0,0:05:57.50,0:06:00.46,Default,,0000,0000,0000,,After all, if the Titans do manage to break
+Dialogue: 0,0:06:00.46,0:06:03.41,Default,,0000,0000,0000,,the wall and find hardly anyone left inside...
+Dialogue: 0,0:06:03.41,0:06:05.76,Default,,0000,0000,0000,,...those poor Titans might go hungry.
+Dialogue: 0,0:06:08.22,0:06:09.23,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:06:09.72,0:06:11.25,Default,,0000,0000,0000,,Allow us to discuss.
+Dialogue: 0,0:06:14.52,0:06:17.24,Default,,0000,0000,0000,,Your Majesty... May we?
+Dialogue: 0,0:06:25.53,0:06:28.52,Default,,0000,0000,0000,,Erwin... Is this how you want it to end?!
+Dialogue: 0,0:06:37.87,0:06:41.55,Default,,0000,0000,0000,,In the name of the King,\NI will announce your judgment.
+Dialogue: 0,0:06:42.25,0:06:43.46,Default,,0000,0000,0000,,Erwin Smith.
+Dialogue: 0,0:06:44.34,0:06:47.88,Default,,0000,0000,0000,,For violating Clause Six of the Charter of Humanity,
+Dialogue: 0,0:06:47.88,0:06:49.63,Default,,0000,0000,0000,,you are sentenced to death.
+Dialogue: 0,0:06:52.14,0:06:54.77,Default,,0000,0000,0000,,Your execution will be carried out immediately.
+Dialogue: 0,0:06:55.35,0:06:56.27,Default,,0000,0000,0000,,Take him.
+Dialogue: 0,0:06:59.56,0:07:02.10,Default,,0000,0000,0000,,Is this what you wanted, Erwin?!
+Dialogue: 0,0:07:08.90,0:07:10.61,Default,,0000,0000,0000,,With this, you're...
+Dialogue: 0,0:07:25.71,0:07:26.71,Default,,0000,0000,0000,,Wall Rose...
+Dialogue: 0,0:07:27.59,0:07:28.84,Default,,0000,0000,0000,,...has been breached!
+Dialogue: 0,0:07:32.59,0:07:34.76,Default,,0000,0000,0000,,The Colossal Titan appeared out of nowhere!
+Dialogue: 0,0:07:34.76,0:07:39.39,Default,,0000,0000,0000,,Along with the Armored Titan, they broke\Nthrough both gates of Calaneth District!
+Dialogue: 0,0:07:39.93,0:07:43.45,Default,,0000,0000,0000,,Currently, refugees from the East\Nare flocking here for safety!
+Dialogue: 0,0:07:44.98,0:07:46.76,Default,,0000,0000,0000,,Establish a route for the evacuees!
+Dialogue: 0,0:07:47.48,0:07:51.86,Default,,0000,0000,0000,,Have all Garrison troops\Nconverge and defend the East!
+Dialogue: 0,0:07:51.86,0:07:54.16,Default,,0000,0000,0000,,Get the evacuees safely to Wall Sina!
+Dialogue: 0,0:07:54.62,0:07:57.91,Default,,0000,0000,0000,,Everyone, hurry! Saving the\Nevacuees is our top priority!
+Dialogue: 0,0:07:58.37,0:07:58.99,Default,,0000,0000,0000,,--Sir!
+Dialogue: 0,0:07:58.99,0:07:59.62,Default,,0000,0000,0000,,--No!\N--Sir!
+Dialogue: 0,0:08:00.20,0:08:01.00,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:08:01.21,0:08:03.96,Default,,0000,0000,0000,,Close up all of the gates to Wall Sina!
+Dialogue: 0,0:08:03.96,0:08:06.50,Default,,0000,0000,0000,,Don't let a single refugee inside!
+Dialogue: 0,0:08:07.80,0:08:08.61,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:08:09.55,0:08:13.30,Default,,0000,0000,0000,,B-But that's... all the Wall Rose residents?
+Dialogue: 0,0:08:14.13,0:08:17.81,Default,,0000,0000,0000,,Your command is to sit back and\Nwatch as half of humanity dies?
+Dialogue: 0,0:08:17.97,0:08:21.73,Default,,0000,0000,0000,,It's just like he said earlier!\NThat's asking for civil war!
+Dialogue: 0,0:08:21.73,0:08:25.69,Default,,0000,0000,0000,,We can't let the government lose control!\NIf that happens, it's over!
+Dialogue: 0,0:08:25.85,0:08:29.94,Default,,0000,0000,0000,,B-But... That's only a mere possibility!
+Dialogue: 0,0:08:29.94,0:08:32.70,Default,,0000,0000,0000,,It's enough for that possibility to exist!
+Dialogue: 0,0:08:32.70,0:08:35.50,Default,,0000,0000,0000,,Our authority is and always will be absolute!
+Dialogue: 0,0:08:35.86,0:08:37.32,Default,,0000,0000,0000,,Now, get moving!
+Dialogue: 0,0:08:45.21,0:08:45.97,Default,,0000,0000,0000,,Shit...
+Dialogue: 0,0:08:46.42,0:08:49.55,Default,,0000,0000,0000,,To think the wall would be\Nbreached at a time like this...
+Dialogue: 0,0:08:49.71,0:08:52.30,Default,,0000,0000,0000,,Though, there is a silver lining.
+Dialogue: 0,0:08:52.30,0:08:54.05,Default,,0000,0000,0000,,We've already found the power.
+Dialogue: 0,0:08:54.68,0:08:58.26,Default,,0000,0000,0000,,All that's left is to bide our time\Nuntil the vessel takes it.
+Dialogue: 0,0:08:58.72,0:09:03.64,Default,,0000,0000,0000,,That's right. There's no need to be\Nflustered by this little disaster.
+Dialogue: 0,0:09:03.64,0:09:06.60,Default,,0000,0000,0000,,As long as Wall Sina holds up, we'll be fine.
+Dialogue: 0,0:09:06.60,0:09:09.14,Default,,0000,0000,0000,,Yes, once Lord Reiss comes back...
+Dialogue: 0,0:09:11.61,0:09:13.94,Default,,0000,0000,0000,,Let's do it! Close the gates!
+Dialogue: 0,0:09:13.94,0:09:14.86,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:09:14.86,0:09:16.51,Default,,0000,0000,0000,,It'll be too late if we wait!
+Dialogue: 0,0:09:19.37,0:09:20.97,Default,,0000,0000,0000,,Who gets to choose?
+Dialogue: 0,0:09:21.33,0:09:22.50,Default,,0000,0000,0000,,Who decides?
+Dialogue: 0,0:09:23.20,0:09:25.54,Default,,0000,0000,0000,,What are you doing?! Hurry it up!
+Dialogue: 0,0:09:25.54,0:09:27.54,Default,,0000,0000,0000,,It'll be treason if you don't!
+Dialogue: 0,0:09:30.54,0:09:31.46,Default,,0000,0000,0000,,I will not!
+Dialogue: 0,0:09:31.59,0:09:32.21,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:09:32.67,0:09:33.48,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:09:33.96,0:09:36.59,Default,,0000,0000,0000,,I... am a human of Wall Rose!
+Dialogue: 0,0:09:37.97,0:09:40.10,Default,,0000,0000,0000,,I will not allow the gates to be closed!
+Dialogue: 0,0:09:40.10,0:09:41.01,Default,,0000,0000,0000,,You fool!
+Dialogue: 0,0:09:41.01,0:09:42.72,Default,,0000,0000,0000,,I will stand behind him.
+Dialogue: 0,0:09:49.15,0:09:51.40,Default,,0000,0000,0000,,Dhalis Zachary...
+Dialogue: 0,0:09:52.65,0:09:56.65,Default,,0000,0000,0000,,Are you surprised at all by\Ntheir reaction, Premier Zachary?
+Dialogue: 0,0:09:57.95,0:10:00.03,Default,,0000,0000,0000,,No... Not a bit.
+Dialogue: 0,0:10:00.20,0:10:02.66,Default,,0000,0000,0000,,Zachary, what's the meaning of this?!
+Dialogue: 0,0:10:03.62,0:10:06.01,Default,,0000,0000,0000,,That report just now was a false alarm.
+Dialogue: 0,0:10:06.37,0:10:07.77,Default,,0000,0000,0000,,Rest assured.
+Dialogue: 0,0:10:08.21,0:10:12.04,Default,,0000,0000,0000,,At the moment, there has been\Nno report of a Titan attack.
+Dialogue: 0,0:10:12.84,0:10:14.88,Default,,0000,0000,0000,,You bastards! What is this farce?!
+Dialogue: 0,0:10:15.21,0:10:17.90,Default,,0000,0000,0000,,If you want the mastermind, it's me.
+Dialogue: 0,0:10:18.26,0:10:19.23,Default,,0000,0000,0000,,Pyxis?!
+Dialogue: 0,0:10:20.01,0:10:24.31,Default,,0000,0000,0000,,It seems most of the Interior Police\Nare off somewhere or other.
+Dialogue: 0,0:10:24.31,0:10:26.60,Default,,0000,0000,0000,,I suppose that's quite fortunate.
+Dialogue: 0,0:10:26.60,0:10:27.56,Default,,0000,0000,0000,,What do you mean?!
+Dialogue: 0,0:10:27.85,0:10:33.73,Default,,0000,0000,0000,,Earlier, I declared to you that the Garrison\NRegiment isn't aligned with the Scout Regiment.
+Dialogue: 0,0:10:34.27,0:10:36.36,Default,,0000,0000,0000,,But I did forget to mention one thing...
+Dialogue: 0,0:10:37.28,0:10:39.57,Default,,0000,0000,0000,,I'm not aligned with any of you either.
+Dialogue: 0,0:10:40.78,0:10:44.47,Default,,0000,0000,0000,,While I do possess some of the\Nsame feelings as Erwin here...
+Dialogue: 0,0:10:45.20,0:10:48.02,Default,,0000,0000,0000,,...I considered leaving things\Nup to your government
+Dialogue: 0,0:10:48.37,0:10:52.17,Default,,0000,0000,0000,,if that were the better choice\Nfor the sake of humanity.
+Dialogue: 0,0:10:52.67,0:10:57.57,Default,,0000,0000,0000,,You are, after all, much wiser than us\Nwhen it comes to Titans and the walls.
+Dialogue: 0,0:10:59.05,0:11:03.41,Default,,0000,0000,0000,,Supposing you actually cared about\Nsaving as many people as possible,
+Dialogue: 0,0:11:03.89,0:11:07.36,Default,,0000,0000,0000,,I would have been fine\Nsending Erwin to the gallows.
+Dialogue: 0,0:11:07.85,0:11:13.76,Default,,0000,0000,0000,,Of course, depending on your decision,\Nall of us were prepared to forfeit our heads.
+Dialogue: 0,0:11:14.77,0:11:18.69,Default,,0000,0000,0000,,However, the answer you've\Ngiven us is very clear!
+Dialogue: 0,0:11:19.57,0:11:23.40,Default,,0000,0000,0000,,We may be ignorant about the Titans\Nand their powers, but...
+Dialogue: 0,0:11:23.91,0:11:28.54,Default,,0000,0000,0000,,I daresay, we in our ignorance can save\Nfar more people than you ever could!
+Dialogue: 0,0:11:28.54,0:11:33.04,Default,,0000,0000,0000,,Y-You're a fool! What do you think\Nundermining us will accomplish?!
+Dialogue: 0,0:11:33.04,0:11:35.46,Default,,0000,0000,0000,,The citizens will never listen to you!
+Dialogue: 0,0:11:35.96,0:11:38.80,Default,,0000,0000,0000,,They'll obey whatever the crown says!
+Dialogue: 0,0:11:38.80,0:11:40.97,Default,,0000,0000,0000,,The regional lords will have none of this!
+Dialogue: 0,0:11:41.22,0:11:43.81,Default,,0000,0000,0000,,It seems you don't quite understand.
+Dialogue: 0,0:11:44.68,0:11:46.59,Default,,0000,0000,0000,,This is no mere threat.
+Dialogue: 0,0:11:47.10,0:11:48.33,Default,,0000,0000,0000,,It's a coup d'état.
+Dialogue: 0,0:11:50.68,0:11:53.75,Default,,0000,0000,0000,,We've successfully restrained\Nthe Interior Police!
+Dialogue: 0,0:11:54.10,0:11:54.60,Default,,0000,0000,0000,,Mmm.
+Dialogue: 0,0:11:58.28,0:12:03.32,Default,,0000,0000,0000,,The thing with soldiers, they'll obey\Ntheir superior officer over the king.
+Dialogue: 0,0:12:03.74,0:12:06.45,Default,,0000,0000,0000,,Especially when the king in question is a fraud.
+Dialogue: 0,0:12:06.78,0:12:09.70,Default,,0000,0000,0000,,We will put in place a new ruler of our own.
+Dialogue: 0,0:12:10.20,0:12:12.20,Default,,0000,0000,0000,,It can't be... They're actually...
+Dialogue: 0,0:12:13.67,0:12:16.34,Default,,0000,0000,0000,,Don't even think you can\Nget away with this hoax!
+Dialogue: 0,0:12:16.54,0:12:18.75,Default,,0000,0000,0000,,If that disaster had in fact happened...
+Dialogue: 0,0:12:19.13,0:12:23.43,Default,,0000,0000,0000,,The decision that all of you made violates\NClause Six of the Charter of Humanity.
+Dialogue: 0,0:12:24.64,0:12:27.05,Default,,0000,0000,0000,,Furthermore, is installing a fake king
+Dialogue: 0,0:12:27.05,0:12:30.98,Default,,0000,0000,0000,,to personally control and run the\Ngovernment not punishable by death?
+Dialogue: 0,0:12:38.86,0:12:40.82,Default,,0000,0000,0000,,Shit! Wake up, dotard!
+Dialogue: 0,0:12:40.82,0:12:42.07,Default,,0000,0000,0000,,What? Time to eat?
+Dialogue: 0,0:12:42.32,0:12:44.27,Default,,0000,0000,0000,,Shut up, you useless oaf!
+Dialogue: 0,0:12:51.66,0:12:52.49,Default,,0000,0000,0000,,Erwin...
+Dialogue: 0,0:12:53.21,0:12:54.50,Default,,0000,0000,0000,,This is your victory.
+Dialogue: 0,0:12:56.08,0:12:57.20,Default,,0000,0000,0000,,Aren't you happy?
+Dialogue: 0,0:12:58.96,0:12:59.66,Default,,0000,0000,0000,,Nile.
+Dialogue: 0,0:13:00.84,0:13:03.11,Default,,0000,0000,0000,,Humanity has just begun down a new path...
+Dialogue: 0,0:13:03.80,0:13:05.55,Default,,0000,0000,0000,,One far more dangerous than before.
+Dialogue: 0,0:13:24.78,0:13:27.78,Default,,0000,0000,0000,,And there you have it.\NThe coup d'état was successful.
+Dialogue: 0,0:13:28.24,0:13:32.16,Default,,0000,0000,0000,,Premier Zachary has control of\Nthe capital and administrative district.
+Dialogue: 0,0:13:32.70,0:13:36.12,Default,,0000,0000,0000,,For the time being, the nobility hasn't rebelled.
+Dialogue: 0,0:13:36.12,0:13:38.63,Default,,0000,0000,0000,,What about the Boss Reeves incident?
+Dialogue: 0,0:13:39.04,0:13:41.84,Default,,0000,0000,0000,,We got a confession that proved\Nthe charges unfounded.
+Dialogue: 0,0:13:42.30,0:13:44.63,Default,,0000,0000,0000,,His son Flegel really pulled through big time.
+Dialogue: 0,0:13:44.97,0:13:46.80,Default,,0000,0000,0000,,Don't you get it?!
+Dialogue: 0,0:13:46.80,0:13:50.14,Default,,0000,0000,0000,,The government doesn't give\Na shit about saving any of us!
+Dialogue: 0,0:13:50.14,0:13:53.22,Default,,0000,0000,0000,,Face the truth now, because it'll be\Ntoo late when you're dead!
+Dialogue: 0,0:13:53.22,0:13:58.98,Default,,0000,0000,0000,,That's right! If Titans attack us again,\Nthere'll be nothing left this time!
+Dialogue: 0,0:13:58.98,0:14:01.08,Default,,0000,0000,0000,,Not the company! Not our families!
+Dialogue: 0,0:14:01.65,0:14:04.50,Default,,0000,0000,0000,,Let's print the truth before that happens!
+Dialogue: 0,0:14:06.11,0:14:11.27,Default,,0000,0000,0000,,Just like it's written right there, it shows the\Ncharges were bogus, they abused their power,
+Dialogue: 0,0:14:11.66,0:14:14.37,Default,,0000,0000,0000,,and that King Fritz was a total fake.
+Dialogue: 0,0:14:15.20,0:14:18.30,Default,,0000,0000,0000,,All our actions were justified self-defense.
+Dialogue: 0,0:14:18.79,0:14:22.07,Default,,0000,0000,0000,,In other words, we're free people now.
+Dialogue: 0,0:14:26.01,0:14:30.14,Default,,0000,0000,0000,,Woohoo!
+Dialogue: 0,0:14:30.14,0:14:32.89,Default,,0000,0000,0000,,No... This can't be...
+Dialogue: 0,0:14:33.68,0:14:35.50,Default,,0000,0000,0000,,Looks like the gamble paid off.
+Dialogue: 0,0:14:35.98,0:14:36.73,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:37.48,0:14:39.31,Default,,0000,0000,0000,,It wasn't just Erwin though.
+Dialogue: 0,0:14:40.19,0:14:43.65,Default,,0000,0000,0000,,The lone choices of many\Nmanaged to change the world.
+Dialogue: 0,0:14:46.53,0:14:49.58,Default,,0000,0000,0000,,And I managed to kill the\Nthree people you loaned me.
+Dialogue: 0,0:14:50.66,0:14:51.61,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:14:55.12,0:14:57.63,Default,,0000,0000,0000,,The thing is, part of the Interior Police,
+Dialogue: 0,0:14:57.63,0:15:01.84,Default,,0000,0000,0000,,their leader, Eren, and Historia are somewhere else.
+Dialogue: 0,0:15:01.84,0:15:03.59,Default,,0000,0000,0000,,If we don't find them soon...
+Dialogue: 0,0:15:05.25,0:15:06.91,Default,,0000,0000,0000,,I may have a clue about that.
+Dialogue: 0,0:15:08.22,0:15:11.59,Default,,0000,0000,0000,,Let's get there and put an end to this battle.
+Dialogue: 0,0:15:11.97,0:15:16.97,Eyecatch2,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Underground Chapel"\N"A sacred location where the royal family's power has been passed down for generations. The walls are composed of a naturally luminescent ore which is thought to have been created by some form of Titan power."
+Dialogue: 0,0:15:19.06,0:15:21.18,Default,,0000,0000,0000,,As a result of Erwin's actions,
+Dialogue: 0,0:15:21.90,0:15:24.83,Default,,0000,0000,0000,,it was declared that the current\Nregime would be ousted.
+Dialogue: 0,0:15:25.77,0:15:28.42,Default,,0000,0000,0000,,That announcement came immediately after
+Dialogue: 0,0:15:28.42,0:15:30.70,Default,,0000,0000,0000,,the military gained control of the\Ncapital and administrative district.
+Dialogue: 0,0:15:31.61,0:15:36.45,Default,,0000,0000,0000,,And took place upon the gallows\Nconstructed specifically for him.
+Dialogue: 0,0:15:37.24,0:15:38.04,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:15:38.70,0:15:42.17,Default,,0000,0000,0000,,It's exactly how Premier Zachary\Nexplained in the speech.
+Dialogue: 0,0:15:42.17,0:15:46.05,Default,,0000,0000,0000,,Understand that our goal\Nis not to establish military rule.
+Dialogue: 0,0:15:46.42,0:15:50.51,Default,,0000,0000,0000,,In place of Fritz, a new ruler will\Ncome from the true royal family.
+Dialogue: 0,0:15:50.51,0:15:53.39,Default,,0000,0000,0000,,They will be the one responsible\Nfor leading the people.
+Dialogue: 0,0:15:53.39,0:15:55.39,Default,,0000,0000,0000,,I understand that well enough,
+Dialogue: 0,0:15:55.39,0:15:59.81,Default,,0000,0000,0000,,but do you really think people will simply\Naccept a new ruler just like that?
+Dialogue: 0,0:16:00.27,0:16:03.28,Default,,0000,0000,0000,,There're a lot of citizens out\Nthere who are very worried.
+Dialogue: 0,0:16:03.74,0:16:06.29,Default,,0000,0000,0000,,At this point, who do we trust?
+Dialogue: 0,0:16:08.65,0:16:10.15,Default,,0000,0000,0000,,As far as humanity's concerned,
+Dialogue: 0,0:16:10.96,0:16:13.47,Default,,0000,0000,0000,,we should have let the government do as they please.
+Dialogue: 0,0:16:14.66,0:16:16.70,Default,,0000,0000,0000,,Like Commander Pyxis was saying,
+Dialogue: 0,0:16:16.70,0:16:20.53,Default,,0000,0000,0000,,they've somehow devised a means\Nof keeping humanity alive until now.
+Dialogue: 0,0:16:21.29,0:16:26.61,Default,,0000,0000,0000,,Even if they watch as half of humanity dies,\Nit's better than us going extinct.
+Dialogue: 0,0:16:29.59,0:16:35.97,Default,,0000,0000,0000,,Should I have let Eren go, risked my comrade's\Nlives, given up both my life and my duty,
+Dialogue: 0,0:16:35.97,0:16:38.35,Default,,0000,0000,0000,,and entrusted it all to the government?
+Dialogue: 0,0:16:38.93,0:16:42.37,Default,,0000,0000,0000,,If humanity is more precious\Nthan one single life...
+Dialogue: 0,0:16:46.61,0:16:49.43,Default,,0000,0000,0000,,Your duty is as painful as ever.
+Dialogue: 0,0:16:49.94,0:16:52.40,Default,,0000,0000,0000,,Dying seems a far easier option.
+Dialogue: 0,0:16:54.49,0:16:58.09,Default,,0000,0000,0000,,In that case, why didn't you do as you say?
+Dialogue: 0,0:16:58.87,0:16:59.54,Default,,0000,0000,0000,,That's...
+Dialogue: 0,0:16:59.83,0:17:01.78,Default,,0000,0000,0000,,Shall I tell you my reason?
+Dialogue: 0,0:17:02.96,0:17:06.04,Default,,0000,0000,0000,,For a long time, I've hated those bastards!
+Dialogue: 0,0:17:06.04,0:17:06.70,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:06.69,0:17:08.46,Default,,0000,0000,0000,,They piss me off!
+Dialogue: 0,0:17:08.46,0:17:11.64,Default,,0000,0000,0000,,Those pompous pricks and pigs\Nwho think they're important...
+Dialogue: 0,0:17:11.96,0:17:15.51,Default,,0000,0000,0000,,No... Maybe I actually liked them.
+Dialogue: 0,0:17:15.51,0:17:18.72,Default,,0000,0000,0000,,I've been dreaming for\Nthis day to come for ages.
+Dialogue: 0,0:17:19.05,0:17:25.10,Default,,0000,0000,0000,,That is... Even if you hadn't done it, I would've\Ngiven it a shot before I kicked the bucket.
+Dialogue: 0,0:17:25.10,0:17:29.87,Default,,0000,0000,0000,,I couldn't care less if this coup d'état\Nis good or bad for humanity.
+Dialogue: 0,0:17:31.11,0:17:32.69,Default,,0000,0000,0000,,I'm quite the scoundrel, right?
+Dialogue: 0,0:17:33.94,0:17:36.51,Default,,0000,0000,0000,,But you're no different than me.
+Dialogue: 0,0:17:37.87,0:17:40.30,Default,,0000,0000,0000,,You didn't want to die.
+Dialogue: 0,0:17:40.95,0:17:46.16,Default,,0000,0000,0000,,Just like me, you prioritize yourself\Nover the fate of humanity.
+Dialogue: 0,0:17:47.50,0:17:50.97,Default,,0000,0000,0000,,I... must be very conceited to think that.
+Dialogue: 0,0:17:51.67,0:17:53.52,Default,,0000,0000,0000,,What's your reason?
+Dialogue: 0,0:17:54.38,0:17:56.73,Default,,0000,0000,0000,,Now it's your turn to answer.
+Dialogue: 0,0:17:59.47,0:18:00.57,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:18:01.60,0:18:02.77,Default,,0000,0000,0000,,...have a dream.
+Dialogue: 0,0:18:04.27,0:18:06.27,Default,,0000,0000,0000,,One I've had since I was a child...
+Dialogue: 0,0:18:17.36,0:18:18.24,Default,,0000,0000,0000,,Hange.
+Dialogue: 0,0:18:19.03,0:18:21.08,Default,,0000,0000,0000,,You might know where they are?
+Dialogue: 0,0:18:21.08,0:18:23.28,Default,,0000,0000,0000,,Yeah, I'll explain.
+Dialogue: 0,0:18:24.04,0:18:28.12,Default,,0000,0000,0000,,Erwin gave me this Scout investigation\Nreport regarding Lord Reiss' land.
+Dialogue: 0,0:18:28.42,0:18:33.13,Default,,0000,0000,0000,,Most of it has to do with an incident five\Nyears ago that shook up the Reiss family.
+Dialogue: 0,0:18:33.42,0:18:34.51,Default,,0000,0000,0000,,Five years ago?
+Dialogue: 0,0:18:34.67,0:18:37.91,Default,,0000,0000,0000,,Right. On the day Wall Maria was breached.
+Dialogue: 0,0:18:38.80,0:18:41.69,Default,,0000,0000,0000,,I'll summarize the important\Nbits from the beginning.
+Dialogue: 0,0:18:42.26,0:18:47.47,Default,,0000,0000,0000,,As the lord of his territory, popular opinion\Nof Rod Reiss wasn't all that bad.
+Dialogue: 0,0:18:48.06,0:18:53.52,Default,,0000,0000,0000,,He had five children, and his eldest\Ndaughter Frieda was a down-to-earth girl
+Dialogue: 0,0:18:53.52,0:18:55.71,Default,,0000,0000,0000,,that even the peasants adored.
+Dialogue: 0,0:18:56.82,0:19:00.07,Default,,0000,0000,0000,,But that night, five years ago, disaster struck.
+Dialogue: 0,0:19:00.70,0:19:04.12,Default,,0000,0000,0000,,With the world having plunged into pure chaos,
+Dialogue: 0,0:19:04.12,0:19:07.81,Default,,0000,0000,0000,,some bandits raided and set fire\Nto the only chapel around.
+Dialogue: 0,0:19:08.96,0:19:14.29,Default,,0000,0000,0000,,Unfortunately, that night, the entire\NReiss family was there praying together.
+Dialogue: 0,0:19:14.96,0:19:20.29,Default,,0000,0000,0000,,And so, the whole family, save for\Nthe head of the house, Rod Reiss...
+Dialogue: 0,0:19:21.05,0:19:24.01,Default,,0000,0000,0000,,...was massacred that night by the bandits.
+Dialogue: 0,0:19:26.77,0:19:31.60,Default,,0000,0000,0000,,To top it off, this incident occurred\Njust a few days before Historia's mother
+Dialogue: 0,0:19:31.60,0:19:33.61,Default,,0000,0000,0000,,was killed by the Interior Police.
+Dialogue: 0,0:19:35.65,0:19:41.04,Default,,0000,0000,0000,,In other words, immediately after losing\Nhis family, Rod Reiss sought out Historia.
+Dialogue: 0,0:19:41.82,0:19:45.65,Default,,0000,0000,0000,,There must be a reason he\Nand his lackeys are after Historia.
+Dialogue: 0,0:19:46.74,0:19:48.15,Default,,0000,0000,0000,,The same bloodline?
+Dialogue: 0,0:19:48.95,0:19:51.54,Default,,0000,0000,0000,,Is there some secret to their blood?
+Dialogue: 0,0:19:51.54,0:19:53.33,Default,,0000,0000,0000,,I don't know for sure yet.
+Dialogue: 0,0:19:53.92,0:19:58.34,Default,,0000,0000,0000,,But what really makes me curious is that\Nparts of the chapel are completely wrecked.
+Dialogue: 0,0:19:59.30,0:20:04.35,Default,,0000,0000,0000,,The chapel itself is stone. It would take\Ntons of time and effort to destroy it.
+Dialogue: 0,0:20:05.10,0:20:07.96,Default,,0000,0000,0000,,Bandits would take what they can\Nand make a quick escape.
+Dialogue: 0,0:20:08.35,0:20:12.32,Default,,0000,0000,0000,,Plus, the only one who saw those\Nbandits was Rod Reiss himself.
+Dialogue: 0,0:20:13.44,0:20:17.42,Default,,0000,0000,0000,,Soon after, he used his own\Nfortune to rebuild the chapel.
+Dialogue: 0,0:20:17.94,0:20:18.86,Default,,0000,0000,0000,,But why?
+Dialogue: 0,0:20:23.91,0:20:29.08,Default,,0000,0000,0000,,If you think about it, it's actually stranger\Nthat there were no traces of Titans.
+Dialogue: 0,0:20:29.66,0:20:33.62,Default,,0000,0000,0000,,Even if I'm jumping to conclusions,
+Dialogue: 0,0:20:33.62,0:20:36.80,Default,,0000,0000,0000,,something this suspicious deserves us checking it out.
+Dialogue: 0,0:21:01.19,0:21:02.15,Default,,0000,0000,0000,,What the hell?!
+Dialogue: 0,0:21:12.50,0:21:16.43,Default,,0000,0000,0000,,Before the night is over,\Nwe'll have soldiers all over Reiss' land.
+Dialogue: 0,0:21:17.58,0:21:20.53,Default,,0000,0000,0000,,Unfortunately, I doubt\Nhe'll be waiting that long.
+Dialogue: 0,0:21:21.92,0:21:26.32,Default,,0000,0000,0000,,If we don't hurry and get there,\NEren may end up being eaten.
+Dialogue: 0,0:21:29.64,0:21:35.01,Default,,0000,0000,0000,,If a Titan eats a person who can change into\Na Titan and thus inherits their powers...
+Dialogue: 0,0:21:35.94,0:21:37.98,Default,,0000,0000,0000,,If that's actually true...
+Dialogue: 0,0:21:38.90,0:21:44.82,Default,,0000,0000,0000,,When and how did Eren become a Titan,\Nand who did he eat to gain his powers?
+Dialogue: 0,0:21:51.95,0:21:53.37,Default,,0000,0000,0000,,Shit!
+Dialogue: 0,0:22:04.88,0:22:06.28,Default,,0000,0000,0000,,Historia?
+Dialogue: 0,0:23:40.94,0:23:44.94,Default,,0000,0000,0000,,To save Eren, Mikasa and the\Nothers head for the Reiss chapel.
+Dialogue: 0,0:23:45.52,0:23:47.90,Default,,0000,0000,0000,,However, the captured Eren finds out...
+Dialogue: 0,0:23:48.49,0:23:52.17,Default,,0000,0000,0000,,...his father, Grisha's, unforgivable sin.
+Dialogue: 0,0:23:52.99,0:23:53.82,Default,,0000,0000,0000,,Next episode: "Sin."
+Dialogue: 0,0:23:54.16,0:23:55.29,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:54.24,0:23:56.54,Default,,0000,0000,0000,,"Sin"
+Dialogue: 0,0:23:58.53,0:24:00.55,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.55,0:24:02.54,Default,,0000,0000,0000,,

@@ -1,0 +1,301 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.60,0:00:04.10,Default,,0000,0000,0000,,Fight.
+Dialogue: 0,0:00:06.11,0:00:07.61,Default,,0000,0000,0000,,Fight!
+Dialogue: 0,0:00:07.61,0:00:10.15,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:00:10.15,0:00:16.49,Default,,0000,0000,0000,,Were you just saying, "Fight. Fight,"\Nto the mirror just now?
+Dialogue: 0,0:00:16.49,0:00:20.29,Default,,0000,0000,0000,,Hey. You said, "Fight. Fight," didn't you?
+Dialogue: 0,0:00:20.29,0:00:24.92,Default,,0000,0000,0000,,By "Fight. Fight," what are you fighting?
+Dialogue: 0,0:00:24.92,0:00:31.26,Default,,0000,0000,0000,,If you're saying, "Fight. Fight,"\Ndoes that mean there're two fights?
+Dialogue: 0,0:00:33.76,0:00:40.10,Default,,0000,0000,0000,,Keeping quiet isn't helping. Normally,\Npeople don't talk to themselves like that.
+Dialogue: 0,0:00:40.10,0:00:45.06,Default,,0000,0000,0000,,I know I've never talked to myself\Nin the mirror before.
+Dialogue: 0,0:00:47.19,0:00:50.73,Default,,0000,0000,0000,,By the way, I think your hair is cool.
+Dialogue: 0,0:00:50.73,0:00:56.16,Default,,0000,0000,0000,,When it's all disheveled, it's kinda like\Nyou're hard-working and carefree.
+Dialogue: 0,0:00:56.16,0:00:58.03,Default,,0000,0000,0000,,What did you come for?!
+Dialogue: 0,0:00:58.03,0:01:01.41,Default,,0000,0000,0000,,What? To talk, of course.
+Dialogue: 0,0:01:01.41,0:01:06.75,Default,,0000,0000,0000,,The first time we met,\Ndidn't we talk about Titans all night?
+Dialogue: 0,0:01:06.75,0:01:12.00,Default,,0000,0000,0000,,Though you mostly listened\Nas I blabbered on and on.
+Dialogue: 0,0:01:12.00,0:01:18.93,Default,,0000,0000,0000,,I honestly believed that you would\Nnever sacrifice Historia.
+Dialogue: 0,0:02:51.02,0:02:56.02,Default,,0000,0000,0000,,"A Sound Argument"
+Dialogue: 0,0:02:56.02,0:02:58.03,Default,,0000,0000,0000,,"2 Years Ago"
+Dialogue: 0,0:02:59.36,0:03:05.74,Default,,0000,0000,0000,,Eren, I haven't seen you since you\Nlifted our ship a whole year ago.
+Dialogue: 0,0:03:05.74,0:03:08.04,Default,,0000,0000,0000,,I'm honored to work with you.
+Dialogue: 0,0:03:08.04,0:03:14.71,Default,,0000,0000,0000,,No, you won't be working together.\NYou're lucky enough to see his face.
+Dialogue: 0,0:03:14.71,0:03:19.59,Default,,0000,0000,0000,,Plenty enough for me.\NToday will be a joyous day.
+Dialogue: 0,0:03:19.59,0:03:24.85,Default,,0000,0000,0000,,The port is complete and we're\Nwelcoming our first outside visitor.
+Dialogue: 0,0:03:24.85,0:03:28.93,Default,,0000,0000,0000,,From Paradis Island's\Nsole friendly nation, Hizuru--
+Dialogue: 0,0:03:28.93,0:03:32.39,Default,,0000,0000,0000,,Special Envoy, Kiyomi Azumabito.
+Dialogue: 0,0:03:36.36,0:03:39.65,Default,,0000,0000,0000,,Do you recognize this family crest?
+Dialogue: 0,0:03:40.94,0:03:42.03,Default,,0000,0000,0000,,That's...
+Dialogue: 0,0:03:42.03,0:03:43.49,Default,,0000,0000,0000,,Show it, Mikasa.
+Dialogue: 0,0:03:43.49,0:03:47.03,Default,,0000,0000,0000,,But my mom said to keep it secret.
+Dialogue: 0,0:03:47.03,0:03:52.92,Default,,0000,0000,0000,,You showed it to me when we were little.\NIt's a secret meant for today.
+Dialogue: 0,0:03:52.92,0:03:54.33,Default,,0000,0000,0000,,Go on.
+Dialogue: 0,0:03:59.05,0:04:04.30,Default,,0000,0000,0000,,Before she died, this symbol was\Npassed down to me from my mother.
+Dialogue: 0,0:04:04.30,0:04:07.76,Default,,0000,0000,0000,,She said I should pass it on to my child.
+Dialogue: 0,0:04:09.06,0:04:12.35,Default,,0000,0000,0000,,What an admirable deed!
+Dialogue: 0,0:04:12.35,0:04:18.44,Default,,0000,0000,0000,,Over a century ago, the shogun we\NAzumabitos descended from had a son.
+Dialogue: 0,0:04:18.44,0:04:24.45,Default,,0000,0000,0000,,He was on friendly terms with\NKing Fritz and often came to Paradis.
+Dialogue: 0,0:04:24.45,0:04:29.87,Default,,0000,0000,0000,,After the Great Titan War,\NHizuru was defeated and in disarray.
+Dialogue: 0,0:04:29.87,0:04:38.34,Default,,0000,0000,0000,,In the confusion, a child of the\Nshogunate was left behind on the island.
+Dialogue: 0,0:04:38.34,0:04:42.46,Default,,0000,0000,0000,,You're the lost descendant\Nof our nation's ruler!
+Dialogue: 0,0:04:42.46,0:04:45.72,Default,,0000,0000,0000,,You're the hope of Hizuru!
+Dialogue: 0,0:04:48.85,0:04:52.31,Default,,0000,0000,0000,,I still don't get what a nation is.
+Dialogue: 0,0:04:52.31,0:04:55.81,Default,,0000,0000,0000,,Anyways, now we've got leverage with Hizuru!
+Dialogue: 0,0:04:55.81,0:04:57.94,Default,,0000,0000,0000,,What if it's a trap?
+Dialogue: 0,0:04:57.94,0:05:01.69,Default,,0000,0000,0000,,I suppose we should ask Yelena's opinion.
+Dialogue: 0,0:05:02.99,0:05:05.78,Default,,0000,0000,0000,,No! That's exactly what they want!
+Dialogue: 0,0:05:05.78,0:05:08.91,Default,,0000,0000,0000,,One thing is for certain:
+Dialogue: 0,0:05:08.91,0:05:16.00,Default,,0000,0000,0000,,The sea has joined us to the world,\Nbut we're still just a child learning to walk.
+Dialogue: 0,0:05:16.00,0:05:21.25,Default,,0000,0000,0000,,We should sit quiet and hear\Nwhat others have to say.
+Dialogue: 0,0:05:21.25,0:05:25.09,Default,,0000,0000,0000,,Hey, why'd you only show Eren that symbol?
+Dialogue: 0,0:05:25.09,0:05:26.01,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:26.01,0:05:29.85,Default,,0000,0000,0000,,You've never taken off\Nyour wrist wrap for anyone.
+Dialogue: 0,0:05:29.85,0:05:31.85,Default,,0000,0000,0000,,Well, that's...
+Dialogue: 0,0:05:31.85,0:05:33.52,Default,,0000,0000,0000,,You seem happy.
+Dialogue: 0,0:05:33.52,0:05:39.81,Default,,0000,0000,0000,,I am! You and I were both born\Nwith a heavy burden to bear!
+Dialogue: 0,0:05:39.81,0:05:43.61,Default,,0000,0000,0000,,There's nobody else I'd rather rely on!
+Dialogue: 0,0:05:48.45,0:05:51.91,Default,,0000,0000,0000,,It's a historic day for both our nations.
+Dialogue: 0,0:05:51.91,0:05:59.79,Default,,0000,0000,0000,,Today is only possible thanks to the one\Nwho brought us together, Zeke Jaeger.
+Dialogue: 0,0:05:59.79,0:06:04.96,Default,,0000,0000,0000,,After meeting with him in secret,\Nwe agreed to an arrangement
+Dialogue: 0,0:06:04.96,0:06:10.59,Default,,0000,0000,0000,,under the condition we were\Nable to meet Lady Mikasa.
+Dialogue: 0,0:06:11.89,0:06:15.52,Default,,0000,0000,0000,,First, please take a look at this.
+Dialogue: 0,0:06:15.52,0:06:16.52,Default,,0000,0000,0000,,That's...!
+Dialogue: 0,0:06:16.52,0:06:23.15,Default,,0000,0000,0000,,Huh? This is top-secret in Marley,\Nbut you recognize it?
+Dialogue: 0,0:06:23.15,0:06:29.32,Default,,0000,0000,0000,,This "omni-directional mobility gear"\Nis an anti-Titan weapon made in Paradis.
+Dialogue: 0,0:06:29.32,0:06:35.91,Default,,0000,0000,0000,,I procured this on my own,\Nso don't worry. Consider it a gift.
+Dialogue: 0,0:06:35.91,0:06:40.79,Default,,0000,0000,0000,,However, to make this work,\Nit needs a special fuel.
+Dialogue: 0,0:06:40.79,0:06:45.34,Default,,0000,0000,0000,,They call it "Iceburst Stone."
+Dialogue: 0,0:06:45.34,0:06:50.51,Default,,0000,0000,0000,,It's a unique underground resource\Nmined only in Paradis.
+Dialogue: 0,0:06:50.51,0:06:54.81,Default,,0000,0000,0000,,There should be traces of it inside the weapon.
+Dialogue: 0,0:06:55.76,0:06:59.64,Default,,0000,0000,0000,,Zeke Jaeger said if we cooperate with him,
+Dialogue: 0,0:06:59.64,0:07:06.44,Default,,0000,0000,0000,,our nation may just helm an industry\Nthat restores it to its former glory.
+Dialogue: 0,0:07:06.44,0:07:11.07,Default,,0000,0000,0000,,And yet, he hasn't even\Nprospected your reserves.
+Dialogue: 0,0:07:11.07,0:07:14.99,Default,,0000,0000,0000,,But a resource like that\Nin this age of modernization
+Dialogue: 0,0:07:14.99,0:07:20.12,Default,,0000,0000,0000,,would be worth its weight\Nin jewels and treasure.
+Dialogue: 0,0:07:20.12,0:07:22.92,Default,,0000,0000,0000,,I'm being used as a pretext?
+Dialogue: 0,0:07:22.92,0:07:28.88,Default,,0000,0000,0000,,Yelena said the talks would go well\Nsince the Azumabitos are money grubbers.
+Dialogue: 0,0:07:28.88,0:07:35.55,Default,,0000,0000,0000,,After all, it's not worth the risk\Ncoming here unless money is involved.
+Dialogue: 0,0:07:35.55,0:07:41.27,Default,,0000,0000,0000,,And? What exactly is the arrangement\Nyou have with Zeke Jaeger?
+Dialogue: 0,0:07:41.27,0:07:45.86,Default,,0000,0000,0000,,As you know, Zeke Jaeger\Nhas a secret plan in mind.
+Dialogue: 0,0:07:45.86,0:07:50.07,Default,,0000,0000,0000,,To achieve it, Hizuru's cooperation is needed.
+Dialogue: 0,0:07:50.07,0:07:55.74,Default,,0000,0000,0000,,Here are his three points to protect\NParadis with the rumbling.
+Dialogue: 0,0:07:55.74,0:07:59.62,Default,,0000,0000,0000,,The first is a test run of the rumbling--
+Dialogue: 0,0:07:59.62,0:08:05.42,Default,,0000,0000,0000,,to release a sample of its power\Nand show the world its devastation.
+Dialogue: 0,0:08:05.42,0:08:07.96,Default,,0000,0000,0000,,Next is Hizuru's cooperation.
+Dialogue: 0,0:08:07.96,0:08:16.09,Default,,0000,0000,0000,,Your military must be strengthened\Nuntil use of the rumbling isn't necessary.
+Dialogue: 0,0:08:16.09,0:08:23.56,Default,,0000,0000,0000,,Lastly, the Founding Titan and a Titan\Nwith royal blood must be passed down.
+Dialogue: 0,0:08:23.56,0:08:25.60,Default,,0000,0000,0000,,That's the third point.
+Dialogue: 0,0:08:25.60,0:08:30.28,Default,,0000,0000,0000,,Zeke will pass on the Beast Titan\Nto someone of royal blood.
+Dialogue: 0,0:08:30.28,0:08:36.45,Default,,0000,0000,0000,,Until their 13-year term ends,\Nthey must bear as many kids as possible.
+Dialogue: 0,0:08:36.45,0:08:41.79,Default,,0000,0000,0000,,Even if weaponry advances,\Nthe rumbling itself is powerful.
+Dialogue: 0,0:08:41.79,0:08:49.00,Default,,0000,0000,0000,,Unless we get rid of it, inheriting Titans\Nwill continue for generations to come.
+Dialogue: 0,0:08:49.00,0:08:57.14,Default,,0000,0000,0000,,Is it right for us to push this problem on\Nour descendants to save ourselves now?
+Dialogue: 0,0:08:57.14,0:09:00.10,Default,,0000,0000,0000,,Of course not. But...
+Dialogue: 0,0:09:00.10,0:09:05.48,Default,,0000,0000,0000,,Very well. I will inherit the Beast Titan.
+Dialogue: 0,0:09:05.48,0:09:09.94,Default,,0000,0000,0000,,As long as the rumbling is tied to our survival.
+Dialogue: 0,0:09:15.70,0:09:18.11,Default,,0000,0000,0000,,Historia...
+Dialogue: 0,0:09:18.11,0:09:24.25,Default,,0000,0000,0000,,After years of getting trampled on,\Nnow we've gotta breed like livestock?
+Dialogue: 0,0:09:24.25,0:09:27.62,Default,,0000,0000,0000,,If that's the price of getting to live,
+Dialogue: 0,0:09:27.62,0:09:33.05,Default,,0000,0000,0000,,Zeke Jaeger can take\Nhis damn plan and shove it!
+Dialogue: 0,0:09:34.34,0:09:38.47,Default,,0000,0000,0000,,It's too dangerous to gamble\Non having the rumbling.
+Dialogue: 0,0:09:38.47,0:09:45.89,Default,,0000,0000,0000,,We need to spend our time exploring\Nwhat other options are available to us.
+Dialogue: 0,0:09:49.19,0:09:53.02,Default,,0000,0000,0000,,You should know I felt\Nthe same sense of urgency.
+Dialogue: 0,0:09:53.02,0:09:59.70,Default,,0000,0000,0000,,But I still don't get why you went on\Nyour own and put the island in danger.
+Dialogue: 0,0:09:59.70,0:10:02.78,Default,,0000,0000,0000,,Don't you care about Historia?
+Dialogue: 0,0:10:02.78,0:10:05.20,Default,,0000,0000,0000,,I ate the War Hammer Titan.
+Dialogue: 0,0:10:05.20,0:10:06.29,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:06.29,0:10:13.55,Default,,0000,0000,0000,,It has the power to harden through\Nthe ground and make whatever it wants.
+Dialogue: 0,0:10:13.55,0:10:19.13,Default,,0000,0000,0000,,In other words, there's no prison\Ndeep or strong enough to hold me.
+Dialogue: 0,0:10:19.13,0:10:22.39,Default,,0000,0000,0000,,I can leave whenever I want.
+Dialogue: 0,0:10:22.39,0:10:26.06,Default,,0000,0000,0000,,I have the Founding Titan and you can't kill me.
+Dialogue: 0,0:10:26.06,0:10:29.81,Default,,0000,0000,0000,,You can't kill Zeke either,\Neven if you threaten to.
+Dialogue: 0,0:10:29.81,0:10:35.61,Default,,0000,0000,0000,,So, Hange... What is it you can actually do?
+Dialogue: 0,0:10:36.99,0:10:43.58,Default,,0000,0000,0000,,Tell me, Hange! If you've got something\Nup your sleeve, let's hear it!
+Dialogue: 0,0:10:44.66,0:10:46.58,Default,,0000,0000,0000,,Eren, you perv!
+Dialogue: 0,0:10:46.58,0:10:51.54,Default,,0000,0000,0000,,Still in a rebellious phase?! You moron! Idiot!
+Dialogue: 0,0:10:56.80,0:11:01.55,Default,,0000,0000,0000,,Erwin, you only made one mistake in your life.
+Dialogue: 0,0:11:01.55,0:11:05.14,Default,,0000,0000,0000,,Why did you make me commander?
+Dialogue: 0,0:11:10.39,0:11:13.52,Default,,0000,0000,0000,,Come on inside, Historia.
+Dialogue: 0,0:11:13.52,0:11:16.52,Default,,0000,0000,0000,,You've gotta take care of your body.
+Dialogue: 0,0:11:17.07,0:11:22.07,Eyecatch2A,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Hizuru"\N"A small, eastern nation with its own unique culture whose head of state is called a 'shogun.' Producing many talented engineers, Hizuru has flourished in weapons and aircraft development and was at one time an ally of the Eldian Empire. The crest of the 'shogunate' depicts three single-edge swords in its design."
+Dialogue: 0,0:11:24.62,0:11:27.16,Default,,0000,0000,0000,,We should've stuck with our plan
+Dialogue: 0,0:11:27.16,0:11:32.54,Default,,0000,0000,0000,,and fed Zeke to Historia as soon\Nas he got to the island.
+Dialogue: 0,0:11:32.54,0:11:35.46,Default,,0000,0000,0000,,Who would've thought?!
+Dialogue: 0,0:11:35.46,0:11:38.59,Default,,0000,0000,0000,,She played around and got pregnant!
+Dialogue: 0,0:11:38.59,0:11:43.05,Default,,0000,0000,0000,,In the end, she's a low-bred girl\Nwho's Queen in name only.
+Dialogue: 0,0:11:43.05,0:11:45.68,Default,,0000,0000,0000,,Hey! Quit it.
+Dialogue: 0,0:11:46.97,0:11:49.97,Default,,0000,0000,0000,,The Queen is free to choose a partner.
+Dialogue: 0,0:11:49.97,0:11:55.27,Default,,0000,0000,0000,,We've already confirmed the guy\Nisn't anyone's lackey.
+Dialogue: 0,0:11:55.27,0:11:57.98,Default,,0000,0000,0000,,They grew up in the same area.
+Dialogue: 0,0:11:57.98,0:12:04.95,Default,,0000,0000,0000,,Back then, he apparently threw rocks\Nat her trying to get her attention.
+Dialogue: 0,0:12:04.95,0:12:09.58,Default,,0000,0000,0000,,He started helping at her\Norphanage out of guilt.
+Dialogue: 0,0:12:09.58,0:12:15.04,Default,,0000,0000,0000,,He worked with his head down for years,\Nbut the one who approached the other...
+Dialogue: 0,0:12:15.04,0:12:17.25,Default,,0000,0000,0000,,...was the Queen.
+Dialogue: 0,0:12:17.25,0:12:19.96,Default,,0000,0000,0000,,Who cares about their love story?
+Dialogue: 0,0:12:19.96,0:12:25.89,Default,,0000,0000,0000,,The problem is, why did the Queen\Ndecide to get pregnant all of a sudden?!
+Dialogue: 0,0:12:25.89,0:12:31.27,Default,,0000,0000,0000,,Someone told her! "If you're pregnant,\Nthey won't make you a Titan!"
+Dialogue: 0,0:12:31.27,0:12:38.77,Default,,0000,0000,0000,,I bet it was Yelena. That woman is nuts,\Nbut she's smart enough to be dangerous.
+Dialogue: 0,0:12:38.77,0:12:42.69,Default,,0000,0000,0000,,"If the Queen is pregnant,\NZeke lives another day!"
+Dialogue: 0,0:12:42.69,0:12:44.78,Default,,0000,0000,0000,,Hey! You're drunk, Roeg.
+Dialogue: 0,0:12:44.78,0:12:49.78,Default,,0000,0000,0000,,We should do it anyways.\NMake her a Titan, pregnant or not.
+Dialogue: 0,0:12:49.78,0:12:55.62,Default,,0000,0000,0000,,Her child might die. And if something\Nhappens to the Queen, it's over.
+Dialogue: 0,0:12:55.62,0:12:59.79,Default,,0000,0000,0000,,Giving birth is risky enough as it is.
+Dialogue: 0,0:12:59.79,0:13:03.67,Default,,0000,0000,0000,,That sound argument\Nmight just ruin our country!
+Dialogue: 0,0:13:03.67,0:13:07.47,Default,,0000,0000,0000,,Hey! Bring another bottle, Marleyan!
+Dialogue: 0,0:13:07.47,0:13:09.22,Default,,0000,0000,0000,,Certainly.
+Dialogue: 0,0:13:10.22,0:13:11.51,Default,,0000,0000,0000,,Greiz.
+Dialogue: 0,0:13:12.52,0:13:14.18,Default,,0000,0000,0000,,Nicolo...
+Dialogue: 0,0:13:14.18,0:13:16.69,Default,,0000,0000,0000,,This one, right?
+Dialogue: 0,0:13:21.27,0:13:29.16,Default,,0000,0000,0000,,Hey! Is this... something...\Nthey really needed us... to do?!
+Dialogue: 0,0:13:29.16,0:13:36.41,Default,,0000,0000,0000,,Nope! We wouldn't be doing this,\Nbut that idiot opened their mouth.
+Dialogue: 0,0:13:36.41,0:13:41.46,Default,,0000,0000,0000,,"We can develop the island and\Nour muscles at the same time," my ass.
+Dialogue: 0,0:13:41.46,0:13:45.72,Default,,0000,0000,0000,,We can't do much but wait\Nfor Hizuru's answer anyways.
+Dialogue: 0,0:13:45.72,0:13:51.01,Default,,0000,0000,0000,,Yeah. And hope they can be\Nour mediator to the world.
+Dialogue: 0,0:13:51.01,0:13:58.23,Default,,0000,0000,0000,,We're grasping at straws here trying to\Navoid the rumbling and save Historia.
+Dialogue: 0,0:13:58.23,0:14:00.86,Default,,0000,0000,0000,,--Yeah\N--Hey!
+Dialogue: 0,0:14:03.61,0:14:07.82,Default,,0000,0000,0000,,Man, you're all working hard in this heat!
+Dialogue: 0,0:14:07.82,0:14:12.12,Default,,0000,0000,0000,,Yeah, well, we're stuck watching this idiot.
+Dialogue: 0,0:14:12.12,0:14:16.25,Default,,0000,0000,0000,,Unbelievable. You're all growing so damn big.
+Dialogue: 0,0:14:16.25,0:14:17.83,Default,,0000,0000,0000,,Is it about Hizuru?
+Dialogue: 0,0:14:17.83,0:14:20.79,Default,,0000,0000,0000,,The Azumabitos sent their reply.
+Dialogue: 0,0:14:20.79,0:14:21.96,Default,,0000,0000,0000,,And?
+Dialogue: 0,0:14:21.96,0:14:27.51,Default,,0000,0000,0000,,No good. Looks like we can't turn to Hizuru.
+Dialogue: 0,0:14:27.51,0:14:32.55,Default,,0000,0000,0000,,It seems they want to monopolize\NParadis Island's resources.
+Dialogue: 0,0:14:32.55,0:14:35.64,Default,,0000,0000,0000,,They won't help us trade with others.
+Dialogue: 0,0:14:35.64,0:14:41.31,Default,,0000,0000,0000,,The world wants Paradis Island\Nto be the root of all evil.
+Dialogue: 0,0:14:41.31,0:14:47.11,Default,,0000,0000,0000,,It helps to unite all nations\Nand brings stability to the world.
+Dialogue: 0,0:14:48.86,0:14:56.66,Default,,0000,0000,0000,,So, we've got no choice but to rely on\Nthe rumbling and sacrifice Historia?
+Dialogue: 0,0:14:56.66,0:14:57.66,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:57.66,0:15:03.75,Default,,0000,0000,0000,,You're kidding! They decided we're\Ndevils without knowing our intentions?
+Dialogue: 0,0:15:03.75,0:15:08.84,Default,,0000,0000,0000,,Why won't they consider a path of peace?
+Dialogue: 0,0:15:08.84,0:15:12.80,Default,,0000,0000,0000,,I think... because they don't know.
+Dialogue: 0,0:15:12.80,0:15:16.64,Default,,0000,0000,0000,,They fear us because they\Ndon't know what we are.
+Dialogue: 0,0:15:16.64,0:15:22.15,Default,,0000,0000,0000,,That's right. They won't trust people\Nwhose faces they haven't seen.
+Dialogue: 0,0:15:22.15,0:15:28.11,Default,,0000,0000,0000,,So let's meet 'em! If you don't\Nunderstand something, go figure it out!
+Dialogue: 0,0:15:28.11,0:15:31.45,Default,,0000,0000,0000,,Isn't that what we Scouts do?
+Dialogue: 0,0:15:32.78,0:15:36.03,Default,,0000,0000,0000,,Make a base in Marley and infiltrate, huh?
+Dialogue: 0,0:15:36.03,0:15:39.58,Default,,0000,0000,0000,,Hange sure has a plan for everything.
+Dialogue: 0,0:15:39.58,0:15:43.67,Default,,0000,0000,0000,,I'll be able to chow down\Non real Marleyan cuisine!
+Dialogue: 0,0:15:43.67,0:15:48.84,Default,,0000,0000,0000,,Yeah? What should I bring?\NIt would stink to get the runs.
+Dialogue: 0,0:15:48.84,0:15:52.63,Default,,0000,0000,0000,,Stomach medicine, toothbrush,\Na taste of home...
+Dialogue: 0,0:15:52.63,0:15:55.30,Default,,0000,0000,0000,,Did you even hear Hange's plan?
+Dialogue: 0,0:15:55.30,0:16:02.02,Default,,0000,0000,0000,,If the world knows that we want peace,\Nmaybe something will change.
+Dialogue: 0,0:16:06.52,0:16:12.65,Default,,0000,0000,0000,,If only we had more time.\NI've got just over five years left.
+Dialogue: 0,0:16:12.65,0:16:18.12,Default,,0000,0000,0000,,We're gonna have to decide\Nwho inherits my Titan soon.
+Dialogue: 0,0:16:19.99,0:16:21.33,Default,,0000,0000,0000,,I will.
+Dialogue: 0,0:16:21.33,0:16:26.58,Default,,0000,0000,0000,,Not you. We still don't know\Nwhat the Ackermanns are.
+Dialogue: 0,0:16:26.58,0:16:31.63,Default,,0000,0000,0000,,And won't it hurt any plans with Hizuru\Nif you become a Titan?
+Dialogue: 0,0:16:31.63,0:16:34.18,Default,,0000,0000,0000,,No, for so many reasons.
+Dialogue: 0,0:16:34.18,0:16:35.84,Default,,0000,0000,0000,,Then who will?
+Dialogue: 0,0:16:35.84,0:16:40.43,Default,,0000,0000,0000,,Me. First of all, I'm way smarter than Eren.
+Dialogue: 0,0:16:40.43,0:16:42.85,Default,,0000,0000,0000,,Instead of a suicidal maniac,
+Dialogue: 0,0:16:42.85,0:16:47.98,Default,,0000,0000,0000,,you'll have a gifted leader who shows\Ngood judgment in all situations.
+Dialogue: 0,0:16:47.98,0:16:50.15,Default,,0000,0000,0000,,In other words, me.
+Dialogue: 0,0:16:50.15,0:16:55.32,Default,,0000,0000,0000,,I hate getting an Eren hand-me-down,\Nbut who better than me?
+Dialogue: 0,0:16:55.32,0:17:00.49,Default,,0000,0000,0000,,Someone that amazing we don't\Nwanna lose in 13 years, moron.
+Dialogue: 0,0:17:00.49,0:17:01.41,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:17:01.41,0:17:04.46,Default,,0000,0000,0000,,You should aim to be a regiment leader.
+Dialogue: 0,0:17:04.46,0:17:10.00,Default,,0000,0000,0000,,I'll inherit Eren's Titan.\NIt works out good, right?
+Dialogue: 0,0:17:10.00,0:17:10.92,Default,,0000,0000,0000,,Conny...
+Dialogue: 0,0:17:10.92,0:17:14.76,Default,,0000,0000,0000,,That's not good at all. You're an idiot.
+Dialogue: 0,0:17:14.76,0:17:15.68,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:17:15.68,0:17:22.06,Default,,0000,0000,0000,,Don't "eh" me. We can't leave such\Nan important role up to an idiot.
+Dialogue: 0,0:17:22.06,0:17:23.47,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:17:24.35,0:17:28.35,Default,,0000,0000,0000,,Doggone it... I'll inherit it.
+Dialogue: 0,0:17:28.35,0:17:32.28,Default,,0000,0000,0000,,I've got combat experience...\NI'm someone you can trust...
+Dialogue: 0,0:17:32.28,0:17:35.65,Default,,0000,0000,0000,,By process of elimination, it's gotta be me.
+Dialogue: 0,0:17:35.65,0:17:36.78,Default,,0000,0000,0000,,You guys...
+Dialogue: 0,0:17:36.78,0:17:40.45,Default,,0000,0000,0000,,I dun wanna. I sure dun wanna though.
+Dialogue: 0,0:17:40.45,0:17:43.75,Default,,0000,0000,0000,,Wait, huh? Isn't that weird?
+Dialogue: 0,0:17:43.75,0:17:44.83,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:17:44.83,0:17:50.59,Default,,0000,0000,0000,,Well, you know...\NYou said an idiot's not fit for the role.
+Dialogue: 0,0:17:50.59,0:17:51.71,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:17:51.71,0:17:58.55,Default,,0000,0000,0000,,You're more of an idiot than I am,\Nso you're contradicting yourself.
+Dialogue: 0,0:17:58.55,0:18:00.64,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:00.64,0:18:02.51,Default,,0000,0000,0000,,Huh...?
+Dialogue: 0,0:18:02.51,0:18:06.27,Default,,0000,0000,0000,,I don't want any of you to inherit it.
+Dialogue: 0,0:18:06.27,0:18:08.06,Default,,0000,0000,0000,,Why not?
+Dialogue: 0,0:18:08.06,0:18:12.65,Default,,0000,0000,0000,,Because you're important to me.\NMore than anyone else.
+Dialogue: 0,0:18:12.65,0:18:16.82,Default,,0000,0000,0000,,So, I want you to have long lives.
+Dialogue: 0,0:18:31.29,0:18:37.47,Default,,0000,0000,0000,,Huh?! What are you turning red for?!\NThe hell kinda mood is this?!
+Dialogue: 0,0:18:37.47,0:18:38.84,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:18:38.84,0:18:42.18,Default,,0000,0000,0000,,Jean, it's the sunset.
+Dialogue: 0,0:18:42.18,0:18:44.81,Default,,0000,0000,0000,,It's making our faces red.
+Dialogue: 0,0:18:44.81,0:18:49.52,Default,,0000,0000,0000,,Oh. Nothing we can do about the sun.
+Dialogue: 0,0:19:07.16,0:19:14.34,Default,,0000,0000,0000,,To think Commander Pyxis would go\Nso far as to detain the volunteers.
+Dialogue: 0,0:19:14.34,0:19:19.80,Default,,0000,0000,0000,,Since they and the Scouts are so close,\Nwe weren't told in advance.
+Dialogue: 0,0:19:19.80,0:19:23.14,Default,,0000,0000,0000,,Yeah. I'm sure he didn't have much choice.
+Dialogue: 0,0:19:23.14,0:19:29.64,Default,,0000,0000,0000,,Until Zeke's intentions are made clear,\Nit puts us in a real pickle.
+Dialogue: 0,0:19:29.64,0:19:33.31,Default,,0000,0000,0000,,And Eren's suddenly aboard Zeke's plan.
+Dialogue: 0,0:19:33.31,0:19:39.65,Default,,0000,0000,0000,,Whatever the two of them talked about\Nis something only they know.
+Dialogue: 0,0:19:39.65,0:19:44.32,Default,,0000,0000,0000,,Hey. Did that look like Eren to you guys?
+Dialogue: 0,0:19:44.32,0:19:48.54,Default,,0000,0000,0000,,Not me. That wasn't Eren.
+Dialogue: 0,0:19:48.54,0:19:54.25,Default,,0000,0000,0000,,If he's made up his mind to side\Nwith his half-brother over us...
+Dialogue: 0,0:19:54.25,0:19:56.92,Default,,0000,0000,0000,,If he has, then what?
+Dialogue: 0,0:19:56.92,0:20:00.21,Default,,0000,0000,0000,,We've gotta be prepared\Nto cut him down if necessar--
+Dialogue: 0,0:20:00.21,0:20:01.76,Default,,0000,0000,0000,,I won't let you!
+Dialogue: 0,0:20:01.76,0:20:03.09,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:05.09,0:20:08.97,Default,,0000,0000,0000,,Are you siding with them, too, Mikasa?
+Dialogue: 0,0:20:10.06,0:20:13.14,Default,,0000,0000,0000,,I don't think it'll come to that.
+Dialogue: 0,0:20:13.14,0:20:18.77,Default,,0000,0000,0000,,Eren cares about us more than anyone.\NYou guys should know that.
+Dialogue: 0,0:20:22.65,0:20:28.41,Default,,0000,0000,0000,,Maybe that's why he's so hostile\Nto anyone who isn't one of us.
+Dialogue: 0,0:20:28.41,0:20:30.62,Default,,0000,0000,0000,,He cares too much.
+Dialogue: 0,0:20:30.62,0:20:32.50,Default,,0000,0000,0000,,That's not it.
+Dialogue: 0,0:20:32.50,0:20:39.25,Default,,0000,0000,0000,,No matter how strong you were, the old him\Ntried to keep you off the front lines.
+Dialogue: 0,0:20:39.25,0:20:44.34,Default,,0000,0000,0000,,But he made Armin destroy the port\Nand pulled you into the fight.
+Dialogue: 0,0:20:44.34,0:20:48.01,Default,,0000,0000,0000,,All of us, too. The ones he called important.
+Dialogue: 0,0:20:48.01,0:20:51.35,Default,,0000,0000,0000,,I think that's because he trusts us.
+Dialogue: 0,0:20:51.35,0:20:55.39,Default,,0000,0000,0000,,If we hadn't gone, he couldn't have done it.
+Dialogue: 0,0:20:55.39,0:20:58.56,Default,,0000,0000,0000,,And Sasha wouldn't have died.
+Dialogue: 0,0:20:58.56,0:21:03.74,Default,,0000,0000,0000,,Mikasa... When Sasha died, what did Eren do?
+Dialogue: 0,0:21:03.74,0:21:08.03,Default,,0000,0000,0000,,Did he cry? Did he regret his actions?
+Dialogue: 0,0:21:08.03,0:21:09.83,Default,,0000,0000,0000,,Conny, stop.
+Dialogue: 0,0:21:09.83,0:21:12.62,Default,,0000,0000,0000,,He laughed.
+Dialogue: 0,0:21:12.62,0:21:18.92,Default,,0000,0000,0000,,What part of it was so funny to him?\NWhat part of Sasha dying?
+Dialogue: 0,0:21:18.92,0:21:23.97,Default,,0000,0000,0000,,Explain it to me, Mikasa. Why was Eren laughing?
+Dialogue: 0,0:21:23.97,0:21:28.55,Default,,0000,0000,0000,,You know everything about him, right?
+Dialogue: 0,0:21:29.51,0:21:33.77,Default,,0000,0000,0000,,We'll talk to Eren. Just me, Mikasa, and him.
+Dialogue: 0,0:21:33.77,0:21:36.14,Default,,0000,0000,0000,,We'll find out his goal.
+Dialogue: 0,0:21:36.14,0:21:41.73,Default,,0000,0000,0000,,But will it help? What if his goals\Nare the same as Zeke's?
+Dialogue: 0,0:21:42.78,0:21:47.53,Default,,0000,0000,0000,,Now that the military has Titan serum,\Nwe've got options.
+Dialogue: 0,0:21:47.53,0:21:48.78,Default,,0000,0000,0000,,You don't mean--!
+Dialogue: 0,0:21:48.78,0:21:52.49,Default,,0000,0000,0000,,The option of making someone\Nwe trust into a Titan,
+Dialogue: 0,0:21:52.49,0:21:56.21,Default,,0000,0000,0000,,who would then inherit Eren's Founding Titan.
+Dialogue: 0,0:23:41.27,0:23:44.15,Default,,0000,0000,0000,,Gabi and Falco escape from prison.
+Dialogue: 0,0:23:44.15,0:23:52.74,Default,,0000,0000,0000,,Alone and lost, they receive a helping hand\Nfrom a devil they're meant to hate.
+Dialogue: 0,0:23:52.74,0:23:56.58,Default,,0000,0000,0000,,Next episode: "Deceiver."
+Dialogue: 0,0:23:54.32,0:23:56.58,On Top,,0000,0000,0000,,"Deceiver"
+Dialogue: 0,0:23:56.58,0:23:58.59,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.59,0:24:00.58,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.58,0:24:02.59,Default,,0000,0000,0000,,

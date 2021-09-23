@@ -1,0 +1,376 @@
+[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:13.86,0:00:18.28,Default,,0000,0000,0000,,Beyond the wall, there's \Na sea, or so Armin said...
+Dialogue: 0,0:00:22.71,0:00:24.29,Default,,0000,0000,0000,,But past the sea...
+Dialogue: 0,0:00:26.13,0:00:29.50,Default,,0000,0000,0000,,I always wondered what's beyond that...
+Dialogue: 0,0:02:04.97,0:02:09.98,Default,,0000,0000,0000,,"Smoke Signal"
+Dialogue: 0,0:02:11.06,0:02:13.86,Default,,0000,0000,0000,,You just try to steal some food, Sasha.
+Dialogue: 0,0:02:13.86,0:02:17.78,Default,,0000,0000,0000,,I'll get Captain Levi to chop you up\Ninto nice bite-sized pieces.
+Dialogue: 0,0:02:17.78,0:02:19.18,Default,,0000,0000,0000,,I won't! Probably...
+Dialogue: 0,0:02:19.82,0:02:20.78,Default,,0000,0000,0000,,Say what?
+Dialogue: 0,0:02:20.78,0:02:24.45,Default,,0000,0000,0000,,Hey! Did you guys wipe the dust and dirt\Noff your shoes before you came in?
+Dialogue: 0,0:02:24.45,0:02:25.20,Default,,0000,0000,0000,,Say what?
+Dialogue: 0,0:02:25.49,0:02:29.46,Default,,0000,0000,0000,,No, we didn't. Can't you see \Nall the stuff we're carrying?
+Dialogue: 0,0:02:29.46,0:02:33.59,Default,,0000,0000,0000,,Do you seriously think that attitude\Nwill satisfy Captain Levi?
+Dialogue: 0,0:02:33.59,0:02:36.88,Default,,0000,0000,0000,,If I hadn't personally given your\Nsheets hospital corners this morning--
+Dialogue: 0,0:02:36.88,0:02:40.30,Default,,0000,0000,0000,,Quit nagging! Who are you, my mom?!
+Dialogue: 0,0:02:40.30,0:02:41.64,Default,,0000,0000,0000,,We're back.
+Dialogue: 0,0:02:41.64,0:02:43.76,Default,,0000,0000,0000,,Wait, were you just chopping firewood?
+Dialogue: 0,0:02:44.14,0:02:45.60,Default,,0000,0000,0000,,Gotta stay in shape.
+Dialogue: 0,0:02:45.60,0:02:48.60,Default,,0000,0000,0000,,You got grabbed by a Titan! \NYou should be in bed.
+Dialogue: 0,0:02:48.60,0:02:50.44,Default,,0000,0000,0000,,I try to stop her, but she won't listen.
+Dialogue: 0,0:02:50.44,0:02:52.98,Default,,0000,0000,0000,,I saw her doing sit-ups earlier!
+Dialogue: 0,0:02:53.06,0:02:54.90,Default,,0000,0000,0000,,How dare you, you peeping Tom!
+Dialogue: 0,0:02:54.90,0:02:58.44,Default,,0000,0000,0000,,--Huh?! How does that constitute “peeping”?!\N--Mikasa, you {\i1}do{\i0} know you're not a wild animal, right?
+Dialogue: 0,0:02:58.86,0:03:02.60,Default,,0000,0000,0000,,It's almost like we're \Nback in the Cadet Corps.
+Dialogue: 0,0:03:03.12,0:03:03.68,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:03:04.45,0:03:08.58,Default,,0000,0000,0000,,Why do you figure we were chosen\Nfor the new Levi Squad, though?
+Dialogue: 0,0:03:09.04,0:03:12.42,Default,,0000,0000,0000,,Protecting Eren and Historia\Nis such an important mission...
+Dialogue: 0,0:03:12.42,0:03:14.35,Default,,0000,0000,0000,,Because we're talented, I assume.
+Dialogue: 0,0:03:15.71,0:03:18.59,Default,,0000,0000,0000,,Sasha... what did you just put in your bag?
+Dialogue: 0,0:03:19.13,0:03:21.43,Default,,0000,0000,0000,,Nothing bread-related.
+Dialogue: 0,0:03:21.59,0:03:23.34,Default,,0000,0000,0000,,Why, you!
+Dialogue: 0,0:03:23.34,0:03:24.47,Default,,0000,0000,0000,,Give it back.
+Dialogue: 0,0:03:24.47,0:03:28.27,Default,,0000,0000,0000,,Hey, focus! We gotta finish cleaning\Nbefore the captain gets back!
+Dialogue: 0,0:03:28.27,0:03:29.85,Default,,0000,0000,0000,,Put back the bread.
+Dialogue: 0,0:03:29.85,0:03:30.98,Default,,0000,0000,0000,,What's this commotion about?
+Dialogue: 0,0:03:30.98,0:03:32.27,Default,,0000,0000,0000,,How many times have you done this now?
+Dialogue: 0,0:03:32.27,0:03:34.36,Default,,0000,0000,0000,,Our food reserves are precious!
+Dialogue: 0,0:03:34.36,0:03:37.24,Default,,0000,0000,0000,,Cut the crap, Potato Girl!
+Dialogue: 0,0:03:45.62,0:03:48.03,Default,,0000,0000,0000,,I'm {\i1}quite{\i0} sure I gave you enough time.
+Dialogue: 0,0:03:51.91,0:03:53.29,Default,,0000,0000,0000,,Anyways...
+Dialogue: 0,0:03:53.29,0:03:56.54,Default,,0000,0000,0000,,We'll discuss your lax \Ncleaning job another time.
+Dialogue: 0,0:03:56.84,0:03:57.58,Default,,0000,0000,0000,,Eren.
+Dialogue: 0,0:03:58.21,0:04:01.22,Default,,0000,0000,0000,,Hange is itching to get \Nthe experiment started.
+Dialogue: 0,0:04:01.22,0:04:02.49,Default,,0000,0000,0000,,R-Right.
+Dialogue: 0,0:04:09.56,0:04:10.27,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:04:10.43,0:04:13.44,Default,,0000,0000,0000,,What's wrong, Eren?! Get up!
+Dialogue: 0,0:04:13.44,0:04:16.65,Default,,0000,0000,0000,,The future of humanity is riding on you!
+Dialogue: 0,0:04:16.65,0:04:18.90,Default,,0000,0000,0000,,Get up, dammit!
+Dialogue: 0,0:04:18.90,0:04:19.74,Default,,0000,0000,0000,,Hey, four-eyes.
+Dialogue: 0,0:04:20.28,0:04:22.36,Default,,0000,0000,0000,,He's not quite the same this time.
+Dialogue: 0,0:04:22.90,0:04:27.07,Default,,0000,0000,0000,,He's not even 10 meters, and some\Nof his body doesn't have muscle.
+Dialogue: 0,0:04:27.07,0:04:28.95,Default,,0000,0000,0000,,Plus, Eren's ass is hanging out.
+Dialogue: 0,0:04:28.95,0:04:30.33,Default,,0000,0000,0000,,I can see that!
+Dialogue: 0,0:04:30.70,0:04:33.29,Default,,0000,0000,0000,,Eren! Can you still move?!
+Dialogue: 0,0:04:33.29,0:04:35.29,Default,,0000,0000,0000,,Give us a signal or something!
+Dialogue: 0,0:04:35.83,0:04:36.64,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:04:37.17,0:04:37.92,Default,,0000,0000,0000,,Mikasa!
+Dialogue: 0,0:04:38.34,0:04:42.41,Default,,0000,0000,0000,,Hey... That gloomy brat is \Nacting on her own again.
+Dialogue: 0,0:04:42.84,0:04:44.43,Default,,0000,0000,0000,,Time to think up a punishment?
+Dialogue: 0,0:04:44.43,0:04:46.97,Default,,0000,0000,0000,,No, there's no signal... We're done here!
+Dialogue: 0,0:04:47.14,0:04:48.85,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:04:51.14,0:04:54.52,Default,,0000,0000,0000,,Hot! Hot damn, you are hot!
+Dialogue: 0,0:04:54.94,0:04:57.19,Default,,0000,0000,0000,,Hange, wait! Eren is bleeding!
+Dialogue: 0,0:04:57.19,0:04:59.94,Default,,0000,0000,0000,,Whoa! Check it out, Moblit!
+Dialogue: 0,0:04:59.94,0:05:02.07,Default,,0000,0000,0000,,Eren's face! Hurry up and sketch it!
+Dialogue: 0,0:05:02.36,0:05:05.70,Default,,0000,0000,0000,,Section Commander!\NAre you lacking in human compassion?!
+Dialogue: 0,0:05:12.20,0:05:14.04,Default,,0000,0000,0000,,Sorry, I got carried away...
+Dialogue: 0,0:05:15.04,0:05:16.74,Default,,0000,0000,0000,,Looks like we've got a long road ahead...
+Dialogue: 0,0:05:18.25,0:05:21.58,Default,,0000,0000,0000,,...before we can use the Titan\Nhardening ability to seal the wall.
+Dialogue: 0,0:05:21.96,0:05:26.88,Default,,0000,0000,0000,,Yes... I knew we'd be grasping \Nat straws from the start.
+Dialogue: 0,0:05:26.88,0:05:29.30,Default,,0000,0000,0000,,Strategically, it's not a bad plan.
+Dialogue: 0,0:05:29.30,0:05:33.22,Default,,0000,0000,0000,,Instead of lugging tons of supplies,\Nall we need is to get Eren there.
+Dialogue: 0,0:05:33.89,0:05:37.35,Default,,0000,0000,0000,,Whether or not we're grasping at straws...\Nall depends on Eren.
+Dialogue: 0,0:05:38.69,0:05:41.94,Default,,0000,0000,0000,,Experiment's over! All \Ntroops, disperse at once!
+Dialogue: 0,0:05:41.94,0:05:42.67,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:05:43.23,0:05:44.86,Default,,0000,0000,0000,,Make sure there's no witnesses!
+Dialogue: 0,0:05:44.86,0:05:45.51,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:05:49.28,0:05:51.16,Default,,0000,0000,0000,,You ride in the same wagon as Eren.
+Dialogue: 0,0:05:51.70,0:05:54.55,Default,,0000,0000,0000,,I'm headed for Trost District \Nwith Hange's group.
+Dialogue: 0,0:05:55.91,0:05:56.67,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:05:58.58,0:06:00.75,Default,,0000,0000,0000,,You must find her at once.
+Dialogue: 0,0:06:01.38,0:06:06.42,Default,,0000,0000,0000,,Only she... She may know the truths\Nwhich even we cannot perceive.
+Dialogue: 0,0:06:19.69,0:06:23.94,On Top,,0000,0000,0000,,"Trost District"
+Dialogue: 0,0:06:20.90,0:06:23.94,Default,,0000,0000,0000,,I see... Another failure, then.
+Dialogue: 0,0:06:24.86,0:06:30.66,Default,,0000,0000,0000,,If the plan would have worked out, we could have\Nplugged the hole in Shiganshina District in less than a day.
+Dialogue: 0,0:06:30.66,0:06:32.37,Default,,0000,0000,0000,,It's because we lack information.
+Dialogue: 0,0:06:32.87,0:06:36.75,Default,,0000,0000,0000,,Might be a different story if there was\Na book about the hardening ability.
+Dialogue: 0,0:06:37.41,0:06:41.67,Default,,0000,0000,0000,,But we have Christa. No, Historia Reiss...
+Dialogue: 0,0:06:41.67,0:06:44.63,Default,,0000,0000,0000,,Maybe we learn about the wall through her?
+Dialogue: 0,0:06:45.84,0:06:49.22,Default,,0000,0000,0000,,I read the entire report \Nabout her upbringing.
+Dialogue: 0,0:06:50.51,0:06:55.19,Default,,0000,0000,0000,,She's the illegitimate daughter of Lord Reiss,\Nand it's by no means a happy story.
+Dialogue: 0,0:06:56.60,0:07:02.49,Default,,0000,0000,0000,,But the real mystery here... is why a mere\Nregional lord would know the secrets of the wall.
+Dialogue: 0,0:07:14.41,0:07:15.14,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:07:15.87,0:07:17.70,Default,,0000,0000,0000,,You should still be in bed!
+Dialogue: 0,0:07:17.70,0:07:21.01,Default,,0000,0000,0000,,I'm fine. I already slept a whole day.
+Dialogue: 0,0:07:21.62,0:07:26.59,Default,,0000,0000,0000,,Besides, it's my fault the strategy\Nfor retaking Wall Maria got shelved.
+Dialogue: 0,0:07:26.59,0:07:27.92,Default,,0000,0000,0000,,It's not your fault.
+Dialogue: 0,0:07:28.42,0:07:29.69,Default,,0000,0000,0000,,So don't worry about it.
+Dialogue: 0,0:07:30.59,0:07:34.93,Default,,0000,0000,0000,,All I care about... is getting\Na chance to fight that Beast Titan.
+Dialogue: 0,0:07:35.68,0:07:39.64,Default,,0000,0000,0000,,Whatever that damn ape is, \NI'll never forgive it.
+Dialogue: 0,0:07:45.56,0:07:48.15,Default,,0000,0000,0000,,It's about time to switch lookouts.
+Dialogue: 0,0:07:48.73,0:07:49.65,Default,,0000,0000,0000,,Mikasa?
+Dialogue: 0,0:07:49.99,0:07:51.11,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:54.99,0:07:56.16,Default,,0000,0000,0000,,Must be nice.
+Dialogue: 0,0:07:56.16,0:08:00.31,Default,,0000,0000,0000,,You and the others... You have goals in mind,\Neven though they won't be easy.
+Dialogue: 0,0:08:01.87,0:08:06.88,Default,,0000,0000,0000,,But me, now that Ymir is gone...\NI don't even know what I want.
+Dialogue: 0,0:08:06.88,0:08:09.05,Default,,0000,0000,0000,,Don't you want to save Ymir, though?
+Dialogue: 0,0:08:10.09,0:08:12.17,Default,,0000,0000,0000,,Yeah, but...
+Dialogue: 0,0:08:13.01,0:08:17.26,Default,,0000,0000,0000,,Back then, I couldn't believe what she did...\NThough, it's true I wanted to save her.
+Dialogue: 0,0:08:18.60,0:08:21.06,Default,,0000,0000,0000,,But now, I'm thinking differently.
+Dialogue: 0,0:08:22.06,0:08:24.69,Default,,0000,0000,0000,,Ymir chose her own path in life.
+Dialogue: 0,0:08:25.40,0:08:29.12,Default,,0000,0000,0000,,I have no right to change \Nthat... and no need to.
+Dialogue: 0,0:08:30.94,0:08:34.11,Default,,0000,0000,0000,,Finally, you're talking again.
+Dialogue: 0,0:08:34.11,0:08:35.03,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:35.41,0:08:38.78,Default,,0000,0000,0000,,When we came here,\Nyou told us all about yourself, but...
+Dialogue: 0,0:08:38.78,0:08:42.91,Default,,0000,0000,0000,,Since then, you haven't smiled once,\Nand you rarely talk either.
+Dialogue: 0,0:08:43.62,0:08:44.67,Default,,0000,0000,0000,,Because it's a pain.
+Dialogue: 0,0:08:46.67,0:08:47.57,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:08:48.34,0:08:52.59,Default,,0000,0000,0000,,That good-girl Christa who was\Nnice to everyone is gone now.
+Dialogue: 0,0:08:53.01,0:08:56.22,Default,,0000,0000,0000,,Nah, I think it's better this way.
+Dialogue: 0,0:08:56.22,0:08:56.72,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:57.01,0:08:59.73,Default,,0000,0000,0000,,Before, it felt like you \Nalways put on a facade.
+Dialogue: 0,0:09:00.14,0:09:02.60,Default,,0000,0000,0000,,It was so forced and \Nunnatural, it made me sick.
+Dialogue: 0,0:09:04.48,0:09:05.60,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:09:05.89,0:09:08.86,Default,,0000,0000,0000,,But, the you right now is pretty normal.
+Dialogue: 0,0:09:09.36,0:09:12.17,Default,,0000,0000,0000,,A stupidly honest, but normal girl.
+Dialogue: 0,0:09:13.07,0:09:16.24,Default,,0000,0000,0000,,Anyways, you have plenty of \Ntime to think about Ymir.
+Dialogue: 0,0:09:16.24,0:09:18.28,Default,,0000,0000,0000,,In a lot of ways, I...
+Dialogue: 0,0:09:20.83,0:09:22.58,Default,,0000,0000,0000,,Wait... Wasn't that...?
+Dialogue: 0,0:09:23.12,0:09:25.41,Default,,0000,0000,0000,,Hange and the others arrived!
+Dialogue: 0,0:09:25.41,0:09:27.29,Default,,0000,0000,0000,,Gather in the main room!
+Dialogue: 0,0:09:30.84,0:09:32.71,Default,,0000,0000,0000,,Huh? What was that?
+Dialogue: 0,0:09:34.38,0:09:36.93,Default,,0000,0000,0000,,He's dead... Pastor Nick.
+Dialogue: 0,0:09:37.68,0:09:39.14,Default,,0000,0000,0000,,He was murdered.
+Dialogue: 0,0:09:40.55,0:09:43.05,Default,,0000,0000,0000,,This morning, in the Trost District barracks.
+Dialogue: 0,0:09:49.69,0:09:50.44,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:50.44,0:09:52.52,Default,,0000,0000,0000,,You'll disrupt the crime \Nscene, you damn Scout!
+Dialogue: 0,0:09:52.98,0:09:54.74,Default,,0000,0000,0000,,Don't get any closer.
+Dialogue: 0,0:09:54.74,0:09:56.78,Default,,0000,0000,0000,,This is our job, not yours.
+Dialogue: 0,0:09:57.36,0:10:01.70,Default,,0000,0000,0000,,It's another robbery-murder.\NThey've been springing up a lot lately.
+Dialogue: 0,0:10:01.70,0:10:03.95,Default,,0000,0000,0000,,Wha--?! I'm not buying that!
+Dialogue: 0,0:10:03.95,0:10:05.54,Default,,0000,0000,0000,,His nails were torn off!
+Dialogue: 0,0:10:05.79,0:10:07.50,Default,,0000,0000,0000,,Which unit are you in?
+Dialogue: 0,0:10:10.50,0:10:15.05,Default,,0000,0000,0000,,Fourth Squad Section Commander Hange Zoë\Nand Executive Officer Moblit Berner.
+Dialogue: 0,0:10:16.01,0:10:20.84,Default,,0000,0000,0000,,Your ranks mean practically nothing\Nwhen your branch is the trash that it is.
+Dialogue: 0,0:10:21.55,0:10:25.31,Default,,0000,0000,0000,,Listen here... It was no \NTitan that killed that man.
+Dialogue: 0,0:10:25.31,0:10:27.43,Default,,0000,0000,0000,,A person killed another person.
+Dialogue: 0,0:10:27.60,0:10:29.56,Default,,0000,0000,0000,,This work is out of your league.
+Dialogue: 0,0:10:31.23,0:10:33.73,Default,,0000,0000,0000,,First Interior Squad?
+Dialogue: 0,0:10:35.78,0:10:40.38,Default,,0000,0000,0000,,Why? What's the capital's Military Police\Ndoing down south in Trost?
+Dialogue: 0,0:10:41.03,0:10:42.91,Default,,0000,0000,0000,,What's so strange about it?
+Dialogue: 0,0:10:43.66,0:10:48.20,Default,,0000,0000,0000,,Unlike you useless goons, us valuable\Nsoldiers are busy getting things done.
+Dialogue: 0,0:10:49.12,0:10:51.96,Default,,0000,0000,0000,,Oh! So that's how it is!
+Dialogue: 0,0:10:52.33,0:10:55.09,Default,,0000,0000,0000,,You're right, I'm worthless, really.
+Dialogue: 0,0:10:55.09,0:10:57.88,Default,,0000,0000,0000,,I'm so lucky to meet great soldiers like you.
+Dialogue: 0,0:10:57.88,0:10:59.59,Default,,0000,0000,0000,,Let me shake your hand!
+Dialogue: 0,0:11:00.47,0:11:03.38,Default,,0000,0000,0000,,I see... So poor Nick was robbed...
+Dialogue: 0,0:11:03.93,0:11:05.21,Default,,0000,0000,0000,,Such a pity...
+Dialogue: 0,0:11:05.85,0:11:09.23,Default,,0000,0000,0000,,Did he ever have stuff worth \Nstealing in the first place?
+Dialogue: 0,0:11:09.23,0:11:10.52,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:11:10.52,0:11:13.77,Default,,0000,0000,0000,,Everyone knows the Church's trinkets\Nare made from valuable iron.
+Dialogue: 0,0:11:13.98,0:11:14.52,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:11:15.15,0:11:18.28,Default,,0000,0000,0000,,Nick was a pastor for \Nthe Order of the Walls?!
+Dialogue: 0,0:11:19.32,0:11:20.86,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:11:21.24,0:11:23.81,Default,,0000,0000,0000,,He was a friend of mine on personal terms...
+Dialogue: 0,0:11:24.49,0:11:29.25,Default,,0000,0000,0000,,But, as far as I knew the man, \Nhe was just a chair-maker.
+Dialogue: 0,0:11:29.25,0:11:32.08,Default,,0000,0000,0000,,I even wrote that on his application here...
+Dialogue: 0,0:11:32.08,0:11:32.96,Default,,0000,0000,0000,,Dammit, stop--
+Dialogue: 0,0:11:32.96,0:11:38.92,Default,,0000,0000,0000,,Though, I guess this only means I never\Nknew Nick as well as I thought I did...
+Dialogue: 0,0:11:38.92,0:11:40.84,Default,,0000,0000,0000,,Hey! Let go!
+Dialogue: 0,0:11:40.84,0:11:43.01,Default,,0000,0000,0000,,Oh, I'm sorry! Forgive me!
+Dialogue: 0,0:11:44.30,0:11:47.07,Default,,0000,0000,0000,,Well then, good luck with the investigation.
+Dialogue: 0,0:11:47.51,0:11:50.43,Default,,0000,0000,0000,,When you capture the culprit, \Nplease tell them this...
+Dialogue: 0,0:11:51.02,0:11:55.44,Default,,0000,0000,0000,,The things you did to him,\Nperhaps you felt were righteous and just.
+Dialogue: 0,0:11:55.44,0:11:58.90,Default,,0000,0000,0000,,But, personally, I couldn't \Ncare less about any of that.
+Dialogue: 0,0:11:59.28,0:12:03.57,Default,,0000,0000,0000,,To you scoundrels, I will ensure\Nyou're tortured alive like my friend,
+Dialogue: 0,0:12:03.57,0:12:06.99,Default,,0000,0000,0000,,and experience suffering above\Nand beyond what you did to him.
+Dialogue: 0,0:12:06.99,0:12:08.91,Default,,0000,0000,0000,,Yes, you'll be sorry!
+Dialogue: 0,0:12:09.37,0:12:12.31,Default,,0000,0000,0000,,Pass along that message. Excuse us.
+Dialogue: 0,0:12:19.38,0:12:21.72,Default,,0000,0000,0000,,Section Commander, do \Nyou think they really--?
+Dialogue: 0,0:12:21.72,0:12:25.05,Default,,0000,0000,0000,,Yeah... First Interior Squad, Djel Sannes.
+Dialogue: 0,0:12:25.26,0:12:27.55,Default,,0000,0000,0000,,All the skin on his fist was split.
+Dialogue: 0,0:12:27.55,0:12:30.52,Default,,0000,0000,0000,,Nick was tortured by the \NInterior Military Police...
+Dialogue: 0,0:12:31.27,0:12:32.76,Default,,0000,0000,0000,,And then murdered...
+Dialogue: 0,0:12:35.69,0:12:40.62,Default,,0000,0000,0000,,I figured the Church would want to deal with Nick\Nsince he was cooperating with the Scouts.
+Dialogue: 0,0:12:41.28,0:12:45.95,Default,,0000,0000,0000,,That's why I hid his identity and\Nhad him stay in the barracks, but...
+Dialogue: 0,0:12:45.95,0:12:48.37,Default,,0000,0000,0000,,To think they would use \Nsoldiers to kill him...
+Dialogue: 0,0:12:49.28,0:12:51.12,Default,,0000,0000,0000,,I was too careless.
+Dialogue: 0,0:12:51.12,0:12:52.96,Default,,0000,0000,0000,,It's entirely my fault.
+Dialogue: 0,0:12:58.54,0:13:05.22,Default,,0000,0000,0000,,The Military Police... Did they torture Pastor Nick\Njust to find out what information he spilled to us?
+Dialogue: 0,0:13:05.22,0:13:06.26,Default,,0000,0000,0000,,Most likely.
+Dialogue: 0,0:13:06.93,0:13:12.28,Default,,0000,0000,0000,,But it was the Interior Military Police,\Nwhich means there's something more behind it.
+Dialogue: 0,0:13:12.77,0:13:15.64,Default,,0000,0000,0000,,So, how many nails did Nick have ripped off?
+Dialogue: 0,0:13:15.81,0:13:16.60,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:16.60,0:13:18.77,Default,,0000,0000,0000,,You saw, right? How many?
+Dialogue: 0,0:13:18.77,0:13:23.49,Default,,0000,0000,0000,,I only caught a glimpse of him,\Nbut all the nails that I could see.
+Dialogue: 0,0:13:23.65,0:13:28.98,Default,,0000,0000,0000,,People that talk, talk after one. If they don't,\Npeeling more won't make a difference.
+Dialogue: 0,0:13:30.16,0:13:33.50,Default,,0000,0000,0000,,Pastor Nick... I thought \Nhe was an idiot, but...
+Dialogue: 0,0:13:34.58,0:13:38.34,Default,,0000,0000,0000,,He didn't turn away from what\Nhe believed, all the way till the end.
+Dialogue: 0,0:13:42.17,0:13:46.95,Default,,0000,0000,0000,,In other words, they have no idea\Nwe've caught wind of the Reiss family.
+Dialogue: 0,0:13:47.72,0:13:53.09,Default,,0000,0000,0000,,Though, someone in the government is up\Nto no good, and their eyes are fixed on us.
+Dialogue: 0,0:13:54.60,0:13:55.52,Default,,0000,0000,0000,,Captain Levi.
+Dialogue: 0,0:13:56.23,0:13:58.02,Default,,0000,0000,0000,,A message from Commander Erwin.
+Dialogue: 0,0:13:59.81,0:14:04.16,Default,,0000,0000,0000,,I went to tell him about Pastor Nick,\Nbut he sent me off with this.
+Dialogue: 0,0:14:05.03,0:14:07.49,Default,,0000,0000,0000,,Everyone, out. We leave now.
+Dialogue: 0,0:14:07.99,0:14:09.66,Default,,0000,0000,0000,,Leave no trace we were here.
+Dialogue: 0,0:14:16.71,0:14:17.96,Default,,0000,0000,0000,,That was close...
+Dialogue: 0,0:14:18.46,0:14:21.96,Default,,0000,0000,0000,,If we hadn't left right then,\Nwhat would've happened to us?
+Dialogue: 0,0:14:21.96,0:14:24.46,Default,,0000,0000,0000,,But why? What would make Commander Erwin...?
+Dialogue: 0,0:14:25.76,0:14:28.26,Default,,0000,0000,0000,,New orders came from the government.
+Dialogue: 0,0:14:28.26,0:14:31.14,Default,,0000,0000,0000,,There's been a freeze on all Scout\NRegiment activity outside the wall.
+Dialogue: 0,0:14:32.22,0:14:34.34,Default,,0000,0000,0000,,They're telling us to hand \Nover Eren and Historia.
+Dialogue: 0,0:14:35.77,0:14:38.73,Default,,0000,0000,0000,,By the way, right after \Nhe gave me the message...
+Dialogue: 0,0:14:39.27,0:14:41.43,Default,,0000,0000,0000,,...the Military Police came for him...
+Dialogue: 0,0:14:45.44,0:14:47.68,Default,,0000,0000,0000,,That's treating him like \Nsome sort of criminal!
+Dialogue: 0,0:14:48.03,0:14:50.47,Default,,0000,0000,0000,,Someone's not working \Nfrom the shadows anymore.
+Dialogue: 0,0:14:50.91,0:14:52.95,Default,,0000,0000,0000,,They're moving for all eyes to see.
+Dialogue: 0,0:14:52.95,0:14:55.97,Default,,0000,0000,0000,,To go that far to protect \Nthe wall's secrets...
+Dialogue: 0,0:14:56.50,0:15:00.47,Default,,0000,0000,0000,,What's more, why do they want us\Nto hand over Eren and Historia?
+Dialogue: 0,0:15:01.08,0:15:04.09,Default,,0000,0000,0000,,Not to kill, but for them to obtain?
+Dialogue: 0,0:15:04.46,0:15:05.35,Default,,0000,0000,0000,,Who knows?
+Dialogue: 0,0:15:06.13,0:15:09.15,Default,,0000,0000,0000,,Anyways, it's clear the \Nenemy is after these two.
+Dialogue: 0,0:15:09.93,0:15:12.22,Default,,0000,0000,0000,,Loitering around here is dangerous.
+Dialogue: 0,0:15:12.68,0:15:14.90,Default,,0000,0000,0000,,We're moving her and Eren to Trost District.
+Dialogue: 0,0:15:15.97,0:15:19.40,Default,,0000,0000,0000,,Why? That's the same place \NPastor Nick was killed.
+Dialogue: 0,0:15:19.85,0:15:22.03,Default,,0000,0000,0000,,It's worse to head towards the interior.
+Dialogue: 0,0:15:22.69,0:15:25.52,Default,,0000,0000,0000,,With Trost in a panic, it \Nshould be easy to slip in.
+Dialogue: 0,0:15:25.98,0:15:29.57,Default,,0000,0000,0000,,And if somehow it comes down to it,\Nwe can use these in the city.
+Dialogue: 0,0:15:30.15,0:15:30.93,Default,,0000,0000,0000,,True...
+Dialogue: 0,0:15:31.32,0:15:34.36,Default,,0000,0000,0000,,Plus, not knowing the enemy \Nputs us in a tough spot.
+Dialogue: 0,0:15:35.08,0:15:37.41,Default,,0000,0000,0000,,We need to find out who's behind this.
+Dialogue: 0,0:15:38.62,0:15:41.50,Default,,0000,0000,0000,,Hange, lend me some of your squad.
+Dialogue: 0,0:15:41.50,0:15:42.54,Default,,0000,0000,0000,,Of course.
+Dialogue: 0,0:15:44.59,0:15:47.38,Default,,0000,0000,0000,,All right, I'm going after Erwin.
+Dialogue: 0,0:15:47.71,0:15:51.43,Default,,0000,0000,0000,,Moblit's with me. The rest \Nof you will follow Levi.
+Dialogue: 0,0:15:51.43,0:15:51.97,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:15:53.93,0:15:54.91,Default,,0000,0000,0000,,Hange!
+Dialogue: 0,0:15:56.01,0:15:56.79,Default,,0000,0000,0000,,Here...
+Dialogue: 0,0:15:58.06,0:16:01.39,Default,,0000,0000,0000,,I remembered a conversation\Nbetween Ymir and Bertholdt.
+Dialogue: 0,0:16:02.02,0:16:04.31,Default,,0000,0000,0000,,Didn't get time to tell you, but it's here.
+Dialogue: 0,0:16:05.65,0:16:06.65,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:16:07.27,0:16:09.36,Default,,0000,0000,0000,,I'll take a look at it later.
+Dialogue: 0,0:16:10.40,0:16:11.53,Default,,0000,0000,0000,,Hiyaah!
+Dialogue: 0,0:16:17.20,0:16:19.54,Default,,0000,0000,0000,,They're rather quick on the move.
+Dialogue: 0,0:16:19.54,0:16:23.96,Default,,0000,0000,0000,,Hmph... It's because that\Nlittle runt is actually disciplined.
+Dialogue: 0,0:16:24.79,0:16:26.18,Default,,0000,0000,0000,,An acquaintance of yours?
+Dialogue: 0,0:16:27.46,0:16:28.34,Default,,0000,0000,0000,,An old one.
+Dialogue: 0,0:16:28.96,0:16:33.97,OS,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Titan Bodies"\N"The body of every Titan varies significantly,\N but each has a weak point\N of height 1 meter and width 10 cm at their nape,\N corresponding to the size of a human's\N spinal cord through to their brain.\N When severed, this area ruins a Titan's\N regenerative ability and results in their destruction.\N It is thought that this vital organ, the source of their being, is none other than a human inside."
+Dialogue: 0,0:16:43.23,0:16:46.46,Default,,0000,0000,0000,,Try not to walk in a \Ncluster. We'll stand out.
+Dialogue: 0,0:16:47.02,0:16:49.69,Default,,0000,0000,0000,,Eren and Historia, just walk normal.
+Dialogue: 0,0:16:50.32,0:16:53.11,Default,,0000,0000,0000,,Why is the royal family's \Nflag hanging everywhere?
+Dialogue: 0,0:16:53.11,0:16:56.41,Default,,0000,0000,0000,,Oh! Today must be the anniversary\Nof the King's coronation.
+Dialogue: 0,0:16:56.41,0:16:59.45,Default,,0000,0000,0000,,Once a year, they hand out a haul of rations.
+Dialogue: 0,0:16:59.45,0:17:00.12,Default,,0000,0000,0000,,Oh...
+Dialogue: 0,0:17:00.12,0:17:02.20,Default,,0000,0000,0000,,We'll begin handing out rations!
+Dialogue: 0,0:17:03.54,0:17:09.19,Default,,0000,0000,0000,,King Fritz has heard of Trost District's hardship\Nand will donate the royal family's reserves!
+Dialogue: 0,0:17:10.30,0:17:13.38,Default,,0000,0000,0000,,There's enough for everyone! Line up orderly!
+Dialogue: 0,0:17:13.38,0:17:13.97,Default,,0000,0000,0000,,--Thank goodness!
+Dialogue: 0,0:17:13.97,0:17:15.68,Default,,0000,0000,0000,,--Long live King Fritz!\N--Thank goodness!
+Dialogue: 0,0:17:16.14,0:17:18.97,Default,,0000,0000,0000,,What a King! He sure is generous!
+Dialogue: 0,0:17:18.97,0:17:20.92,Default,,0000,0000,0000,,He's got more than he knows what to do with.
+Dialogue: 0,0:17:21.60,0:17:24.18,Default,,0000,0000,0000,,People are weak, especially \Nwhen baited with food.
+Dialogue: 0,0:17:30.32,0:17:34.24,Default,,0000,0000,0000,,By handing out those rations,\Nover 60% of the reserves are gone.
+Dialogue: 0,0:17:35.03,0:17:39.95,Default,,0000,0000,0000,,Don't you think it's a bit too much for\Nraising the people's morale, Lord Reiss?
+Dialogue: 0,0:17:39.95,0:17:45.46,Default,,0000,0000,0000,,It's necessary. There was a need to raise\Nthe public's approval of the royal family.
+Dialogue: 0,0:17:45.66,0:17:48.42,Default,,0000,0000,0000,,More importantly, we need \Nthat power and the vessel.
+Dialogue: 0,0:17:48.42,0:17:50.21,Default,,0000,0000,0000,,And we must hurry.
+Dialogue: 0,0:17:51.75,0:17:54.21,Default,,0000,0000,0000,,The Military Police failed again?
+Dialogue: 0,0:17:54.21,0:17:56.59,Default,,0000,0000,0000,,I'll return and continue the hunt at once.
+Dialogue: 0,0:17:57.18,0:17:59.71,Default,,0000,0000,0000,,No, we'll soon have what we need.
+Dialogue: 0,0:18:00.22,0:18:02.07,Default,,0000,0000,0000,,"That" is set in motion.
+Dialogue: 0,0:18:16.49,0:18:18.36,Default,,0000,0000,0000,,Watch out! Behind us!
+Dialogue: 0,0:18:24.16,0:18:24.95,Default,,0000,0000,0000,,Armi--
+Dialogue: 0,0:18:24.95,0:18:27.37,Default,,0000,0000,0000,,I mean, Christa and Eren!
+Dialogue: 0,0:18:27.37,0:18:29.98,Default,,0000,0000,0000,,They got snatched away again!
+Dialogue: 0,0:18:35.67,0:18:37.13,Default,,0000,0000,0000,,Will it really work?
+Dialogue: 0,0:18:38.30,0:18:41.18,Default,,0000,0000,0000,,He looks absolutely nothing like me...
+Dialogue: 0,0:18:42.14,0:18:44.47,Default,,0000,0000,0000,,That horse face? Yeah right...
+Dialogue: 0,0:18:49.10,0:18:53.73,Default,,0000,0000,0000,,Yeah? You like that? Let me hear you moan.
+Dialogue: 0,0:18:53.73,0:18:58.07,Default,,0000,0000,0000,,Well? How's that? Doesn't it feel good?
+Dialogue: 0,0:18:58.07,0:19:00.70,Default,,0000,0000,0000,,I'm just dying to hear \Nyour cute little voice.
+Dialogue: 0,0:19:07.41,0:19:10.54,Default,,0000,0000,0000,,This is why I didn't wanna go\Nthrough this shit a second time!
+Dialogue: 0,0:19:11.38,0:19:12.92,Default,,0000,0000,0000,,Screw being his body double!
+Dialogue: 0,0:19:12.92,0:19:15.71,Default,,0000,0000,0000,,She’s more muscular than I expected…
+Dialogue: 0,0:19:21.64,0:19:23.11,Default,,0000,0000,0000,,How's it going inside?
+Dialogue: 0,0:19:23.76,0:19:27.02,Default,,0000,0000,0000,,If we don't hurry, they'll \Nsee through Armin's disguise.
+Dialogue: 0,0:19:28.18,0:19:29.79,Default,,0000,0000,0000,,And I feel bad for him...
+Dialogue: 0,0:19:30.23,0:19:31.25,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:19:32.35,0:19:34.61,Default,,0000,0000,0000,,How is your leg? Any better?
+Dialogue: 0,0:19:35.90,0:19:38.62,Default,,0000,0000,0000,,I can move well enough. It's not bad.
+Dialogue: 0,0:19:39.36,0:19:44.19,Default,,0000,0000,0000,,More importantly, these kidnappers...\NThey're nothing but amateurs.
+Dialogue: 0,0:19:44.91,0:19:47.28,Default,,0000,0000,0000,,Why would they be using guys like this?
+Dialogue: 0,0:19:48.87,0:19:52.92,Default,,0000,0000,0000,,You can handle the rest on your own.\NI'm heading for Eren.
+Dialogue: 0,0:19:52.92,0:19:56.34,Default,,0000,0000,0000,,Once you've dealt with the trash,\Ncome and meet up with me.
+Dialogue: 0,0:19:56.34,0:19:57.13,Default,,0000,0000,0000,,Roger.
+Dialogue: 0,0:19:58.01,0:20:01.62,Default,,0000,0000,0000,,One more thing... I'll \Ntell you, just in case.
+Dialogue: 0,0:20:02.89,0:20:04.45,Default,,0000,0000,0000,,Tell Armin and the others, too.
+Dialogue: 0,0:20:18.32,0:20:21.74,Default,,0000,0000,0000,,You're sure, without a doubt, \Nit's Christa and Eren?
+Dialogue: 0,0:20:21.74,0:20:24.24,Default,,0000,0000,0000,,Yes, they match the description.
+Dialogue: 0,0:20:25.12,0:20:26.94,Default,,0000,0000,0000,,Huh? Where's the guard?
+Dialogue: 0,0:20:38.21,0:20:38.71,Default,,0000,0000,0000,,What the--?!
+Dialogue: 0,0:20:44.89,0:20:46.80,Default,,0000,0000,0000,,Don't you dare move.
+Dialogue: 0,0:20:49.52,0:20:51.85,Default,,0000,0000,0000,,Conny! Is it really just the four of them?!
+Dialogue: 0,0:20:52.14,0:20:53.60,Default,,0000,0000,0000,,Yeah, that's it!
+Dialogue: 0,0:20:53.94,0:20:55.46,Default,,0000,0000,0000,,Nobody else in the area!
+Dialogue: 0,0:20:59.32,0:21:02.40,Default,,0000,0000,0000,,If you move again, who knows where I'll hit?
+Dialogue: 0,0:21:02.40,0:21:06.87,Default,,0000,0000,0000,,All right! First, we tie these guys up,\Nthen we meet up with the captain.
+Dialogue: 0,0:21:06.87,0:21:08.16,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:21:08.16,0:21:10.96,Default,,0000,0000,0000,,Captain's orders, and \Nhe sends a message, too.
+Dialogue: 0,0:21:15.37,0:21:17.60,Default,,0000,0000,0000,,Hey! Get outta the way!
+Dialogue: 0,0:21:21.30,0:21:22.13,Default,,0000,0000,0000,,Captain?
+Dialogue: 0,0:21:22.59,0:21:23.30,Default,,0000,0000,0000,,Well?
+Dialogue: 0,0:21:23.92,0:21:26.39,Default,,0000,0000,0000,,The road is crowded, but nothing unusual.
+Dialogue: 0,0:21:26.97,0:21:29.58,Default,,0000,0000,0000,,It's not much farther to Commander Pyxis'.
+Dialogue: 0,0:21:30.06,0:21:31.52,Default,,0000,0000,0000,,How's the body double mission?
+Dialogue: 0,0:21:31.93,0:21:32.95,Default,,0000,0000,0000,,A success.
+Dialogue: 0,0:21:33.77,0:21:35.81,Default,,0000,0000,0000,,And yet, you don't look that happy...
+Dialogue: 0,0:21:36.19,0:21:37.14,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:21:38.48,0:21:39.92,Default,,0000,0000,0000,,Something is wrong...
+Dialogue: 0,0:21:40.48,0:21:42.65,Default,,0000,0000,0000,,The Military Police can't be behind this.
+Dialogue: 0,0:21:43.15,0:21:46.85,Default,,0000,0000,0000,,They're far too arrogant. \NThey wouldn't use amateurs.
+Dialogue: 0,0:21:47.74,0:21:49.22,Default,,0000,0000,0000,,This is more like...
+Dialogue: 0,0:21:50.41,0:21:52.74,Default,,0000,0000,0000,,Assuming the wagon was being followed...
+Dialogue: 0,0:21:53.83,0:21:56.29,Default,,0000,0000,0000,,And the group was trailing their target...
+Dialogue: 0,0:21:56.29,0:21:57.16,Default,,0000,0000,0000,,Captain.
+Dialogue: 0,0:21:58.25,0:22:00.01,Default,,0000,0000,0000,,The wagon's almost moving again.
+Dialogue: 0,0:22:01.75,0:22:04.58,Default,,0000,0000,0000,,Nifa, have you heard about Kenny the Ripper?
+Dialogue: 0,0:22:05.01,0:22:07.13,Default,,0000,0000,0000,,The mass-murderer in the capital?
+Dialogue: 0,0:22:07.72,0:22:10.68,Default,,0000,0000,0000,,The one that slit the throats \Nof over 100 Military Police?
+Dialogue: 0,0:22:10.68,0:22:14.56,Default,,0000,0000,0000,,That's just an urban legend \Nfrom years ago, right?
+Dialogue: 0,0:22:14.56,0:22:17.48,Default,,0000,0000,0000,,He is real, and the stories are true.
+Dialogue: 0,0:22:17.48,0:22:18.11,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:18.65,0:22:21.48,Default,,0000,0000,0000,,I lived with him for a \Nwhile when I was a kid.
+Dialogue: 0,0:22:21.65,0:22:24.08,Default,,0000,0000,0000,,What? Why would you even say that?
+Dialogue: 0,0:22:24.57,0:22:26.15,Default,,0000,0000,0000,,This isn't the time to be making jokes.
+Dialogue: 0,0:22:27.07,0:22:31.16,Default,,0000,0000,0000,,That's right... He wouldn't \Ncare about using amateurs.
+Dialogue: 0,0:22:31.95,0:22:36.41,Default,,0000,0000,0000,,If a group was trailing their target,\Nit would be from both rear angles, and...
+Dialogue: 0,0:22:37.00,0:22:39.02,Default,,0000,0000,0000,,...a place high up, with a view...
+Dialogue: 0,0:22:41.79,0:22:42.63,Default,,0000,0000,0000,,Nifa!
+Dialogue: 0,0:23:04.32,0:23:06.51,Default,,0000,0000,0000,,Yo, Levi.
+Dialogue: 0,0:23:07.90,0:23:09.96,Default,,0000,0000,0000,,You grown any yet?
+Dialogue: 0,0:23:30.01,0:23:33.47,Default,,0000,0000,0000,,Oh? It don't look like you changed at all!
+Dialogue: 0,0:23:35.18,0:23:36.97,Default,,0000,0000,0000,,Kenny!
+Dialogue: 0,0:23:40.94,0:23:43.09,Default,,0000,0000,0000,,Kenny and Levi meet again.
+Dialogue: 0,0:23:43.61,0:23:46.65,Default,,0000,0000,0000,,The enemy's target was Eren and Historia.
+Dialogue: 0,0:23:47.61,0:23:52.43,Default,,0000,0000,0000,,In order to get them back, Levi and\Nthe others must take aim and shoot.
+Dialogue: 0,0:23:52.99,0:23:56.54,Default,,0000,0000,0000,,Next episode: "Pain."
+Dialogue: 0,0:23:54.24,0:23:56.54,On Top,,0000,0000,0000,,"Pain"
+Dialogue: 0,0:23:56.54,0:23:58.53,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.53,0:24:00.55,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.55,0:24:02.54,Default,,0000,0000,0000,,

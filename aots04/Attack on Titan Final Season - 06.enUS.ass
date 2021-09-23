@@ -1,0 +1,263 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: Eyecatch3A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0165,0020,0080,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.54,0:00:05.63,Default,,0000,0000,0000,,Well, your father needs to get going.
+Dialogue: 0,0:00:05.63,0:00:09.42,Default,,0000,0000,0000,,Be good kids and listen to your big sister.
+Dialogue: 0,0:00:09.42,0:00:11.67,Default,,0000,0000,0000,,--Where are you going?\N--Don't leave!
+Dialogue: 0,0:00:11.67,0:00:14.09,Default,,0000,0000,0000,,--Bring me something!\N--I wanna go, too!
+Dialogue: 0,0:00:14.09,0:00:17.68,Default,,0000,0000,0000,,--No fair!\N--Let me come with you!\N--Pretty please!
+Dialogue: 0,0:00:17.68,0:00:21.43,Default,,0000,0000,0000,,Sorry. I'm afraid not this time.
+Dialogue: 0,0:00:21.43,0:00:25.23,Default,,0000,0000,0000,,--Huh? How come?\N--It's not fair!
+Dialogue: 0,0:00:25.23,0:00:30.65,Default,,0000,0000,0000,,Behave, you guys! Don't be selfish!\NYou're making it hard for him!
+Dialogue: 0,0:00:30.65,0:00:35.32,Default,,0000,0000,0000,,Fine... Make sure all the kids get along.
+Dialogue: 0,0:00:35.32,0:00:38.24,Default,,0000,0000,0000,,Yup! Good luck with your work!
+Dialogue: 0,0:00:38.24,0:00:42.00,Default,,0000,0000,0000,,Thanks. I think it's time I head out.
+Dialogue: 0,0:00:42.00,0:00:44.37,Default,,0000,0000,0000,,--Take care!\N--Bring me something!
+Dialogue: 0,0:00:44.37,0:00:46.12,Default,,0000,0000,0000,,Darling...
+Dialogue: 0,0:00:48.96,0:00:52.88,Default,,0000,0000,0000,,I'm sorry. Take care of the kids.
+Dialogue: 0,0:00:57.30,0:00:58.72,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:01:04.23,0:01:08.86,Default,,0000,0000,0000,,I suppose if I'm attacked,\Nit'll be during the speech?
+Dialogue: 0,0:01:08.86,0:01:13.40,Default,,0000,0000,0000,,I can't say for sure,\Nbut that seems the most likely.
+Dialogue: 0,0:01:13.40,0:01:18.37,Default,,0000,0000,0000,,Only then will most of our brass\Nbe gathered in one spot.
+Dialogue: 0,0:01:18.37,0:01:24.83,Default,,0000,0000,0000,,However, it's protocol to make escape\Nplans at the last moment for security.
+Dialogue: 0,0:01:24.83,0:01:27.96,Default,,0000,0000,0000,,Naturally, VIPs will use carriages.
+Dialogue: 0,0:01:27.96,0:01:31.63,Default,,0000,0000,0000,,Let's sit them at the\N"special seats" on the edge.
+Dialogue: 0,0:01:31.63,0:01:35.26,Default,,0000,0000,0000,,Clump them together as much as possible.
+Dialogue: 0,0:01:36.22,0:01:38.72,Default,,0000,0000,0000,,Are you sure about this?
+Dialogue: 0,0:01:38.72,0:01:44.39,Default,,0000,0000,0000,,Compared to our predecessors,\Nthe Tyburs haven't been playing around.
+Dialogue: 0,0:01:44.39,0:01:48.31,Default,,0000,0000,0000,,We've been building relations\Nwith the world's elite,
+Dialogue: 0,0:01:48.31,0:01:55.11,Default,,0000,0000,0000,,improving the reputation of Eldians,\Nand watching Paradis Island's movements.
+Dialogue: 0,0:01:55.11,0:01:59.07,Default,,0000,0000,0000,,But we should've been watching\Nour own backyard.
+Dialogue: 0,0:01:59.07,0:02:04.20,Default,,0000,0000,0000,,Before we knew it, we had enemies\Ncrossing the sea and at our necks.
+Dialogue: 0,0:02:04.20,0:02:08.54,Default,,0000,0000,0000,,At this point, they might get\Nsliced at any moment.
+Dialogue: 0,0:02:08.54,0:02:13.17,Default,,0000,0000,0000,,It's the conspirators working with\NParadis who I fear most.
+Dialogue: 0,0:02:13.17,0:02:16.72,Default,,0000,0000,0000,,We still don't know who they are.
+Dialogue: 0,0:02:16.72,0:02:21.51,Default,,0000,0000,0000,,As you know, our motherland\NMarley has many enemies.
+Dialogue: 0,0:02:21.51,0:02:24.01,Default,,0000,0000,0000,,Some, in our own military.
+Dialogue: 0,0:02:24.01,0:02:28.19,Default,,0000,0000,0000,,We'll smoke them out\Nby lighting a fire under their asses.
+Dialogue: 0,0:02:28.19,0:02:34.27,Default,,0000,0000,0000,,We can plan for their attack\Nand use it to our advantage.
+Dialogue: 0,0:02:34.27,0:02:39.36,Default,,0000,0000,0000,,Unless you have a better idea,\Nwe proceed as planned.
+Dialogue: 0,0:02:39.36,0:02:43.66,Default,,0000,0000,0000,,Even if they take the bait,\Nwe lose way too much.
+Dialogue: 0,0:02:43.66,0:02:46.54,Default,,0000,0000,0000,,We'll sacrifice incompetent officers.
+Dialogue: 0,0:02:46.54,0:02:52.46,Default,,0000,0000,0000,,If the enemy's goal is to damage\NMarley's military, it works perfectly.
+Dialogue: 0,0:02:52.46,0:02:58.30,Default,,0000,0000,0000,,When you rebuild the military, the party\Nwill approve whomever you choose.
+Dialogue: 0,0:02:58.30,0:03:01.26,Default,,0000,0000,0000,,But so many will die.
+Dialogue: 0,0:03:01.26,0:03:06.06,Default,,0000,0000,0000,,Most of them will be Eldians!\NThey're spawn of the devil!
+Dialogue: 0,0:03:09.85,0:03:13.61,Default,,0000,0000,0000,,Don't change on me now, Commander Magath.
+Dialogue: 0,0:03:13.61,0:03:20.49,Default,,0000,0000,0000,,You've sent countless Eldians marching\Ninto machine guns and land mines.
+Dialogue: 0,0:03:20.49,0:03:24.28,Default,,0000,0000,0000,,Why does it matter whether\Nthey wear uniforms or not?
+Dialogue: 0,0:03:24.28,0:03:27.49,Default,,0000,0000,0000,,Just keep doing what you've always done.
+Dialogue: 0,0:03:30.29,0:03:32.67,Default,,0000,0000,0000,,Let me say one thing:
+Dialogue: 0,0:03:32.67,0:03:39.01,Default,,0000,0000,0000,,This isn't war. We don't know the enemy,\Ntheir goal, or how they'll attack.
+Dialogue: 0,0:03:39.01,0:03:43.14,Default,,0000,0000,0000,,Plus, the venue will be packed\Nwith a huge crowd.
+Dialogue: 0,0:03:45.76,0:03:51.18,Default,,0000,0000,0000,,Lord Tybur, I doubt I'll be able to protect you.
+Dialogue: 0,0:03:51.18,0:03:57.73,Default,,0000,0000,0000,,If we proceed, you will die.\NThey won't pass you up as bait.
+Dialogue: 0,0:04:01.15,0:04:05.16,Default,,0000,0000,0000,,Of course. I'm prepared for that.
+Dialogue: 0,0:04:05.16,0:04:09.79,Default,,0000,0000,0000,,Unless I stand on stage,\Nthe world will not take notice.
+Dialogue: 0,0:04:09.79,0:04:15.21,Default,,0000,0000,0000,,The military, newspapers, and\Nambassadors won't gather in one place.
+Dialogue: 0,0:04:15.21,0:04:22.42,Default,,0000,0000,0000,,Above all, the Eldians of the internment\Nzone and I must be made tragic victims.
+Dialogue: 0,0:04:24.26,0:04:27.55,Default,,0000,0000,0000,,Victims of an "unforeseen attack."
+Dialogue: 0,0:04:27.55,0:04:33.27,Default,,0000,0000,0000,,If I am the sole survivor,\Nthe world will not become our ally.
+Dialogue: 0,0:04:39.90,0:04:44.36,Default,,0000,0000,0000,,There's no doubt that Eldians\Nare spawn of the devil.
+Dialogue: 0,0:04:44.36,0:04:49.24,Default,,0000,0000,0000,,And there's no doubt\Nthat we are devils ourselves.
+Dialogue: 0,0:06:45.98,0:06:50.99,On Top,,0000,0000,0000,,"The War Hammer Titan"
+Dialogue: 0,0:07:08.51,0:07:11.01,Default,,0000,0000,0000,,Get up, Gabi! Udo!
+Dialogue: 0,0:07:11.01,0:07:13.05,Default,,0000,0000,0000,,Stand up! Hurry!
+Dialogue: 0,0:07:15.68,0:07:17.89,Default,,0000,0000,0000,,Zofia?
+Dialogue: 0,0:07:21.02,0:07:23.02,Default,,0000,0000,0000,,--Zofia!\N--Udo, don't!
+Dialogue: 0,0:07:23.02,0:07:24.86,Default,,0000,0000,0000,,--Zofia!\N--Udo, get back!
+Dialogue: 0,0:07:25.82,0:07:27.90,Default,,0000,0000,0000,,Hurry! We gotta lift this!
+Dialogue: 0,0:07:27.90,0:07:29.24,Default,,0000,0000,0000,,Udo!
+Dialogue: 0,0:07:49.30,0:07:55.89,Default,,0000,0000,0000,,Brother... You fulfilled the\NTyburs' duty admirably.
+Dialogue: 0,0:08:20.91,0:08:24.17,Default,,0000,0000,0000,,Commander! The War Hammer is getting wrecked!
+Dialogue: 0,0:08:24.17,0:08:26.64,Default,,0000,0000,0000,,Commander! The Warriors are missing!
+Dialogue: 0,0:08:26.40,0:08:29.09,Default,,0000,0000,0000,,Captain Calvi and the brass are dead!
+Dialogue: 0,0:08:27.67,0:08:29.92,Default,,0000,0000,0000,,We should check for survivors!
+Dialogue: 0,0:08:29.09,0:08:30.84,Default,,0000,0000,0000,,It's dangerous here!
+Dialogue: 0,0:08:29.92,0:08:30.84,Default,,0000,0000,0000,,We need orders!
+Dialogue: 0,0:08:30.84,0:08:32.34,Default,,0000,0000,0000,,Commander!
+Dialogue: 0,0:08:35.09,0:08:37.01,Default,,0000,0000,0000,,Commander?
+Dialogue: 0,0:08:37.01,0:08:42.98,Default,,0000,0000,0000,,It's a useless plink, but this signals\Nthe beginning of Marley's counterattack.
+Dialogue: 0,0:08:42.98,0:08:46.19,Default,,0000,0000,0000,,To think they'd make such a grand entrance.
+Dialogue: 0,0:08:46.19,0:08:53.19,Default,,0000,0000,0000,,What's more, it looks to be the usurper\Nof the Founding Titan--the Attack Titan.
+Dialogue: 0,0:08:53.19,0:08:57.32,Default,,0000,0000,0000,,Eren Jaeger has come in person!
+Dialogue: 0,0:08:57.32,0:09:02.66,Default,,0000,0000,0000,,Saves us a trip to the island.\NGet in position! Prepare for battle!
+Dialogue: 0,0:09:02.66,0:09:04.37,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:09:19.89,0:09:22.35,Default,,0000,0000,0000,,Hey, what's all the ruckus about?
+Dialogue: 0,0:09:22.35,0:09:25.31,Default,,0000,0000,0000,,What are you doing?! We have to get out--
+Dialogue: 0,0:09:33.19,0:09:38.62,Default,,0000,0000,0000,,Remember it, people.\NI'm the one who took the first shot.
+Dialogue: 0,0:09:42.83,0:09:46.33,Default,,0000,0000,0000,,Shit! What the hell?! It's a battlefield now!
+Dialogue: 0,0:09:46.33,0:09:48.46,Default,,0000,0000,0000,,Colt! How's Udo?!
+Dialogue: 0,0:09:51.54,0:09:54.46,Default,,0000,0000,0000,,Not good. He needs the hospital.
+Dialogue: 0,0:09:54.46,0:09:57.51,Default,,0000,0000,0000,,Udo! You're kidding!
+Dialogue: 0,0:09:57.51,0:10:03.14,Default,,0000,0000,0000,,Shit! Falco! Where are you?!
+Dialogue: 0,0:10:06.10,0:10:08.85,Default,,0000,0000,0000,,What's happening out there?!
+Dialogue: 0,0:10:08.85,0:10:13.23,Default,,0000,0000,0000,,By these tremors, I'd guess Titans are fighting.
+Dialogue: 0,0:10:13.23,0:10:15.40,Default,,0000,0000,0000,,Are you serious?!
+Dialogue: 0,0:10:15.40,0:10:19.11,Default,,0000,0000,0000,,Us being trapped down here\Nis answer enough.
+Dialogue: 0,0:10:19.11,0:10:21.07,Default,,0000,0000,0000,,We've gotta get out somehow.
+Dialogue: 0,0:10:21.07,0:10:22.58,Default,,0000,0000,0000,,How?
+Dialogue: 0,0:10:22.58,0:10:24.24,Default,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:10:24.24,0:10:25.25,Default,,0000,0000,0000,,You're late!
+Dialogue: 0,0:10:25.25,0:10:26.09,Default,,0000,0000,0000,,Pieck!
+Dialogue: 0,0:10:26.09,0:10:27.04,Default,,0000,0000,0000,,You okay?!
+Dialogue: 0,0:10:27.04,0:10:28.75,Default,,0000,0000,0000,,Throw us a rope!
+Dialogue: 0,0:10:28.75,0:10:29.75,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:10:29.75,0:10:32.63,Default,,0000,0000,0000,,The Panzer Unit? How'd they know?
+Dialogue: 0,0:10:32.63,0:10:36.34,Default,,0000,0000,0000,,I told 'em to follow since Beardy was shady.
+Dialogue: 0,0:10:36.34,0:10:38.05,Default,,0000,0000,0000,,Back then?
+Dialogue: 0,0:10:38.05,0:10:42.47,Default,,0000,0000,0000,,This soldier seems shady. Follow behind us.
+Dialogue: 0,0:10:42.47,0:10:45.06,Default,,0000,0000,0000,,A Titan attacked during the speech!
+Dialogue: 0,0:10:45.06,0:10:46.06,Default,,0000,0000,0000,,For real?!
+Dialogue: 0,0:10:46.06,0:10:48.98,Default,,0000,0000,0000,,The War Hammer is fending it off!
+Dialogue: 0,0:10:48.98,0:10:50.60,Default,,0000,0000,0000,,Where's the Cart's gear?
+Dialogue: 0,0:10:50.60,0:10:53.31,Default,,0000,0000,0000,,At HQ! We'll have it done in 15!
+Dialogue: 0,0:10:53.31,0:10:54.36,Default,,0000,0000,0000,,Make it 10!
+Dialogue: 0,0:10:54.36,0:10:55.28,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:10:55.28,0:10:56.61,Default,,0000,0000,0000,,I'm going ahead.
+Dialogue: 0,0:10:56.61,0:11:00.11,Default,,0000,0000,0000,,Wait, Porco. Before you rush in...
+Dialogue: 0,0:11:00.11,0:11:01.78,Default,,0000,0000,0000,,What the--?!
+Dialogue: 0,0:11:01.78,0:11:05.41,Default,,0000,0000,0000,,You're kidding... There's no way!
+Dialogue: 0,0:11:49.25,0:11:50.03,Default,,0000,0000,0000,,Yeah, it hit!
+Dialogue: 0,0:11:50.03,0:11:52.37,Default,,0000,0000,0000,,Anti-Titan artillery packs a punch!
+Dialogue: 0,0:11:52.37,0:11:54.25,On Top,,0000,0000,0000,,Reload!
+Dialogue: 0,0:11:52.37,0:11:55.71,Default,,0000,0000,0000,,Commander Magath,\Nlet's finish off Eren Jaeger!
+Dialogue: 0,0:11:55.71,0:11:58.59,Default,,0000,0000,0000,,Without the Founding Titan, they're doomed!
+Dialogue: 0,0:11:58.59,0:11:59.23,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:11:59.23,0:12:00.01,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:00.01,0:12:03.47,Default,,0000,0000,0000,,Killing the Founding Titan\Nonly postpones the problem.
+Dialogue: 0,0:12:03.47,0:12:09.31,Default,,0000,0000,0000,,We need to have the War Hammer eat it!\NWe're here to ensure that happens!
+Dialogue: 0,0:12:09.31,0:12:11.94,Default,,0000,0000,0000,,B-But, Commander...
+Dialogue: 0,0:12:11.94,0:12:15.86,Default,,0000,0000,0000,,I don't think the War Hammer\Nis trying to eat it.
+Dialogue: 0,0:12:24.49,0:12:26.70,Default,,0000,0000,0000,,The War Hammer's a monster!
+Dialogue: 0,0:12:26.70,0:12:28.41,Default,,0000,0000,0000,,It beat the Attack Titan!
+Dialogue: 0,0:12:28.41,0:12:30.66,Default,,0000,0000,0000,,The War Hammer wins!
+Dialogue: 0,0:12:36.29,0:12:40.46,Default,,0000,0000,0000,,So that's Eren Jaeger, huh?
+Dialogue: 0,0:12:47.97,0:12:50.93,Default,,0000,0000,0000,,It's really gonna finish him off!
+Dialogue: 0,0:12:52.56,0:12:56.35,Default,,0000,0000,0000,,Usurper, Eren Jaeger.
+Dialogue: 0,0:12:56.35,0:13:00.53,Default,,0000,0000,0000,,Do you have any last words?
+Dialogue: 0,0:13:08.91,0:13:11.29,Default,,0000,0000,0000,,Now or never, Mikasa.
+Dialogue: 0,0:13:50.41,0:13:53.83,Default,,0000,0000,0000,,You guys actually came.
+Dialogue: 0,0:13:53.83,0:13:56.71,Default,,0000,0000,0000,,Eren, please...
+Dialogue: 0,0:13:56.71,0:13:58.50,Default,,0000,0000,0000,,Come home.
+Dialogue: 0,0:13:59.96,0:14:04.96,Eyecatch3A,,0000,0000,0000,,"Information Available for Public Disclosure"\N"The War Hammer Titan"\N"The Titan inherited by the Tybur family and held by Willy's younger sister, Lara Tybur. Its body is encased in a white shell created by its extraordinary hardening abilty.
+Dialogue: 0,0:13:59.96,0:14:04.96,Eyecatch3A,,0000,0000,0000,,Furthermore, it can use that same hardening\Nability to construct any weapon it envisions.\NIts war hammer, crossbow, and whip are just a few examples from its arsenal of Titan-sized weaponry it wields to fight."
+Dialogue: 0,0:14:06.01,0:14:11.51,Default,,0000,0000,0000,,With the chain of command broken,\Nour military will be put to the test!
+Dialogue: 0,0:14:11.51,0:14:16.60,Default,,0000,0000,0000,,Call down all our troops doing\Nspecial training in the mountains!
+Dialogue: 0,0:14:16.60,0:14:22.02,Default,,0000,0000,0000,,Bring the fleet, too! Converge on top\Nof 'em with 30,000 soldiers!
+Dialogue: 0,0:14:22.02,0:14:24.40,Default,,0000,0000,0000,,I want Liberio surrounded!
+Dialogue: 0,0:14:24.40,0:14:29.24,Default,,0000,0000,0000,,Don't let the Founding Titan\Nor a single island devil escape!
+Dialogue: 0,0:14:32.03,0:14:36.79,Default,,0000,0000,0000,,Have fun while it lasts.\NThere's no future for you now.
+Dialogue: 0,0:14:36.79,0:14:42.96,Default,,0000,0000,0000,,With this massacre, you just ensured\Nevery major nation gets involved now.
+Dialogue: 0,0:14:42.96,0:14:49.05,Default,,0000,0000,0000,,The world will see the Eldian Empire\Nas a threat, just like Willy planned.
+Dialogue: 0,0:14:49.05,0:14:52.47,Default,,0000,0000,0000,,Now, no one's gonna let you live.
+Dialogue: 0,0:14:53.43,0:14:58.02,Default,,0000,0000,0000,,But even they must've\Nknown that going into this.
+Dialogue: 0,0:14:58.02,0:14:59.94,Default,,0000,0000,0000,,Which means...
+Dialogue: 0,0:15:08.53,0:15:10.40,Default,,0000,0000,0000,,You damn devils!
+Dialogue: 0,0:15:10.40,0:15:12.49,Default,,0000,0000,0000,,Shoot 'em down!
+Dialogue: 0,0:15:17.58,0:15:20.04,Default,,0000,0000,0000,,Those morons!
+Dialogue: 0,0:15:20.04,0:15:22.96,Default,,0000,0000,0000,,Hey! You gonna burn the whole zone down?!
+Dialogue: 0,0:15:22.96,0:15:28.26,Default,,0000,0000,0000,,What part of keeping civilian casualties\Nto a minimum don't you get, Floch?!
+Dialogue: 0,0:15:28.26,0:15:32.14,Default,,0000,0000,0000,,The only thing here are enemies\Nand places they live!
+Dialogue: 0,0:15:32.14,0:15:37.31,Default,,0000,0000,0000,,Did you forget how they massacred\Nhumanity inside the walls?!
+Dialogue: 0,0:15:37.31,0:15:41.06,Default,,0000,0000,0000,,We were eaten alive, dammit!\NThey've got it coming!
+Dialogue: 0,0:15:41.06,0:15:43.02,Default,,0000,0000,0000,,You're still saying that?
+Dialogue: 0,0:15:43.02,0:15:47.78,Default,,0000,0000,0000,,Look. Eren's telling us something--to fight!
+Dialogue: 0,0:15:47.78,0:15:51.28,Default,,0000,0000,0000,,We shouldn't just wait\Nfor our deaths in the walls.
+Dialogue: 0,0:15:51.28,0:15:55.20,Default,,0000,0000,0000,,What we need... is a devil like him!
+Dialogue: 0,0:15:55.20,0:16:01.87,Default,,0000,0000,0000,,Eren... Do you have any idea what you've done?
+Dialogue: 0,0:16:04.04,0:16:08.42,Default,,0000,0000,0000,,You killed civilians.
+Dialogue: 0,0:16:08.42,0:16:11.42,Default,,0000,0000,0000,,You killed children, too.
+Dialogue: 0,0:16:12.34,0:16:16.10,Default,,0000,0000,0000,,You've done things that can't be undone.
+Dialogue: 0,0:16:22.23,0:16:26.19,Default,,0000,0000,0000,,Mikasa, it's not over yet.
+Dialogue: 0,0:16:26.19,0:16:29.73,Default,,0000,0000,0000,,Impossible! I blew away its nape!
+Dialogue: 0,0:16:29.73,0:16:33.15,Default,,0000,0000,0000,,And I crushed it with all my strength.
+Dialogue: 0,0:16:33.15,0:16:35.62,Default,,0000,0000,0000,,Yet, it's not dead.
+Dialogue: 0,0:16:40.95,0:16:42.79,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:16:44.83,0:16:51.01,Default,,0000,0000,0000,,The War Hammer Titan... It uses\Nhardening to make whatever it needs.
+Dialogue: 0,0:16:51.01,0:16:56.01,Default,,0000,0000,0000,,That must be why it won't die,\Nno matter what we do.
+Dialogue: 0,0:16:56.01,0:17:02.10,Default,,0000,0000,0000,,Mikasa, get its attention.\NIf this works, I can eat the War Hammer.
+Dialogue: 0,0:17:04.64,0:17:08.81,Default,,0000,0000,0000,,Sorry, we're at full capacity!\NAnd the kid's dead already!
+Dialogue: 0,0:17:08.81,0:17:11.19,Default,,0000,0000,0000,,Come on! At least look at him!
+Dialogue: 0,0:17:11.19,0:17:14.53,Default,,0000,0000,0000,,Aren't you a candidate? Take a look around you!
+Dialogue: 0,0:17:14.53,0:17:16.11,Default,,0000,0000,0000,,We need you, doc!
+Dialogue: 0,0:17:16.11,0:17:18.03,Default,,0000,0000,0000,,Okay, I'm coming!
+Dialogue: 0,0:17:21.45,0:17:25.41,Default,,0000,0000,0000,,Gabi, stay with your family.
+Dialogue: 0,0:17:25.41,0:17:31.71,Default,,0000,0000,0000,,I'm not sure if anywhere's safe.\NGet as far from the plaza as possible.
+Dialogue: 0,0:17:31.71,0:17:33.59,Default,,0000,0000,0000,,I'm gonna look for Falco and--
+Dialogue: 0,0:17:33.59,0:17:35.38,Default,,0000,0000,0000,,I'm going, too.
+Dialogue: 0,0:17:36.30,0:17:42.35,Default,,0000,0000,0000,,Because I don't understand\Nwhy Udo and Zofia had to die.
+Dialogue: 0,0:17:42.35,0:17:44.60,Default,,0000,0000,0000,,Wait, Gabi! Don't!
+Dialogue: 0,0:17:50.23,0:17:53.69,Default,,0000,0000,0000,,Hey, stop! You're headed towards a war zone!
+Dialogue: 0,0:17:53.69,0:17:54.65,Default,,0000,0000,0000,,Gabi!
+Dialogue: 0,0:17:54.65,0:17:56.53,Default,,0000,0000,0000,,What are you doing here?!
+Dialogue: 0,0:17:56.53,0:18:00.87,Default,,0000,0000,0000,,Mr. Gate Guard! I'll fight, so let me through!
+Dialogue: 0,0:18:00.87,0:18:05.08,Default,,0000,0000,0000,,Don't be an idiot, brat!\NYou head back home and...
+Dialogue: 0,0:18:05.96,0:18:06.69,Default,,0000,0000,0000,,What the--?!
+Dialogue: 0,0:18:06.69,0:18:07.46,Default,,0000,0000,0000,,Enemy attack?!
+Dialogue: 0,0:18:07.46,0:18:08.92,Default,,0000,0000,0000,,From where?!
+Dialogue: 0,0:18:11.75,0:18:12.78,Default,,0000,0000,0000,,They're above!
+Dialogue: 0,0:18:12.78,0:18:13.59,Default,,0000,0000,0000,,Shit!
+Dialogue: 0,0:18:13.59,0:18:15.63,Default,,0000,0000,0000,,Go on, Gabi! Run!
+Dialogue: 0,0:18:17.09,0:18:18.72,Default,,0000,0000,0000,,Hey, are you--?
+Dialogue: 0,0:18:22.05,0:18:24.27,Default,,0000,0000,0000,,Mister...
+Dialogue: 0,0:18:36.74,0:18:39.78,Default,,0000,0000,0000,,This side's blocked off. Let's go, Sasha.
+Dialogue: 0,0:18:39.78,0:18:43.49,Default,,0000,0000,0000,,Conny... Did you forget about the lights?
+Dialogue: 0,0:18:43.49,0:18:45.45,Default,,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:19:06.93,0:19:09.56,Default,,0000,0000,0000,,Jean, we stalled the reinforcements.
+Dialogue: 0,0:19:09.56,0:19:10.98,Default,,0000,0000,0000,,And the lights?
+Dialogue: 0,0:19:10.98,0:19:12.94,Default,,0000,0000,0000,,They're all in place.
+Dialogue: 0,0:19:12.94,0:19:14.61,Default,,0000,0000,0000,,Are things going well?
+Dialogue: 0,0:19:14.61,0:19:16.69,Default,,0000,0000,0000,,For the time being.
+Dialogue: 0,0:19:22.49,0:19:26.08,Default,,0000,0000,0000,,As long as we take that thing out in time.
+Dialogue: 0,0:19:26.08,0:19:30.50,Default,,0000,0000,0000,,But who knows?\NAnything can happen at this point.
+Dialogue: 0,0:19:34.79,0:19:41.88,Default,,0000,0000,0000,,What's to come when this battle is over?\NFor us to know, we have to survive.
+Dialogue: 0,0:19:58.69,0:20:01.82,Default,,0000,0000,0000,,I knew something felt off to me.
+Dialogue: 0,0:20:01.82,0:20:06.28,Default,,0000,0000,0000,,It didn't seem right how\Nthe War Hammer appeared.
+Dialogue: 0,0:20:07.37,0:20:11.91,Default,,0000,0000,0000,,And that's because its body\Nformed from the feet up.
+Dialogue: 0,0:20:13.37,0:20:19.09,Default,,0000,0000,0000,,Not from its nape, but from\Nunderneath the stage.
+Dialogue: 0,0:20:22.34,0:20:25.43,Default,,0000,0000,0000,,Which means its body is...
+Dialogue: 0,0:20:55.62,0:20:59.71,Default,,0000,0000,0000,,Shoot! The War Hammer\Nis about to get eaten!
+Dialogue: 0,0:21:10.35,0:21:15.19,Default,,0000,0000,0000,,I've been waiting for this moment!\NI'm retaking the Founding Titan!
+Dialogue: 0,0:21:16.15,0:21:17.65,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:21:20.48,0:21:23.36,Default,,0000,0000,0000,,What?! I can't bite?!
+Dialogue: 0,0:21:25.86,0:21:30.24,Default,,0000,0000,0000,,Was that him?! Is that... Ackermann?!
+Dialogue: 0,0:21:35.16,0:21:37.17,Default,,0000,0000,0000,,This ain't looking good!
+Dialogue: 0,0:21:47.76,0:21:52.01,Default,,0000,0000,0000,,You're kidding! Can't you see I'm a Titan?!
+Dialogue: 0,0:21:54.60,0:22:00.77,Default,,0000,0000,0000,,These guys are just humans,\Nyet they're coming to kill me?!
+Dialogue: 0,0:22:02.32,0:22:07.40,Default,,0000,0000,0000,,These guys... They're the devils of Paradis!
+Dialogue: 0,0:23:40.66,0:23:43.13,Default,,0000,0000,0000,,The devils of Paradis.
+Dialogue: 0,0:23:43.13,0:23:48.51,Default,,0000,0000,0000,,The Warriors take a stand against\Nsoldiers who soar through the air.
+Dialogue: 0,0:23:48.51,0:23:52.89,Default,,0000,0000,0000,,Will Gabi and Falco's cries reach Reiner?
+Dialogue: 0,0:23:52.89,0:23:54.89,Default,,0000,0000,0000,,Next episode: "Assault."
+Dialogue: 0,0:23:52.93,0:23:54.89,On Top,,0000,0000,0000,,"Assault"

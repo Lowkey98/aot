@@ -1,0 +1,261 @@
+[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:29.94,0:01:34.94,Default,,0000,0000,0000,,"The Basement"
+Dialogue: 0,0:01:41.62,0:01:42.87,Default,,0000,0000,0000,,Armin! Get down!
+Dialogue: 0,0:01:54.00,0:01:54.92,Default,,0000,0000,0000,,It hurts...
+Dialogue: 0,0:01:55.88,0:01:57.25,Default,,0000,0000,0000,,It hurts so bad...
+Dialogue: 0,0:02:28.12,0:02:29.53,Default,,0000,0000,0000,,Bertholdt...
+Dialogue: 0,0:02:32.46,0:02:33.29,Default,,0000,0000,0000,,It hurts...
+Dialogue: 0,0:02:36.46,0:02:38.30,Default,,0000,0000,0000,,It hurts so bad...
+Dialogue: 0,0:02:38.55,0:02:39.72,Default,,0000,0000,0000,,Sasha?
+Dialogue: 0,0:02:40.93,0:02:42.05,Default,,0000,0000,0000,,Sasha!
+Dialogue: 0,0:02:42.51,0:02:45.81,Default,,0000,0000,0000,,You're in terrible shape... What happened...?
+Dialogue: 0,0:02:46.60,0:02:47.39,Default,,0000,0000,0000,,Armin!
+Dialogue: 0,0:02:49.94,0:02:50.77,Default,,0000,0000,0000,,Eren?
+Dialogue: 0,0:02:57.99,0:03:00.32,Default,,0000,0000,0000,,I'm glad... you're back!
+Dialogue: 0,0:03:02.53,0:03:03.60,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:06.70,0:03:07.68,Default,,0000,0000,0000,,You're up?
+Dialogue: 0,0:03:09.29,0:03:10.44,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:03:11.62,0:03:14.73,Default,,0000,0000,0000,,What in the world happened here?
+Dialogue: 0,0:03:15.50,0:03:18.57,Default,,0000,0000,0000,,I remember... Bertholdt becoming a Titan...
+Dialogue: 0,0:03:19.59,0:03:22.55,Default,,0000,0000,0000,,What about the others?! Are they okay?!
+Dialogue: 0,0:03:23.51,0:03:25.97,Default,,0000,0000,0000,,That's as far back as you remember?
+Dialogue: 0,0:03:26.43,0:03:27.18,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:27.77,0:03:30.09,Default,,0000,0000,0000,,Eren, tell him everything.
+Dialogue: 0,0:03:52.00,0:03:54.71,Default,,0000,0000,0000,,Well? Up to speed, Armin?
+Dialogue: 0,0:03:58.55,0:04:01.80,Default,,0000,0000,0000,,Are you telling me... the Scout Regiment...
+Dialogue: 0,0:04:02.26,0:04:05.84,Default,,0000,0000,0000,,...is the nine of us here... and that's it?
+Dialogue: 0,0:04:06.26,0:04:07.76,Default,,0000,0000,0000,,For the time being.
+Dialogue: 0,0:04:08.22,0:04:10.29,Default,,0000,0000,0000,,The fighting ended four hours ago.
+Dialogue: 0,0:04:10.60,0:04:13.70,Default,,0000,0000,0000,,We've been looking for survivors,\Nbut... none yet...
+Dialogue: 0,0:04:16.23,0:04:21.24,Default,,0000,0000,0000,,S-So, we managed to seal\Nthe walls of Shiganshina...
+Dialogue: 0,0:04:22.07,0:04:25.65,Default,,0000,0000,0000,,But Reiner, the Beast Titan,\Nand one other escaped...
+Dialogue: 0,0:04:26.37,0:04:28.24,Default,,0000,0000,0000,,Bertholdt was captured...
+Dialogue: 0,0:04:28.95,0:04:32.54,Default,,0000,0000,0000,,Then... there was a dispute...
+Dialogue: 0,0:04:32.54,0:04:35.25,Default,,0000,0000,0000,,...about using the injection on\NCommander Erwin or me...
+Dialogue: 0,0:04:36.58,0:04:37.45,Default,,0000,0000,0000,,And I...
+Dialogue: 0,0:04:38.42,0:04:42.75,Default,,0000,0000,0000,,...turned into a Titan and ate B-Bertholdt...
+Dialogue: 0,0:04:48.43,0:04:49.30,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:05:04.90,0:05:07.70,Default,,0000,0000,0000,,Why... did you pick me?
+Dialogue: 0,0:05:09.16,0:05:11.37,Default,,0000,0000,0000,,No matter how you look at it,
+Dialogue: 0,0:05:11.37,0:05:14.25,Default,,0000,0000,0000,,wasn't Commander Erwin\Nthe right one to bring back?
+Dialogue: 0,0:05:15.16,0:05:18.33,Default,,0000,0000,0000,,Captain! Why did you give me the injection?!
+Dialogue: 0,0:05:18.92,0:05:19.57,Default,,0000,0000,0000,,Tsk!
+Dialogue: 0,0:05:21.00,0:05:22.96,Default,,0000,0000,0000,,I told you to tell him everything.
+Dialogue: 0,0:05:23.71,0:05:28.29,Default,,0000,0000,0000,,The thing is, it seems your two\Nfriends here didn't think that way.
+Dialogue: 0,0:05:29.01,0:05:33.02,Default,,0000,0000,0000,,They stood up to me... \Nprepared to draw blood.
+Dialogue: 0,0:05:33.02,0:05:33.81,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:34.22,0:05:36.84,Default,,0000,0000,0000,,We'll take whatever punishment comes.
+Dialogue: 0,0:05:38.06,0:05:41.00,Default,,0000,0000,0000,,You'll be disciplined for\Ninsubordination, but...
+Dialogue: 0,0:05:41.52,0:05:44.07,Default,,0000,0000,0000,,Does taking the punishment\Nallow you to do anything?
+Dialogue: 0,0:05:45.28,0:05:46.02,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:05:47.74,0:05:48.62,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:05:49.70,0:05:52.38,Default,,0000,0000,0000,,The final decision to choose you was mine.
+Dialogue: 0,0:05:53.20,0:05:53.86,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:05:55.00,0:05:58.41,Default,,0000,0000,0000,,I chose this to be the \Nplace where Erwin dies.
+Dialogue: 0,0:06:02.80,0:06:04.69,Default,,0000,0000,0000,,I don't understand...
+Dialogue: 0,0:06:05.26,0:06:08.02,Default,,0000,0000,0000,,There's no way it's okay to let Erwin die...
+Dialogue: 0,0:06:08.84,0:06:14.15,Default,,0000,0000,0000,,If the commander is gone,\Nhow... how will we go on?
+Dialogue: 0,0:06:15.81,0:06:19.81,Default,,0000,0000,0000,,I agree. I thought it should've\Nbeen used on Erwin...
+Dialogue: 0,0:06:20.31,0:06:21.77,Default,,0000,0000,0000,,...if we're being brutally honest.
+Dialogue: 0,0:06:23.02,0:06:26.80,Default,,0000,0000,0000,,No... It's a shame we were\Nput in that position...
+Dialogue: 0,0:06:30.24,0:06:34.16,Default,,0000,0000,0000,,Anyways, Erwin entrusted Levi\Nwith the decision to use it.
+Dialogue: 0,0:06:34.74,0:06:36.98,Default,,0000,0000,0000,,And Levi ended up choosing you.
+Dialogue: 0,0:06:37.62,0:06:39.21,Default,,0000,0000,0000,,There's nothing more to say.
+Dialogue: 0,0:06:40.08,0:06:43.78,Default,,0000,0000,0000,,Erwin's life and a Titan's power\Nrest on your shoulders.
+Dialogue: 0,0:06:44.59,0:06:49.93,Default,,0000,0000,0000,,No matter what anyone says,\Nthat's part of who you are now, Armin.
+Dialogue: 0,0:06:53.55,0:06:58.48,Default,,0000,0000,0000,,Does that mean... I need to be...\NErwin's replacement?
+Dialogue: 0,0:06:59.39,0:07:01.84,Default,,0000,0000,0000,,No way... I can't...
+Dialogue: 0,0:07:04.82,0:07:06.36,Default,,0000,0000,0000,,Don't get me wrong.
+Dialogue: 0,0:07:07.07,0:07:09.33,Default,,0000,0000,0000,,You'll never be Erwin's replacement.
+Dialogue: 0,0:07:10.95,0:07:11.81,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:07:12.45,0:07:16.57,Default,,0000,0000,0000,,...I know you have a strength\Nthat nobody else has but you.
+Dialogue: 0,0:07:18.41,0:07:20.64,Default,,0000,0000,0000,,I won't regret my decision.
+Dialogue: 0,0:07:21.33,0:07:24.50,Default,,0000,0000,0000,,However, don't make these guys regret it.
+Dialogue: 0,0:07:25.38,0:07:26.50,Default,,0000,0000,0000,,Nor anyone else.
+Dialogue: 0,0:07:28.51,0:07:30.77,Default,,0000,0000,0000,,And don't regret it yourself, either.
+Dialogue: 0,0:07:32.22,0:07:33.97,Default,,0000,0000,0000,,That is your mission.
+Dialogue: 0,0:07:42.52,0:07:43.48,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:07:53.99,0:07:56.19,Default,,0000,0000,0000,,We're no match for Sasha.
+Dialogue: 0,0:07:56.83,0:08:01.46,Default,,0000,0000,0000,,Well, being the successor of Erwin\Nas commander of the Scouts,
+Dialogue: 0,0:08:01.46,0:08:03.34,Default,,0000,0000,0000,,we're kinda in the same boat.
+Dialogue: 0,0:08:04.21,0:08:07.00,Default,,0000,0000,0000,,From here on out,\Nwe'll have to grin and bear it.
+Dialogue: 0,0:08:09.00,0:08:09.96,Default,,0000,0000,0000,,Right...
+Dialogue: 0,0:08:11.51,0:08:12.63,Default,,0000,0000,0000,,Now then...
+Dialogue: 0,0:08:13.26,0:08:16.26,Default,,0000,0000,0000,,If it's not a problem for Armin,\Nwe should get going.
+Dialogue: 0,0:08:17.39,0:08:20.89,Default,,0000,0000,0000,,Levi, Eren, Mikasa, and \NI will go investigate.
+Dialogue: 0,0:08:21.43,0:08:25.40,Default,,0000,0000,0000,,You other four keep watch\Nfrom atop Shiganshina's wall.
+Dialogue: 0,0:08:25.40,0:08:26.03,Default,,0000,0000,0000,,Roger.
+Dialogue: 0,0:08:26.90,0:08:29.73,Default,,0000,0000,0000,,Eren. Do you still have the key?
+Dialogue: 0,0:08:31.40,0:08:32.16,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:34.53,0:08:35.31,Default,,0000,0000,0000,,Right here.
+Dialogue: 0,0:08:37.49,0:08:38.27,Default,,0000,0000,0000,,Eren...
+Dialogue: 0,0:08:38.87,0:08:39.92,Default,,0000,0000,0000,,When I get back,
+Dialogue: 0,0:08:40.33,0:08:43.45,Default,,0000,0000,0000,,I'll show you the basement that\NI've kept secret all this time.
+Dialogue: 0,0:08:44.71,0:08:45.42,Default,,0000,0000,0000,,Hey, Eren!
+Dialogue: 0,0:08:46.38,0:08:49.14,Default,,0000,0000,0000,,How many times must I say\Nyou can't go in the basement?!
+Dialogue: 0,0:08:49.42,0:08:51.20,Default,,0000,0000,0000,,Why aren't I allowed to?!
+Dialogue: 0,0:08:51.55,0:08:54.38,Default,,0000,0000,0000,,Because your father keeps \Nhis work tools there.
+Dialogue: 0,0:08:54.38,0:08:55.34,Default,,0000,0000,0000,,Medicine, too.
+Dialogue: 0,0:08:55.97,0:08:57.61,Default,,0000,0000,0000,,It's dangerous for children.
+Dialogue: 0,0:08:59.64,0:09:00.53,Default,,0000,0000,0000,,Tsk...
+Dialogue: 0,0:09:10.11,0:09:11.48,Default,,0000,0000,0000,,Your intentions are the key.
+Dialogue: 0,0:09:12.86,0:09:16.41,Default,,0000,0000,0000,,The key to saving humankind \Nfrom this despair.
+Dialogue: 0,0:09:17.24,0:09:20.08,Default,,0000,0000,0000,,We have reason to believe that the\Nbasement of his home in Shiganshina...
+Dialogue: 0,0:09:20.53,0:09:23.13,Default,,0000,0000,0000,,...houses a secret of the Titans\Nthat not even {\i1}he{\i0} is aware of.
+Dialogue: 0,0:09:23.87,0:09:28.38,Default,,0000,0000,0000,,If we can just reach this basement,\Nwe may be able to obtain information
+Dialogue: 0,0:09:28.38,0:09:33.26,Default,,0000,0000,0000,,that will help us break free from\Nthe Titans' century-long tyranny.
+Dialogue: 0,0:10:02.41,0:10:04.70,Default,,0000,0000,0000,,Hey, where's your house?
+Dialogue: 0,0:10:04.70,0:10:06.00,Default,,0000,0000,0000,,R-Right...
+Dialogue: 0,0:11:59.44,0:12:00.69,Default,,0000,0000,0000,,Is this it?
+Dialogue: 0,0:12:24.68,0:12:25.51,Default,,0000,0000,0000,,Hey, Dad!
+Dialogue: 0,0:12:26.05,0:12:28.34,Default,,0000,0000,0000,,When will you show me\Nwhat's in the basement?
+Dialogue: 0,0:12:28.97,0:12:29.97,Default,,0000,0000,0000,,Who knows?
+Dialogue: 0,0:12:30.89,0:12:34.51,Default,,0000,0000,0000,,Perhaps when you realize\Nthe most important thing of all.
+Dialogue: 0,0:12:49.99,0:12:55.00,Eyecatch1A,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Basement Key"\N"Grisha Jaeger, having come from outside the walls and thus knowing many secrets, entrusted the basement key to his son. The basement will likely reveal the mysteries of the world which Grisha couldn't mention to anyone."
+Dialogue: 0,0:12:56.88,0:13:00.34,Default,,0000,0000,0000,,Luckily, the fires didn't make it this far.
+Dialogue: 0,0:13:21.61,0:13:22.32,Default,,0000,0000,0000,,Right here.
+Dialogue: 0,0:13:22.99,0:13:25.31,Default,,0000,0000,0000,,Under this are the stairs to the basement.
+Dialogue: 0,0:13:25.65,0:13:26.57,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:13:49.80,0:13:52.93,Default,,0000,0000,0000,,That's a relief. It's not flooded with water.
+Dialogue: 0,0:13:54.93,0:13:55.87,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:14:16.41,0:14:17.05,Default,,0000,0000,0000,,Eren.
+Dialogue: 0,0:14:18.33,0:14:19.07,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:14:29.47,0:14:30.23,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:14:30.84,0:14:31.47,Default,,0000,0000,0000,,Eren?
+Dialogue: 0,0:14:31.89,0:14:32.89,Default,,0000,0000,0000,,Hurry it up.
+Dialogue: 0,0:14:35.22,0:14:39.52,Default,,0000,0000,0000,,This... This key...\NIt doesn't go to this door...
+Dialogue: 0,0:14:39.98,0:14:40.73,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:14:41.31,0:14:45.55,Default,,0000,0000,0000,,You're kidding... I'm certain that's\Nthe key Dr. Jaeger had.
+Dialogue: 0,0:14:46.03,0:14:47.32,Default,,0000,0000,0000,,Step aside.
+Dialogue: 0,0:14:47.32,0:14:48.40,Default,,0000,0000,0000,,I'll open it.
+Dialogue: 0,0:14:48.40,0:14:49.78,Default,,0000,0000,0000,,Huh? Wait...
+Dialogue: 0,0:14:53.74,0:14:55.01,Default,,0000,0000,0000,,Hold up...
+Dialogue: 0,0:15:15.76,0:15:19.14,Default,,0000,0000,0000,,It almost feels like a laboratory down here.
+Dialogue: 0,0:15:19.14,0:15:24.06,Default,,0000,0000,0000,,My dad was a doctor, so... he was always\Ncooped up down here mixing medicine.
+Dialogue: 0,0:15:24.52,0:15:26.07,Default,,0000,0000,0000,,That makes sense.
+Dialogue: 0,0:15:27.40,0:15:34.41,Default,,0000,0000,0000,,In fact, if this medicine is all labeled\Ncorrectly, it's stuff that's widely available.
+Dialogue: 0,0:15:34.41,0:15:39.12,Default,,0000,0000,0000,,And since all the books here relate to medicine,\Nat first glance, it's just a doctor's study.
+Dialogue: 0,0:15:39.71,0:15:42.19,Default,,0000,0000,0000,,"There's nothing suspicious here."
+Dialogue: 0,0:15:42.58,0:15:45.13,Default,,0000,0000,0000,,It's like that's what he\Nwants people to think.
+Dialogue: 0,0:15:45.46,0:15:46.19,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:15:46.75,0:15:51.62,Default,,0000,0000,0000,,If you're hiding stuff from the Interior Police,\Nyou wouldn't want it out in the open.
+Dialogue: 0,0:15:53.72,0:15:56.39,Default,,0000,0000,0000,,Hey. Quit standing around, brats.
+Dialogue: 0,0:15:56.68,0:15:58.79,Default,,0000,0000,0000,,Erwin's hunches are rarely wrong.
+Dialogue: 0,0:15:59.89,0:16:00.47,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:16:20.75,0:16:23.90,Default,,0000,0000,0000,,Thanks, Mikasa. It's another all-nighter.
+Dialogue: 0,0:16:30.67,0:16:31.55,Default,,0000,0000,0000,,Eren...
+Dialogue: 0,0:16:33.38,0:16:35.34,Default,,0000,0000,0000,,There's a keyhole right here.
+Dialogue: 0,0:16:41.56,0:16:42.12,Default,,0000,0000,0000,,Eren.
+Dialogue: 0,0:16:48.73,0:16:49.62,Default,,0000,0000,0000,,It opened.
+Dialogue: 0,0:16:56.12,0:16:57.37,Default,,0000,0000,0000,,It's empty?!
+Dialogue: 0,0:16:57.37,0:16:58.37,Default,,0000,0000,0000,,Look closer.
+Dialogue: 0,0:17:00.08,0:17:01.22,Default,,0000,0000,0000,,It's a false bottom.
+Dialogue: 0,0:17:07.42,0:17:09.98,Default,,0000,0000,0000,,It smells like peppermint oil and charcoal.
+Dialogue: 0,0:17:10.59,0:17:13.55,Default,,0000,0000,0000,,Were these treated to keep\Nmoisture and bugs away?
+Dialogue: 0,0:17:14.01,0:17:16.01,Default,,0000,0000,0000,,We were looking for something...
+Dialogue: 0,0:17:16.59,0:17:17.66,Default,,0000,0000,0000,,and these must be it.
+Dialogue: 0,0:17:26.23,0:17:30.09,Default,,0000,0000,0000,,I wonder what it was\Nmy dad wanted to show me.
+Dialogue: 0,0:17:53.13,0:17:56.51,Default,,0000,0000,0000,,That's when Erwin asked this question...
+Dialogue: 0,0:17:57.51,0:18:02.29,Default,,0000,0000,0000,,"How do we know there's not\Nmore humans outside the walls?"
+Dialogue: 0,0:18:03.52,0:18:08.10,Default,,0000,0000,0000,,He insisted that as long as we haven't\Nbeen able to freely explore the outside,
+Dialogue: 0,0:18:08.10,0:18:13.03,Default,,0000,0000,0000,,we can't know for sure if humanity\Nwas completely wiped out by Titans.
+Dialogue: 0,0:18:13.78,0:18:17.66,Default,,0000,0000,0000,,And yet, history books declare\Nthe rest were wiped out.
+Dialogue: 0,0:18:17.66,0:18:18.26,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:18:18.74,0:18:22.29,Default,,0000,0000,0000,,If you consider that history books\Nshould maintain an objective viewpoint,
+Dialogue: 0,0:18:22.62,0:18:26.28,Default,,0000,0000,0000,,it should read, "It is believed\Nthe rest of humanity was wiped out."
+Dialogue: 0,0:18:26.79,0:18:30.13,Default,,0000,0000,0000,,You're just trying to find fault\Nin anything and everything.
+Dialogue: 0,0:18:30.13,0:18:33.09,Default,,0000,0000,0000,,I'm not! There's intent behind it!
+Dialogue: 0,0:18:33.63,0:18:34.80,Default,,0000,0000,0000,,For example...
+Dialogue: 0,0:18:34.80,0:18:38.62,Default,,0000,0000,0000,,To make us believe that humanity\Ndoesn't exist outside the walls.
+Dialogue: 0,0:18:39.09,0:18:43.17,Default,,0000,0000,0000,,That is, by the royal government\Nthat issues the books.
+Dialogue: 0,0:18:43.97,0:18:45.51,Default,,0000,0000,0000,,You're overthinking it.
+Dialogue: 0,0:18:45.93,0:18:48.33,Default,,0000,0000,0000,,This is what they call splitting hairs.
+Dialogue: 0,0:18:50.15,0:18:53.52,Default,,0000,0000,0000,,I was teasing him back then,\Nbut look at us now...
+Dialogue: 0,0:18:54.07,0:18:57.01,Default,,0000,0000,0000,,You'll just have to apologize\Nto the man himself.
+Dialogue: 0,0:19:00.24,0:19:02.79,Default,,0000,0000,0000,,In not too long, it'll be dawn.
+Dialogue: 0,0:19:03.53,0:19:06.49,Default,,0000,0000,0000,,If our heroes were to return,\Nit's about that time...
+Dialogue: 0,0:19:08.00,0:19:10.79,Default,,0000,0000,0000,,The Scouts returned just a moment ago!
+Dialogue: 0,0:19:11.50,0:19:14.05,Default,,0000,0000,0000,,They successfully took back Wall Maria!
+Dialogue: 0,0:19:37.11,0:19:39.43,Default,,0000,0000,0000,,This is... a portrait?
+Dialogue: 0,0:19:40.70,0:19:41.77,Default,,0000,0000,0000,,Let me see that.
+Dialogue: 0,0:19:43.49,0:19:48.04,Default,,0000,0000,0000,,No... It's far too detailed for this\Nto be drawn by a person.
+Dialogue: 0,0:19:48.37,0:19:50.38,Default,,0000,0000,0000,,That's Dr. Jaeger's writing.
+Dialogue: 0,0:19:52.37,0:19:54.14,Default,,0000,0000,0000,,"This is no illustration.
+Dialogue: 0,0:19:54.54,0:19:58.30,Default,,0000,0000,0000,,Instead, this uses light\Nreflected off a subject...
+Dialogue: 0,0:19:58.30,0:20:01.30,Default,,0000,0000,0000,,...and burns the image on special paper.
+Dialogue: 0,0:20:01.51,0:20:03.36,Default,,0000,0000,0000,,It's called a photograph.
+Dialogue: 0,0:20:04.14,0:20:06.18,Default,,0000,0000,0000,,I come from a place outside"...
+Dialogue: 0,0:20:06.18,0:20:08.98,Default,,0000,0000,0000,,...the walls where humanity \Nlives in elegance.
+Dialogue: 0,0:20:10.73,0:20:13.20,Default,,0000,0000,0000,,Humanity has not perished.
+Dialogue: 0,0:20:13.94,0:20:18.49,Default,,0000,0000,0000,,I pray the person who finds\Nthis book is a fellow patriot.
+Dialogue: 0,0:21:38.81,0:21:41.94,Default,,0000,0000,0000,,Hurry, Fay! We'll lose it unless we're fast!
+Dialogue: 0,0:21:41.94,0:21:43.63,Default,,0000,0000,0000,,Wait up, Grisha!
+Dialogue: 0,0:21:44.24,0:21:46.32,Default,,0000,0000,0000,,You two stop right there.
+Dialogue: 0,0:21:47.61,0:21:51.25,Default,,0000,0000,0000,,I told you not to forget\Nyour armbands when you go outside.
+Dialogue: 0,0:21:51.91,0:21:55.71,Default,,0000,0000,0000,,Grisha, you absolutely \Nmust not leave the walls.
+Dialogue: 0,0:21:55.71,0:21:56.83,Default,,0000,0000,0000,,Hey, wait!
+Dialogue: 0,0:21:58.42,0:22:00.00,Default,,0000,0000,0000,,I got it, Mom!
+Dialogue: 0,0:22:00.00,0:22:01.63,Default,,0000,0000,0000,,We'll be back!
+Dialogue: 0,0:22:02.96,0:22:03.62,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:22:11.43,0:22:15.54,Default,,0000,0000,0000,,When I first thought as to how\NI should start my story...
+Dialogue: 0,0:22:16.19,0:22:18.17,Default,,0000,0000,0000,,...I immediately thought of that day.
+Dialogue: 0,0:22:18.65,0:22:19.76,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:22:20.69,0:22:22.07,Default,,0000,0000,0000,,--Whoa!\N--Sorry!
+Dialogue: 0,0:22:22.07,0:22:24.90,Default,,0000,0000,0000,,Grisha, be careful! Watch where you're going!
+Dialogue: 0,0:22:27.99,0:22:30.03,Default,,0000,0000,0000,,Oh... It's leaving...
+Dialogue: 0,0:22:31.70,0:22:32.88,Default,,0000,0000,0000,,Must be nice...
+Dialogue: 0,0:22:33.16,0:22:37.75,Default,,0000,0000,0000,,Someday when I'm rich, will I be able\Nto ride on an airship, too?
+Dialogue: 0,0:22:39.17,0:22:43.42,Default,,0000,0000,0000,,What are you talking about?\NThere's no way either of us will get rich.
+Dialogue: 0,0:22:44.05,0:22:44.68,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:22:45.34,0:22:46.67,Default,,0000,0000,0000,,But it must be nice...
+Dialogue: 0,0:22:47.55,0:22:49.76,Default,,0000,0000,0000,,I wonder what we could see from up there.
+Dialogue: 0,0:22:55.72,0:22:56.86,Default,,0000,0000,0000,,There it goes...
+Dialogue: 0,0:23:11.41,0:23:12.49,Default,,0000,0000,0000,,Let's go, Fay!
+Dialogue: 0,0:23:12.49,0:23:13.58,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:23:13.58,0:23:17.71,Default,,0000,0000,0000,,My teacher said the airships take off\Nand land at a place near here!
+Dialogue: 0,0:23:17.71,0:23:18.50,Default,,0000,0000,0000,,Let's go see!
+Dialogue: 0,0:23:18.96,0:23:22.38,Default,,0000,0000,0000,,What?! But Mom said we're\Nnot allowed to leave the walls!
+Dialogue: 0,0:23:22.67,0:23:24.96,Default,,0000,0000,0000,,It'll be fine! Just for a bit!
+Dialogue: 0,0:23:25.09,0:23:25.84,Default,,0000,0000,0000,,--We'll be right back!
+Dialogue: 0,0:23:25.84,0:23:27.97,Default,,0000,0000,0000,,--Hey! Get back here!\N--We'll be right back!
+Dialogue: 0,0:23:28.88,0:23:30.52,Default,,0000,0000,0000,,That naive day of my youth...
+Dialogue: 0,0:23:31.18,0:23:32.06,Default,,0000,0000,0000,,...when I...
+Dialogue: 0,0:23:32.89,0:23:35.41,Default,,0000,0000,0000,,...had to face the truth of this world.
+Dialogue: 0,0:23:40.56,0:23:46.53,Default,,0000,0000,0000,,His story began with pulling his sister's hand\Nwhile gazing upwards at the sky.
+Dialogue: 0,0:23:47.15,0:23:52.36,Default,,0000,0000,0000,,The hatred and hope reflected in\Nhis eyes show Eren a cruel world.
+Dialogue: 0,0:23:52.99,0:23:55.52,Default,,0000,0000,0000,,Next episode: "That Day."
+Dialogue: 0,0:23:54.24,0:23:56.54,On Top,,0000,0000,0000,,"That Day"
+Dialogue: 0,0:23:56.54,0:23:58.53,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.53,0:24:00.55,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.55,0:24:02.54,Default,,0000,0000,0000,,

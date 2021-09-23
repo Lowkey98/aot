@@ -1,0 +1,301 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.19,0:00:06.73,Default,,0000,0000,0000,,Gabi! Hey! What's wrong?!
+Dialogue: 0,0:00:06.73,0:00:08.61,Default,,0000,0000,0000,,Hey! Settle down!
+Dialogue: 0,0:00:08.61,0:00:10.23,Default,,0000,0000,0000,,What's wrong?! What happened?!
+Dialogue: 0,0:00:10.82,0:00:12.44,Default,,0000,0000,0000,,She's in pain!
+Dialogue: 0,0:00:12.44,0:00:14.82,Default,,0000,0000,0000,,Hey! You okay, missy?
+Dialogue: 0,0:00:23.91,0:00:25.50,Default,,0000,0000,0000,,Gabi! That's overkill!
+Dialogue: 0,0:00:32.05,0:00:34.38,Default,,0000,0000,0000,,How's running away gonna help?!
+Dialogue: 0,0:00:34.38,0:00:36.39,Default,,0000,0000,0000,,We'll be killed if we stay!
+Dialogue: 0,0:00:36.93,0:00:39.39,Default,,0000,0000,0000,,That guy was worried about you!
+Dialogue: 0,0:00:39.39,0:00:41.68,Default,,0000,0000,0000,,Can you trust those devils?!
+Dialogue: 0,0:00:41.68,0:00:45.89,Default,,0000,0000,0000,,I can't even trust Zeke anymore!\NOr anyone else!
+Dialogue: 0,0:00:57.82,0:00:59.78,Default,,0000,0000,0000,,Having nightmares or something?
+Dialogue: 0,0:01:01.79,0:01:04.29,Default,,0000,0000,0000,,How I wish this all was a dream.
+Dialogue: 0,0:01:05.50,0:01:10.60,Default,,0000,0000,0000,,I heard Gabi and Falco's voices.\NWhere are those two?
+Dialogue: 0,0:02:41.01,0:02:46.02,Default,,0000,0000,0000,,"Deceiver"
+Dialogue: 0,0:02:47.77,0:02:52.09,Default,,0000,0000,0000,,We must've gone pretty far.\NWe ran all through the night.
+Dialogue: 0,0:02:52.94,0:02:57.38,Default,,0000,0000,0000,,Hey, take off your armband. You'll stand out.
+Dialogue: 0,0:02:58.19,0:03:02.16,Default,,0000,0000,0000,,If any normal person sees it,\Nthey won't know what it means.
+Dialogue: 0,0:03:02.95,0:03:06.79,Default,,0000,0000,0000,,But soldiers will know what it is.\NJust take it off.
+Dialogue: 0,0:03:06.79,0:03:10.16,Default,,0000,0000,0000,,There're no soldiers out here in the sticks.
+Dialogue: 0,0:03:10.16,0:03:15.55,Default,,0000,0000,0000,,Someone will see it eventually!\NWho knows if we'll make it back home?!
+Dialogue: 0,0:03:16.00,0:03:22.65,Default,,0000,0000,0000,,I don't plan to. I just wanna get answers\Nfrom Zeke before I'm caught and killed.
+Dialogue: 0,0:03:23.09,0:03:28.46,Default,,0000,0000,0000,,"Did you really betray us and Marley?"\N"Why did you do it?"
+Dialogue: 0,0:03:29.10,0:03:33.32,Default,,0000,0000,0000,,You can do whatever you want.\NYou don't have to follow me.
+Dialogue: 0,0:03:33.69,0:03:38.94,Default,,0000,0000,0000,,Fine, then. I'll do whatever I want,\Nstarting with trashing this.
+Dialogue: 0,0:03:39.57,0:03:40.90,Default,,0000,0000,0000,,Give it back!
+Dialogue: 0,0:03:43.32,0:03:47.70,Default,,0000,0000,0000,,What for?! What's the point\Nof even wearing it here?!
+Dialogue: 0,0:03:47.70,0:03:52.98,Default,,0000,0000,0000,,I'm a good Eldian! Without that,\NI'm the same as the island devils!
+Dialogue: 0,0:03:52.98,0:03:56.11,Default,,0000,0000,0000,,What are you saying?! You're acting crazy!
+Dialogue: 0,0:03:56.11,0:03:57.84,Default,,0000,0000,0000,,Then, just leave me alone!
+Dialogue: 0,0:03:59.76,0:04:02.41,Default,,0000,0000,0000,,Why... did you come with me?
+Dialogue: 0,0:04:03.76,0:04:06.26,Default,,0000,0000,0000,,You didn't have to die, too!
+Dialogue: 0,0:04:08.47,0:04:10.10,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:04:11.48,0:04:15.54,Default,,0000,0000,0000,,It's so early in the morning.\NWhere did you come from?
+Dialogue: 0,0:04:17.56,0:04:23.66,Default,,0000,0000,0000,,I-I don't wanna say. We hated our\Nhome and ran away from it all.
+Dialogue: 0,0:04:24.82,0:04:27.73,Default,,0000,0000,0000,,So, we can't go back.
+Dialogue: 0,0:04:30.08,0:04:35.92,Default,,0000,0000,0000,,I see. Are you guys hungry?\NI live nearby, so follow me.
+Dialogue: 0,0:04:42.51,0:04:44.34,Default,,0000,0000,0000,,Wait here a minute.
+Dialogue: 0,0:04:44.34,0:04:45.08,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:04:46.64,0:04:48.89,Default,,0000,0000,0000,,Let's take the horse and run.
+Dialogue: 0,0:04:48.89,0:04:50.34,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:04:50.85,0:04:54.56,Default,,0000,0000,0000,,They'll come and search here, too.\NWe've gotta run farther.
+Dialogue: 0,0:04:55.06,0:04:59.47,Default,,0000,0000,0000,,Besides, I'm not gonna\Nshare a meal with devils.
+Dialogue: 0,0:04:59.47,0:05:00.82,Default,,0000,0000,0000,,Listen here--
+Dialogue: 0,0:05:00.82,0:05:03.19,Default,,0000,0000,0000,,All right! Come on in!
+Dialogue: 0,0:05:03.19,0:05:05.45,Default,,0000,0000,0000,,O-Okay! We'll be right there!
+Dialogue: 0,0:05:05.99,0:05:09.37,Default,,0000,0000,0000,,I'll do all the talking,\Nso keep your mouth shut.
+Dialogue: 0,0:05:11.16,0:05:15.64,Default,,0000,0000,0000,,You younguns are the runaways?\NWho might ya be?
+Dialogue: 0,0:05:16.33,0:05:18.17,Default,,0000,0000,0000,,A southern Marleyan accent?
+Dialogue: 0,0:05:18.17,0:05:22.67,Default,,0000,0000,0000,,Nice to meet you!\NWe're siblings, Ben and Mia!
+Dialogue: 0,0:05:22.67,0:05:25.97,Default,,0000,0000,0000,,We have our reasons,\Nbut we ran away from home!
+Dialogue: 0,0:05:26.34,0:05:32.47,Default,,0000,0000,0000,,We'll do whatever work you want!\NPlease, let us stay for just a few days!
+Dialogue: 0,0:05:33.68,0:05:34.73,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:05:36.56,0:05:39.73,Default,,0000,0000,0000,,You younguns don't need\Nto be bowin' like that.
+Dialogue: 0,0:05:40.19,0:05:42.33,Default,,0000,0000,0000,,Welcome to Braus Stables.
+Dialogue: 0,0:05:43.15,0:05:48.32,Default,,0000,0000,0000,,Y'all can stay as long as ya like.\NC'mon, join us for breakfast.
+Dialogue: 0,0:05:50.99,0:05:55.12,Default,,0000,0000,0000,,Are y'all tired? Go lie down\Nonce yer done eatin'.
+Dialogue: 0,0:06:01.79,0:06:03.55,Default,,0000,0000,0000,,Lisa, the lass is...
+Dialogue: 0,0:06:03.55,0:06:06.88,Default,,0000,0000,0000,,I'm sorry. I'm sure y'all\Nbeen through a lot.
+Dialogue: 0,0:06:07.26,0:06:08.22,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:06:08.22,0:06:11.60,Default,,0000,0000,0000,,Sorry about my little sister!\NTh-Thanks for breakfast!
+Dialogue: 0,0:06:12.10,0:06:14.78,Default,,0000,0000,0000,,Delicious! It's so good!
+Dialogue: 0,0:06:16.27,0:06:18.02,Default,,0000,0000,0000,,It's really so good!
+Dialogue: 0,0:06:20.06,0:06:22.15,Default,,0000,0000,0000,,C'mon! Eat up, Mia!
+Dialogue: 0,0:06:36.62,0:06:41.42,Default,,0000,0000,0000,,Congratulations on your successful\Ncampaign against Marley.
+Dialogue: 0,0:06:41.42,0:06:47.42,Default,,0000,0000,0000,,The leaders of Hizuru have nothing\Nbut praise for Eldia's bravery.
+Dialogue: 0,0:06:47.72,0:06:53.18,Default,,0000,0000,0000,,We're deeply honored. Welcome to\Nthe world's most dangerous island.
+Dialogue: 0,0:06:53.18,0:07:00.19,Default,,0000,0000,0000,,Indeed. But this time, our goal is to\Nwitness said danger in person.
+Dialogue: 0,0:07:00.94,0:07:04.57,Default,,0000,0000,0000,,Is that the observation \Ncraft you've spoken of?
+Dialogue: 0,0:07:05.07,0:07:11.86,Default,,0000,0000,0000,,Yes. It may just be the world's first\Nflying boat powered by Iceburst Stone.
+Dialogue: 0,0:07:11.86,0:07:15.70,Default,,0000,0000,0000,,With it, we will ascertain the\Ntrue power of the rumbling.
+Dialogue: 0,0:07:17.08,0:07:22.78,Default,,0000,0000,0000,,Are the rumors true about Jaeger being\Nimprisoned and the volunteers detained?
+Dialogue: 0,0:07:22.78,0:07:24.84,Default,,0000,0000,0000,,We want an explanation, Hange!
+Dialogue: 0,0:07:25.29,0:07:28.96,Default,,0000,0000,0000,,Why are there orders to \Nevacuate Shiganshina?!
+Dialogue: 0,0:07:28.96,0:07:32.22,Default,,0000,0000,0000,,Reeves Company was put\Nin charge of rebuilding it!
+Dialogue: 0,0:07:32.22,0:07:33.76,Default,,0000,0000,0000,,Ask the MPs.
+Dialogue: 0,0:07:33.76,0:07:39.06,Default,,0000,0000,0000,,Hange! Jaeger's victory\Nopened the path to our future!
+Dialogue: 0,0:07:39.06,0:07:41.48,Default,,0000,0000,0000,,A future where Eldians can live!
+Dialogue: 0,0:07:41.48,0:07:47.11,Default,,0000,0000,0000,,If that's true, all Eldians should have\Na voice in how Jaeger is handled!
+Dialogue: 0,0:07:47.11,0:07:52.91,Default,,0000,0000,0000,,Hange, you once said, "Taxpayers\Ndecide what to make of information."
+Dialogue: 0,0:07:52.91,0:07:55.36,Default,,0000,0000,0000,,Have you changed your views?
+Dialogue: 0,0:07:56.62,0:08:00.54,Default,,0000,0000,0000,,The situation has changed!\NOur walls are open to the world!
+Dialogue: 0,0:08:00.54,0:08:02.87,Default,,0000,0000,0000,,The meaning of info has changed!
+Dialogue: 0,0:08:02.87,0:08:05.77,Default,,0000,0000,0000,,I know you're in a tough situation, Hange.
+Dialogue: 0,0:08:06.79,0:08:10.01,Default,,0000,0000,0000,,So look me in my eyes\Nand tell me I can trust you.
+Dialogue: 0,0:08:12.88,0:08:16.72,Default,,0000,0000,0000,,This is all for the sake \Nof the Eldian people.
+Dialogue: 0,0:08:31.74,0:08:34.73,Default,,0000,0000,0000,,You're the ones who leaked\Nthe info about Eren?
+Dialogue: 0,0:08:35.24,0:08:40.95,Default,,0000,0000,0000,,Holger, Wim, Louise...\NYou three recruits, and Floch.
+Dialogue: 0,0:08:42.00,0:08:43.88,Default,,0000,0000,0000,,Why did you do it?
+Dialogue: 0,0:08:44.79,0:08:50.05,Default,,0000,0000,0000,,Because Eren should be freed.\NHe hasn't done anything wrong.
+Dialogue: 0,0:08:50.55,0:08:54.48,Default,,0000,0000,0000,,He challenged an imposing enemy\Nand grasped victory.
+Dialogue: 0,0:08:54.97,0:09:01.22,Default,,0000,0000,0000,,Victory in the form of the rumbling,\Nwhich secures our right to live.
+Dialogue: 0,0:09:01.22,0:09:06.19,Default,,0000,0000,0000,,Eren saved the lives of everyone\Nin the New Eldian Empire.
+Dialogue: 0,0:09:06.19,0:09:12.74,Default,,0000,0000,0000,,There's no guarantee that the rumbling\Nworks as planned and can save us.
+Dialogue: 0,0:09:12.74,0:09:15.84,Default,,0000,0000,0000,,At this point, it's no more than a myth.
+Dialogue: 0,0:09:15.84,0:09:18.70,Default,,0000,0000,0000,,Only because you're keeping Eren locked up.
+Dialogue: 0,0:09:20.91,0:09:24.94,Default,,0000,0000,0000,,Do we really have the luxury of wasting time?
+Dialogue: 0,0:09:25.46,0:09:29.08,Default,,0000,0000,0000,,At this rate, our victory will be squandered.
+Dialogue: 0,0:09:29.50,0:09:34.84,Default,,0000,0000,0000,,Eren Jaeger will lead our country.\NPlease, release him at once.
+Dialogue: 0,0:09:36.88,0:09:40.81,Default,,0000,0000,0000,,Yeah, you might just be right about that.
+Dialogue: 0,0:09:41.43,0:09:47.19,Default,,0000,0000,0000,,One way or another, I made the\Ndecision to carry out Zeke's plan.
+Dialogue: 0,0:09:47.19,0:09:49.48,Default,,0000,0000,0000,,The full responsibility is mine.
+Dialogue: 0,0:09:50.40,0:09:53.23,Default,,0000,0000,0000,,Therefore, I won't tolerate disobedience.
+Dialogue: 0,0:09:54.07,0:09:57.50,Default,,0000,0000,0000,,You will be tried for leaking\Ninformation about Eren.
+Dialogue: 0,0:09:58.11,0:09:59.76,Default,,0000,0000,0000,,Have them confined.
+Dialogue: 0,0:10:02.16,0:10:05.33,Default,,0000,0000,0000,,If it's for the sake of humanity, so be it.
+Dialogue: 0,0:10:15.30,0:10:19.38,Default,,0000,0000,0000,,This role of ours... There's an order to it.
+Dialogue: 0,0:10:20.01,0:10:24.89,Default,,0000,0000,0000,,When one's role is done,\Nanother steps in to start the act again.
+Dialogue: 0,0:10:26.85,0:10:29.39,Default,,0000,0000,0000,,Good luck, Hange.
+Dialogue: 0,0:10:36.65,0:10:37.95,Default,,0000,0000,0000,,I'm pooped.
+Dialogue: 0,0:10:41.91,0:10:45.86,Default,,0000,0000,0000,,No... There's more I need to investigate.
+Dialogue: 0,0:10:51.21,0:10:54.67,Default,,0000,0000,0000,,Have you ever been in this cell, Mikasa?
+Dialogue: 0,0:10:54.67,0:10:56.55,Default,,0000,0000,0000,,Huh? No.
+Dialogue: 0,0:10:56.55,0:10:59.77,Default,,0000,0000,0000,,I see. That's a shame.
+Dialogue: 0,0:11:00.76,0:11:05.93,Default,,0000,0000,0000,,Oh, I don't regret what I did.\NIf victory is our ultimate goal,
+Dialogue: 0,0:11:05.93,0:11:10.06,Default,,0000,0000,0000,,obeying the laws isn't\Nthe end all be all, right?
+Dialogue: 0,0:11:10.06,0:11:13.81,Default,,0000,0000,0000,,Stop it, Louise. You'll only be here longer.
+Dialogue: 0,0:11:15.40,0:11:20.07,Default,,0000,0000,0000,,I'm still the same person\Nas the one you saved that day.
+Dialogue: 0,0:11:20.95,0:11:25.16,Default,,0000,0000,0000,,I realized something when you,\Na human, took down that Titan:
+Dialogue: 0,0:11:25.62,0:11:28.66,Default,,0000,0000,0000,,That without power,\Nyou can't protect anything.
+Dialogue: 0,0:11:29.41,0:11:33.95,Default,,0000,0000,0000,,I learned that it's okay to fight\Nagainst senseless violence.
+Dialogue: 0,0:11:35.34,0:11:40.91,Default,,0000,0000,0000,,Ever since that day,\NI wanted to get closer to you, so I...
+Dialogue: 0,0:11:47.18,0:11:51.31,Default,,0000,0000,0000,,Why did you join the\NScout Regiment, Mikasa?
+Dialogue: 0,0:11:51.31,0:11:53.27,Default,,0000,0000,0000,,If it was for Jaeger, freeing him--
+Dialogue: 0,0:11:53.27,0:11:57.19,Default,,0000,0000,0000,,I only have one thing to say:\NKeep your mouth shut.
+Dialogue: 0,0:12:19.71,0:12:21.44,Default,,0000,0000,0000,,You're safe now...
+Dialogue: 0,0:12:23.68,0:12:24.57,Default,,0000,0000,0000,,...Mikasa.
+Dialogue: 0,0:12:24.97,0:12:29.97,Eyecatch2A,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Paradis Island Devils"\N"An insult referring to King Fritz and the Eldians who fled to Paradis Island. In Titan studies, the 'Paradis Island Threat' theory claims the Eldians who fled there still bear a grudge from the Great Titan War and despise the rest of the world. With the threat of Eren Jaeger now apparent, the insult holds truer than ever."
+Dialogue: 0,0:12:31.35,0:12:36.40,Default,,0000,0000,0000,,Ten months ago, there was an opening\Ncelebration for the Trost railway.
+Dialogue: 0,0:12:36.40,0:12:39.94,Default,,0000,0000,0000,,The guard watching you suddenly\Nchanged...
+Dialogue: 0,0:12:41.01,0:12:42.68,Default,,0000,0000,0000,,to Floch Forster.
+Dialogue: 0,0:12:43.36,0:12:48.40,Default,,0000,0000,0000,,While the party was in full swing,\NFloch escorted you to your lodgings--
+Dialogue: 0,0:12:48.99,0:12:52.08,Default,,0000,0000,0000,,a man currently detained for leaking info.
+Dialogue: 0,0:12:52.96,0:12:58.51,Default,,0000,0000,0000,,Furthermore, your lodgings were a few\Ndozen kilometers from Eren's home.
+Dialogue: 0,0:12:59.75,0:13:05.49,Default,,0000,0000,0000,,It just so happens that around this time,\NEren began moving on his own.
+Dialogue: 0,0:13:06.30,0:13:11.40,Default,,0000,0000,0000,,On the bright side, now I have\Nan excuse to talk with a pretty lady.
+Dialogue: 0,0:13:29.28,0:13:29.91,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:13:31.66,0:13:32.29,Default,,0000,0000,0000,,Gabi!
+Dialogue: 0,0:13:33.16,0:13:33.75,Default,,0000,0000,0000,,Gabi!
+Dialogue: 0,0:13:37.17,0:13:39.71,Default,,0000,0000,0000,,Gabi!
+Dialogue: 0,0:13:40.50,0:13:42.68,Default,,0000,0000,0000,,Why is this happening to me?
+Dialogue: 0,0:13:44.26,0:13:46.97,Default,,0000,0000,0000,,This is the devil's doing!
+Dialogue: 0,0:13:46.97,0:13:49.66,Default,,0000,0000,0000,,No, I think it's the horse's doing.
+Dialogue: 0,0:13:52.47,0:13:55.40,Default,,0000,0000,0000,,There's not a horse that \Nwould let you ride it.
+Dialogue: 0,0:13:56.19,0:13:58.45,Default,,0000,0000,0000,,Well, I wasn't trained how to ride one.
+Dialogue: 0,0:13:59.36,0:14:02.37,Default,,0000,0000,0000,,We won't learn a thing \Nout here in the sticks.
+Dialogue: 0,0:14:03.28,0:14:06.82,Default,,0000,0000,0000,,I think it's better to hunker\Ndown here than roam around.
+Dialogue: 0,0:14:07.32,0:14:08.74,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:14:09.28,0:14:11.62,Default,,0000,0000,0000,,We can stay here and wait for help.
+Dialogue: 0,0:14:12.45,0:14:15.75,Default,,0000,0000,0000,,Eventually, the world will attack the island.
+Dialogue: 0,0:14:16.16,0:14:19.38,Default,,0000,0000,0000,,I bet Reiner and my brother will come, too.
+Dialogue: 0,0:14:19.38,0:14:23.87,Default,,0000,0000,0000,,Aren't you pissed at Zeke?!\NThere was a traitor right among us!
+Dialogue: 0,0:14:25.21,0:14:27.22,Default,,0000,0000,0000,,There's nothing we can do.
+Dialogue: 0,0:14:31.85,0:14:36.14,Default,,0000,0000,0000,,And what the hell is "Mia"?\NWhy am I your little sister?!
+Dialogue: 0,0:14:36.14,0:14:38.16,Default,,0000,0000,0000,,Does it even matter?
+Dialogue: 0,0:14:39.14,0:14:42.02,Default,,0000,0000,0000,,Hey, guys. Let's have lunch.
+Dialogue: 0,0:14:44.61,0:14:48.13,Default,,0000,0000,0000,,You're quick learners and hard-working, too.
+Dialogue: 0,0:14:48.86,0:14:51.03,Default,,0000,0000,0000,,You think? Thank you.
+Dialogue: 0,0:14:51.78,0:14:56.69,Default,,0000,0000,0000,,By the way, Kaya. I noticed all\Nthe workers here are pretty young.
+Dialogue: 0,0:14:56.69,0:14:59.80,Default,,0000,0000,0000,,Yeah. Everyone here is an orphan.
+Dialogue: 0,0:15:00.29,0:15:01.74,Default,,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:15:02.42,0:15:06.17,Default,,0000,0000,0000,,The Queen's policies give support\Nto kids without families.
+Dialogue: 0,0:15:06.76,0:15:10.44,Default,,0000,0000,0000,,All of us here lost our \Nparents four years ago.
+Dialogue: 0,0:15:10.68,0:15:13.18,Default,,0000,0000,0000,,You haven't accepted your guilt.
+Dialogue: 0,0:15:13.18,0:15:14.05,Default,,0000,0000,0000,,--Huh?\N--Wha--?!
+Dialogue: 0,0:15:14.05,0:15:20.48,Default,,0000,0000,0000,,Have you forgotten the atrocities\Nthe people of this island committed?
+Dialogue: 0,0:15:20.48,0:15:27.07,Default,,0000,0000,0000,,Only when an Eldian accepts the depths\Nof their sins can they begin to atone.
+Dialogue: 0,0:15:27.61,0:15:30.95,Default,,0000,0000,0000,,Is that related to our parents dying?
+Dialogue: 0,0:15:30.95,0:15:36.95,Default,,0000,0000,0000,,Of course. Even if you act like a saint,\Nyour sins are too great to escape.
+Dialogue: 0,0:15:37.33,0:15:40.21,Default,,0000,0000,0000,,--Is that what they teach you in Marley?\N--We're in her debt, you know!
+Dialogue: 0,0:15:40.21,0:15:43.01,Default,,0000,0000,0000,,--These are indisputable truths!\N--Would you just...?
+Dialogue: 0,0:15:43.42,0:15:45.21,Default,,0000,0000,0000,,What did you just say?
+Dialogue: 0,0:15:45.54,0:15:47.71,Default,,0000,0000,0000,,You two came from Marley, right?
+Dialogue: 0,0:15:48.92,0:15:50.37,Default,,0000,0000,0000,,How did you...?
+Dialogue: 0,0:15:50.37,0:15:54.22,Default,,0000,0000,0000,,You have to ask? You yelled it out loud.
+Dialogue: 0,0:15:54.22,0:15:58.39,Default,,0000,0000,0000,,Huh? Uh... You knew from the get-go?
+Dialogue: 0,0:15:58.39,0:16:03.20,Default,,0000,0000,0000,,Really? From the start? I'm so embarrassed!
+Dialogue: 0,0:16:03.20,0:16:06.73,Default,,0000,0000,0000,,Why didn't you say something?\NYou're so sneaky!
+Dialogue: 0,0:16:07.11,0:16:07.86,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:16:15.32,0:16:16.83,Default,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:16:16.83,0:16:19.66,Default,,0000,0000,0000,,The devil revealed her true colors!
+Dialogue: 0,0:16:19.66,0:16:23.84,Default,,0000,0000,0000,,I knew something was up!\NIsland devils can't be this kind!
+Dialogue: 0,0:16:23.84,0:16:25.33,Default,,0000,0000,0000,,Stop, you idiot!
+Dialogue: 0,0:16:25.33,0:16:26.59,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:16:26.59,0:16:28.59,Default,,0000,0000,0000,,What's all the fuss about?
+Dialogue: 0,0:16:29.51,0:16:30.34,Default,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:16:30.34,0:16:34.81,Default,,0000,0000,0000,,Mia's jealous and thinks\NI'm stealing her brother!
+Dialogue: 0,0:16:35.51,0:16:40.52,Default,,0000,0000,0000,,Kaya's actually getting along with\Npeople? She's cheered up some.
+Dialogue: 0,0:16:40.52,0:16:44.66,Default,,0000,0000,0000,,Good grief... Don't horse around\Nor you'll get hurt!
+Dialogue: 0,0:16:45.65,0:16:46.61,Default,,0000,0000,0000,,Sorry!
+Dialogue: 0,0:16:49.94,0:16:51.11,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:16:54.28,0:16:56.89,Default,,0000,0000,0000,,This village used to be my home.
+Dialogue: 0,0:16:57.53,0:17:00.49,Default,,0000,0000,0000,,Four years ago, a Titan showed up here.
+Dialogue: 0,0:17:01.20,0:17:07.54,Default,,0000,0000,0000,,The villagers ran when they saw it\Nand left behind my mom, who couldn't run.
+Dialogue: 0,0:17:08.46,0:17:11.95,Default,,0000,0000,0000,,There was nothing I could do, so I sat down.
+Dialogue: 0,0:17:12.63,0:17:17.56,Default,,0000,0000,0000,,From right here, I sat and listened\Nto my mom get eaten.
+Dialogue: 0,0:17:18.51,0:17:21.34,Default,,0000,0000,0000,,She was alive the whole time it happened.
+Dialogue: 0,0:17:21.93,0:17:24.39,Default,,0000,0000,0000,,Eventually, she went silent.
+Dialogue: 0,0:17:24.94,0:17:27.77,Default,,0000,0000,0000,,I think she screamed \Nuntil she lost her voice.
+Dialogue: 0,0:17:29.61,0:17:34.77,Default,,0000,0000,0000,,They say humanity outside the walls\Nthinks that we're devils.
+Dialogue: 0,0:17:35.32,0:17:39.28,Default,,0000,0000,0000,,But I don't understand why\Nwe're hated so much.
+Dialogue: 0,0:17:39.95,0:17:45.04,Default,,0000,0000,0000,,Mia, Ben. Tell me.\NWhat exactly did my mom do?
+Dialogue: 0,0:17:45.58,0:17:48.04,Default,,0000,0000,0000,,What did she do to be hated so much?
+Dialogue: 0,0:17:48.79,0:17:52.80,Default,,0000,0000,0000,,Your kind slaughtered people\Nfor thousands of years!
+Dialogue: 0,0:17:53.80,0:17:54.92,Default,,0000,0000,0000,,Thousands?
+Dialogue: 0,0:17:54.92,0:17:57.43,Default,,0000,0000,0000,,Don't tell me you forgot it!
+Dialogue: 0,0:17:57.43,0:18:03.43,Default,,0000,0000,0000,,Eldians used the Power of the Titans\Nto trample and rule the world for millennia!
+Dialogue: 0,0:18:03.43,0:18:05.93,Default,,0000,0000,0000,,They wiped out other cultures,
+Dialogue: 0,0:18:05.93,0:18:10.56,Default,,0000,0000,0000,,forced them to bear their children,\Nand murdered endless droves of people!
+Dialogue: 0,0:18:10.56,0:18:12.84,Default,,0000,0000,0000,,Stop playing the victim!
+Dialogue: 0,0:18:13.28,0:18:18.32,Default,,0000,0000,0000,,My mom was born and raised here.\NShe never did anything like that.
+Dialogue: 0,0:18:18.32,0:18:24.10,Default,,0000,0000,0000,,But a century ago, the sins of your\Nancestors were terrible and great!
+Dialogue: 0,0:18:24.10,0:18:30.58,Default,,0000,0000,0000,,A century ago? What about the people\Nwho live now? How have we sinned?
+Dialogue: 0,0:18:30.58,0:18:34.46,Default,,0000,0000,0000,,Not long ago, you guys trampled my home.
+Dialogue: 0,0:18:34.46,0:18:39.36,Default,,0000,0000,0000,,My mom was killed four years ago,\Nso it's not her fault.
+Dialogue: 0,0:18:39.36,0:18:42.85,Default,,0000,0000,0000,,I'm telling you, your ancestors\Nkilled people all over the--
+Dialogue: 0,0:18:42.85,0:18:44.85,Default,,0000,0000,0000,,My mom didn't kill anyone!
+Dialogue: 0,0:18:45.60,0:18:50.94,Default,,0000,0000,0000,,Answer me, Mia! Why did my mom\Nhave to suffer like that?
+Dialogue: 0,0:18:50.94,0:18:55.03,Default,,0000,0000,0000,,There has to be a reason!\NIt's crazy if there's not!
+Dialogue: 0,0:18:55.03,0:19:00.74,Default,,0000,0000,0000,,Why was my mom eaten alive, huh?!\NWhy was she killed?!
+Dialogue: 0,0:19:00.74,0:19:02.74,Default,,0000,0000,0000,,Huh?! Why?!
+Dialogue: 0,0:19:05.49,0:19:07.26,Default,,0000,0000,0000,,It was recon-in-force.
+Dialogue: 0,0:19:08.12,0:19:14.51,Default,,0000,0000,0000,,The invasion of Paradis four years ago\Nwas staging for a larger attack.
+Dialogue: 0,0:19:15.71,0:19:18.93,Default,,0000,0000,0000,,You and your mother were caught up in it.
+Dialogue: 0,0:19:19.80,0:19:22.01,Default,,0000,0000,0000,,Your mom didn't do anything wrong.
+Dialogue: 0,0:19:23.39,0:19:24.16,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:19:27.60,0:19:32.15,Default,,0000,0000,0000,,You're leaking secrets to the enemy.\NAnd why apologize?
+Dialogue: 0,0:19:34.11,0:19:37.05,Default,,0000,0000,0000,,Thanks for letting me know, Ben.
+Dialogue: 0,0:19:38.03,0:19:43.66,Default,,0000,0000,0000,,But it's weird for you to apologize\Nfor Marley. You were just born there.
+Dialogue: 0,0:19:46.45,0:19:51.83,Default,,0000,0000,0000,,So, how did you manage to escape and survive?
+Dialogue: 0,0:19:51.83,0:19:59.67,Default,,0000,0000,0000,,A girl a bit older than I am now grabbed\Na hatchet and started hitting the Titan.
+Dialogue: 0,0:19:59.67,0:20:01.68,Default,,0000,0000,0000,,No way! That's crazy!
+Dialogue: 0,0:20:02.22,0:20:08.52,Default,,0000,0000,0000,,Yeah. She put herself between me and\Nthe Titan and allowed me to escape.
+Dialogue: 0,0:20:09.98,0:20:15.30,Default,,0000,0000,0000,,If she was alive, she wouldn't abandon\Npeople like you with nowhere to go.
+Dialogue: 0,0:20:16.44,0:20:18.60,Default,,0000,0000,0000,,Just like she didn't abandon me.
+Dialogue: 0,0:20:20.61,0:20:24.78,Default,,0000,0000,0000,,We were invited to a restaurant\Na Marleyan is working at.
+Dialogue: 0,0:20:25.24,0:20:30.54,Default,,0000,0000,0000,,If you come along, you might find\Na way to go back home.
+Dialogue: 0,0:20:31.41,0:20:32.79,Default,,0000,0000,0000,,Why...?
+Dialogue: 0,0:20:33.50,0:20:36.88,Default,,0000,0000,0000,,I want to become a person like her.
+Dialogue: 0,0:21:40.19,0:21:47.42,Default,,0000,0000,0000,,Investigating the Beast Titan's corpse,\Nwe found pieces of Zeke blown apart.
+Dialogue: 0,0:21:48.16,0:21:54.08,Default,,0000,0000,0000,,However, not enough of them.\NWe only found his arms and legs.
+Dialogue: 0,0:21:54.41,0:21:58.74,Default,,0000,0000,0000,,He pretended that he was dead\Nin order to deceive us.
+Dialogue: 0,0:21:59.29,0:22:04.86,Default,,0000,0000,0000,,We believe Zeke has sided with Paradis\Nand escaped on the airship.
+Dialogue: 0,0:22:05.34,0:22:11.54,Default,,0000,0000,0000,,This modified Anti-Personnel ODM gear\Nutilizes Marleyan technology.
+Dialogue: 0,0:22:12.18,0:22:14.60,Default,,0000,0000,0000,,There's also the airship they stole.
+Dialogue: 0,0:22:14.60,0:22:19.35,Default,,0000,0000,0000,,It executed advanced maneuvers\Nonly a trained pilot could perform.
+Dialogue: 0,0:22:20.06,0:22:24.99,Default,,0000,0000,0000,,Zeke probably sneaked comrades\Naboard the scout fleet four years ago--
+Dialogue: 0,0:22:25.57,0:22:28.03,Default,,0000,0000,0000,,Eldian Restorationists, that is.
+Dialogue: 0,0:22:28.03,0:22:34.37,Default,,0000,0000,0000,,Sh-Shit. To think we fought side-by-side\Nwith a traitor this whole time.
+Dialogue: 0,0:22:34.37,0:22:37.38,Default,,0000,0000,0000,,Obviously, we won't let him off the hook.
+Dialogue: 0,0:22:37.79,0:22:43.50,Default,,0000,0000,0000,,Within six months, a global alliance\Nwill launch an offensive on Paradis.
+Dialogue: 0,0:22:43.50,0:22:48.63,Default,,0000,0000,0000,,S-Six months?! We're waiting six months\Nto rescue Gabi and Falco?
+Dialogue: 0,0:22:50.51,0:22:54.18,Default,,0000,0000,0000,,They're the most talented Warrior candidates.
+Dialogue: 0,0:22:54.18,0:22:57.64,Default,,0000,0000,0000,,It'll be a huge blow to \NMarley if we lose them.
+Dialogue: 0,0:22:57.64,0:23:02.65,Default,,0000,0000,0000,,And training new Warrior\Ncandidates will take ages.
+Dialogue: 0,0:23:02.65,0:23:09.32,Default,,0000,0000,0000,,But if Marley attacks alone,\Nwe'll only be driven back like last time.
+Dialogue: 0,0:23:09.32,0:23:11.91,Default,,0000,0000,0000,,We must wait for the global alliance.
+Dialogue: 0,0:23:12.37,0:23:14.48,Default,,0000,0000,0000,,Zeke is hoping we will.
+Dialogue: 0,0:23:14.83,0:23:19.67,Default,,0000,0000,0000,,He thinks Marley won't attack\Nafter taking such heavy damage.
+Dialogue: 0,0:23:20.33,0:23:25.42,Default,,0000,0000,0000,,If we wait half a year to get there,\Nhe'll have made plans to fight back.
+Dialogue: 0,0:23:26.13,0:23:28.54,Default,,0000,0000,0000,,We can't wait for the global alliance!
+Dialogue: 0,0:23:30.09,0:23:33.43,Default,,0000,0000,0000,,We have to launch a surprise attack at once!
+Dialogue: 0,0:23:41.19,0:23:46.40,Default,,0000,0000,0000,,Who should one hate?\NWhat should one blame?
+Dialogue: 0,0:23:46.78,0:23:51.74,Default,,0000,0000,0000,,By now, one should've been used\Nto the shifting of truth.
+Dialogue: 0,0:23:52.05,0:23:54.72,Default,,0000,0000,0000,,Next episode: "Guides."
+Dialogue: 0,0:23:52.99,0:23:56.49,On Top,,0000,0000,0000,,"Guides"
+Dialogue: 0,0:23:56.49,0:23:58.51,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.51,0:24:00.50,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.50,0:24:02.51,Default,,0000,0000,0000,,

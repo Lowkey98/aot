@@ -1,0 +1,277 @@
+[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:29.98,0:01:34.99,Default,,0000,0000,0000,,"Thunder Spears"
+Dialogue: 0,0:01:51.54,0:01:53.59,Default,,0000,0000,0000,,Erwin, he's gonna climb up.
+Dialogue: 0,0:02:10.06,0:02:13.90,Default,,0000,0000,0000,,All troops! Avoid clashing\Nwith the Armored Titan!
+Dialogue: 0,0:02:14.32,0:02:16.03,Default,,0000,0000,0000,,Stay away from him!
+Dialogue: 0,0:02:16.03,0:02:17.00,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:02:17.61,0:02:22.07,Default,,0000,0000,0000,,Hange, why didn't he signal to attack?\NWhat's he thinking?
+Dialogue: 0,0:02:22.07,0:02:24.16,Default,,0000,0000,0000,,He's watching the enemy's movements.
+Dialogue: 0,0:02:25.12,0:02:30.52,Default,,0000,0000,0000,,Because Reiner and friends prepared\Nsome sort of grand welcome for us.
+Dialogue: 0,0:02:36.92,0:02:40.42,Default,,0000,0000,0000,,That quadruped type is carrying\Nluggage on its saddle.
+Dialogue: 0,0:02:40.88,0:02:43.60,Default,,0000,0000,0000,,It wasn't one of those that just transformed.
+Dialogue: 0,0:02:44.22,0:02:47.22,Default,,0000,0000,0000,,In which case, is that the enemy's scout?
+Dialogue: 0,0:02:47.89,0:02:53.23,Default,,0000,0000,0000,,If it took notice of our approach and\Ninformed Reiner, that must mean...
+Dialogue: 0,0:02:54.52,0:02:58.36,Default,,0000,0000,0000,,That quadruped type down there\Nis an Intelligent Titan.
+Dialogue: 0,0:02:59.45,0:03:01.49,Default,,0000,0000,0000,,No, there might even be others.
+Dialogue: 0,0:03:02.24,0:03:04.49,Default,,0000,0000,0000,,That Titan... has luggage?
+Dialogue: 0,0:03:05.41,0:03:06.74,Default,,0000,0000,0000,,What could it be?
+Dialogue: 0,0:03:22.59,0:03:26.01,Default,,0000,0000,0000,,They're moving! Multiple two-\Nto three-meters approaching!
+Dialogue: 0,0:03:27.06,0:03:29.62,Default,,0000,0000,0000,,It's just like the raid at Utgard Castle...
+Dialogue: 0,0:03:30.31,0:03:32.41,Default,,0000,0000,0000,,They'll go after the horses first.
+Dialogue: 0,0:03:33.40,0:03:36.27,Default,,0000,0000,0000,,Their primary objective\Nis to capture Eren, but...
+Dialogue: 0,0:03:37.40,0:03:41.75,Default,,0000,0000,0000,,To achieve that, they'll take away\Nour only escape option.
+Dialogue: 0,0:03:42.91,0:03:46.62,Default,,0000,0000,0000,,With Wall Maria still being\Ndeep in Titan territory,
+Dialogue: 0,0:03:46.62,0:03:49.25,Default,,0000,0000,0000,,we have no means to get back without horses.
+Dialogue: 0,0:03:50.00,0:03:55.65,Default,,0000,0000,0000,,Just by killing our horses, it completely blocks\Nour escape and severs our supply line.
+Dialogue: 0,0:03:56.79,0:03:58.61,Default,,0000,0000,0000,,Whether it takes one week or a month,
+Dialogue: 0,0:03:59.09,0:04:01.92,Default,,0000,0000,0000,,they can simply wait until\Nthere's nobody who can move.
+Dialogue: 0,0:04:02.68,0:04:05.01,Default,,0000,0000,0000,,Without any of the risks of battle,
+Dialogue: 0,0:04:05.55,0:04:08.98,Default,,0000,0000,0000,,they can waltz in and take Eren\Nonce he's too weak to resist.
+Dialogue: 0,0:04:10.64,0:04:15.15,Default,,0000,0000,0000,,Right now, the fact that all those larger\NTitans are staying in formation
+Dialogue: 0,0:04:15.15,0:04:19.57,Default,,0000,0000,0000,,is proof that their only\Npurpose is to cage us in.
+Dialogue: 0,0:04:23.90,0:04:26.49,Default,,0000,0000,0000,,Commander! The Armored Titan is close!
+Dialogue: 0,0:04:26.49,0:04:28.98,Default,,0000,0000,0000,,And we still don't know where Bertholdt is!
+Dialogue: 0,0:04:29.41,0:04:31.33,Default,,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,0:04:32.58,0:04:35.01,Default,,0000,0000,0000,,At this point, what I fear most...
+Dialogue: 0,0:04:35.46,0:04:39.55,Default,,0000,0000,0000,,...is that Reiner and Bertholdt\Nslaughter our horses unchecked.
+Dialogue: 0,0:04:40.92,0:04:41.84,Default,,0000,0000,0000,,Therefore...
+Dialogue: 0,0:04:43.30,0:04:45.51,Default,,0000,0000,0000,,Are you finally ready to say something?
+Dialogue: 0,0:04:45.84,0:04:47.99,Default,,0000,0000,0000,,I could've had breakfast during the wait.
+Dialogue: 0,0:04:50.10,0:04:52.27,Default,,0000,0000,0000,,Dirk Squad and Marlene Squad!
+Dialogue: 0,0:04:52.27,0:04:55.81,Default,,0000,0000,0000,,Protect the horses at the \Ngate with Klaus Squad!
+Dialogue: 0,0:04:55.81,0:04:59.53,Default,,0000,0000,0000,,Levi Squad and Hange Squad!\NTake down the Armored Titan!
+Dialogue: 0,0:05:00.15,0:05:03.19,Default,,0000,0000,0000,,Employ the Thunder Spears\Nat your own discretion!
+Dialogue: 0,0:05:03.19,0:05:05.43,Default,,0000,0000,0000,,Achieve your objectives whatever it takes!
+Dialogue: 0,0:05:06.24,0:05:09.03,Default,,0000,0000,0000,,This moment! This battle!
+Dialogue: 0,0:05:09.03,0:05:11.45,Default,,0000,0000,0000,,The survival of humanity depends on it!
+Dialogue: 0,0:05:12.29,0:05:13.91,Default,,0000,0000,0000,,Once more, for humanity...
+Dialogue: 0,0:05:14.66,0:05:16.79,Default,,0000,0000,0000,,...give your hearts!
+Dialogue: 0,0:05:17.33,0:05:18.38,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:05:19.92,0:05:24.13,Default,,0000,0000,0000,,You hear that?! Turn the table on\Nthe Titans coming for our horses!
+Dialogue: 0,0:05:24.13,0:05:24.63,Default,,0000,0000,0000,,Sir!
+Dialogue: 0,0:05:25.22,0:05:26.63,Default,,0000,0000,0000,,Wait! Levi, Armin!
+Dialogue: 0,0:05:28.01,0:05:31.39,Default,,0000,0000,0000,,I did say Levi Squad,\Nbut I need you to stay, Levi.
+Dialogue: 0,0:05:32.18,0:05:34.39,Default,,0000,0000,0000,,To protect the horses and not Eren?
+Dialogue: 0,0:05:34.77,0:05:35.51,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:05:37.02,0:05:39.37,Default,,0000,0000,0000,,And to strike him down when the chance comes.
+Dialogue: 0,0:05:40.86,0:05:44.14,Default,,0000,0000,0000,,You're the only one I can entrust\Nto take on the Beast Titan.
+Dialogue: 0,0:05:45.99,0:05:47.24,Default,,0000,0000,0000,,Understood.
+Dialogue: 0,0:05:47.70,0:05:50.69,Default,,0000,0000,0000,,Since I failed to kill that\Narmored brat earlier,
+Dialogue: 0,0:05:51.03,0:05:53.62,Default,,0000,0000,0000,,I'll make up for it with \Nthe Beast Titan's head.
+Dialogue: 0,0:05:57.12,0:05:59.90,Default,,0000,0000,0000,,Armin, I have a plan for the Armored Titan.
+Dialogue: 0,0:06:00.25,0:06:00.88,Default,,0000,0000,0000,,Sir.
+Dialogue: 0,0:06:01.63,0:06:04.26,Default,,0000,0000,0000,,There are two halves in this\Nbattle for humanity's fate.
+Dialogue: 0,0:06:04.67,0:06:08.57,Default,,0000,0000,0000,,And one of them... I'm putting\Non Hange and your shoulders.
+Dialogue: 0,0:06:27.44,0:06:30.41,Default,,0000,0000,0000,,There they are... all gathered in one place.
+Dialogue: 0,0:06:31.41,0:06:33.71,Default,,0000,0000,0000,,I'll kill the horses and make a break for it.
+Dialogue: 0,0:06:34.33,0:06:35.49,Default,,0000,0000,0000,,That's good enough.
+Dialogue: 0,0:06:36.33,0:06:41.98,Default,,0000,0000,0000,,No matter how strong Captain Levi is,\Nhe's still no match for our War Chief.
+Dialogue: 0,0:06:47.13,0:06:48.59,Default,,0000,0000,0000,,That was close...
+Dialogue: 0,0:06:49.30,0:06:52.84,Default,,0000,0000,0000,,If I was any slower transferring\Nmy consciousness to my body,
+Dialogue: 0,0:06:53.22,0:06:54.58,Default,,0000,0000,0000,,I would've died instantly.
+Dialogue: 0,0:06:56.27,0:06:59.85,Default,,0000,0000,0000,,How did they even think\Nto look inside the walls?
+Dialogue: 0,0:07:01.48,0:07:03.98,Default,,0000,0000,0000,,Armin? Was it you?
+Dialogue: 0,0:07:06.82,0:07:08.74,Default,,0000,0000,0000,,No... It doesn't matter.
+Dialogue: 0,0:07:09.19,0:07:13.21,Default,,0000,0000,0000,,With this, our long journey\Nis finally coming to an end.
+Dialogue: 0,0:07:21.92,0:07:23.46,Default,,0000,0000,0000,,Erwin Smith...
+Dialogue: 0,0:07:24.71,0:07:27.80,Default,,0000,0000,0000,,Don't get distracted.\NI've got to kill the horses first.
+Dialogue: 0,0:07:36.26,0:07:36.85,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:07:40.64,0:07:43.02,Default,,0000,0000,0000,,Why did he show up unprovoked?
+Dialogue: 0,0:07:43.94,0:07:47.62,Default,,0000,0000,0000,,They should be painfully aware\Nthat he's our main objective.
+Dialogue: 0,0:07:48.32,0:07:49.78,Default,,0000,0000,0000,,What are you thinking?
+Dialogue: 0,0:07:55.62,0:07:58.23,Default,,0000,0000,0000,,To flee south and escape over the wall?
+Dialogue: 0,0:07:58.99,0:08:02.85,Default,,0000,0000,0000,,If he's alone, he could escape as\Na Titan to Trost without a horse.
+Dialogue: 0,0:08:03.62,0:08:07.67,Default,,0000,0000,0000,,And were that to happen, we'd have\Nno reason to stay here and fight.
+Dialogue: 0,0:08:08.50,0:08:11.33,Default,,0000,0000,0000,,Even if we did manage to \Nannihilate the Scouts,
+Dialogue: 0,0:08:11.84,0:08:15.97,Default,,0000,0000,0000,,we can't let someone who mastered hardening\Nin two months back in the walls.
+Dialogue: 0,0:08:16.89,0:08:21.98,Default,,0000,0000,0000,,If he learns how to harness the\NCoordinate's full power, it'll be too late.
+Dialogue: 0,0:08:24.19,0:08:25.98,Default,,0000,0000,0000,,No, wait. This is weird...
+Dialogue: 0,0:08:26.98,0:08:28.94,Default,,0000,0000,0000,,If he really was escaping,
+Dialogue: 0,0:08:28.94,0:08:32.93,Default,,0000,0000,0000,,he would've transformed after using\NODM gear to scale the wall.
+Dialogue: 0,0:08:34.07,0:08:37.83,Default,,0000,0000,0000,,Why would he transform when\NShiganshina is surrounded by walls?
+Dialogue: 0,0:08:40.37,0:08:41.66,Default,,0000,0000,0000,,I get it!
+Dialogue: 0,0:08:42.33,0:08:43.86,Default,,0000,0000,0000,,They're trying to...
+Dialogue: 0,0:08:44.67,0:08:47.79,Default,,0000,0000,0000,,...change my target from the horses to Eren!
+Dialogue: 0,0:08:56.43,0:08:59.42,Default,,0000,0000,0000,,Not giving me time to think, are we?
+Dialogue: 0,0:09:00.10,0:09:04.18,Default,,0000,0000,0000,,Dammit, Commander.\NAnd I climbed way up here...
+Dialogue: 0,0:09:10.44,0:09:12.28,Default,,0000,0000,0000,,Good! He took the bait!
+Dialogue: 0,0:09:13.61,0:09:15.70,Default,,0000,0000,0000,,He wants to use Eren as bait?
+Dialogue: 0,0:09:16.49,0:09:18.78,Default,,0000,0000,0000,,Yes, those were Commander Erwin's orders.
+Dialogue: 0,0:09:19.16,0:09:23.95,Default,,0000,0000,0000,,He'd resort to using Eren as bait\Njust to protect the horses?
+Dialogue: 0,0:09:23.95,0:09:28.79,Default,,0000,0000,0000,,You're kidding... And what if Reiner\Nchooses to kill the horses anyways?
+Dialogue: 0,0:09:28.79,0:09:31.60,Default,,0000,0000,0000,,No, he should chase Eren.
+Dialogue: 0,0:09:32.05,0:09:33.92,Default,,0000,0000,0000,,If Reiner does go after the horses,
+Dialogue: 0,0:09:34.51,0:09:38.24,Default,,0000,0000,0000,,Eren will keep going and wrap\Naround behind the Beast Titan.
+Dialogue: 0,0:09:38.93,0:09:43.50,Default,,0000,0000,0000,,With Levi, the Scouts, and Eren,\Nthey can pincer and fight the Beast Titan.
+Dialogue: 0,0:09:44.10,0:09:46.44,Default,,0000,0000,0000,,Erwin must have said that, right?
+Dialogue: 0,0:09:47.10,0:09:47.69,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:48.19,0:09:52.36,Default,,0000,0000,0000,,Even if it doesn't go as planned,\Nby having Eren flee like that,
+Dialogue: 0,0:09:52.36,0:09:55.06,Default,,0000,0000,0000,,it'll confuse the enemy enough\Nto break their ranks.
+Dialogue: 0,0:09:55.40,0:09:58.12,Default,,0000,0000,0000,,It all depends if Reiner \Ncan see that far ahead.
+Dialogue: 0,0:10:03.20,0:10:05.79,Default,,0000,0000,0000,,Knowing him, I bet that he will.
+Dialogue: 0,0:10:07.33,0:10:10.81,Default,,0000,0000,0000,,All right! We'll take on the\NArmored Titan in Shiganshina!
+Dialogue: 0,0:10:12.29,0:10:13.17,Default,,0000,0000,0000,,Hold on!
+Dialogue: 0,0:10:13.75,0:10:15.93,Default,,0000,0000,0000,,There's one more thing I'm worried about.
+Dialogue: 0,0:10:16.97,0:10:19.98,Default,,0000,0000,0000,,Bertholdt is still in hiding somewhere.
+Dialogue: 0,0:10:20.89,0:10:25.13,Default,,0000,0000,0000,,The last time they fought, Eren had\NReiner on the verge of defeat, but...
+Dialogue: 0,0:10:26.06,0:10:30.15,Default,,0000,0000,0000,,...Bertholdt's attack caught him off guard\Nand he ended up their captive.
+Dialogue: 0,0:10:33.86,0:10:38.71,Default,,0000,0000,0000,,It's a simple counter-strategy,\Nbut let's fight away from the walls.
+Dialogue: 0,0:10:46.00,0:10:48.12,Default,,0000,0000,0000,,It might've been a fluke, but...
+Dialogue: 0,0:10:49.33,0:10:51.33,Default,,0000,0000,0000,,I've beaten you once already.
+Dialogue: 0,0:10:53.38,0:10:55.05,Default,,0000,0000,0000,,I had it in the bag.
+Dialogue: 0,0:10:57.26,0:10:59.76,Default,,0000,0000,0000,,One-on-one, I can win.
+Dialogue: 0,0:11:00.93,0:11:06.28,Default,,0000,0000,0000,,When it comes to hand-to-hand combat,\NAnnie was a tougher opponent by far!
+Dialogue: 0,0:11:35.00,0:11:38.71,Default,,0000,0000,0000,,Do you have any idea...\Nwhere we're standing right now?!
+Dialogue: 0,0:11:42.97,0:11:44.03,Default,,0000,0000,0000,,This is the place...
+Dialogue: 0,0:11:49.14,0:11:50.56,Default,,0000,0000,0000,,...where I...
+Dialogue: 0,0:11:51.81,0:11:52.90,Default,,0000,0000,0000,,...where we...
+Dialogue: 0,0:11:54.86,0:11:56.75,Default,,0000,0000,0000,,...once called home!
+Dialogue: 0,0:11:59.15,0:12:00.45,Default,,0000,0000,0000,,I'm taking it back.
+Dialogue: 0,0:12:01.57,0:12:03.45,Default,,0000,0000,0000,,I'll slaughter you all...
+Dialogue: 0,0:12:05.41,0:12:07.15,Default,,0000,0000,0000,,...and take back what you stole!
+Dialogue: 0,0:12:07.99,0:12:09.19,Default,,0000,0000,0000,,All of it!
+Dialogue: 0,0:12:09.95,0:12:14.96,Eyecatch1A,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Thunder Spears"\N"A weapon developed to combat the stout defense of the Armored Titan using technology formerly kept secret by the Interior Police. Though challenging to wield, it can deliver a concentrated blow comparable to a strike of lightning."
+Dialogue: 0,0:12:19.67,0:12:22.76,Default,,0000,0000,0000,,Recruits! Move the remaining horses west!
+Dialogue: 0,0:12:22.76,0:12:24.59,Default,,0000,0000,0000,,Protect the recruits with Dirk Squad!
+Dialogue: 0,0:12:25.55,0:12:26.51,Default,,0000,0000,0000,,Where, Marlo?!
+Dialogue: 0,0:12:26.51,0:12:27.39,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:27.39,0:12:28.76,Default,,0000,0000,0000,,Where do we tie the horses?!
+Dialogue: 0,0:12:28.76,0:12:31.73,Default,,0000,0000,0000,,W-We were told not to put \Nthem all in one place.
+Dialogue: 0,0:12:32.18,0:12:33.51,Default,,0000,0000,0000,,Not here. Farther.
+Dialogue: 0,0:12:33.81,0:12:35.60,Default,,0000,0000,0000,,Three- to four-meters coming from the east!
+Dialogue: 0,0:12:41.07,0:12:43.10,Default,,0000,0000,0000,,That's... a Titan?
+Dialogue: 0,0:12:54.04,0:12:55.42,Default,,0000,0000,0000,,Captain Levi!
+Dialogue: 0,0:12:55.42,0:12:56.79,Default,,0000,0000,0000,,Now's our chance! Hurry!
+Dialogue: 0,0:12:57.29,0:12:59.55,Default,,0000,0000,0000,,Clean up the small ones already!
+Dialogue: 0,0:12:59.55,0:13:01.51,Default,,0000,0000,0000,,Do it before the Beast Titan moves!
+Dialogue: 0,0:13:01.51,0:13:04.13,Default,,0000,0000,0000,,And no casualties! Don't you dare die!
+Dialogue: 0,0:13:04.13,0:13:05.26,Default,,0000,0000,0000,,Sir!
+Dialogue: 0,0:13:08.55,0:13:10.55,Default,,0000,0000,0000,,Shit, this is pathetic.
+Dialogue: 0,0:13:11.64,0:13:13.52,Default,,0000,0000,0000,,The weak ones die so fast.
+Dialogue: 0,0:13:14.18,0:13:15.80,Default,,0000,0000,0000,,Should've kept 'em up there.
+Dialogue: 0,0:13:20.19,0:13:22.59,Default,,0000,0000,0000,,Struggling with three- \Nto four-meter Titans...
+Dialogue: 0,0:13:23.15,0:13:25.30,Default,,0000,0000,0000,,Casualties all over the place...
+Dialogue: 0,0:13:26.11,0:13:29.22,Default,,0000,0000,0000,,The Scouts aren't nearly\Nas strong as they once were.
+Dialogue: 0,0:13:30.45,0:13:36.38,Default,,0000,0000,0000,,However, without all those sacrifices,\Nwe never would have made it this far.
+Dialogue: 0,0:13:41.75,0:13:43.51,Default,,0000,0000,0000,,When I was a cadet,
+Dialogue: 0,0:13:43.51,0:13:47.59,Default,,0000,0000,0000,,I told the others about my father's\Ntheory which I also believed.
+Dialogue: 0,0:13:48.14,0:13:51.31,Default,,0000,0000,0000,,And that once I was a \NScout, I would prove it.
+Dialogue: 0,0:13:52.26,0:13:57.46,Default,,0000,0000,0000,,But after I joined the Scouts,\NI stopped talking about it for some reason.
+Dialogue: 0,0:13:59.06,0:14:01.01,Default,,0000,0000,0000,,No, that's wrong...
+Dialogue: 0,0:14:02.40,0:14:05.76,Default,,0000,0000,0000,,It wasn't some reason. I \Nhad realized something.
+Dialogue: 0,0:14:06.57,0:14:10.99,Default,,0000,0000,0000,,That only I... was fighting for myself.
+Dialogue: 0,0:14:12.12,0:14:16.71,Default,,0000,0000,0000,,That only I... had a dream I wanted to see.
+Dialogue: 0,0:14:20.83,0:14:26.05,Default,,0000,0000,0000,,Before I knew it, I was giving people orders\Nand inspiring my comrades.
+Dialogue: 0,0:14:27.17,0:14:29.89,Default,,0000,0000,0000,,Saying they should give\Ntheir hearts to humanity.
+Dialogue: 0,0:14:31.39,0:14:33.29,Default,,0000,0000,0000,,Thus, I fooled my comrades...
+Dialogue: 0,0:14:34.39,0:14:35.85,Default,,0000,0000,0000,,Fooled myself...
+Dialogue: 0,0:14:37.35,0:14:40.13,Default,,0000,0000,0000,,And upon a mountain of their corpses...
+Dialogue: 0,0:14:41.77,0:14:43.27,Default,,0000,0000,0000,,...I now stand.
+Dialogue: 0,0:14:51.12,0:14:54.72,Default,,0000,0000,0000,,And yet, the basement lingers\Nat the back of my mind.
+Dialogue: 0,0:14:56.12,0:15:01.15,Default,,0000,0000,0000,,Even if this plan fails, I might be able\Nto reach the basement before I die...
+Dialogue: 0,0:15:02.42,0:15:05.01,Default,,0000,0000,0000,,The basement Grisha Yeager left behind...
+Dialogue: 0,0:15:05.71,0:15:07.30,Default,,0000,0000,0000,,The truth of our world...
+Dialogue: 0,0:15:17.60,0:15:19.39,Default,,0000,0000,0000,,Those experiments paid off!
+Dialogue: 0,0:15:22.02,0:15:24.11,Default,,0000,0000,0000,,These fists are all I need to fight!
+Dialogue: 0,0:15:27.78,0:15:31.09,Default,,0000,0000,0000,,By focusing the hardening on\None spot, it gets even stronger!
+Dialogue: 0,0:15:31.74,0:15:36.70,Default,,0000,0000,0000,,Since his armor's spread across his\Nwhole body, I can smash it like thin ice!
+Dialogue: 0,0:15:44.88,0:15:47.77,Default,,0000,0000,0000,,Too slow, you big oaf!
+Dialogue: 0,0:15:51.13,0:15:51.68,Default,,0000,0000,0000,,Shit!
+Dialogue: 0,0:16:37.97,0:16:38.68,Default,,0000,0000,0000,,Hange!
+Dialogue: 0,0:16:39.14,0:16:42.18,Default,,0000,0000,0000,,Not yet! Everything rides \Non the first attack!
+Dialogue: 0,0:16:42.69,0:16:45.65,Default,,0000,0000,0000,,Wait and trust Eren will \Ngive us a good opening!
+Dialogue: 0,0:16:53.70,0:16:55.78,Default,,0000,0000,0000,,That metal rod is your new weapon?
+Dialogue: 0,0:16:56.53,0:16:58.78,Default,,0000,0000,0000,,You could at least call it a spear.
+Dialogue: 0,0:16:58.78,0:17:01.66,Default,,0000,0000,0000,,The Corps of Engineers really\Npulled through for me.
+Dialogue: 0,0:17:02.45,0:17:06.19,Default,,0000,0000,0000,,Using technology kept secret\Nby the Interior Police, that is.
+Dialogue: 0,0:17:06.63,0:17:12.21,Default,,0000,0000,0000,,I told them, basically, we needed a weapon\Nwe could use against the Armored Titan.
+Dialogue: 0,0:17:12.21,0:17:13.74,Default,,0000,0000,0000,,Against the Armored Titan?!
+Dialogue: 0,0:17:14.63,0:17:18.14,Default,,0000,0000,0000,,Our blades were all but useless\Nagainst the Armored Titan.
+Dialogue: 0,0:17:19.10,0:17:22.14,Default,,0000,0000,0000,,As long as he didn't show\Nan opening in his hardening,
+Dialogue: 0,0:17:22.31,0:17:27.49,Default,,0000,0000,0000,,all we could do was watch Eren fight\Nthe Armored Titan from the sidelines.
+Dialogue: 0,0:17:30.48,0:17:35.09,Default,,0000,0000,0000,,It's true... We couldn't stop him taking\NEren away even if we wanted to.
+Dialogue: 0,0:17:36.95,0:17:41.85,Default,,0000,0000,0000,,Back then, if the Commander hadn't\Ndrawn a horde of Titans to him...
+Dialogue: 0,0:17:43.54,0:17:47.92,Default,,0000,0000,0000,,Thus far, the only attacks effective\Nagainst the Armored Titan
+Dialogue: 0,0:17:47.92,0:17:51.13,Default,,0000,0000,0000,,have been Eren's strangles \Nand locks as a Titan.
+Dialogue: 0,0:17:51.13,0:17:56.12,Default,,0000,0000,0000,,Also, we have high hopes for his\N"hardened punch" from recent experiments.
+Dialogue: 0,0:17:57.22,0:18:01.54,Default,,0000,0000,0000,,However, the mission won't succeed\Nwith only those as our weapons.
+Dialogue: 0,0:18:02.01,0:18:06.14,Default,,0000,0000,0000,,While it's important we plug\Nthe wall, more so than that,
+Dialogue: 0,0:18:06.14,0:18:10.79,Default,,0000,0000,0000,,we must kill Reiner and Bertholdt,\Nwho are responsible for destroying the wall.
+Dialogue: 0,0:18:12.40,0:18:17.11,Default,,0000,0000,0000,,So you're saying... you want us to stab\Nthe Armored Titan with those spears?
+Dialogue: 0,0:18:17.11,0:18:18.51,Default,,0000,0000,0000,,It's easier just to show you.
+Dialogue: 0,0:18:19.53,0:18:20.57,Default,,0000,0000,0000,,Let's step outside.
+Dialogue: 0,0:18:31.25,0:18:33.30,Default,,0000,0000,0000,,It's powerful, as you can see.
+Dialogue: 0,0:18:33.30,0:18:35.63,Default,,0000,0000,0000,,It's like a strike of lightning.
+Dialogue: 0,0:18:35.63,0:18:37.51,Default,,0000,0000,0000,,Hence the name, "Thunder Spear."
+Dialogue: 0,0:18:38.09,0:18:41.68,Default,,0000,0000,0000,,However, is it enough to bring\Ndown the Armored Titan?
+Dialogue: 0,0:18:41.68,0:18:43.89,Default,,0000,0000,0000,,We won't know until we try.
+Dialogue: 0,0:18:44.47,0:18:46.81,Default,,0000,0000,0000,,It's effective against normal Titans,
+Dialogue: 0,0:18:46.81,0:18:50.96,Default,,0000,0000,0000,,but to deal a blow to the Armored Titan,\Nit'll take a little more work.
+Dialogue: 0,0:19:13.63,0:19:14.36,Default,,0000,0000,0000,,Shit!
+Dialogue: 0,0:19:27.22,0:19:31.61,Default,,0000,0000,0000,,I guess biting Eren out of there\Nisn't something I can do by myself.
+Dialogue: 0,0:19:32.48,0:19:34.38,Default,,0000,0000,0000,,I've got to resort to that...
+Dialogue: 0,0:19:41.49,0:19:42.24,Default,,0000,0000,0000,,Go now!
+Dialogue: 0,0:19:43.41,0:19:44.49,Default,,0000,0000,0000,,They're making a move?
+Dialogue: 0,0:19:45.33,0:19:47.88,Default,,0000,0000,0000,,I knew they've been gradually\Nsurrounding me, but...
+Dialogue: 0,0:19:48.62,0:19:50.33,Default,,0000,0000,0000,,What can they even do \Nto me with their blades?
+Dialogue: 0,0:19:51.67,0:19:55.29,Default,,0000,0000,0000,,I've got hardened armor covering\Nevery inch of my body.
+Dialogue: 0,0:19:55.84,0:19:57.34,Default,,0000,0000,0000,,They can't even scratch me!
+Dialogue: 0,0:20:21.45,0:20:22.74,Default,,0000,0000,0000,,We did it?
+Dialogue: 0,0:20:22.95,0:20:24.49,Default,,0000,0000,0000,,No, not yet...
+Dialogue: 0,0:20:25.12,0:20:27.19,Default,,0000,0000,0000,,The Thunder Spears are so destructive,
+Dialogue: 0,0:20:27.19,0:20:29.50,Default,,0000,0000,0000,,they're dangerous even \Nto those who fire them.
+Dialogue: 0,0:20:30.20,0:20:34.50,Default,,0000,0000,0000,,If you anchor to the Titan as if to\Nslash it like normal with your blade,
+Dialogue: 0,0:20:34.50,0:20:36.75,Default,,0000,0000,0000,,you'll get caught up in the explosion.
+Dialogue: 0,0:20:37.46,0:20:40.17,Default,,0000,0000,0000,,Which means the only chance\Nto use Thunder Spears...
+Dialogue: 0,0:20:40.17,0:20:43.88,Default,,0000,0000,0000,,...is when the target is surrounded\Nby multiple standing objects.
+Dialogue: 0,0:20:45.18,0:20:49.18,Default,,0000,0000,0000,,We can only attack with Thunder Spears\Nin situations exactly like this.
+Dialogue: 0,0:20:50.68,0:20:53.69,Default,,0000,0000,0000,,Right here and now, we've got to settle it!
+Dialogue: 0,0:21:06.53,0:21:07.62,Default,,0000,0000,0000,,W-We got 'em!
+Dialogue: 0,0:21:08.49,0:21:11.58,Default,,0000,0000,0000,,It worked! The armor on \Nhis nape is peeling off!
+Dialogue: 0,0:21:14.50,0:21:16.34,Default,,0000,0000,0000,,R-Really?
+Dialogue: 0,0:21:16.88,0:21:18.35,Default,,0000,0000,0000,,The spears worked!
+Dialogue: 0,0:21:18.35,0:21:19.55,Default,,0000,0000,0000,,Do it again!
+Dialogue: 0,0:21:19.63,0:21:22.42,Default,,0000,0000,0000,,Attack again with Thunder Spears\Nand finish him off!
+Dialogue: 0,0:21:28.18,0:21:29.24,Default,,0000,0000,0000,,Reiner...
+Dialogue: 0,0:21:30.22,0:21:31.22,Default,,0000,0000,0000,,You guys!
+Dialogue: 0,0:21:32.31,0:21:35.06,Default,,0000,0000,0000,,I thought you were ready\Nif it ever came to this!
+Dialogue: 0,0:21:35.60,0:21:36.65,Default,,0000,0000,0000,,Let's do it!
+Dialogue: 0,0:21:54.83,0:21:56.76,Default,,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:23:41.15,0:23:45.56,Default,,0000,0000,0000,,If something had been said that day,\Ncould the future have changed?
+Dialogue: 0,0:23:46.44,0:23:51.60,Default,,0000,0000,0000,,For all the lives they carry on their shoulders,\Nthey wish for the death of each other.
+Dialogue: 0,0:23:52.53,0:23:54.68,Default,,0000,0000,0000,,Next episode: "Descent."
+Dialogue: 0,0:23:54.24,0:23:56.54,On Top,,0000,0000,0000,,"Descent"
+Dialogue: 0,0:23:56.54,0:23:58.53,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.53,0:24:00.55,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.55,0:24:02.54,Default,,0000,0000,0000,,

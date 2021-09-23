@@ -1,0 +1,328 @@
+[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.35,0:00:06.43,Default,,0000,0000,0000,,Levi and the Scouts clashed with Kenny's squad,\Ncharging straight into their defense.
+Dialogue: 0,0:00:06.94,0:00:09.90,Default,,0000,0000,0000,,All to reach and rescue Eren and Historia.
+Dialogue: 0,0:00:11.07,0:00:11.99,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:00:19.91,0:00:21.95,Default,,0000,0000,0000,,Fall back to the final defensive post!
+Dialogue: 0,0:00:22.12,0:00:23.49,Default,,0000,0000,0000,,Time to regroup!
+Dialogue: 0,0:00:24.50,0:00:26.88,Default,,0000,0000,0000,,I'm praying, Historia.
+Dialogue: 0,0:00:27.13,0:00:30.55,Default,,0000,0000,0000,,For God to lead and guide humanity!
+Dialogue: 0,0:00:32.51,0:00:33.92,Default,,0000,0000,0000,,God, my ass!
+Dialogue: 0,0:00:34.01,0:00:37.55,Default,,0000,0000,0000,,You're just giving yourself an out\Nand manipulating other people!
+Dialogue: 0,0:00:37.68,0:00:41.13,Default,,0000,0000,0000,,I've had it! I won't let you kill me!
+Dialogue: 0,0:00:42.14,0:00:43.85,Default,,0000,0000,0000,,That's the spirit!
+Dialogue: 0,0:00:43.93,0:00:45.35,Default,,0000,0000,0000,,This is gettin' good!
+Dialogue: 0,0:00:45.81,0:00:47.69,Default,,0000,0000,0000,,You escape from here.
+Dialogue: 0,0:00:47.69,0:00:49.73,Default,,0000,0000,0000,,I'll destroy everything else!
+Dialogue: 0,0:00:50.61,0:00:51.90,Default,,0000,0000,0000,,Father...
+Dialogue: 0,0:00:52.48,0:00:53.57,Default,,0000,0000,0000,,Uri...
+Dialogue: 0,0:00:54.24,0:00:55.19,Default,,0000,0000,0000,,Frieda...
+Dialogue: 0,0:00:55.86,0:00:56.97,Default,,0000,0000,0000,,Wait for me...
+Dialogue: 0,0:00:57.95,0:00:59.05,Default,,0000,0000,0000,,...now...
+Dialogue: 0,0:02:35.00,0:02:40.01,Default,,0000,0000,0000,,"Outside the Walls of Orvud District"
+Dialogue: 0,0:02:47.93,0:02:50.88,Default,,0000,0000,0000,,It's gotta be a way through\Nif it's all plugged up.
+Dialogue: 0,0:02:51.44,0:02:52.16,Default,,0000,0000,0000,,Shit.
+Dialogue: 0,0:02:52.52,0:02:54.72,Default,,0000,0000,0000,,If only we had some gunpowder left...
+Dialogue: 0,0:02:55.69,0:02:57.44,Default,,0000,0000,0000,,We cannot let them through!
+Dialogue: 0,0:02:58.40,0:03:00.39,Default,,0000,0000,0000,,As long as we hold here, we're good!
+Dialogue: 0,0:03:06.20,0:03:07.06,Default,,0000,0000,0000,,That's...
+Dialogue: 0,0:03:07.20,0:03:08.17,Default,,0000,0000,0000,,A Titan transformed?
+Dialogue: 0,0:03:08.62,0:03:09.37,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:03:22.76,0:03:24.85,Default,,0000,0000,0000,,Here it comes! Hang on tight!
+Dialogue: 0,0:03:29.27,0:03:31.40,Default,,0000,0000,0000,,Th-This place is gonna collapse!
+Dialogue: 0,0:03:35.65,0:03:37.19,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:03:37.36,0:03:38.27,Default,,0000,0000,0000,,The hole!
+Dialogue: 0,0:03:41.78,0:03:45.66,Default,,0000,0000,0000,,Armin! Moblit! Take Hange\Nand get the hell out of here!
+Dialogue: 0,0:03:48.74,0:03:50.37,Default,,0000,0000,0000,,Rod Reiss!
+Dialogue: 0,0:03:50.37,0:03:52.16,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:03:52.41,0:03:54.08,Default,,0000,0000,0000,,Forget it, Historia!
+Dialogue: 0,0:03:54.08,0:03:58.71,Default,,0000,0000,0000,,Since that Titan's from the Reiss family,\Njust let him come and eat me!
+Dialogue: 0,0:03:58.75,0:04:00.38,Default,,0000,0000,0000,,Get out of here!
+Dialogue: 0,0:04:00.38,0:04:01.22,Default,,0000,0000,0000,,Hell no!
+Dialogue: 0,0:04:01.22,0:04:02.97,Default,,0000,0000,0000,,Why won't you listen?!
+Dialogue: 0,0:04:03.34,0:04:06.72,Default,,0000,0000,0000,,I might be humanity's \Nenemy, but I'm your ally!
+Dialogue: 0,0:04:08.10,0:04:11.52,Default,,0000,0000,0000,,I can't be a good girl,\Nand I don't wanna be God either!
+Dialogue: 0,0:04:11.52,0:04:12.23,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:04:12.56,0:04:16.21,Default,,0000,0000,0000,,When I see people crying to themselves,\Nsaying they're not needed...
+Dialogue: 0,0:04:16.48,0:04:19.02,Default,,0000,0000,0000,,...I wanna tell those people\Nthat's just not true!
+Dialogue: 0,0:04:19.98,0:04:22.63,Default,,0000,0000,0000,,No matter who! No matter where!
+Dialogue: 0,0:04:23.53,0:04:25.49,Default,,0000,0000,0000,,I'll come to their rescue!
+Dialogue: 0,0:04:30.16,0:04:31.04,Default,,0000,0000,0000,,Historia!
+Dialogue: 0,0:04:33.16,0:04:33.86,Default,,0000,0000,0000,,You okay?
+Dialogue: 0,0:04:34.25,0:04:35.30,Default,,0000,0000,0000,,Mikasa!
+Dialogue: 0,0:04:38.71,0:04:39.63,Default,,0000,0000,0000,,Give me the keys!
+Dialogue: 0,0:04:39.84,0:04:42.05,Default,,0000,0000,0000,,Captain? You guys...
+Dialogue: 0,0:04:45.76,0:04:46.86,Default,,0000,0000,0000,,Conny, hurry!
+Dialogue: 0,0:04:47.43,0:04:48.76,Default,,0000,0000,0000,,Forget about me!
+Dialogue: 0,0:04:48.76,0:04:50.68,Default,,0000,0000,0000,,Captain! Hurry and escape!
+Dialogue: 0,0:04:50.68,0:04:53.06,Default,,0000,0000,0000,,Shut up already, you topless wimp!
+Dialogue: 0,0:04:53.43,0:04:56.98,Default,,0000,0000,0000,,It's not just a Titan!\NThere're dudes with guns coming for us!
+Dialogue: 0,0:04:58.02,0:04:58.97,Default,,0000,0000,0000,,He's loose!
+Dialogue: 0,0:05:00.98,0:05:01.65,Default,,0000,0000,0000,,I think...
+Dialogue: 0,0:05:02.23,0:05:04.99,Default,,0000,0000,0000,,That's way bigger than\Nthe Colossal Titan, isn't it?
+Dialogue: 0,0:05:08.16,0:05:10.24,Default,,0000,0000,0000,,The ceiling...? Look out!
+Dialogue: 0,0:05:11.24,0:05:12.12,Default,,0000,0000,0000,,Get back!
+Dialogue: 0,0:05:19.46,0:05:23.51,Default,,0000,0000,0000,,Hey, hey, Rod! Ya done goofed up big time!
+Dialogue: 0,0:05:23.84,0:05:27.09,Default,,0000,0000,0000,,You thought ya knew Titans\Nmore than the rest of us!
+Dialogue: 0,0:05:27.09,0:05:29.68,Default,,0000,0000,0000,,Now I know you didn't, ya dumb shit!
+Dialogue: 0,0:05:30.30,0:05:31.39,Default,,0000,0000,0000,,Captain Ackermann!
+Dialogue: 0,0:05:32.01,0:05:33.14,Default,,0000,0000,0000,,Idiots! Get away!
+Dialogue: 0,0:05:37.81,0:05:40.03,Default,,0000,0000,0000,,Shit! There's no way out!
+Dialogue: 0,0:05:41.94,0:05:42.82,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:05:43.65,0:05:45.86,Default,,0000,0000,0000,,Wasn't he going to eat me?
+Dialogue: 0,0:05:49.11,0:05:50.51,Default,,0000,0000,0000,,Should I transform?
+Dialogue: 0,0:05:51.58,0:05:55.08,Default,,0000,0000,0000,,No... My Titan can't withstand all this...
+Dialogue: 0,0:06:01.79,0:06:04.03,Default,,0000,0000,0000,,I'm sorry, everyone...
+Dialogue: 0,0:06:08.76,0:06:11.37,Default,,0000,0000,0000,,I've been nothing but useless...
+Dialogue: 0,0:06:12.14,0:06:17.39,Default,,0000,0000,0000,,Ever since the very beginning,\NI was never the hope of humanity...
+Dialogue: 0,0:06:22.11,0:06:23.23,Default,,0000,0000,0000,,Armor?
+Dialogue: 0,0:06:24.32,0:06:27.07,Default,,0000,0000,0000,,What's this? Think you're some tragic hero?
+Dialogue: 0,0:06:27.82,0:06:32.03,Default,,0000,0000,0000,,When have you ever accomplished\Nanything by your strength alone?
+Dialogue: 0,0:06:32.03,0:06:33.31,Default,,0000,0000,0000,,What a weakling.
+Dialogue: 0,0:06:33.70,0:06:36.08,Default,,0000,0000,0000,,We've been through much worse than this.
+Dialogue: 0,0:06:36.08,0:06:38.12,Default,,0000,0000,0000,,Not that I wanna get used to it!
+Dialogue: 0,0:06:38.91,0:06:42.81,Default,,0000,0000,0000,,Still, it's going to suck trying\Nto navigate through all that.
+Dialogue: 0,0:06:43.71,0:06:44.84,Default,,0000,0000,0000,,I'll take Eren.
+Dialogue: 0,0:06:45.75,0:06:49.51,Default,,0000,0000,0000,,We can't go nice and slow for you,\Nso hold on for your life.
+Dialogue: 0,0:06:49.51,0:06:50.13,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:06:51.01,0:06:53.72,Default,,0000,0000,0000,,It's useless. We can't escape.
+Dialogue: 0,0:06:54.05,0:06:55.51,Default,,0000,0000,0000,,So do nothing?
+Dialogue: 0,0:06:55.51,0:06:59.35,Default,,0000,0000,0000,,You wanna sit here and hold hands\Ntill we're crushed or burn to death?
+Dialogue: 0,0:06:59.73,0:07:01.80,Default,,0000,0000,0000,,Because we're enemies of humanity?
+Dialogue: 0,0:07:03.61,0:07:07.01,Default,,0000,0000,0000,,You know, I hate doing this\Nto you every time, but...
+Dialogue: 0,0:07:07.61,0:07:08.40,Default,,0000,0000,0000,,Eren.
+Dialogue: 0,0:07:09.86,0:07:11.54,Default,,0000,0000,0000,,You've gotta make the choice.
+Dialogue: 0,0:07:16.41,0:07:17.91,Default,,0000,0000,0000,,I'll go with you!
+Dialogue: 0,0:07:25.79,0:07:26.71,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:07:27.42,0:07:28.45,Default,,0000,0000,0000,,I'm sorry...
+Dialogue: 0,0:07:29.47,0:07:33.51,Default,,0000,0000,0000,,Since it's the end, just this once...\NI want you to let me...
+Dialogue: 0,0:07:34.89,0:07:37.07,Default,,0000,0000,0000,,Let me believe in myself!
+Dialogue: 0,0:07:57.20,0:07:59.16,Default,,0000,0000,0000,,What... the...?
+Dialogue: 0,0:07:59.16,0:08:01.41,Default,,0000,0000,0000,,Everyone! Get underneath Eren!
+Dialogue: 0,0:08:06.42,0:08:07.37,Default,,0000,0000,0000,,Caven!
+Dialogue: 0,0:08:26.31,0:08:27.47,Default,,0000,0000,0000,,The chapel!
+Dialogue: 0,0:08:35.24,0:08:36.28,Default,,0000,0000,0000,,Not good!
+Dialogue: 0,0:08:36.28,0:08:37.78,Default,,0000,0000,0000,,Let's try to run!
+Dialogue: 0,0:08:47.42,0:08:49.36,Default,,0000,0000,0000,,Section Commander! Are you okay?!
+Dialogue: 0,0:08:49.88,0:08:51.34,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:08:51.34,0:08:52.61,Default,,0000,0000,0000,,What in the world happened?
+Dialogue: 0,0:09:07.52,0:09:08.92,Default,,0000,0000,0000,,What the hell is that?
+Dialogue: 0,0:09:10.73,0:09:12.53,Default,,0000,0000,0000,,If it's that big this far away...
+Dialogue: 0,0:09:12.99,0:09:15.70,Default,,0000,0000,0000,,It's gotta be twice as big\Nas the Colossal Titan.
+Dialogue: 0,0:09:16.32,0:09:17.88,Default,,0000,0000,0000,,The wall won't stand a chance...
+Dialogue: 0,0:09:18.78,0:09:19.49,Default,,0000,0000,0000,,Commander?
+Dialogue: 0,0:09:20.74,0:09:21.95,Default,,0000,0000,0000,,Advance!
+Dialogue: 0,0:09:31.92,0:09:32.60,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:09:35.01,0:09:35.77,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:09:38.05,0:09:39.18,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:09:43.22,0:09:44.02,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:09:52.98,0:09:57.99,Eyecatch2,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Titan Hardening"\N"An ability used by the Armored Titan and so forth, for a Titan to harden their body. While in hiding, Eren Jaeger conducted experiments to replicate this ability in order to plug Wall Maria. However, it wasn't until his attempt underground that he first succeeded in doing so."
+Dialogue: 0,0:10:05.79,0:10:07.49,Default,,0000,0000,0000,,That's what I call hardening.
+Dialogue: 0,0:10:08.54,0:10:12.99,Default,,0000,0000,0000,,Even after cutting you away,\Nthe Titan hasn't disappeared.
+Dialogue: 0,0:10:13.92,0:10:15.55,Default,,0000,0000,0000,,Pretty impressive, yeah?
+Dialogue: 0,0:10:20.55,0:10:21.93,Default,,0000,0000,0000,,That bottle...
+Dialogue: 0,0:10:22.43,0:10:27.35,Default,,0000,0000,0000,,Oh, yeah! Right before I turned into\Na Titan, I drank that "Armor" bottle...
+Dialogue: 0,0:10:27.60,0:10:28.24,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:29.19,0:10:33.17,Default,,0000,0000,0000,,You couldn't do it at all before now,\Nbut you used the hardening power.
+Dialogue: 0,0:10:33.65,0:10:34.94,Default,,0000,0000,0000,,And saved all of us.
+Dialogue: 0,0:10:35.86,0:10:40.20,Default,,0000,0000,0000,,In the blink of an eye,\Nyou devised and built all this.
+Dialogue: 0,0:10:40.99,0:10:46.79,Default,,0000,0000,0000,,Yeah, the construction looks shoddy, but...\NI bet that's how the walls were made, too.
+Dialogue: 0,0:10:48.00,0:10:48.88,Default,,0000,0000,0000,,In other words...
+Dialogue: 0,0:10:50.87,0:10:54.50,Default,,0000,0000,0000,,It's possible for us to plug\Nthat hole in Wall Maria now.
+Dialogue: 0,0:10:56.09,0:10:58.67,Default,,0000,0000,0000,,A lot of enemies and allies\Nhave died on the way,
+Dialogue: 0,0:10:58.67,0:11:01.51,Default,,0000,0000,0000,,and getting this far hasn't been pretty,
+Dialogue: 0,0:11:02.26,0:11:06.27,Default,,0000,0000,0000,,but for as ugly as it's been,\Nlook at the position we're in now.
+Dialogue: 0,0:11:08.23,0:11:09.91,Default,,0000,0000,0000,,Retaking Wall Maria...
+Dialogue: 0,0:11:10.39,0:11:13.88,Default,,0000,0000,0000,,Once we do that,\Nwe can investigate my basement.
+Dialogue: 0,0:11:14.69,0:11:17.28,Default,,0000,0000,0000,,But, my dad was actually...
+Dialogue: 0,0:11:24.49,0:11:25.37,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:11:26.70,0:11:28.45,Default,,0000,0000,0000,,We've secured an exit!
+Dialogue: 0,0:11:29.16,0:11:30.37,Default,,0000,0000,0000,,Armin's safe!
+Dialogue: 0,0:11:30.87,0:11:32.62,Default,,0000,0000,0000,,Hange and Moblit, too!
+Dialogue: 0,0:11:33.38,0:11:34.38,Default,,0000,0000,0000,,Well done.
+Dialogue: 0,0:11:34.79,0:11:35.71,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:11:36.17,0:11:37.01,Default,,0000,0000,0000,,You okay?
+Dialogue: 0,0:11:38.05,0:11:40.17,Default,,0000,0000,0000,,We're all safe, thanks to you!
+Dialogue: 0,0:11:40.59,0:11:45.97,Default,,0000,0000,0000,,But to be perfectly honest, when you ran\Noff prancing while crying like a baby...
+Dialogue: 0,0:11:45.97,0:11:47.68,Default,,0000,0000,0000,,...I thought we were doomed!
+Dialogue: 0,0:11:47.68,0:11:53.34,Default,,0000,0000,0000,,"It's over, over! Get it together, nincompoop!\NQuit bawling like a snotty-nosed brat!"
+Dialogue: 0,0:11:53.65,0:11:55.19,Default,,0000,0000,0000,,is what I thought.
+Dialogue: 0,0:11:55.19,0:11:55.79,Default,,0000,0000,0000,,Hey...
+Dialogue: 0,0:11:57.65,0:11:58.35,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:11:58.98,0:12:01.11,Default,,0000,0000,0000,,We're going after that big-ass Titan.
+Dialogue: 0,0:12:03.61,0:12:04.35,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:12:36.02,0:12:38.80,Default,,0000,0000,0000,,It's no use! Stay back! We'll get burnt!
+Dialogue: 0,0:12:38.80,0:12:41.86,Default,,0000,0000,0000,,Commander, we can't stop it!
+Dialogue: 0,0:12:41.86,0:12:44.53,Default,,0000,0000,0000,,It's like an Abnormal and \Ndoesn't care about us!
+Dialogue: 0,0:12:44.82,0:12:46.26,Default,,0000,0000,0000,,Enough! Fall back!
+Dialogue: 0,0:12:46.66,0:12:50.44,Default,,0000,0000,0000,,All that matters for now is to find\Nout the direction it's heading.
+Dialogue: 0,0:12:50.87,0:12:52.98,Default,,0000,0000,0000,,Commander Erwin! It's Squad Levi!
+Dialogue: 0,0:12:54.21,0:12:57.05,Default,,0000,0000,0000,,Eren and Historia are with them!\NThey succeeded!
+Dialogue: 0,0:13:03.55,0:13:04.22,Default,,0000,0000,0000,,Erwin.
+Dialogue: 0,0:13:06.18,0:13:07.24,Default,,0000,0000,0000,,Everyone all right?
+Dialogue: 0,0:13:07.80,0:13:09.89,Default,,0000,0000,0000,,Hange's our only casualty.
+Dialogue: 0,0:13:11.81,0:13:13.49,Default,,0000,0000,0000,,Seems like nothing too serious.
+Dialogue: 0,0:13:14.14,0:13:16.15,Default,,0000,0000,0000,,Well done, everyone.
+Dialogue: 0,0:13:16.56,0:13:19.59,Default,,0000,0000,0000,,I've got a whole slew of things\Nto report, but first...
+Dialogue: 0,0:13:19.94,0:13:20.89,Default,,0000,0000,0000,,What's that Titan?
+Dialogue: 0,0:13:21.86,0:13:22.90,Default,,0000,0000,0000,,It's Rod Reiss.
+Dialogue: 0,0:13:24.78,0:13:28.36,Default,,0000,0000,0000,,I think we'll need your \Ncall on this, Commander.
+Dialogue: 0,0:13:33.33,0:13:36.43,Default,,0000,0000,0000,,Regardless, we don't have time\Nto stand here and chat.
+Dialogue: 0,0:13:37.04,0:13:38.36,Default,,0000,0000,0000,,Return to Wall Sina.
+Dialogue: 0,0:13:38.96,0:13:42.38,Default,,0000,0000,0000,,You're going to let that big ass\Ncrawl right up to the wall?
+Dialogue: 0,0:13:43.13,0:13:44.92,Default,,0000,0000,0000,,To Orvud District, actually.
+Dialogue: 0,0:13:45.51,0:13:47.89,Default,,0000,0000,0000,,That's most likely where it's headed.
+Dialogue: 0,0:14:16.21,0:14:17.79,Default,,0000,0000,0000,,Let's put this all together...
+Dialogue: 0,0:14:18.96,0:14:25.42,Default,,0000,0000,0000,,Basically, Rod Reiss was after the Founding\NTitan, the Titan power inside Eren.
+Dialogue: 0,0:14:26.42,0:14:31.48,Default,,0000,0000,0000,,However, unless it's in someone with Reiss\Nblood, you won't get its true potential.
+Dialogue: 0,0:14:32.30,0:14:37.35,Default,,0000,0000,0000,,Though, even if a Reiss obtains\Nthe Founding Titan's power,
+Dialogue: 0,0:14:37.35,0:14:42.94,Default,,0000,0000,0000,,they're controlled by the First King's will and\Nrefuse to liberate humanity from the Titans.
+Dialogue: 0,0:14:44.40,0:14:47.46,Default,,0000,0000,0000,,Eh? Well, isn't that interesting...
+Dialogue: 0,0:14:48.20,0:14:51.71,Default,,0000,0000,0000,,According to the First \NKing, this is true peace?
+Dialogue: 0,0:14:52.28,0:14:54.83,Default,,0000,0000,0000,,Now that's a weird way to look at it.
+Dialogue: 0,0:14:56.16,0:15:00.08,Default,,0000,0000,0000,,In other words... we still have an option.
+Dialogue: 0,0:15:01.00,0:15:05.52,Default,,0000,0000,0000,,If that Titan eats me,\NRod Reiss will return to a human.
+Dialogue: 0,0:15:06.21,0:15:10.19,Default,,0000,0000,0000,,Which means it's still possible\Nto have a true Founding Titan.
+Dialogue: 0,0:15:11.05,0:15:12.18,Default,,0000,0000,0000,,You can't...
+Dialogue: 0,0:15:12.80,0:15:14.30,Default,,0000,0000,0000,,Seems that way.
+Dialogue: 0,0:15:15.76,0:15:18.54,Default,,0000,0000,0000,,We could capture Rod Reiss\Nonce he becomes a human.
+Dialogue: 0,0:15:18.89,0:15:20.87,Default,,0000,0000,0000,,Undo the First King's brainwashing.
+Dialogue: 0,0:15:21.31,0:15:25.57,Default,,0000,0000,0000,,If we could do that, it might open\Na path to save humanity.
+Dialogue: 0,0:15:27.74,0:15:28.92,Default,,0000,0000,0000,,Plus, Eren...
+Dialogue: 0,0:15:29.82,0:15:32.96,Default,,0000,0000,0000,,Are you saying you're fully\Nprepared to let that happen?
+Dialogue: 0,0:15:35.91,0:15:36.59,Default,,0000,0000,0000,,I am.
+Dialogue: 0,0:15:40.50,0:15:42.83,Default,,0000,0000,0000,,Eren, you can't...
+Dialogue: 0,0:15:44.21,0:15:46.28,Default,,0000,0000,0000,,You're forgetting our other option.
+Dialogue: 0,0:15:47.71,0:15:51.22,Default,,0000,0000,0000,,First of all, the current \Nplan is full of flaws.
+Dialogue: 0,0:15:51.88,0:15:56.38,Default,,0000,0000,0000,,One, there's no proof that you can\Nundo Rod Reiss' brainwashing.
+Dialogue: 0,0:15:57.43,0:16:01.94,Default,,0000,0000,0000,,No matter how you restrain him,\Nif he alters humanity's memories, it's over.
+Dialogue: 0,0:16:02.90,0:16:07.89,Default,,0000,0000,0000,,Basically, there's too many factors about\Nthe Founding Titan that we just don't know.
+Dialogue: 0,0:16:08.53,0:16:09.30,Default,,0000,0000,0000,,True...
+Dialogue: 0,0:16:10.28,0:16:18.04,Default,,0000,0000,0000,,Even if Rod Reiss eats Eren, we have\Nno guarantee that he'll return to normal.
+Dialogue: 0,0:16:18.37,0:16:18.95,Default,,0000,0000,0000,,Mmm.
+Dialogue: 0,0:16:20.16,0:16:23.92,Default,,0000,0000,0000,,On the other hand, all we've ever\Nknown is destructive pacifists.
+Dialogue: 0,0:16:23.92,0:16:27.42,Default,,0000,0000,0000,,But as it stands, the Founding Titan\Nwas taken from them.
+Dialogue: 0,0:16:27.42,0:16:30.14,Default,,0000,0000,0000,,This is a once in a lifetime \Nchance for humanity.
+Dialogue: 0,0:16:31.76,0:16:32.55,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:16:33.13,0:16:37.57,Default,,0000,0000,0000,,Your father was trying to save us\Nand humanity from the First King.
+Dialogue: 0,0:16:39.52,0:16:42.23,Default,,0000,0000,0000,,He stole the Founding Titan from my sister...
+Dialogue: 0,0:16:42.23,0:16:44.77,Default,,0000,0000,0000,,...murdered all of the Reiss children...
+Dialogue: 0,0:16:45.35,0:16:47.58,Default,,0000,0000,0000,,...because he had no other choice.
+Dialogue: 0,0:16:50.48,0:16:54.53,Default,,0000,0000,0000,,If you want to save Mikasa,\NArmin, and everyone else...
+Dialogue: 0,0:16:54.53,0:16:58.41,Default,,0000,0000,0000,,...you must learn to control this ability!
+Dialogue: 0,0:17:00.29,0:17:01.45,Default,,0000,0000,0000,,Dad...
+Dialogue: 0,0:17:02.16,0:17:03.18,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:17:03.50,0:17:08.09,Default,,0000,0000,0000,,The Dr. Jaeger I know wouldn't do\Nsomething like that for no reason at all.
+Dialogue: 0,0:17:08.34,0:17:13.29,Default,,0000,0000,0000,,Right. Even without having Reiss blood,\Nthere must be a way to save humanity.
+Dialogue: 0,0:17:13.72,0:17:16.34,Default,,0000,0000,0000,,That's why he left you \Nthe key to the basement.
+Dialogue: 0,0:17:21.14,0:17:22.60,Default,,0000,0000,0000,,What basement?
+Dialogue: 0,0:17:22.60,0:17:26.60,Default,,0000,0000,0000,,Oh, that whole thing?\NYou mean it's actually important?
+Dialogue: 0,0:17:26.60,0:17:27.98,Default,,0000,0000,0000,,Uh, yeah...
+Dialogue: 0,0:17:28.19,0:17:31.31,Default,,0000,0000,0000,,We've finally got a way to plug up the wall.
+Dialogue: 0,0:17:32.36,0:17:34.74,Default,,0000,0000,0000,,The way I see it, there's only one choice.
+Dialogue: 0,0:17:35.57,0:17:37.91,Default,,0000,0000,0000,,That makes life a little easier.
+Dialogue: 0,0:17:39.49,0:17:42.27,Default,,0000,0000,0000,,If it means anything, I \Nagree with that choice.
+Dialogue: 0,0:17:42.70,0:17:45.22,Default,,0000,0000,0000,,Though, are you sure about this, Historia?
+Dialogue: 0,0:17:45.71,0:17:50.76,Default,,0000,0000,0000,,We can't exactly have a Titan like that\Nwandering around inside the walls.
+Dialogue: 0,0:17:51.63,0:17:53.82,Default,,0000,0000,0000,,One that big, we can't restrain.
+Dialogue: 0,0:17:54.92,0:17:55.75,Default,,0000,0000,0000,,Meaning...
+Dialogue: 0,0:17:58.43,0:18:01.18,Default,,0000,0000,0000,,We'll have to kill your father\Nand there's no way around it.
+Dialogue: 0,0:18:23.95,0:18:24.65,Default,,0000,0000,0000,,Eren.
+Dialogue: 0,0:18:25.29,0:18:26.34,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:18:27.00,0:18:27.70,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:18:29.12,0:18:30.70,Default,,0000,0000,0000,,Underneath the Reiss chapel...
+Dialogue: 0,0:18:31.25,0:18:35.46,Default,,0000,0000,0000,,...I really considered becoming\Na Titan and killing you.
+Dialogue: 0,0:18:36.84,0:18:40.12,Default,,0000,0000,0000,,What's more, not even to save humanity...
+Dialogue: 0,0:18:41.10,0:18:43.79,Default,,0000,0000,0000,,Only because I wanted to believe my father.
+Dialogue: 0,0:18:45.27,0:18:48.37,Default,,0000,0000,0000,,I didn't want my father to hate me...
+Dialogue: 0,0:18:54.36,0:18:56.63,Default,,0000,0000,0000,,But now, it's time to say goodbye.
+Dialogue: 0,0:19:03.58,0:19:06.54,DefaultLow,,0000,0000,0000,,"Orvud District - Regiment Branch"
+Dialogue: 0,0:19:15.34,0:19:17.45,Default,,0000,0000,0000,,Please gather your squad in the hall.
+Dialogue: 0,0:19:18.05,0:19:20.20,Default,,0000,0000,0000,,The strategy meeting is about to begin.
+Dialogue: 0,0:19:20.80,0:19:21.64,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:19:23.60,0:19:26.17,Default,,0000,0000,0000,,Historia. Forgot to tell you...
+Dialogue: 0,0:19:27.02,0:19:28.76,Default,,0000,0000,0000,,We need you to do something.
+Dialogue: 0,0:19:29.27,0:19:30.23,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:19:32.94,0:19:34.45,Default,,0000,0000,0000,,Erwin's orders.
+Dialogue: 0,0:19:35.19,0:19:39.86,Default,,0000,0000,0000,,When this battle is over, since you're\Nthe true successor to the throne...
+Dialogue: 0,0:19:39.86,0:19:40.98,Default,,0000,0000,0000,,...become the Queen.
+Dialogue: 0,0:19:41.57,0:19:42.28,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:19:42.53,0:19:43.41,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:43.41,0:19:46.36,Default,,0000,0000,0000,,Q-Queen?! Historia?!
+Dialogue: 0,0:19:46.79,0:19:52.00,Default,,0000,0000,0000,,The coup d'état was successful, but the people\Nwon't follow a regiment sitting at the top.
+Dialogue: 0,0:19:52.46,0:19:54.84,Default,,0000,0000,0000,,What we need is a story to spread.
+Dialogue: 0,0:19:54.84,0:19:58.60,Default,,0000,0000,0000,,That a true heir retook\Nthe crown from the fake.
+Dialogue: 0,0:19:59.92,0:20:01.00,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:20:03.89,0:20:05.51,Default,,0000,0000,0000,,Um, Captain?
+Dialogue: 0,0:20:05.85,0:20:09.27,Default,,0000,0000,0000,,I'm sure you heard what\NHistoria said earlier, but...
+Dialogue: 0,0:20:09.27,0:20:10.59,Default,,0000,0000,0000,,Well, uh...
+Dialogue: 0,0:20:11.10,0:20:17.26,Default,,0000,0000,0000,,By leaving her father, she finally broke free\Nfrom that burden, I guess you could say...
+Dialogue: 0,0:20:17.57,0:20:19.11,Default,,0000,0000,0000,,And yet, again...
+Dialogue: 0,0:20:19.11,0:20:19.87,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:20.44,0:20:22.45,Default,,0000,0000,0000,,If you have something to say, say it.
+Dialogue: 0,0:20:22.45,0:20:23.65,Default,,0000,0000,0000,,Uh, um...
+Dialogue: 0,0:20:24.07,0:20:25.31,Default,,0000,0000,0000,,I-In other words...
+Dialogue: 0,0:20:26.16,0:20:28.12,Default,,0000,0000,0000,,Conny's trying to say...
+Dialogue: 0,0:20:28.12,0:20:33.25,Default,,0000,0000,0000,,Historia broke free from the Reiss\Nfamily and has finally found herself.
+Dialogue: 0,0:20:33.87,0:20:38.21,Default,,0000,0000,0000,,And now you're forcing her\Ninto another role? Isn't that...?
+Dialogue: 0,0:20:39.25,0:20:41.47,Default,,0000,0000,0000,,Isn't that... not fair to her?
+Dialogue: 0,0:20:41.47,0:20:42.42,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:20:42.42,0:20:42.97,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:20:44.01,0:20:46.39,Default,,0000,0000,0000,,My next duty is to be Queen, right?
+Dialogue: 0,0:20:47.22,0:20:48.37,Default,,0000,0000,0000,,Understood.
+Dialogue: 0,0:20:49.47,0:20:50.72,Default,,0000,0000,0000,,Historia...
+Dialogue: 0,0:20:51.68,0:20:53.45,Default,,0000,0000,0000,,Thanks for your concern.
+Dialogue: 0,0:20:54.10,0:21:00.73,Default,,0000,0000,0000,,But whether or not it's forced on me\Nis up to me to decide, I think.
+Dialogue: 0,0:21:02.28,0:21:03.08,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:21:04.07,0:21:07.12,Default,,0000,0000,0000,,Captain, I do have one condition.
+Dialogue: 0,0:21:07.70,0:21:08.35,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:21:09.45,0:21:13.33,Default,,0000,0000,0000,,Since my fate is my own,\NI want to lay it all on the line.
+Dialogue: 0,0:21:24.05,0:21:26.83,Default,,0000,0000,0000,,When you're Queen,\Nyou can punch that runt in the face.
+Dialogue: 0,0:21:29.85,0:21:32.52,Default,,0000,0000,0000,,We've determined the location\Nof Rod Reiss' Titan.
+Dialogue: 0,0:21:32.52,0:21:34.32,Default,,0000,0000,0000,,It's southwest, approaching Orvud.
+Dialogue: 0,0:21:34.73,0:21:38.14,Default,,0000,0000,0000,,At this rate, it should reach\NOrvud District by dawn.
+Dialogue: 0,0:21:38.52,0:21:39.57,Default,,0000,0000,0000,,Understood.
+Dialogue: 0,0:21:39.98,0:21:43.69,Default,,0000,0000,0000,,Commander Erwin, we'd all\Nlike to hear what your plan is.
+Dialogue: 0,0:21:44.40,0:21:47.06,Default,,0000,0000,0000,,How do you intend to evacuate\Nthe citizens in time?
+Dialogue: 0,0:21:47.66,0:21:48.91,Default,,0000,0000,0000,,We won't evacuate.
+Dialogue: 0,0:21:49.58,0:21:50.45,Default,,0000,0000,0000,,Wh-What?
+Dialogue: 0,0:21:51.24,0:21:54.99,Default,,0000,0000,0000,,We'll have the citizens remain in\NOrvud District just as they are.
+Dialogue: 0,0:21:55.21,0:21:56.71,Default,,0000,0000,0000,,Uh...
+Dialogue: 0,0:21:56.71,0:21:58.18,Default,,0000,0000,0000,,Are you insane?
+Dialogue: 0,0:23:40.64,0:23:45.33,Default,,0000,0000,0000,,At Orvud District, Eren and the others\Nface off against Rod Reiss' Titan.
+Dialogue: 0,0:23:46.07,0:23:50.86,Default,,0000,0000,0000,,Meanwhile, Historia is determined\Nto decide her own fate.
+Dialogue: 0,0:23:51.61,0:23:54.14,Default,,0000,0000,0000,,Next episode: "Ruler of the Walls."
+Dialogue: 0,0:23:54.24,0:23:56.54,On Top,,0000,0000,0000,,"Ruler of the Walls"
+Dialogue: 0,0:23:56.09,0:23:58.08,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.08,0:24:00.09,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.09,0:24:02.08,Default,,0000,0000,0000,,

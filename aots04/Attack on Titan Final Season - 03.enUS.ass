@@ -1,0 +1,303 @@
+[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.18,0:00:04.19,Default,,0000,0000,0000,,We were abandoned.
+Dialogue: 0,0:00:04.19,0:00:08.48,Default,,0000,0000,0000,,That's why we live in a camp\Nsurrounded by walls.
+Dialogue: 0,0:00:08.48,0:00:12.57,Default,,0000,0000,0000,,Because the blood of devils\Nruns through us.
+Dialogue: 0,0:00:12.57,0:00:15.74,Default,,0000,0000,0000,,That's also why your father isn't here.
+Dialogue: 0,0:00:17.57,0:00:21.37,Default,,0000,0000,0000,,Your father... is Marleyan.
+Dialogue: 0,0:00:22.29,0:00:25.46,Default,,0000,0000,0000,,He can't be with us Eldians.
+Dialogue: 0,0:00:26.92,0:00:29.71,Default,,0000,0000,0000,,If only we were Marleyan...
+Dialogue: 0,0:00:36.59,0:00:38.47,Default,,0000,0000,0000,,Oh, yeah...
+Dialogue: 0,0:00:38.47,0:00:44.69,Default,,0000,0000,0000,,Back then, I strove to be a Warrior\Nso we could be Marleyans.
+Dialogue: 0,0:00:49.82,0:00:55.11,Default,,0000,0000,0000,,Who said you could walk?!\NRun, you filthy seed of swine!
+Dialogue: 0,0:00:55.11,0:00:58.32,Default,,0000,0000,0000,,Don't you wanna be Honorary Marleyans?!
+Dialogue: 0,0:01:01.62,0:01:07.12,Default,,0000,0000,0000,,Did you guys hear? We're attacking\NParadis Island in just a few years.
+Dialogue: 0,0:01:07.12,0:01:08.21,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:08.21,0:01:11.71,Default,,0000,0000,0000,,It's almost time for us to inherit Titans!
+Dialogue: 0,0:01:11.71,0:01:15.26,Default,,0000,0000,0000,,Out of the seven of us, they're picking six!
+Dialogue: 0,0:01:15.26,0:01:18.84,Default,,0000,0000,0000,,Yes! I can finally be Marleyan!
+Dialogue: 0,0:01:18.84,0:01:23.52,Default,,0000,0000,0000,,Huh? Why so excited?\NIf anyone's the worst, it's you.
+Dialogue: 0,0:01:23.52,0:01:25.18,Default,,0000,0000,0000,,Excuse me?!
+Dialogue: 0,0:01:25.18,0:01:27.19,Default,,0000,0000,0000,,What's your strong point?
+Dialogue: 0,0:01:27.19,0:01:28.10,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:01:28.10,0:01:33.44,Default,,0000,0000,0000,,Your strength? Your brains?\NYour aim? Combat ability?
+Dialogue: 0,0:01:33.44,0:01:39.37,Default,,0000,0000,0000,,Nope. The only value they see in you\Nis your loyalty to Marley.
+Dialogue: 0,0:01:39.37,0:01:44.08,Default,,0000,0000,0000,,"I'll slaughter the island devils\Nreal good for you, sir!"
+Dialogue: 0,0:01:44.08,0:01:50.00,Default,,0000,0000,0000,,You making fun of our mission?!\NOr maybe you're a stray Restorationist?!
+Dialogue: 0,0:01:50.00,0:01:50.88,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:01:50.88,0:01:55.26,Default,,0000,0000,0000,,You are, aren't you?!\NI'll report you to the commander!
+Dialogue: 0,0:01:55.26,0:01:58.38,Default,,0000,0000,0000,,Report this, you little shit!
+Dialogue: 0,0:01:58.38,0:01:59.72,Default,,0000,0000,0000,,Want some more?!
+Dialogue: 0,0:01:59.72,0:02:01.01,Default,,0000,0000,0000,,Porco, enough!
+Dialogue: 0,0:02:01.01,0:02:04.26,Default,,0000,0000,0000,,Hating the island doesn't make you special!
+Dialogue: 0,0:02:04.26,0:02:07.64,Default,,0000,0000,0000,,Have fun waiting 13 years alone!
+Dialogue: 0,0:02:09.06,0:02:10.98,Default,,0000,0000,0000,,--Tsk!\N--Porco!
+Dialogue: 0,0:02:10.98,0:02:12.73,Default,,0000,0000,0000,,Let's go, Pieck.
+Dialogue: 0,0:02:12.73,0:02:18.45,Default,,0000,0000,0000,,Don't cry too long or the\Ncommander will chew me out.
+Dialogue: 0,0:02:18.45,0:02:21.53,Default,,0000,0000,0000,,Reiner, I'm sorry.
+Dialogue: 0,0:02:24.28,0:02:26.79,Default,,0000,0000,0000,,Stand up, Reiner.
+Dialogue: 0,0:02:26.79,0:02:28.12,Default,,0000,0000,0000,,C'mon.
+Dialogue: 0,0:02:29.08,0:02:34.09,Default,,0000,0000,0000,,I'm gonna become a Marleyan\Nand live with my mom and dad.
+Dialogue: 0,0:02:34.09,0:02:36.13,Default,,0000,0000,0000,,I can't wait 13 years.
+Dialogue: 0,0:02:36.13,0:02:40.47,Default,,0000,0000,0000,,But it's like he said. I'm the worst.
+Dialogue: 0,0:02:40.47,0:02:46.18,Default,,0000,0000,0000,,Porco doesn't make the decision.\NBesides, loyalty is important.
+Dialogue: 0,0:02:46.18,0:02:48.56,Default,,0000,0000,0000,,Right, Annie?
+Dialogue: 0,0:02:48.56,0:02:51.90,Default,,0000,0000,0000,,Huh? What? I wasn't listening.
+Dialogue: 0,0:02:59.57,0:03:02.45,Default,,0000,0000,0000,,You really want that as your goal?
+Dialogue: 0,0:03:02.45,0:03:03.41,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:03.41,0:03:06.33,Default,,0000,0000,0000,,Thirteen years is all you get.
+Dialogue: 0,0:03:07.24,0:03:10.12,Default,,0000,0000,0000,,Thirteen years to be a hero.
+Dialogue: 0,0:03:11.54,0:03:15.71,Default,,0000,0000,0000,,If I crush the devils on Paradis,\NI'll save the world.
+Dialogue: 0,0:03:15.71,0:03:20.34,Default,,0000,0000,0000,,Then my parents will be proud\Nto have me as a son.
+Dialogue: 0,0:03:25.01,0:03:27.77,Default,,0000,0000,0000,,I wish something would happen.
+Dialogue: 0,0:03:27.77,0:03:30.31,Default,,0000,0000,0000,,Eren! There you are!
+Dialogue: 0,0:05:00.02,0:05:05.03,Default,,0000,0000,0000,,"The Door of Hope"
+Dialogue: 0,0:05:05.57,0:05:10.16,Default,,0000,0000,0000,,Marvelous. Even better than we expected.
+Dialogue: 0,0:05:14.62,0:05:19.84,Default,,0000,0000,0000,,The Female Titan.\NVersatility is its biggest strength.
+Dialogue: 0,0:05:19.84,0:05:27.30,Default,,0000,0000,0000,,On top of its mobility and endurance,\Nits hardened strikes are incredibly destructive.
+Dialogue: 0,0:05:27.30,0:05:32.06,Default,,0000,0000,0000,,The range is limited,\Nbut it can call Pure Titans, too.
+Dialogue: 0,0:05:32.06,0:05:34.68,Default,,0000,0000,0000,,Leonhart is perfect.
+Dialogue: 0,0:05:35.68,0:05:39.27,Default,,0000,0000,0000,,The Armored Titan specializes in hardening.
+Dialogue: 0,0:05:39.27,0:05:44.23,Default,,0000,0000,0000,,If it charges in at full speed,\Nthe gates of any wall will crumble.
+Dialogue: 0,0:05:44.23,0:05:50.99,Default,,0000,0000,0000,,As Marley's shield that must withstand attacks,\Nit suits Braun's perseverance.
+Dialogue: 0,0:05:51.99,0:05:55.33,Default,,0000,0000,0000,,The Jaw Titan is an assault weapon.
+Dialogue: 0,0:05:55.33,0:06:02.04,Default,,0000,0000,0000,,It's as speedy as it is small, with claws\Nand jaw that crush nearly everything.
+Dialogue: 0,0:06:02.04,0:06:05.34,Default,,0000,0000,0000,,Entrusted to the quick-witted Marcel.
+Dialogue: 0,0:06:05.34,0:06:08.59,Default,,0000,0000,0000,,The Beast Titan is as potent as ever.
+Dialogue: 0,0:06:08.59,0:06:11.97,Default,,0000,0000,0000,,Though slightly larger than the other Titans,
+Dialogue: 0,0:06:11.97,0:06:16.14,Default,,0000,0000,0000,,its throwing technique is dreadful\Non another level.
+Dialogue: 0,0:06:16.14,0:06:20.52,Default,,0000,0000,0000,,What's more, his blood\Nseems to have hidden power.
+Dialogue: 0,0:06:22.31,0:06:28.36,Default,,0000,0000,0000,,The Cart Titan has outstanding endurance,\Nsuitable for long missions.
+Dialogue: 0,0:06:28.36,0:06:33.91,Default,,0000,0000,0000,,It can be outfitted with different\Nequipment to extend its usefulness.
+Dialogue: 0,0:06:33.91,0:06:37.96,Default,,0000,0000,0000,,Pieck's superior judgment will serve well.
+Dialogue: 0,0:06:37.96,0:06:41.29,Default,,0000,0000,0000,,And then, there's the Colossal Titan...
+Dialogue: 0,0:06:50.76,0:06:53.05,Default,,0000,0000,0000,,A god of destruction.
+Dialogue: 0,0:06:54.30,0:06:57.02,Default,,0000,0000,0000,,Hoover will be able to handle it.
+Dialogue: 0,0:06:57.02,0:07:00.23,Default,,0000,0000,0000,,I feel bad for those island devils.
+Dialogue: 0,0:07:00.23,0:07:04.27,Default,,0000,0000,0000,,One day, that's gonna show up to kill 'em.
+Dialogue: 0,0:07:04.27,0:07:08.32,Default,,0000,0000,0000,,This new Warrior unit may\Noutperform their predecessors,
+Dialogue: 0,0:07:08.32,0:07:11.57,Default,,0000,0000,0000,,but I question the military's decision.
+Dialogue: 0,0:07:11.57,0:07:16.54,Default,,0000,0000,0000,,Sending children to retake the\NFounding Titan sounds insane to me.
+Dialogue: 0,0:07:16.54,0:07:23.29,Default,,0000,0000,0000,,You think? Didn't those children\Njust crush a nation before our eyes?
+Dialogue: 0,0:07:23.29,0:07:27.21,Default,,0000,0000,0000,,It's messed up! Why was\Nthe worst of us chosen?!
+Dialogue: 0,0:07:27.21,0:07:29.59,Default,,0000,0000,0000,,What did you do?!
+Dialogue: 0,0:07:29.59,0:07:34.76,Default,,0000,0000,0000,,Seems you're the worst.\NThat's all there is to it, Pock.
+Dialogue: 0,0:07:34.76,0:07:36.43,Default,,0000,0000,0000,,You little--!
+Dialogue: 0,0:07:36.43,0:07:40.06,Default,,0000,0000,0000,,Porco! You sure you wanna defy the brass?!
+Dialogue: 0,0:07:40.06,0:07:41.35,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:46.15,0:07:49.15,Default,,0000,0000,0000,,Reiner... I'm sorry.
+Dialogue: 0,0:07:49.15,0:07:50.65,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:03.37,0:08:04.96,Default,,0000,0000,0000,,Dad!
+Dialogue: 0,0:08:04.96,0:08:10.09,Default,,0000,0000,0000,,It's you, right? Mom used to work in\Nthese barracks before I was born!
+Dialogue: 0,0:08:10.09,0:08:13.55,Default,,0000,0000,0000,,That's where you met her! Karina Braun!
+Dialogue: 0,0:08:13.55,0:08:18.39,Default,,0000,0000,0000,,Look at this! Mom and I are\NHonorary Marleyans! We can all live--
+Dialogue: 0,0:08:18.39,0:08:20.18,Default,,0000,0000,0000,,Bloody hell!
+Dialogue: 0,0:08:20.18,0:08:25.02,Default,,0000,0000,0000,,Did that woman send you here?!\NTo get revenge on me?! Shit!
+Dialogue: 0,0:08:25.02,0:08:27.06,Default,,0000,0000,0000,,Now her kid's a Warrior?!
+Dialogue: 0,0:08:27.06,0:08:30.57,Default,,0000,0000,0000,,If they find out where you're from,\Nmy family is screwed!
+Dialogue: 0,0:08:30.57,0:08:34.49,Default,,0000,0000,0000,,You're gonna get me hanged!\NI'm running the hell away!
+Dialogue: 0,0:08:34.49,0:08:38.87,Default,,0000,0000,0000,,Away from you and your damn Eldian mother!
+Dialogue: 0,0:08:38.87,0:08:40.62,Default,,0000,0000,0000,,Reiner!
+Dialogue: 0,0:08:40.62,0:08:42.66,Default,,0000,0000,0000,,Reiner!
+Dialogue: 0,0:08:42.66,0:08:45.12,Default,,0000,0000,0000,,I'll be waiting for you!
+Dialogue: 0,0:08:45.12,0:08:48.59,Default,,0000,0000,0000,,That's right. Even without a father,
+Dialogue: 0,0:08:48.59,0:08:52.34,Default,,0000,0000,0000,,I'm still the chosen Warrior\Nof the Armored Titan.
+Dialogue: 0,0:08:52.34,0:08:57.22,Default,,0000,0000,0000,,I'll save everyone from the island devils\Nand be the world's hero.
+Dialogue: 0,0:09:06.15,0:09:09.23,Default,,0000,0000,0000,,We didn't cover much ground tonight.
+Dialogue: 0,0:09:09.23,0:09:11.98,Default,,0000,0000,0000,,Can't do much about the clouds.
+Dialogue: 0,0:09:11.98,0:09:18.41,Default,,0000,0000,0000,,Will the King really not use the Founding\NTitan, even if we break the wall?
+Dialogue: 0,0:09:18.41,0:09:22.33,Default,,0000,0000,0000,,What's the use asking now?\NTrust Marley's research.
+Dialogue: 0,0:09:22.33,0:09:25.79,Default,,0000,0000,0000,,That's right. We can't turn back.
+Dialogue: 0,0:09:25.79,0:09:29.46,Default,,0000,0000,0000,,Tomorrow, we reach the wall... and then...
+Dialogue: 0,0:09:31.55,0:09:36.72,Default,,0000,0000,0000,,Huh? What? Are you having second\Nthoughts about killing the devils?
+Dialogue: 0,0:09:36.72,0:09:39.60,Default,,0000,0000,0000,,Have you forgotten what they've done?
+Dialogue: 0,0:09:39.60,0:09:45.31,Default,,0000,0000,0000,,We're the world's chosen Warriors\Nsent to punish the island devils!
+Dialogue: 0,0:09:48.10,0:09:49.23,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:09:49.23,0:09:50.19,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:50.19,0:09:56.45,Default,,0000,0000,0000,,Reiner, I'm sorry. You were never meant\Nto be chosen as a Warrior.
+Dialogue: 0,0:09:56.45,0:10:03.99,Default,,0000,0000,0000,,I talked you up and criticized\Nmy brother to influence their decision.
+Dialogue: 0,0:10:03.99,0:10:05.20,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:05.20,0:10:09.71,Default,,0000,0000,0000,,I... just wanted to protect my brother.
+Dialogue: 0,0:10:09.71,0:10:14.30,Default,,0000,0000,0000,,I'm sorry, Reiner... I'm sorry!
+Dialogue: 0,0:10:18.30,0:10:23.22,Default,,0000,0000,0000,,Why... are you apologizing?
+Dialogue: 0,0:10:46.91,0:10:52.17,Default,,0000,0000,0000,,Bertholdt...! Annie...! Marcel...!
+Dialogue: 0,0:10:52.17,0:10:56.63,Default,,0000,0000,0000,,They got eaten!\NThey got eaten because of me!
+Dialogue: 0,0:10:56.63,0:10:59.01,Default,,0000,0000,0000,,And I'll be next!
+Dialogue: 0,0:10:59.01,0:11:01.89,Default,,0000,0000,0000,,This is where I'm gonna die!
+Dialogue: 0,0:11:05.64,0:11:07.47,Default,,0000,0000,0000,,Not bad.
+Dialogue: 0,0:11:07.47,0:11:12.81,Default,,0000,0000,0000,,This is a first. You actually beat me...\Nin a long-distance... race...
+Dialogue: 0,0:11:12.81,0:11:13.65,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:13.65,0:11:20.49,Default,,0000,0000,0000,,If we... took out that Titan...\Nwe wouldn't have... lost Jaw...
+Dialogue: 0,0:11:20.49,0:11:24.66,Default,,0000,0000,0000,,Shit! Now Marcel's gone for good.
+Dialogue: 0,0:11:24.66,0:11:28.20,Default,,0000,0000,0000,,They said there wouldn't be Titans this far out!
+Dialogue: 0,0:11:28.20,0:11:29.79,Default,,0000,0000,0000,,We've gotta go home.
+Dialogue: 0,0:11:29.79,0:11:30.66,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:30.66,0:11:35.67,Default,,0000,0000,0000,,Let's find Jaw and leave.\NThey would've changed back to human.
+Dialogue: 0,0:11:35.67,0:11:40.67,Default,,0000,0000,0000,,Besides, without Marcel to lead,\Nthis mission is doomed.
+Dialogue: 0,0:11:42.51,0:11:44.18,Default,,0000,0000,0000,,Wait...
+Dialogue: 0,0:11:44.18,0:11:45.51,Default,,0000,0000,0000,,We can't...
+Dialogue: 0,0:11:45.51,0:11:47.81,Default,,0000,0000,0000,,We can't!
+Dialogue: 0,0:11:47.81,0:11:52.44,Default,,0000,0000,0000,,We can't go home!\NWe've gotta continue the mission!
+Dialogue: 0,0:11:52.44,0:11:59.32,Default,,0000,0000,0000,,Oh, yeah... If we go back now,\Nyou'll just get eaten by the next Warrior.
+Dialogue: 0,0:11:59.32,0:12:01.82,Default,,0000,0000,0000,,Not that I give a shit.
+Dialogue: 0,0:12:01.82,0:12:03.70,Default,,0000,0000,0000,,You think only I will?
+Dialogue: 0,0:12:03.70,0:12:04.41,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:04.41,0:12:08.37,Default,,0000,0000,0000,,That only I'll get the blame for running away?
+Dialogue: 0,0:12:08.37,0:12:12.62,Default,,0000,0000,0000,,You guys are that certain\Nyou won't get eaten, too?
+Dialogue: 0,0:12:12.62,0:12:14.96,Default,,0000,0000,0000,,Catching Jaw won't be easy either.
+Dialogue: 0,0:12:14.96,0:12:20.30,Default,,0000,0000,0000,,If they used its power and ran,\Nour Titans could never catch up.
+Dialogue: 0,0:12:20.30,0:12:22.47,Default,,0000,0000,0000,,They can't control it right after becoming--
+Dialogue: 0,0:12:22.47,0:12:26.39,Default,,0000,0000,0000,,You controlled the Colossal Titan, no problem!
+Dialogue: 0,0:12:26.39,0:12:29.93,Default,,0000,0000,0000,,Anyways, we're doomed at this rate!
+Dialogue: 0,0:12:29.93,0:12:34.23,Default,,0000,0000,0000,,Without the Founding Titan,\Nthere's no going home!
+Dialogue: 0,0:12:34.23,0:12:39.11,Default,,0000,0000,0000,,Back there, if you were a fraction\Nas calm as you are now,
+Dialogue: 0,0:12:39.11,0:12:42.61,Default,,0000,0000,0000,,we wouldn't have lost Marcel or Jaw.
+Dialogue: 0,0:12:42.61,0:12:47.37,Default,,0000,0000,0000,,But you've got no problem intimidating\Nus to save your own ass, huh?!
+Dialogue: 0,0:12:48.74,0:12:54.12,Default,,0000,0000,0000,,How about you come clean to Magath?!\NTell him, "It's all my fault!"
+Dialogue: 0,0:12:54.12,0:12:57.50,Default,,0000,0000,0000,,Honorary Marleyan, my ass!\NChosen Warrior, my ass!
+Dialogue: 0,0:12:57.50,0:13:02.76,Default,,0000,0000,0000,,Marleyans, Eldians! They're all liars!\NEveryone only thinks about themselves!
+Dialogue: 0,0:13:02.76,0:13:06.22,Default,,0000,0000,0000,,I'm no different! I've gotta get home alive!
+Dialogue: 0,0:13:06.22,0:13:11.60,Default,,0000,0000,0000,,If you feel guilty, just die!\NTake all the blame and die!
+Dialogue: 0,0:13:24.90,0:13:27.41,Default,,0000,0000,0000,,Reiner is dead.
+Dialogue: 0,0:13:27.41,0:13:33.20,Default,,0000,0000,0000,,If we need Marcel, then I'll be Marcel.
+Dialogue: 0,0:13:33.20,0:13:36.25,Default,,0000,0000,0000,,Please, stop this...
+Dialogue: 0,0:13:36.25,0:13:40.79,Default,,0000,0000,0000,,This is the only way we'll be able\Nto go back home!
+Dialogue: 0,0:13:40.79,0:13:46.38,Default,,0000,0000,0000,,Let's go back... together... to our hometown!
+Dialogue: 0,0:14:10.41,0:14:12.74,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:12.74,0:14:15.50,Default,,0000,0000,0000,,I wanted to be a Warrior.
+Dialogue: 0,0:14:15.50,0:14:21.04,Default,,0000,0000,0000,,I thought I could make my mom's wish\Ncome true and we'd live with my father.
+Dialogue: 0,0:14:21.04,0:14:25.71,Default,,0000,0000,0000,,But... I had a father who\Ndidn't want any part of us.
+Dialogue: 0,0:14:25.71,0:14:30.09,Default,,0000,0000,0000,,My mom had a dream she knew\Nwould never come true.
+Dialogue: 0,0:14:30.09,0:14:34.97,Default,,0000,0000,0000,,I should never have been chosen.\NI should have died today.
+Dialogue: 0,0:14:35.89,0:14:40.85,Default,,0000,0000,0000,,Why'd he apologize?\NWhy'd he save someone like me?
+Dialogue: 0,0:14:40.85,0:14:44.61,Default,,0000,0000,0000,,No! I'm not ready for this to end!
+Dialogue: 0,0:14:44.61,0:14:49.03,Default,,0000,0000,0000,,I still don't understand anything!
+Dialogue: 0,0:14:54.91,0:14:56.33,Default,,0000,0000,0000,,Where is this?
+Dialogue: 0,0:14:56.33,0:14:58.58,Default,,0000,0000,0000,,Inside Wall Rose.
+Dialogue: 0,0:15:00.00,0:15:03.54,Default,,0000,0000,0000,,Annie... Bertholdt...
+Dialogue: 0,0:15:03.54,0:15:05.42,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:15:05.42,0:15:10.51,Default,,0000,0000,0000,,Marcel... I'll be the Warrior I should've been.
+Dialogue: 0,0:15:10.51,0:15:14.97,Default,,0000,0000,0000,,You! What the hell did you come here for?!
+Dialogue: 0,0:15:14.97,0:15:16.97,Default,,0000,0000,0000,,To save humanity!
+Dialogue: 0,0:15:16.97,0:15:21.98,Eyecatch2A,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Warrior Candidates"\N"A unit of child soldiers consisting of Eldian 'devils.' Under command of the Marley army, they undergo harsh training and are selected based on their grades, skills, behavior, personality, and devotion to Marley.
+Dialogue: 0,0:15:16.97,0:15:21.98,Eyecatch2,,0000,0000,0000,,As only Eldian 'devils' can inherit the Nine Titans,\Nthe existence of Eldians is crucial for the\Ndefense of Marley. As such, Eldians selected to become Warriors are granted 'Honorary Marleyan' status along with their immediate family."
+Dialogue: 0,0:15:23.98,0:15:27.69,Default,,0000,0000,0000,,I lived in Wall Maria,\Ndeep in the southeast mountains.
+Dialogue: 0,0:15:27.69,0:15:29.90,Default,,0000,0000,0000,,It happened at dawn.
+Dialogue: 0,0:15:29.90,0:15:35.12,Default,,0000,0000,0000,,The animals were all stirred up\Nand I heard a strange rumbling.
+Dialogue: 0,0:15:35.12,0:15:39.00,Default,,0000,0000,0000,,Thinking it was footsteps,\NI opened the window...
+Dialogue: 0,0:15:40.54,0:15:44.29,Default,,0000,0000,0000,,The rest is a blur,\Nbut I ran away on my horse.
+Dialogue: 0,0:15:44.29,0:15:49.26,Default,,0000,0000,0000,,Leaving behind three kids\Nabout the same age as you guys.
+Dialogue: 0,0:15:59.98,0:16:06.69,Default,,0000,0000,0000,,Hey, missy. You've got good taste\Nin men to tail a geezer like me.
+Dialogue: 0,0:16:06.69,0:16:09.11,Default,,0000,0000,0000,,I was born at an inn.
+Dialogue: 0,0:16:09.11,0:16:14.78,Default,,0000,0000,0000,,My mom, who works there, talks about\Nmy father so much, I know that it's you.
+Dialogue: 0,0:16:14.78,0:16:20.29,Default,,0000,0000,0000,,Well, that's real touching. If you want\Na hug from papa, put your hands up.
+Dialogue: 0,0:16:20.29,0:16:22.79,Default,,0000,0000,0000,,How are you sure it's not you?
+Dialogue: 0,0:16:22.79,0:16:29.59,Default,,0000,0000,0000,,I made a promise to my sister.\NThis joke of yours ain't making me laugh.
+Dialogue: 0,0:16:29.59,0:16:32.13,Default,,0000,0000,0000,,You're so mean, papa!
+Dialogue: 0,0:16:37.55,0:16:41.81,Default,,0000,0000,0000,,Hey now... Having a rebellious phase, are we?
+Dialogue: 0,0:16:43.14,0:16:45.02,Default,,0000,0000,0000,,That's a new one.
+Dialogue: 0,0:16:45.02,0:16:47.52,Default,,0000,0000,0000,,Are his legs saying snow today?
+Dialogue: 0,0:16:47.52,0:16:50.78,Default,,0000,0000,0000,,Nah. That's the clear skies position.
+Dialogue: 0,0:16:50.78,0:16:54.53,Default,,0000,0000,0000,,Call it hail or you'll be late for muster.
+Dialogue: 0,0:16:54.53,0:16:57.07,Default,,0000,0000,0000,,Wake up, Bertholdt!
+Dialogue: 0,0:16:57.07,0:17:01.04,Default,,0000,0000,0000,,While you two snoozed\Nafter playing with your friends,
+Dialogue: 0,0:17:01.04,0:17:04.21,Default,,0000,0000,0000,,I was busy crawling around\Nthe capital's sewers.
+Dialogue: 0,0:17:04.21,0:17:07.84,Default,,0000,0000,0000,,I've hit my limit if he's around.
+Dialogue: 0,0:17:07.84,0:17:10.00,Default,,0000,0000,0000,,Your limit, huh?
+Dialogue: 0,0:17:10.00,0:17:16.09,Default,,0000,0000,0000,,Let's take what we know back to Marley.\NThey'll be happy to hear anything.
+Dialogue: 0,0:17:16.09,0:17:18.51,Default,,0000,0000,0000,,Do you honestly think that?
+Dialogue: 0,0:17:18.51,0:17:22.31,Default,,0000,0000,0000,,Not if it's all we have to show\Nafter five years.
+Dialogue: 0,0:17:22.31,0:17:25.14,Default,,0000,0000,0000,,Then, what are you saying we do?!
+Dialogue: 0,0:17:25.14,0:17:27.27,Default,,0000,0000,0000,,Destroy Wall Rose.
+Dialogue: 0,0:17:27.27,0:17:31.57,Default,,0000,0000,0000,,It's the only way we can\Nsmoke out the Founding Titan.
+Dialogue: 0,0:17:31.57,0:17:35.32,Default,,0000,0000,0000,,A lot of your friends are gonna die.
+Dialogue: 0,0:17:35.32,0:17:39.99,Default,,0000,0000,0000,,I keep telling you:\NThey're not friends--they're devils.
+Dialogue: 0,0:17:39.99,0:17:45.08,Default,,0000,0000,0000,,But gaining their trust can't hurt.\NAnd frankly, your aloof behavior isn't--
+Dialogue: 0,0:17:45.08,0:17:49.67,Default,,0000,0000,0000,,I'm gonna barf. Can you move\Nyour face away from mine?
+Dialogue: 0,0:17:51.13,0:17:56.51,Default,,0000,0000,0000,,I bet you're exhausted.\NSorry for always laying the burden on you.
+Dialogue: 0,0:17:56.51,0:17:58.72,Default,,0000,0000,0000,,Let's call it a day.
+Dialogue: 0,0:18:03.72,0:18:07.14,Default,,0000,0000,0000,,I keep having the same dream.
+Dialogue: 0,0:18:07.14,0:18:10.94,Default,,0000,0000,0000,,I dream about the guy\Nwho hung himself in the fields.
+Dialogue: 0,0:18:10.94,0:18:17.49,Default,,0000,0000,0000,,Why did he tell us that story\Nright before he hung himself?
+Dialogue: 0,0:18:24.50,0:18:27.96,Default,,0000,0000,0000,,Eren, take a break. You're gonna die.
+Dialogue: 0,0:18:27.96,0:18:30.00,Default,,0000,0000,0000,,Shit!
+Dialogue: 0,0:18:30.00,0:18:33.30,Default,,0000,0000,0000,,Reiner... How do you do it?
+Dialogue: 0,0:18:33.30,0:18:37.51,Default,,0000,0000,0000,,How can I get like you and Mikasa?
+Dialogue: 0,0:18:37.51,0:18:42.39,Default,,0000,0000,0000,,At this rate, I'll die without\Ndoing a damn thing!
+Dialogue: 0,0:18:47.77,0:18:50.69,Default,,0000,0000,0000,,Just do what you've gotta do.
+Dialogue: 0,0:18:50.69,0:18:53.02,Default,,0000,0000,0000,,Keep moving forward.
+Dialogue: 0,0:18:54.36,0:18:55.99,Default,,0000,0000,0000,,That's all we can do.
+Dialogue: 0,0:18:55.99,0:18:59.20,Default,,0000,0000,0000,,Yeah. You're right.
+Dialogue: 0,0:19:00.70,0:19:04.12,Default,,0000,0000,0000,,Aren't you gonna drive out every last Titan?
+Dialogue: 0,0:19:04.12,0:19:06.20,Default,,0000,0000,0000,,I know you can do it.
+Dialogue: 0,0:19:21.76,0:19:25.81,Default,,0000,0000,0000,,Shit! I can't let this go on!
+Dialogue: 0,0:19:33.44,0:19:38.61,Default,,0000,0000,0000,,That's right... I still have those guys...
+Dialogue: 0,0:19:46.49,0:19:48.29,Default,,0000,0000,0000,,The hospital...
+Dialogue: 0,0:19:48.29,0:19:49.75,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:54.92,0:20:00.34,Default,,0000,0000,0000,,Um, I guess you're recovering well.\NYou're good enough to talk now.
+Dialogue: 0,0:20:00.34,0:20:06.10,Default,,0000,0000,0000,,Kinda. I'm here for\Nemotional trauma, but it's a lie.
+Dialogue: 0,0:20:06.10,0:20:06.89,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:06.89,0:20:13.27,Default,,0000,0000,0000,,I said I lost my memory and can't\Ngo home, but I just don't want to.
+Dialogue: 0,0:20:13.27,0:20:16.57,Default,,0000,0000,0000,,It'd be hard to face my family now.
+Dialogue: 0,0:20:17.44,0:20:19.32,Default,,0000,0000,0000,,Will you snitch on me?
+Dialogue: 0,0:20:19.32,0:20:22.40,Default,,0000,0000,0000,,I wouldn't do that.
+Dialogue: 0,0:20:22.40,0:20:26.53,Default,,0000,0000,0000,,You're hurt. Is it from your Warrior training?
+Dialogue: 0,0:20:26.53,0:20:30.25,Default,,0000,0000,0000,,Yeah, but I won't become one.
+Dialogue: 0,0:20:30.25,0:20:35.46,Default,,0000,0000,0000,,Another candidate is so talented,\NI don't even stand a chance.
+Dialogue: 0,0:20:35.46,0:20:37.17,Default,,0000,0000,0000,,That's good to hear.
+Dialogue: 0,0:20:37.17,0:20:38.00,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:38.00,0:20:42.84,Default,,0000,0000,0000,,You're a good guy. I hope you live a long life.
+Dialogue: 0,0:20:44.34,0:20:47.97,Default,,0000,0000,0000,,But I don't want them to be a Warrior.
+Dialogue: 0,0:20:47.97,0:20:49.52,Default,,0000,0000,0000,,Why not?
+Dialogue: 0,0:20:51.48,0:20:54.81,Default,,0000,0000,0000,,Is the other candidate a girl?
+Dialogue: 0,0:20:54.81,0:21:00.78,Default,,0000,0000,0000,,She's famous around here.\NShe did incredible things in the war.
+Dialogue: 0,0:21:00.78,0:21:05.03,Default,,0000,0000,0000,,Everyone's saying she should\Nbe the next Armor.
+Dialogue: 0,0:21:05.03,0:21:10.91,Default,,0000,0000,0000,,But since I'm powerless,\NI can't do a damn thing about it.
+Dialogue: 0,0:21:14.25,0:21:20.59,Default,,0000,0000,0000,,Every day I'm here, I think:\NWhy did it ever come to this?
+Dialogue: 0,0:21:20.59,0:21:25.34,Default,,0000,0000,0000,,Damaged minds and bodies...\NTheir freedom taken away...
+Dialogue: 0,0:21:25.34,0:21:28.10,Default,,0000,0000,0000,,Even losing themselves.
+Dialogue: 0,0:21:28.10,0:21:33.68,Default,,0000,0000,0000,,If people knew it would come to this,\Nnobody would go to war.
+Dialogue: 0,0:21:33.68,0:21:39.86,Default,,0000,0000,0000,,But most people are pushed by something,\Nforced to march into hell.
+Dialogue: 0,0:21:39.86,0:21:47.32,Default,,0000,0000,0000,,That "something" wasn't their choice.\NTheir situation or others made them do it.
+Dialogue: 0,0:21:47.32,0:21:53.16,Default,,0000,0000,0000,,But people who push their own backs\Nsee a different kind of hell.
+Dialogue: 0,0:21:53.16,0:21:56.92,Default,,0000,0000,0000,,They can see something beyond the hell.
+Dialogue: 0,0:21:56.92,0:22:02.30,Default,,0000,0000,0000,,It might be hope.\NIt may even be another hell.
+Dialogue: 0,0:22:02.30,0:22:07.55,Default,,0000,0000,0000,,Only those who keep moving\Nforward will ever know.
+Dialogue: 0,0:23:40.39,0:23:46.28,Default,,0000,0000,0000,,Magath sorts out the military\Nfor the Tybur family to tell the truth.
+Dialogue: 0,0:23:46.28,0:23:52.17,Default,,0000,0000,0000,,As the festival enlivens the city,\Nan unexpected surprise awaits Reiner.
+Dialogue: 0,0:23:52.72,0:23:56.54,Default,,0000,0000,0000,,Next episode: "From One Hand to Another."
+Dialogue: 0,0:23:52.99,0:23:56.54,On Top,,0000,0000,0000,,"From One Hand to Another"
+Dialogue: 0,0:23:56.54,0:23:58.53,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.53,0:24:00.55,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.55,0:24:02.54,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:02.54,0:24:04.55,Default,,0000,0000,0000,,

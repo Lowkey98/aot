@@ -1,0 +1,298 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,OS,,0000,0000,0000,,{\fad(800,800)\fs20}This program contains graphic content, adult themes and violence that may not be suitable for some viewers and is inappropriate for children. This content is entirely fictional. The content is intended for mature audiences only.
+Dialogue: 0,0:00:03.64,0:00:07.77,Default,,0000,0000,0000,,I keep having the same dream.
+Dialogue: 0,0:00:07.77,0:00:11.19,Default,,0000,0000,0000,,I dream about the guy\Nwho hung himself in the fields.
+Dialogue: 0,0:00:11.19,0:00:16.91,Default,,0000,0000,0000,,Why did he tell us that story\Nright before he hung himself?
+Dialogue: 0,0:00:16.91,0:00:20.74,Default,,0000,0000,0000,,Obviously, that's something\Nwe'll never know.
+Dialogue: 0,0:00:20.74,0:00:23.91,Default,,0000,0000,0000,,I bet he wanted someone to forgive him.
+Dialogue: 0,0:00:23.91,0:00:29.21,Default,,0000,0000,0000,,Considering we left Marcel and ran,\Nit's not like we can say much.
+Dialogue: 0,0:00:30.17,0:00:33.92,Default,,0000,0000,0000,,For some reason, I can't help but think:
+Dialogue: 0,0:00:33.92,0:00:38.01,Default,,0000,0000,0000,,That old man, I think what he wanted...
+Dialogue: 0,0:00:38.01,0:00:41.10,Default,,0000,0000,0000,,...was to be judged by someone.
+Dialogue: 0,0:00:42.43,0:00:47.19,Default,,0000,0000,0000,,Hey. It's been four years, Reiner.
+Dialogue: 0,0:00:49.40,0:00:55.61,Default,,0000,0000,0000,,Um, huh? Aren't you two\Nsupposed to be old friends?
+Dialogue: 0,0:00:55.61,0:00:58.07,Default,,0000,0000,0000,,Isn't that right, Mr. Kruger?
+Dialogue: 0,0:00:58.07,0:01:02.54,Default,,0000,0000,0000,,Yeah. There's so much to catch up on.
+Dialogue: 0,0:01:02.54,0:01:05.66,Default,,0000,0000,0000,,I don't even know where to start.
+Dialogue: 0,0:01:08.21,0:01:09.96,Default,,0000,0000,0000,,Impossible...
+Dialogue: 0,0:01:11.25,0:01:12.96,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:02:43.01,0:02:48.02,Default,,0000,0000,0000,,"Declaration of War"
+Dialogue: 0,0:02:58.53,0:03:02.03,Default,,0000,0000,0000,,Lord Tybur, it's almost time.
+Dialogue: 0,0:03:02.03,0:03:03.74,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:03:03.74,0:03:05.53,Default,,0000,0000,0000,,My goodness!
+Dialogue: 0,0:03:05.53,0:03:10.75,Default,,0000,0000,0000,,Well, well! Come to give me\Na pep talk, Madam Azumabito?
+Dialogue: 0,0:03:10.75,0:03:15.13,Default,,0000,0000,0000,,I hope I'm not a bother.\NI just came to see your face.
+Dialogue: 0,0:03:15.13,0:03:19.34,Default,,0000,0000,0000,,Given my stage fright,\NI'm sure I look hideous.
+Dialogue: 0,0:03:19.34,0:03:27.51,Default,,0000,0000,0000,,No, you look courageous.\NMy whole clan knows how brave you are.
+Dialogue: 0,0:03:27.51,0:03:29.98,Default,,0000,0000,0000,,I wish you the best of luck.
+Dialogue: 0,0:03:29.98,0:03:33.65,Default,,0000,0000,0000,,I appreciate it, Lady Kiyomi.
+Dialogue: 0,0:03:33.65,0:03:36.27,Default,,0000,0000,0000,,Sit down, Reiner.
+Dialogue: 0,0:03:37.36,0:03:43.61,Default,,0000,0000,0000,,They're good seats, right?\NYou can hear everything on stage.
+Dialogue: 0,0:03:43.61,0:03:46.70,Default,,0000,0000,0000,,The building above us is all housing.
+Dialogue: 0,0:03:46.70,0:03:54.38,Default,,0000,0000,0000,,It's behind the stage, but it's full of\Npeople waiting for the curtains to rise.
+Dialogue: 0,0:03:56.75,0:03:59.51,Default,,0000,0000,0000,,Directly above us.
+Dialogue: 0,0:04:00.51,0:04:04.93,Default,,0000,0000,0000,,Huh? Kruger? Did you hurt your hand?
+Dialogue: 0,0:04:04.93,0:04:08.97,Default,,0000,0000,0000,,Yeah. It's just a scratch.
+Dialogue: 0,0:04:08.97,0:04:12.48,Default,,0000,0000,0000,,Reiner, sit down.
+Dialogue: 0,0:04:16.81,0:04:19.65,Default,,0000,0000,0000,,Well, I think I'll head back.
+Dialogue: 0,0:04:19.65,0:04:22.36,Default,,0000,0000,0000,,No, Falco.
+Dialogue: 0,0:04:22.36,0:04:25.53,Default,,0000,0000,0000,,You should stay here and listen.
+Dialogue: 0,0:04:25.53,0:04:26.70,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:26.70,0:04:31.45,Default,,0000,0000,0000,,Falco... Just do as he says.
+Dialogue: 0,0:04:31.45,0:04:33.46,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:04:33.46,0:04:36.96,Default,,0000,0000,0000,,Now then, shall we leave?
+Dialogue: 0,0:04:41.34,0:04:46.39,Default,,0000,0000,0000,,Oh! Long time no see, Mr. Leonhart.
+Dialogue: 0,0:04:46.39,0:04:51.60,Default,,0000,0000,0000,,Ms. Braun... Not since\Nyour son came home, right?
+Dialogue: 0,0:04:52.47,0:04:56.60,Default,,0000,0000,0000,,Speaking of which,\NI hear Hoover passed away in bed?
+Dialogue: 0,0:04:56.60,0:05:04.61,Default,,0000,0000,0000,,Yes. He never failed to say how proud\Nhe was of his son's sacrifice for Marley.
+Dialogue: 0,0:05:04.61,0:05:06.32,Default,,0000,0000,0000,,I'm sure your daughter also--
+Dialogue: 0,0:05:06.32,0:05:08.37,Default,,0000,0000,0000,,She's not dead.
+Dialogue: 0,0:05:10.08,0:05:15.62,Default,,0000,0000,0000,,Annie is alive. She promised\Nshe would come back.
+Dialogue: 0,0:05:17.54,0:05:24.84,Default,,0000,0000,0000,,To think, war will be declared in\Nthe internment zone, of all places.
+Dialogue: 0,0:05:24.84,0:05:28.34,Default,,0000,0000,0000,,Whoa! Even General Calvi came to the zone!
+Dialogue: 0,0:05:28.34,0:05:32.22,Default,,0000,0000,0000,,The whole backbone\Nof Marley's military is here!
+Dialogue: 0,0:05:32.22,0:05:35.39,Default,,0000,0000,0000,,And all these powerful families and ambassadors!
+Dialogue: 0,0:05:35.39,0:05:40.02,Default,,0000,0000,0000,,Not to mention every newspaper\Nin the world that matters.
+Dialogue: 0,0:05:40.02,0:05:43.23,Default,,0000,0000,0000,,It's like we're in the world's spotlight!
+Dialogue: 0,0:05:43.23,0:05:46.53,Default,,0000,0000,0000,,The Tyburs sure are powerful.
+Dialogue: 0,0:05:46.53,0:05:49.53,Default,,0000,0000,0000,,Yet they're Eldians, same as us.
+Dialogue: 0,0:05:51.24,0:05:52.45,Default,,0000,0000,0000,,Eep!
+Dialogue: 0,0:05:52.45,0:05:53.99,Default,,0000,0000,0000,,It's begun.
+Dialogue: 0,0:05:53.99,0:05:57.58,Default,,0000,0000,0000,,Falco and Mr. Braun aren't back yet?
+Dialogue: 0,0:05:57.58,0:06:02.29,Default,,0000,0000,0000,,Warriors of Marley,\NCommander Magath has summoned you.
+Dialogue: 0,0:06:21.48,0:06:27.57,Default,,0000,0000,0000,,Eren... How? Why did you come here?
+Dialogue: 0,0:06:29.66,0:06:32.12,Default,,0000,0000,0000,,Same reason you did.
+Dialogue: 0,0:06:34.45,0:06:38.87,Default,,0000,0000,0000,,Don't you get it? The same reason you did.
+Dialogue: 0,0:06:38.87,0:06:42.21,Default,,0000,0000,0000,,Because I had no other choice.
+Dialogue: 0,0:06:47.30,0:06:50.38,Default,,0000,0000,0000,,Sounds like it started.
+Dialogue: 0,0:06:50.38,0:06:52.09,Default,,0000,0000,0000,,Let's listen.
+Dialogue: 0,0:06:54.43,0:06:57.52,Default,,0000,0000,0000,,Let's look back in time.
+Dialogue: 0,0:06:57.52,0:06:59.89,Default,,0000,0000,0000,,Roughly 100 years ago,
+Dialogue: 0,0:06:59.89,0:07:04.77,Default,,0000,0000,0000,,the Eldian Empire ruled the world\Nwith the Power of the Titans.
+Dialogue: 0,0:07:05.86,0:07:09.90,Default,,0000,0000,0000,,From the rise of Founder Ymir until today,
+Dialogue: 0,0:07:09.90,0:07:17.87,Default,,0000,0000,0000,,Titans have robbed enough lives\Nto eradicate humanity three times over.
+Dialogue: 0,0:07:24.59,0:07:29.88,Default,,0000,0000,0000,,Countless cultures and peoples\Nhave been wiped out by Titans;
+Dialogue: 0,0:07:29.88,0:07:32.89,Default,,0000,0000,0000,,their histories stolen away.
+Dialogue: 0,0:07:32.89,0:07:38.68,Default,,0000,0000,0000,,The Eldian Empire's path of slaughter\Nbecame humanity's history.
+Dialogue: 0,0:07:38.68,0:07:47.23,Default,,0000,0000,0000,,And when the Eldian Empire ran out of enemies,\Nthey soon began slaughtering one another.
+Dialogue: 0,0:07:47.23,0:07:50.44,Default,,0000,0000,0000,,The Great Titan War had begun.
+Dialogue: 0,0:07:50.44,0:07:55.28,Default,,0000,0000,0000,,Families holding the eight Titans\Nwaged a bloody war.
+Dialogue: 0,0:07:55.28,0:08:00.50,Default,,0000,0000,0000,,Using this to his advantage,\None Marleyan sought victory.
+Dialogue: 0,0:08:00.50,0:08:03.50,Default,,0000,0000,0000,,It was the hero, Helos.
+Dialogue: 0,0:08:03.50,0:08:05.79,Default,,0000,0000,0000,,Thanks to his clever manipulations,
+Dialogue: 0,0:08:05.79,0:08:10.80,Default,,0000,0000,0000,,the Eldian Empire was tricked into\Nkilling each other, one by one.
+Dialogue: 0,0:08:10.80,0:08:13.88,Default,,0000,0000,0000,,By joining hands with the Tybur family,
+Dialogue: 0,0:08:13.88,0:08:20.47,Default,,0000,0000,0000,,they forced the unbeatable King Fritz\Nto flee and retreat to the island.
+Dialogue: 0,0:08:22.06,0:08:28.69,Default,,0000,0000,0000,,However, though he fled to Paradis\NIsland, his power still remained.
+Dialogue: 0,0:08:28.69,0:08:36.16,Default,,0000,0000,0000,,Tens of millions of Titans await on\Nthe island to trample the world.
+Dialogue: 0,0:08:36.16,0:08:43.71,Default,,0000,0000,0000,,To this day, the only reason we haven't\Nbeen trampled is merely a fluke.
+Dialogue: 0,0:08:43.71,0:08:47.08,Default,,0000,0000,0000,,Our scholars have no other explanation.
+Dialogue: 0,0:08:47.08,0:08:54.59,Default,,0000,0000,0000,,To eliminate this threat, our motherland\NMarley sent four Titans to the island,
+Dialogue: 0,0:08:54.59,0:09:00.22,Default,,0000,0000,0000,,but they were beaten back\Nand only the Armored Titan returned.
+Dialogue: 0,0:09:00.22,0:09:07.35,Default,,0000,0000,0000,,The darkest blot on humanity's history,\Nthe Eldian Empire, is alive and well.
+Dialogue: 0,0:09:07.35,0:09:13.36,Default,,0000,0000,0000,,You hear that, Reiner?\NIsn't that why you destroyed the wall?
+Dialogue: 0,0:09:13.36,0:09:17.07,Default,,0000,0000,0000,,You guys were trying to save the world.
+Dialogue: 0,0:09:17.07,0:09:18.95,Default,,0000,0000,0000,,Weren't you?
+Dialogue: 0,0:09:20.08,0:09:22.58,Default,,0000,0000,0000,,You're wanted at the gate, Jaeger.
+Dialogue: 0,0:09:22.58,0:09:24.54,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:09:24.54,0:09:26.42,Default,,0000,0000,0000,,This way, you two.
+Dialogue: 0,0:09:30.09,0:09:35.09,Default,,0000,0000,0000,,I feel like I've seen you somewhere\Nbefore. Where are you from?
+Dialogue: 0,0:09:35.09,0:09:42.64,Default,,0000,0000,0000,,Out west by Lakua, but I was called here.\NI didn't come to chitchat with Eldians.
+Dialogue: 0,0:09:42.64,0:09:46.89,Default,,0000,0000,0000,,That's a shame. I kinda fancy your beard.
+Dialogue: 0,0:09:46.89,0:09:48.02,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:09:48.02,0:09:49.56,Default,,0000,0000,0000,,It's Pieck!
+Dialogue: 0,0:09:49.56,0:09:54.28,Default,,0000,0000,0000,,The Panzer Unit! Thanks for all your hard work!
+Dialogue: 0,0:09:54.28,0:09:56.70,Default,,0000,0000,0000,,W-We should be thanking you.
+Dialogue: 0,0:09:56.70,0:09:58.78,Default,,0000,0000,0000,,You're in a good mood today.
+Dialogue: 0,0:09:58.78,0:10:01.24,Default,,0000,0000,0000,,What are you doing? Let's go.
+Dialogue: 0,0:10:01.24,0:10:02.24,Default,,0000,0000,0000,,What was that?
+Dialogue: 0,0:10:02.24,0:10:08.42,Default,,0000,0000,0000,,Since they ride the Cart Titan into war\Nand all, it's good if we build a bond.
+Dialogue: 0,0:10:08.42,0:10:13.13,Default,,0000,0000,0000,,Didn't you just put a rift in that bond?
+Dialogue: 0,0:10:13.13,0:10:14.46,Default,,0000,0000,0000,,Anything?
+Dialogue: 0,0:10:14.46,0:10:17.09,Default,,0000,0000,0000,,Nothing strange as of yet.
+Dialogue: 0,0:10:17.09,0:10:21.64,Default,,0000,0000,0000,,I don't care how small it seems.\NReport everything to me.
+Dialogue: 0,0:10:21.64,0:10:23.93,Default,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:10:23.93,0:10:25.98,Default,,0000,0000,0000,,In here. Enter.
+Dialogue: 0,0:10:31.86,0:10:33.69,Default,,0000,0000,0000,,Where's Commander Magath?
+Dialogue: 0,0:10:33.69,0:10:34.90,Default,,0000,0000,0000,,Porco!
+Dialogue: 0,0:10:40.78,0:10:47.58,Default,,0000,0000,0000,,What's going on here?\NWhy is Vice Chief Braun so scared?
+Dialogue: 0,0:10:47.58,0:10:51.25,Default,,0000,0000,0000,,Isn't Kruger an old friend of his?
+Dialogue: 0,0:10:52.67,0:10:57.21,Default,,0000,0000,0000,,Old friend? Like, how many years ago?
+Dialogue: 0,0:10:57.21,0:11:01.43,Default,,0000,0000,0000,,If it's more than four,\Nthey met on Paradis Island!
+Dialogue: 0,0:11:01.43,0:11:04.56,Default,,0000,0000,0000,,No, there's no way!
+Dialogue: 0,0:11:04.56,0:11:07.56,Default,,0000,0000,0000,,Because that means...
+Dialogue: 0,0:11:07.56,0:11:09.56,Default,,0000,0000,0000,,Impossible...
+Dialogue: 0,0:11:09.56,0:11:10.98,Default,,0000,0000,0000,,Could it be--?!
+Dialogue: 0,0:11:10.98,0:11:15.98,Eyecatch2A,,0000,0000,0000,,"Information Available for Public Disclosure"\N"The Paradis Island Operation\Nto Retake the Founding Titan" "A mission executed under the command of Theo Magath. Four Warriors were sent to complete the mission: Marcel Galliard, Reiner Braun, Bertholdt Hoover, and Annie Leonhart.
+Dialogue: 0,0:11:10.98,0:11:15.98,Eyecatch2A,,0000,0000,0000,,Their objective was to infiltrate Paradis\NIsland, retake the Founding Titan, and return it\Nto Marley. Five years after it began, two Warriors were captured by the enemy and one other was killed. Though a prisoner possessing the Jaw Titan was brought back to Marley, of the original members, only Reiner returned safely."
+Dialogue: 0,0:11:16.40,0:11:21.61,Default,,0000,0000,0000,,Now then, the story I've told\Nthus far is common knowledge.
+Dialogue: 0,0:11:21.61,0:11:26.16,Default,,0000,0000,0000,,However, the truth is somewhat different.
+Dialogue: 0,0:11:26.16,0:11:32.33,Default,,0000,0000,0000,,In passing down the War Hammer Titan,\Nthe Tybur family inherited its memories.
+Dialogue: 0,0:11:32.33,0:11:38.51,Default,,0000,0000,0000,,I will now reveal the truths we learned\Nfor the first time ever.
+Dialogue: 0,0:11:38.51,0:11:41.59,Default,,0000,0000,0000,,Some 100 years ago,
+Dialogue: 0,0:11:41.59,0:11:47.81,Default,,0000,0000,0000,,it was neither Helos nor the Tyburs\Nwho ended the Great Titan War.
+Dialogue: 0,0:11:47.81,0:11:54.94,Default,,0000,0000,0000,,The one who ended the fighting\Nand saved the world... was King Fritz.
+Dialogue: 0,0:11:54.94,0:11:59.23,Default,,0000,0000,0000,,He anguished over the\NEldian Empire's vicious history,
+Dialogue: 0,0:11:59.23,0:12:01.95,Default,,0000,0000,0000,,tired from the endless infighting,
+Dialogue: 0,0:12:01.95,0:12:07.95,Default,,0000,0000,0000,,and above all, he was pained by\Nthe endless oppression of Marley.
+Dialogue: 0,0:12:07.95,0:12:11.41,Default,,0000,0000,0000,,When he inherited the Founding Titan,
+Dialogue: 0,0:12:11.41,0:12:17.80,Default,,0000,0000,0000,,he schemed with the Tybur family\Nand they fabricated a Marleyan hero.
+Dialogue: 0,0:12:17.80,0:12:20.42,Default,,0000,0000,0000,,His name: Helos.
+Dialogue: 0,0:12:20.42,0:12:27.22,Default,,0000,0000,0000,,The King moved as many Eldians as he\Ncould to the island and closed the gates.
+Dialogue: 0,0:12:27.22,0:12:29.89,Default,,0000,0000,0000,,He claimed that if they were threatened,
+Dialogue: 0,0:12:29.89,0:12:34.23,Default,,0000,0000,0000,,thousands of Titans would be\Nunleashed as revenge.
+Dialogue: 0,0:12:34.23,0:12:39.07,Default,,0000,0000,0000,,However, this was never his intention.
+Dialogue: 0,0:12:39.07,0:12:45.78,Default,,0000,0000,0000,,King Fritz made a vow renouncing war\Nso his ideology would be inherited.
+Dialogue: 0,0:12:45.78,0:12:50.49,Default,,0000,0000,0000,,Because of this, Karl Fritz's ideology\Nhas been passed down,
+Dialogue: 0,0:12:50.49,0:12:55.46,Default,,0000,0000,0000,,and the Titans have never left\Nthe island to attack.
+Dialogue: 0,0:12:55.46,0:13:02.09,Default,,0000,0000,0000,,That is, the one keeping our world safe\Nis the "vile" King of the walls--
+Dialogue: 0,0:13:02.09,0:13:06.14,Default,,0000,0000,0000,,Karl Fritz, and his desire for peace.
+Dialogue: 0,0:13:07.85,0:13:11.43,Default,,0000,0000,0000,,Peace was all he wanted.
+Dialogue: 0,0:13:11.43,0:13:17.73,Default,,0000,0000,0000,,But if Marley grew strong and came\Nto take the Founding Titan or his life,
+Dialogue: 0,0:13:17.73,0:13:19.90,Default,,0000,0000,0000,,he would accept it.
+Dialogue: 0,0:13:19.90,0:13:26.91,Default,,0000,0000,0000,,He believed the sins of the Eldians were\Nso grave, they could never be atoned for.
+Dialogue: 0,0:13:26.91,0:13:30.58,Default,,0000,0000,0000,,"However, until that day of retribution,
+Dialogue: 0,0:13:30.58,0:13:36.58,Default,,0000,0000,0000,,let me savor a brief paradise,\Nfree of conflict within the walls.
+Dialogue: 0,0:13:36.58,0:13:39.46,Default,,0000,0000,0000,,That is all I ask of you."
+Dialogue: 0,0:13:39.46,0:13:42.17,Default,,0000,0000,0000,,That was his last request.
+Dialogue: 0,0:13:42.17,0:13:43.17,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:43.17,0:13:45.26,Default,,0000,0000,0000,,What does this mean?
+Dialogue: 0,0:13:45.26,0:13:47.01,Default,,0000,0000,0000,,If this is true...
+Dialogue: 0,0:13:47.01,0:13:52.97,Default,,0000,0000,0000,,Marley and the Tyburs saving the world\Nwas made up by King Fritz?
+Dialogue: 0,0:13:52.97,0:13:59.61,Default,,0000,0000,0000,,If the King of the walls won't attack,\Nwhy do they say Paradis Island is a threat?
+Dialogue: 0,0:13:59.61,0:14:02.65,Default,,0000,0000,0000,,Yes... In exchange for our safety,
+Dialogue: 0,0:14:02.65,0:14:09.82,Default,,0000,0000,0000,,the Tybur family joined hands with Karl Fritz\Nand sold out the Eldians to Marley.
+Dialogue: 0,0:14:09.82,0:14:16.12,Default,,0000,0000,0000,,We're no more than traitors\Nlavishing in crookedly earned honor.
+Dialogue: 0,0:14:16.12,0:14:21.42,Default,,0000,0000,0000,,The reason that I stand here\Nand willingly part with this sham
+Dialogue: 0,0:14:21.42,0:14:26.55,Default,,0000,0000,0000,,is because I know our world is in great peril.
+Dialogue: 0,0:14:26.55,0:14:28.13,Default,,0000,0000,0000,,Commander!
+Dialogue: 0,0:14:28.13,0:14:32.81,Default,,0000,0000,0000,,The Warriors and soldiers\Nsent to get them are missing.
+Dialogue: 0,0:14:32.81,0:14:34.97,Default,,0000,0000,0000,,Mobilize a search team!
+Dialogue: 0,0:14:34.97,0:14:36.48,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:14:38.14,0:14:40.48,Default,,0000,0000,0000,,Has it begun?
+Dialogue: 0,0:14:41.52,0:14:44.57,Default,,0000,0000,0000,,Damn, that hurt! Shit...
+Dialogue: 0,0:14:44.57,0:14:46.82,Default,,0000,0000,0000,,What the hell is this?
+Dialogue: 0,0:14:46.82,0:14:50.24,Default,,0000,0000,0000,,Must be a pit to restrain Warriors.
+Dialogue: 0,0:14:50.24,0:14:56.12,Default,,0000,0000,0000,,It's a classic trap--too cramped for\None of us to transform, let alone two.
+Dialogue: 0,0:14:56.12,0:15:02.38,Default,,0000,0000,0000,,Yeah, we'd be squashed to death.\NWhy'd that scrawny soldier even do it?
+Dialogue: 0,0:15:02.38,0:15:08.30,Default,,0000,0000,0000,,I don't know, but I feel like\NI've seen them before.
+Dialogue: 0,0:15:11.68,0:15:16.18,Default,,0000,0000,0000,,Stand there and watch. This is my atonement.
+Dialogue: 0,0:15:19.77,0:15:26.61,Default,,0000,0000,0000,,Using the power of the Founding Titan,\NKarl Fritz erected three walls.
+Dialogue: 0,0:15:26.61,0:15:31.74,Default,,0000,0000,0000,,These walls, formed by\Ntens of millions of Colossal Titans,
+Dialogue: 0,0:15:31.74,0:15:36.20,Default,,0000,0000,0000,,have served as a shield and spear,\Nsafeguarding peace.
+Dialogue: 0,0:15:36.20,0:15:41.04,Default,,0000,0000,0000,,But recently, an uprising\Ntook place on Paradis Island.
+Dialogue: 0,0:15:41.04,0:15:48.05,Default,,0000,0000,0000,,King Fritz's peace was undermined by\Na person who stole the Founding Titan.
+Dialogue: 0,0:15:48.05,0:15:54.43,Default,,0000,0000,0000,,Once again, there's a threat to\Nour world--a rebel against peace!
+Dialogue: 0,0:15:54.43,0:15:58.31,Default,,0000,0000,0000,,His name: Eren Jaeger!
+Dialogue: 0,0:16:01.02,0:16:06.94,Default,,0000,0000,0000,,You tricked me... And here I respected you...
+Dialogue: 0,0:16:06.94,0:16:09.99,Default,,0000,0000,0000,,But you tricked me!
+Dialogue: 0,0:16:09.99,0:16:14.07,Default,,0000,0000,0000,,I'm sorry, Falco. I needed your help.
+Dialogue: 0,0:16:14.07,0:16:15.45,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:16.78,0:16:21.79,Default,,0000,0000,0000,,The letters! The ones you had me send!\NWhat were they?!
+Dialogue: 0,0:16:24.75,0:16:30.09,Default,,0000,0000,0000,,They didn't reach my family,\Nbut they did reach my comrades.
+Dialogue: 0,0:16:32.22,0:16:34.93,Default,,0000,0000,0000,,No way! You're kidding!
+Dialogue: 0,0:16:34.93,0:16:38.56,Default,,0000,0000,0000,,Y-Your comrades?
+Dialogue: 0,0:16:38.56,0:16:45.56,Default,,0000,0000,0000,,The threat of Paradis Island is the stampede\Nof millions of Colossal Titans--a rumbling.
+Dialogue: 0,0:16:45.56,0:16:50.23,Default,,0000,0000,0000,,As I mentioned, the vow renouncing war\Nprevents the King's bloodline
+Dialogue: 0,0:16:50.23,0:16:53.57,Default,,0000,0000,0000,,from fully using the Founding Titan.
+Dialogue: 0,0:16:53.57,0:16:58.58,Default,,0000,0000,0000,,But currently, this "Eren Jaeger"\Nwho possesses the Founding Titan
+Dialogue: 0,0:16:58.58,0:17:02.58,Default,,0000,0000,0000,,may begin this rumbling at any moment.
+Dialogue: 0,0:17:02.58,0:17:08.50,Default,,0000,0000,0000,,Once the rumbling is set into motion,\Nthere is nothing that we can do.
+Dialogue: 0,0:17:08.50,0:17:14.05,Default,,0000,0000,0000,,Nothing but tremble at the\Nfootsteps of doom, fleeing in vain.
+Dialogue: 0,0:17:14.05,0:17:21.64,Default,,0000,0000,0000,,All lands and civilizations will be trampled,\Nliterally razed to the ground.
+Dialogue: 0,0:17:21.64,0:17:23.14,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:17:23.14,0:17:24.10,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:24.10,0:17:32.11,Default,,0000,0000,0000,,It's like Willy says--I'm the bad guy.\NI might just destroy the world.
+Dialogue: 0,0:17:32.11,0:17:36.61,Default,,0000,0000,0000,,But to me, you were the bad guys, too.
+Dialogue: 0,0:17:36.61,0:17:42.58,Default,,0000,0000,0000,,That day, when the wall was destroyed\Nand Titans invaded my hometown,
+Dialogue: 0,0:17:42.58,0:17:45.41,Default,,0000,0000,0000,,I watched my mom get eaten.
+Dialogue: 0,0:17:46.58,0:17:49.38,Default,,0000,0000,0000,,I couldn't understand.
+Dialogue: 0,0:17:49.38,0:17:55.88,Default,,0000,0000,0000,,Why, Reiner? Why was my mom eaten by a Titan?
+Dialogue: 0,0:17:55.88,0:18:01.43,Default,,0000,0000,0000,,Because... on that day, we broke the wall.
+Dialogue: 0,0:18:01.43,0:18:04.60,Default,,0000,0000,0000,,Why did you break the wall?
+Dialogue: 0,0:18:04.60,0:18:10.52,Default,,0000,0000,0000,,To sneak in during the chaos\Nand see how the King would react.
+Dialogue: 0,0:18:10.52,0:18:12.69,Default,,0000,0000,0000,,What was your mission?
+Dialogue: 0,0:18:12.69,0:18:16.53,Default,,0000,0000,0000,,To retake the Founding Titan and save the world.
+Dialogue: 0,0:18:16.53,0:18:23.91,Default,,0000,0000,0000,,I see... If it was to save the world,\Nyou didn't have much choice.
+Dialogue: 0,0:18:27.04,0:18:29.54,Default,,0000,0000,0000,,Back then, you told me:
+Dialogue: 0,0:18:29.54,0:18:34.46,Default,,0000,0000,0000,,"I'll make you guys suffer and die\Nin the worst way possible."
+Dialogue: 0,0:18:34.46,0:18:36.92,Default,,0000,0000,0000,,Isn't that why you came?
+Dialogue: 0,0:18:36.92,0:18:40.59,Default,,0000,0000,0000,,Oh, I vaguely remember saying that.
+Dialogue: 0,0:18:40.59,0:18:42.05,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:42.05,0:18:44.10,Default,,0000,0000,0000,,Just forget it.
+Dialogue: 0,0:18:44.10,0:18:49.52,Default,,0000,0000,0000,,True, I saw everyone on the other side\Nof the sea as my enemy.
+Dialogue: 0,0:18:49.52,0:18:52.27,Default,,0000,0000,0000,,But then, I crossed the sea,
+Dialogue: 0,0:18:52.27,0:18:56.99,Default,,0000,0000,0000,,slept under the same roof\Nas them, ate the same food...
+Dialogue: 0,0:18:57.95,0:19:01.95,Default,,0000,0000,0000,,Reiner, I'm the same as you.
+Dialogue: 0,0:19:01.95,0:19:06.41,Default,,0000,0000,0000,,Sure, there're jerks here, but good people, too.
+Dialogue: 0,0:19:08.16,0:19:14.21,Default,,0000,0000,0000,,Across the sea, within the walls...\NIt's the same.
+Dialogue: 0,0:19:14.21,0:19:19.84,Default,,0000,0000,0000,,But you guys were taught everyone\Nin the walls was a devil.
+Dialogue: 0,0:19:19.84,0:19:25.39,Default,,0000,0000,0000,,You were children who knew nothing,\Nbut it was drilled into you.
+Dialogue: 0,0:19:25.39,0:19:30.35,Default,,0000,0000,0000,,You were just kids. What could you even do?
+Dialogue: 0,0:19:30.35,0:19:36.11,Default,,0000,0000,0000,,Right, Reiner? Hasn't that\Nbeen eating away at you?
+Dialogue: 0,0:19:38.61,0:19:42.61,Default,,0000,0000,0000,,No! You're wrong, Eren!
+Dialogue: 0,0:19:42.61,0:19:45.70,Default,,0000,0000,0000,,That day, when Marcel was eaten,
+Dialogue: 0,0:19:45.70,0:19:50.79,Default,,0000,0000,0000,,Annie and Bertholdt tried to turn back\Nand end the mission.
+Dialogue: 0,0:19:51.71,0:19:57.67,Default,,0000,0000,0000,,But I... I talked them into it\Nand made them go on!
+Dialogue: 0,0:19:58.71,0:20:04.64,Default,,0000,0000,0000,,I wanted to be a hero!\NI wanted people's respect!
+Dialogue: 0,0:20:04.64,0:20:07.72,Default,,0000,0000,0000,,It's my fault!
+Dialogue: 0,0:20:07.72,0:20:11.56,Default,,0000,0000,0000,,Your mom was eaten by a Titan because of me!
+Dialogue: 0,0:20:11.56,0:20:14.94,Default,,0000,0000,0000,,I cursed the blood I was born with.
+Dialogue: 0,0:20:14.94,0:20:19.40,Default,,0000,0000,0000,,More than anyone,\NI wished the Eldians were wiped out.
+Dialogue: 0,0:20:19.40,0:20:24.37,Default,,0000,0000,0000,,I'm sick of this... of myself! Just kill me!
+Dialogue: 0,0:20:24.37,0:20:28.49,Default,,0000,0000,0000,,But I do not wish to die.
+Dialogue: 0,0:20:28.49,0:20:33.54,Default,,0000,0000,0000,,And that is because\NI was born into this world.
+Dialogue: 0,0:20:33.54,0:20:37.38,Default,,0000,0000,0000,,We are people of different races and nations!
+Dialogue: 0,0:20:37.38,0:20:44.26,Default,,0000,0000,0000,,However, it is time to join as one\Nand face this dreadful enemy!
+Dialogue: 0,0:20:44.26,0:20:49.06,Default,,0000,0000,0000,,Lend me your strength,\Nthose of you who wish to live!
+Dialogue: 0,0:20:49.26,0:20:52.94,Default,,0000,0000,0000,,Those of you who wish for a future!
+Dialogue: 0,0:20:54.65,0:21:00.07,Default,,0000,0000,0000,,If we work together, we can\Novercome any obstacle in our way!
+Dialogue: 0,0:21:02.53,0:21:07.32,Default,,0000,0000,0000,,Like I thought, I'm the same as you.
+Dialogue: 0,0:21:07.32,0:21:08.53,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:08.53,0:21:16.25,Default,,0000,0000,0000,,I want you to join me in the fight\Nagainst the devils of Paradis Island!
+Dialogue: 0,0:21:16.25,0:21:19.55,Default,,0000,0000,0000,,I think we were born this way.
+Dialogue: 0,0:21:19.55,0:21:26.59,Default,,0000,0000,0000,,Here and now, as representative of\Nthe Marleyan government, I proclaim...
+Dialogue: 0,0:21:26.59,0:21:29.22,Default,,0000,0000,0000,,I keep moving forward.
+Dialogue: 0,0:21:29.22,0:21:30.31,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:21:30.31,0:21:33.10,Default,,0000,0000,0000,,Until I destroy my enemies.
+Dialogue: 0,0:21:39.90,0:21:44.95,Default,,0000,0000,0000,,...to the enemy forces of Paradis--\Na declaration of war!
+Dialogue: 0,0:23:40.23,0:23:43.31,Default,,0000,0000,0000,,The Attack Titan suddenly appears.
+Dialogue: 0,0:23:43.31,0:23:48.49,Default,,0000,0000,0000,,Amid its roars, the crowd\Nis slaughtered mercilessly.
+Dialogue: 0,0:23:48.49,0:23:52.53,Default,,0000,0000,0000,,To stop Eren's rampage,\Nthe War Hammer swings.
+Dialogue: 0,0:23:52.53,0:23:56.49,Default,,0000,0000,0000,,Next episode: "The War Hammer Titan."
+Dialogue: 0,0:23:53.01,0:23:56.49,On Top,,0000,0000,0000,,"The War Hammer Titan"
+Dialogue: 0,0:23:56.49,0:23:58.51,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.51,0:24:00.50,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.50,0:24:02.51,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:02.51,0:24:04.50,Default,,0000,0000,0000,,

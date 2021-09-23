@@ -1,0 +1,308 @@
+[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:22.66,0:00:26.34,Default,,0000,0000,0000,,I should've known... this would happen.
+Dialogue: 0,0:00:27.96,0:00:31.96,Default,,0000,0000,0000,,But... I had no other \Nchoice but to rely on you.
+Dialogue: 0,0:00:33.09,0:00:34.02,Default,,0000,0000,0000,,Armin...
+Dialogue: 0,0:00:35.63,0:00:38.73,Default,,0000,0000,0000,,Why... don't you run away?
+Dialogue: 0,0:00:46.23,0:00:47.40,Default,,0000,0000,0000,,A Titan?
+Dialogue: 0,0:00:53.40,0:00:54.32,Default,,0000,0000,0000,,Shit!
+Dialogue: 0,0:00:57.07,0:00:58.74,Default,,0000,0000,0000,,You just try coming closer!
+Dialogue: 0,0:00:59.33,0:01:02.24,Default,,0000,0000,0000,,Make one move to take him and he's dead!
+Dialogue: 0,0:01:04.04,0:01:05.04,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:01:06.12,0:01:09.71,Default,,0000,0000,0000,,He's got... Titan marks around his eyes.
+Dialogue: 0,0:01:10.92,0:01:12.61,Default,,0000,0000,0000,,Is he the Beast Titan?!
+Dialogue: 0,0:01:13.76,0:01:15.06,Default,,0000,0000,0000,,Are you...
+Dialogue: 0,0:01:16.13,0:01:17.47,Default,,0000,0000,0000,,...Eren Jaeger?
+Dialogue: 0,0:01:18.68,0:01:21.31,Default,,0000,0000,0000,,If nothing else, I'm taking him with me!
+Dialogue: 0,0:01:21.51,0:01:23.89,Default,,0000,0000,0000,,You look nothing like your father.
+Dialogue: 0,0:01:29.15,0:01:30.09,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:01:31.82,0:01:36.41,Default,,0000,0000,0000,,Believe me, I know what you're going through.
+Dialogue: 0,0:01:37.07,0:01:40.18,Default,,0000,0000,0000,,We're both victims of your father.
+Dialogue: 0,0:01:40.91,0:01:44.10,Default,,0000,0000,0000,,You've... been brainwashed by him.
+Dialogue: 0,0:01:47.46,0:01:48.94,Default,,0000,0000,0000,,My... dad?
+Dialogue: 0,0:01:52.09,0:01:55.05,Default,,0000,0000,0000,,Argh... You're kidding me!
+Dialogue: 0,0:01:55.05,0:01:56.91,Default,,0000,0000,0000,,He chased me all the way here?
+Dialogue: 0,0:02:04.56,0:02:08.10,Default,,0000,0000,0000,,Let's call it a draw, Levi.\NWe're in no shape to fight.
+Dialogue: 0,0:02:09.44,0:02:10.62,Default,,0000,0000,0000,,Bertholdt...
+Dialogue: 0,0:02:11.23,0:02:14.23,Default,,0000,0000,0000,,I'm sorry, but I think it's the end for you.
+Dialogue: 0,0:02:16.40,0:02:19.82,Default,,0000,0000,0000,,Eren! Someday, I'm coming back to rescue you!
+Dialogue: 0,0:02:25.37,0:02:26.28,Default,,0000,0000,0000,,He ran?
+Dialogue: 0,0:02:30.08,0:02:31.17,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:02:31.79,0:02:33.50,Default,,0000,0000,0000,,That was the last of my gas.
+Dialogue: 0,0:02:33.63,0:02:36.42,Default,,0000,0000,0000,,I'll chase him! Hand over \Nyour gas and blades!
+Dialogue: 0,0:02:36.42,0:02:37.34,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:02:37.34,0:02:38.13,Default,,0000,0000,0000,,Hurry!
+Dialogue: 0,0:02:46.02,0:02:51.02,Default,,0000,0000,0000,,"Midnight Sun"
+Dialogue: 0,0:02:54.82,0:02:59.40,Default,,0000,0000,0000,,Reiner... What's this metal case\Nyou had in your left chest pocket?
+Dialogue: 0,0:03:00.15,0:03:02.91,Default,,0000,0000,0000,,Before we chopped off all your limbs,
+Dialogue: 0,0:03:02.91,0:03:05.71,Default,,0000,0000,0000,,you tried to grab it with\Nthe strength you had left.
+Dialogue: 0,0:03:06.66,0:03:10.29,Default,,0000,0000,0000,,Suicide pills? Or perhaps a bomb?
+Dialogue: 0,0:03:10.29,0:03:11.15,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:03:11.58,0:03:12.29,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:03:14.63,0:03:16.00,Default,,0000,0000,0000,,A letter...
+Dialogue: 0,0:03:16.25,0:03:17.24,Default,,0000,0000,0000,,A letter?
+Dialogue: 0,0:03:18.17,0:03:19.51,Default,,0000,0000,0000,,What kind of letter?
+Dialogue: 0,0:03:20.42,0:03:23.25,Default,,0000,0000,0000,,A letter... from Ymir.
+Dialogue: 0,0:03:24.35,0:03:29.93,Default,,0000,0000,0000,,You have to... give it... to Christa...
+Dialogue: 0,0:03:31.89,0:03:34.43,Default,,0000,0000,0000,,Only after we've inspected it.
+Dialogue: 0,0:03:37.69,0:03:41.99,Default,,0000,0000,0000,,Now then. I've got a mountain\Nof questions for you, but...
+Dialogue: 0,0:03:43.91,0:03:47.65,Default,,0000,0000,0000,,Your lips seem as tight \Nas your armor is hard.
+Dialogue: 0,0:03:48.16,0:03:52.92,Default,,0000,0000,0000,,Are you going to cooperate and tell us\Neverything that we want to know?
+Dialogue: 0,0:03:53.79,0:03:54.63,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:03:55.33,0:03:58.50,Default,,0000,0000,0000,,Thanks. It helps that \Nyou're prepared for this.
+Dialogue: 0,0:04:02.17,0:04:03.42,Default,,0000,0000,0000,,Hold on!
+Dialogue: 0,0:04:03.88,0:04:07.85,Default,,0000,0000,0000,,Are you sure? We might be able\Nto steal his power.
+Dialogue: 0,0:04:12.02,0:04:13.46,Default,,0000,0000,0000,,Today, I would like to explain...
+Dialogue: 0,0:04:14.10,0:04:17.75,Default,,0000,0000,0000,,...how we're going to get\Nmaximum value from this injection.
+Dialogue: 0,0:04:19.02,0:04:22.97,Default,,0000,0000,0000,,Using this medicine, the Colossal\NTitan's, the Armored Titan's,
+Dialogue: 0,0:04:23.45,0:04:26.27,Default,,0000,0000,0000,,or the Beast Titan's powers can be stolen.
+Dialogue: 0,0:04:27.37,0:04:28.33,Default,,0000,0000,0000,,As for how...
+Dialogue: 0,0:04:29.20,0:04:31.61,Default,,0000,0000,0000,,The one injected with \Nthis will become a Titan,
+Dialogue: 0,0:04:32.08,0:04:35.05,Default,,0000,0000,0000,,and eat someone who can change\Ninto a Titan like Eren can.
+Dialogue: 0,0:04:36.08,0:04:40.28,Default,,0000,0000,0000,,By doing so, although they would\Ninitially be a Titan lacking intelligence,
+Dialogue: 0,0:04:40.71,0:04:44.83,Default,,0000,0000,0000,,they would revert into a human\Nable to wield that Titan's powers.
+Dialogue: 0,0:04:46.43,0:04:51.39,Default,,0000,0000,0000,,If this is achieved, not only do we gain\Ninformation regarding Titan powers,
+Dialogue: 0,0:04:51.93,0:04:55.74,Default,,0000,0000,0000,,we're also able to revive a person\Non the brink of death.
+Dialogue: 0,0:04:56.90,0:05:01.44,Default,,0000,0000,0000,,If you capture an enemy with\NTitan powers, sever all their limbs.
+Dialogue: 0,0:05:01.44,0:05:05.73,Default,,0000,0000,0000,,And when it is safe to do so,\Nsummon Captain Levi.
+Dialogue: 0,0:05:08.74,0:05:10.66,Default,,0000,0000,0000,,We have only this one injection.
+Dialogue: 0,0:05:11.29,0:05:14.65,Default,,0000,0000,0000,,I'm entrusting Captain Levi\Nwith the call to use it.
+Dialogue: 0,0:05:17.04,0:05:21.05,Default,,0000,0000,0000,,I don't think all the conditions\Nfor that have been met.
+Dialogue: 0,0:05:21.05,0:05:23.92,Default,,0000,0000,0000,,We don't know the situation\Nwith Levi and the other side.
+Dialogue: 0,0:05:24.17,0:05:27.93,Default,,0000,0000,0000,,Neither do we have the time\Nto go confirm it ourselves.
+Dialogue: 0,0:05:28.05,0:05:33.43,Default,,0000,0000,0000,,Reason being, there's no way for us\Nto gauge the full depth of their powers!
+Dialogue: 0,0:05:34.22,0:05:37.39,Default,,0000,0000,0000,,Even if I cut his head off,\Nwe can't be too sure!
+Dialogue: 0,0:05:42.07,0:05:43.98,Default,,0000,0000,0000,,This isn't like you, Hange.
+Dialogue: 0,0:05:46.45,0:05:48.99,Default,,0000,0000,0000,,If we back down because\Nof not knowing something,
+Dialogue: 0,0:05:49.53,0:05:53.20,Default,,0000,0000,0000,,down the line, can we ever\Nhope to beat the Titans?
+Dialogue: 0,0:05:56.37,0:05:57.30,Default,,0000,0000,0000,,Jean...
+Dialogue: 0,0:05:57.96,0:06:01.11,Default,,0000,0000,0000,,When are we ever going to know\Nall there is about the enemy?
+Dialogue: 0,0:06:06.05,0:06:06.80,Default,,0000,0000,0000,,Mikasa.
+Dialogue: 0,0:06:07.22,0:06:08.18,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:06:08.18,0:06:09.80,Default,,0000,0000,0000,,How much gas do you have?
+Dialogue: 0,0:06:10.34,0:06:12.31,Default,,0000,0000,0000,,It's almost entirely gone.
+Dialogue: 0,0:06:12.76,0:06:16.56,Default,,0000,0000,0000,,But it should be enough to reach\NEren and Armin at least.
+Dialogue: 0,0:06:17.39,0:06:19.09,Default,,0000,0000,0000,,That's more than me.
+Dialogue: 0,0:06:21.90,0:06:25.90,Default,,0000,0000,0000,,Mikasa... I need you to go\Ncheck out their situation.
+Dialogue: 0,0:06:26.36,0:06:30.41,Default,,0000,0000,0000,,Fill up your gas and bring back\Nthe injection from Levi.
+Dialogue: 0,0:06:31.16,0:06:35.37,Default,,0000,0000,0000,,If for any reason you're unable\Nto do so, fire a smoke signal.
+Dialogue: 0,0:06:36.16,0:06:38.03,Default,,0000,0000,0000,,That will be my signal to end Reiner.
+Dialogue: 0,0:06:40.08,0:06:41.00,Default,,0000,0000,0000,,Affirmative.
+Dialogue: 0,0:06:46.67,0:06:47.90,Default,,0000,0000,0000,,Hange, I--
+Dialogue: 0,0:06:47.90,0:06:49.37,Default,,0000,0000,0000,,The decision was mine.
+Dialogue: 0,0:06:50.01,0:06:51.76,Default,,0000,0000,0000,,You were just a factor.
+Dialogue: 0,0:06:53.47,0:06:55.67,Default,,0000,0000,0000,,Why... did I?
+Dialogue: 0,0:06:56.35,0:06:58.32,Default,,0000,0000,0000,,After all this time, am I actually...?
+Dialogue: 0,0:06:59.23,0:07:01.28,Default,,0000,0000,0000,,Yeah! Keep it up!
+Dialogue: 0,0:07:03.48,0:07:05.63,Default,,0000,0000,0000,,Armin's breathing again!
+Dialogue: 0,0:07:07.53,0:07:10.45,Default,,0000,0000,0000,,Come on! Just keep on breathing!
+Dialogue: 0,0:07:14.45,0:07:15.41,Default,,0000,0000,0000,,Armin?
+Dialogue: 0,0:07:15.87,0:07:18.08,Default,,0000,0000,0000,,Captain! Get the syringe!
+Dialogue: 0,0:07:26.13,0:07:29.72,Default,,0000,0000,0000,,Make Armin into a Titan and\Nwe'll have him eat Bertholdt!
+Dialogue: 0,0:07:30.09,0:07:32.18,Default,,0000,0000,0000,,Hurry up and inject him!
+Dialogue: 0,0:07:34.76,0:07:35.64,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:07:45.31,0:07:46.73,Default,,0000,0000,0000,,Hange!
+Dialogue: 0,0:07:57.24,0:07:57.99,Default,,0000,0000,0000,,Not good!
+Dialogue: 0,0:08:06.79,0:08:09.46,Default,,0000,0000,0000,,Reiner was taken! Hange!
+Dialogue: 0,0:08:10.80,0:08:11.92,Default,,0000,0000,0000,,Shit!
+Dialogue: 0,0:08:11.92,0:08:13.84,Default,,0000,0000,0000,,Conny! Don't chase!
+Dialogue: 0,0:08:17.81,0:08:21.70,Default,,0000,0000,0000,,We hardly have any gas left.\NYou'll just end up getting killed.
+Dialogue: 0,0:08:22.27,0:08:24.00,Default,,0000,0000,0000,,Shit!
+Dialogue: 0,0:08:25.40,0:08:26.84,Default,,0000,0000,0000,,It's my fault...
+Dialogue: 0,0:08:27.11,0:08:30.78,Default,,0000,0000,0000,,I've... done something terrible...
+Dialogue: 0,0:08:31.74,0:08:33.98,Default,,0000,0000,0000,,I said the decision was mine.
+Dialogue: 0,0:08:34.99,0:08:36.74,Default,,0000,0000,0000,,Let's regroup with the others.
+Dialogue: 0,0:08:45.83,0:08:48.88,Default,,0000,0000,0000,,Captain... Levi...
+Dialogue: 0,0:08:48.88,0:08:50.34,Default,,0000,0000,0000,,I finally found you.
+Dialogue: 0,0:08:51.55,0:08:54.17,Default,,0000,0000,0000,,Commander Erwin is badly wounded!
+Dialogue: 0,0:08:54.17,0:08:57.80,Default,,0000,0000,0000,,His stomach is gouged...\Nand his organs are demolished!
+Dialogue: 0,0:08:57.97,0:08:59.68,Default,,0000,0000,0000,,The blood just won't stop!
+Dialogue: 0,0:09:00.76,0:09:04.27,Default,,0000,0000,0000,,I thought that injection\Nmight be able to help, but...
+Dialogue: 0,0:09:04.27,0:09:05.48,Default,,0000,0000,0000,,What do you think?
+Dialogue: 0,0:09:11.53,0:09:12.36,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:20.16,0:09:21.16,Default,,0000,0000,0000,,Captain?
+Dialogue: 0,0:09:27.12,0:09:29.25,Default,,0000,0000,0000,,He's... still breathing.
+Dialogue: 0,0:09:31.42,0:09:34.34,Default,,0000,0000,0000,,He's... alive.
+Dialogue: 0,0:09:46.44,0:09:49.52,Default,,0000,0000,0000,,I'm using the injection... on Erwin.
+Dialogue: 0,0:09:53.73,0:09:54.80,Default,,0000,0000,0000,,You said...
+Dialogue: 0,0:09:55.53,0:09:57.28,Default,,0000,0000,0000,,...you'd use it on Armin!
+Dialogue: 0,0:09:58.99,0:10:02.79,Default,,0000,0000,0000,,I'm... reviving the one \Nwho can save humanity.
+Dialogue: 0,0:10:17.68,0:10:21.41,Default,,0000,0000,0000,,Reiner... You were incredibly lucky.
+Dialogue: 0,0:10:24.01,0:10:29.02,Eyecatch1A,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Injection Conditions"\N"Not only can Titan powers and much-needed information be stolen by using the injection, but it also allows the revival of someone who is critically wounded. The ideal candidate would be someone near death that is already close to an incapacitated enemy with Titan powers."
+Dialogue: 0,0:10:31.48,0:10:32.45,Default,,0000,0000,0000,,You guys...
+Dialogue: 0,0:10:33.86,0:10:36.26,Default,,0000,0000,0000,,Do you have the faintest damn clue...
+Dialogue: 0,0:10:36.94,0:10:38.34,Default,,0000,0000,0000,,...what you're doing?
+Dialogue: 0,0:10:40.28,0:10:42.07,Default,,0000,0000,0000,,It's Erwin...
+Dialogue: 0,0:10:42.49,0:10:44.58,Default,,0000,0000,0000,,The Commander of the Scouts.
+Dialogue: 0,0:10:45.54,0:10:47.70,Default,,0000,0000,0000,,And you're saying to watch him die.
+Dialogue: 0,0:10:49.71,0:10:51.00,Default,,0000,0000,0000,,There's no time for this.
+Dialogue: 0,0:10:51.58,0:10:52.89,Default,,0000,0000,0000,,Stay out of my way.
+Dialogue: 0,0:10:56.21,0:10:58.80,Default,,0000,0000,0000,,Keep your emotions out of this.
+Dialogue: 0,0:10:59.68,0:11:02.39,Default,,0000,0000,0000,,Keep my... emotions out?
+Dialogue: 0,0:11:03.55,0:11:07.93,Default,,0000,0000,0000,,Tell me... How come you didn't\Nhand over the syringe right away?!
+Dialogue: 0,0:11:08.27,0:11:12.73,Default,,0000,0000,0000,,Because I was considering the\Npossibility Erwin might still be alive.
+Dialogue: 0,0:11:13.36,0:11:16.73,Default,,0000,0000,0000,,You couldn't have known Floch\Nwould drag the commander here!
+Dialogue: 0,0:11:17.19,0:11:19.49,Default,,0000,0000,0000,,There's just no way you knew!
+Dialogue: 0,0:11:19.86,0:11:21.28,Default,,0000,0000,0000,,You're right, but...
+Dialogue: 0,0:11:21.70,0:11:25.33,Default,,0000,0000,0000,,The fact that Erwin is now here\Nmeans I use it on him.
+Dialogue: 0,0:11:37.96,0:11:39.01,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:11:41.30,0:11:43.68,Default,,0000,0000,0000,,His strength isn't all there!
+Dialogue: 0,0:11:43.68,0:11:45.60,Default,,0000,0000,0000,,I can take it from him by force!
+Dialogue: 0,0:11:46.14,0:11:48.14,Default,,0000,0000,0000,,You should know as well as I do!
+Dialogue: 0,0:11:48.52,0:11:52.31,Default,,0000,0000,0000,,Without Erwin's talent,\Nhumanity can't beat the Titans!
+Dialogue: 0,0:11:52.65,0:11:56.27,Default,,0000,0000,0000,,That's right, Mikasa! Let's stop\Nwith this madness already!
+Dialogue: 0,0:11:59.53,0:12:04.53,Default,,0000,0000,0000,,It's... no different if we lose... Armin.
+Dialogue: 0,0:12:04.82,0:12:05.74,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:12:06.49,0:12:09.04,Default,,0000,0000,0000,,Hasn't it... always been like that?
+Dialogue: 0,0:12:10.12,0:12:13.67,Default,,0000,0000,0000,,He's the reason why we saved\NTrost by plugging it with a rock.
+Dialogue: 0,0:12:14.33,0:12:16.38,Default,,0000,0000,0000,,He revealed Annie's identity.
+Dialogue: 0,0:12:17.29,0:12:20.67,Default,,0000,0000,0000,,It was Armin who came up with\Nthe idea of moving at night!
+Dialogue: 0,0:12:21.42,0:12:24.43,Default,,0000,0000,0000,,The only reason we uncovered\NReiner's hiding spot...
+Dialogue: 0,0:12:24.68,0:12:27.35,Default,,0000,0000,0000,,...and the only reason \Nwe defeated Bertholdt...
+Dialogue: 0,0:12:27.35,0:12:29.93,Default,,0000,0000,0000,,...was all because of Armin!
+Dialogue: 0,0:12:31.18,0:12:35.01,Default,,0000,0000,0000,,The one who's gonna save humanity\Nisn't me or the commander!
+Dialogue: 0,0:12:35.40,0:12:36.31,Default,,0000,0000,0000,,It's Armin!
+Dialogue: 0,0:12:37.06,0:12:38.82,Default,,0000,0000,0000,,Isn't that right, Mikasa?!
+Dialogue: 0,0:12:42.19,0:12:44.07,Default,,0000,0000,0000,,Please give it to me!
+Dialogue: 0,0:12:48.70,0:12:51.91,Default,,0000,0000,0000,,The one who will save humanity...\Nis Commander Erwin.
+Dialogue: 0,0:12:52.04,0:12:52.91,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:12:54.04,0:12:55.42,Default,,0000,0000,0000,,I will not shut up.
+Dialogue: 0,0:12:55.96,0:12:58.67,Default,,0000,0000,0000,,Don't think you're the only\Nones who had it tough!
+Dialogue: 0,0:12:59.09,0:13:00.42,Default,,0000,0000,0000,,You might not know, but...
+Dialogue: 0,0:13:01.05,0:13:04.80,Default,,0000,0000,0000,,On the other side of that wall,\Nthere's not a single living soldier.
+Dialogue: 0,0:13:05.59,0:13:08.69,Default,,0000,0000,0000,,Everyone died when the Beast\NTitan threw boulders at us.
+Dialogue: 0,0:13:09.47,0:13:12.08,Default,,0000,0000,0000,,I didn't think anyone could be saved...
+Dialogue: 0,0:13:12.81,0:13:15.90,Default,,0000,0000,0000,,But Commander Erwin was the only exception.
+Dialogue: 0,0:13:16.77,0:13:21.20,Default,,0000,0000,0000,,He thought of a plan for us\Nto bite back at the Beast Titan...
+Dialogue: 0,0:13:21.78,0:13:22.65,Default,,0000,0000,0000,,...and we did.
+Dialogue: 0,0:13:24.07,0:13:26.73,Default,,0000,0000,0000,,We were smashed to bits just as planned.
+Dialogue: 0,0:13:29.58,0:13:32.16,Default,,0000,0000,0000,,And I'm sure the last thing they felt...
+Dialogue: 0,0:13:33.41,0:13:34.75,Default,,0000,0000,0000,,...was fear.
+Dialogue: 0,0:13:41.96,0:13:47.05,Default,,0000,0000,0000,,When I found the commander alive,\NI was about to finish him off.
+Dialogue: 0,0:13:49.22,0:13:53.39,Default,,0000,0000,0000,,But... that's going too easy on him.
+Dialogue: 0,0:13:54.35,0:13:58.40,Default,,0000,0000,0000,,I thought to myself that he ought\Nto taste more of this hell.
+Dialogue: 0,0:14:00.94,0:14:03.73,Default,,0000,0000,0000,,And then... I understood.
+Dialogue: 0,0:14:06.49,0:14:10.24,Default,,0000,0000,0000,,The only one who can lay waste\Nto the Titans... is a devil!
+Dialogue: 0,0:14:11.28,0:14:16.08,Default,,0000,0000,0000,,And if I can bring back the devil,\Nthat must be my mission in life!
+Dialogue: 0,0:14:16.54,0:14:21.34,Default,,0000,0000,0000,,That has to be why I survived like\Na coward when everyone else died!
+Dialogue: 0,0:14:21.92,0:14:23.71,Default,,0000,0000,0000,,So stay out of his way!
+Dialogue: 0,0:14:23.71,0:14:24.84,Default,,0000,0000,0000,,Don't do it!
+Dialogue: 0,0:14:28.88,0:14:29.80,Default,,0000,0000,0000,,Hange...
+Dialogue: 0,0:14:34.35,0:14:37.69,Default,,0000,0000,0000,,Hey... You've got to be... kidding me...
+Dialogue: 0,0:14:39.06,0:14:40.06,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:14:43.32,0:14:45.83,Default,,0000,0000,0000,,You can't... be serious...
+Dialogue: 0,0:14:53.87,0:14:58.66,Default,,0000,0000,0000,,Mikasa! You have to know\Nhow much we need Erwin!
+Dialogue: 0,0:14:58.66,0:15:03.04,Default,,0000,0000,0000,,We can't let the flames of hope\Nextinguish inside the walls!
+Dialogue: 0,0:15:03.04,0:15:06.71,Default,,0000,0000,0000,,But... Armin could... do that, too!
+Dialogue: 0,0:15:06.71,0:15:09.15,Default,,0000,0000,0000,,It's true, Armin is exceptional...
+Dialogue: 0,0:15:09.59,0:15:13.22,Default,,0000,0000,0000,,But he doesn't have Erwin's\Nexperience and leadership!
+Dialogue: 0,0:15:18.98,0:15:22.33,Default,,0000,0000,0000,,There are people I want to bring back, too.
+Dialogue: 0,0:15:23.23,0:15:24.32,Default,,0000,0000,0000,,Hundreds of them.
+Dialogue: 0,0:15:28.49,0:15:32.74,Default,,0000,0000,0000,,I've had to say farewell since\Nthe day I joined the Scouts.
+Dialogue: 0,0:15:33.03,0:15:33.78,Default,,0000,0000,0000,,Hange!
+Dialogue: 0,0:15:50.09,0:15:50.88,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:15:51.88,0:15:53.34,Default,,0000,0000,0000,,You know, don't you?
+Dialogue: 0,0:15:54.18,0:15:58.01,Default,,0000,0000,0000,,No matter who it is,\Nthere comes a day to say farewell.
+Dialogue: 0,0:16:02.02,0:16:05.69,Default,,0000,0000,0000,,I know it's impossible,\Nbut you have to accept this.
+Dialogue: 0,0:16:06.73,0:16:09.60,Default,,0000,0000,0000,,There will be times you \Ncan't keep your sanity.
+Dialogue: 0,0:16:10.61,0:16:11.48,Default,,0000,0000,0000,,It's tough.
+Dialogue: 0,0:16:12.32,0:16:13.36,Default,,0000,0000,0000,,Very tough.
+Dialogue: 0,0:16:13.91,0:16:14.92,Default,,0000,0000,0000,,I know.
+Dialogue: 0,0:16:16.08,0:16:19.69,Default,,0000,0000,0000,,Even so, we have to keep moving forward.
+Dialogue: 0,0:16:43.06,0:16:44.50,Default,,0000,0000,0000,,Captain...
+Dialogue: 0,0:16:45.94,0:16:50.07,Default,,0000,0000,0000,,Do you... know about... the sea?
+Dialogue: 0,0:16:51.07,0:16:55.21,Default,,0000,0000,0000,,No matter how far you look,\Nit stretches past the horizon.
+Dialogue: 0,0:16:56.07,0:16:58.20,Default,,0000,0000,0000,,It's a gigantic lake.
+Dialogue: 0,0:16:59.83,0:17:00.70,Default,,0000,0000,0000,,Armin said--
+Dialogue: 0,0:17:00.79,0:17:03.00,Default,,0000,0000,0000,,Hey! Cut it out!
+Dialogue: 0,0:17:03.66,0:17:06.33,Default,,0000,0000,0000,,There's a sea beyond the walls...
+Dialogue: 0,0:17:06.96,0:17:09.84,Default,,0000,0000,0000,,...and he said we'd go there together!
+Dialogue: 0,0:17:10.42,0:17:15.84,Default,,0000,0000,0000,,But... that was our dream since we\Nwere little, and I forgot it long ago!
+Dialogue: 0,0:17:16.72,0:17:20.50,Default,,0000,0000,0000,,Avenging my mom... Killing the Titans...
+Dialogue: 0,0:17:21.06,0:17:23.85,Default,,0000,0000,0000,,The only thoughts in my \Nhead are full of hate!
+Dialogue: 0,0:17:24.44,0:17:27.36,Default,,0000,0000,0000,,But... he's not like that!
+Dialogue: 0,0:17:28.23,0:17:30.40,Default,,0000,0000,0000,,Armin cares about more than just fighting!
+Dialogue: 0,0:17:31.15,0:17:33.06,Default,,0000,0000,0000,,He has dreams!
+Dialogue: 0,0:17:37.07,0:17:38.82,Default,,0000,0000,0000,,Everyone get out of here!
+Dialogue: 0,0:17:39.45,0:17:42.83,Default,,0000,0000,0000,,I'm going to have Erwin eat Bertholdt!
+Dialogue: 0,0:17:44.87,0:17:46.87,Default,,0000,0000,0000,,Come on. Let's go, Mikasa.
+Dialogue: 0,0:17:47.25,0:17:49.19,Default,,0000,0000,0000,,Shit... Shit...!
+Dialogue: 0,0:17:52.30,0:17:53.38,Default,,0000,0000,0000,,Armin...
+Dialogue: 0,0:17:54.59,0:17:55.50,Default,,0000,0000,0000,,See you...
+Dialogue: 0,0:18:07.73,0:18:10.81,Default,,0000,0000,0000,,Let's start by seeing the sea!
+Dialogue: 0,0:18:11.15,0:18:13.96,Default,,0000,0000,0000,,You'll see! It does exist!
+Dialogue: 0,0:18:18.57,0:18:20.78,Default,,0000,0000,0000,,If this dream of yours comes true...
+Dialogue: 0,0:18:20.78,0:18:22.37,Default,,0000,0000,0000,,...what will you do then?
+Dialogue: 0,0:18:22.95,0:18:26.24,Default,,0000,0000,0000,,I don't know. I won't know until it happens.
+Dialogue: 0,0:18:27.62,0:18:28.62,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:18:29.79,0:18:31.60,Default,,0000,0000,0000,,I want to go to the basement.
+Dialogue: 0,0:18:33.42,0:18:34.64,Default,,0000,0000,0000,,Good grief.
+Dialogue: 0,0:18:35.30,0:18:37.42,Default,,0000,0000,0000,,They're all the same...
+Dialogue: 0,0:18:38.43,0:18:40.84,Default,,0000,0000,0000,,Whining like brats one after another...
+Dialogue: 0,0:18:41.51,0:18:47.10,Default,,0000,0000,0000,,Everyone had to be drunk on\Nsomethin' to keep pushing on...
+Dialogue: 0,0:18:48.35,0:18:52.11,Default,,0000,0000,0000,,Everyone... was a slave to somethin'.
+Dialogue: 0,0:18:53.27,0:18:54.91,Default,,0000,0000,0000,,But there's more than that.
+Dialogue: 0,0:18:55.69,0:18:56.71,Default,,0000,0000,0000,,The sea...
+Dialogue: 0,0:19:04.66,0:19:06.00,Default,,0000,0000,0000,,Erwin!
+Dialogue: 0,0:19:07.20,0:19:08.59,Default,,0000,0000,0000,,Teacher...
+Dialogue: 0,0:19:09.46,0:19:12.34,Default,,0000,0000,0000,,How do we know there's not more humans...
+Dialogue: 0,0:19:13.88,0:19:16.43,Default,,0000,0000,0000,,...outside the walls?
+Dialogue: 0,0:19:25.60,0:19:27.85,Default,,0000,0000,0000,,Give up on your dream and die.
+Dialogue: 0,0:19:28.31,0:19:30.74,Default,,0000,0000,0000,,Lead the recruits straight into hell.
+Dialogue: 0,0:19:31.40,0:19:36.30,Default,,0000,0000,0000,,Everyone had to be drunk on\Nsomethin' to keep pushing on...
+Dialogue: 0,0:19:36.82,0:19:39.57,Default,,0000,0000,0000,,I will take down the Beast Titan.
+Dialogue: 0,0:19:50.46,0:19:51.44,Default,,0000,0000,0000,,Levi...
+Dialogue: 0,0:19:52.29,0:19:53.26,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:20:27.99,0:20:29.66,Default,,0000,0000,0000,,Guys!
+Dialogue: 0,0:20:29.66,0:20:32.37,Default,,0000,0000,0000,,Help me!
+Dialogue: 0,0:20:37.80,0:20:41.69,Default,,0000,0000,0000,,Annie! Reiner!
+Dialogue: 0,0:20:45.43,0:20:46.41,Default,,0000,0000,0000,,Captain...
+Dialogue: 0,0:20:47.22,0:20:49.26,Default,,0000,0000,0000,,Why... did you...?
+Dialogue: 0,0:20:52.60,0:20:56.11,Default,,0000,0000,0000,,Do you think... you can forgive him?
+Dialogue: 0,0:20:57.36,0:20:59.76,Default,,0000,0000,0000,,He had no choice but to become a devil.
+Dialogue: 0,0:21:01.61,0:21:03.82,Default,,0000,0000,0000,,It was us who wished for that.
+Dialogue: 0,0:21:05.32,0:21:09.92,Default,,0000,0000,0000,,And in the end, when he had\Nfinally been set free from hell,
+Dialogue: 0,0:21:10.41,0:21:12.87,Default,,0000,0000,0000,,we wanted to bring him back once more.
+Dialogue: 0,0:21:14.25,0:21:18.10,Default,,0000,0000,0000,,But I think... it's time to let him rest.
+Dialogue: 0,0:21:30.39,0:21:31.27,Default,,0000,0000,0000,,Erwin...
+Dialogue: 0,0:21:32.14,0:21:34.39,Default,,0000,0000,0000,,I promised I'd kill the Beast Titan, but...
+Dialogue: 0,0:21:34.98,0:21:36.96,Default,,0000,0000,0000,,It's going to have to wait.
+Dialogue: 0,0:21:38.11,0:21:40.40,Default,,0000,0000,0000,,He's... dead.
+Dialogue: 0,0:21:44.95,0:21:46.03,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:23:41.27,0:23:45.45,Default,,0000,0000,0000,,Armin is shaken after learning\Nof Bertholdt's and Erwin's deaths.
+Dialogue: 0,0:23:46.07,0:23:51.63,Default,,0000,0000,0000,,Eren heads towards that place his father,\NGrisha, promised to show him.
+Dialogue: 0,0:23:52.30,0:23:55.16,Default,,0000,0000,0000,,Next episode: "The Basement."
+Dialogue: 0,0:23:53.01,0:23:56.54,On Top,,0000,0000,0000,,"The Basement"
+Dialogue: 0,0:23:56.54,0:23:58.53,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.53,0:24:00.55,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.55,0:24:02.54,Default,,0000,0000,0000,,

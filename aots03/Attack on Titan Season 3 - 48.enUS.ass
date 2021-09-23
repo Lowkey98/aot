@@ -1,0 +1,380 @@
+[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:30.98,0:01:35.99,Default,,0000,0000,0000,,"Bystander"
+Dialogue: 0,0:01:36.74,0:01:38.05,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:01:38.41,0:01:40.28,Default,,0000,0000,0000,,You wait right there!
+Dialogue: 0,0:01:41.91,0:01:42.83,Default,,0000,0000,0000,,Isn't this...?
+Dialogue: 0,0:01:43.70,0:01:47.33,Default,,0000,0000,0000,,--Yeah... Not quite the \NQueen I was expecting.
+Dialogue: 0,0:01:43.70,0:01:47.33,On Top,,0000,0000,0000,,--Don't you run from me!\NListen when I'm talking to you!
+Dialogue: 0,0:01:47.87,0:01:50.56,Default,,0000,0000,0000,,And it's only been two months\Nsince she was crowned.
+Dialogue: 0,0:01:51.13,0:01:54.33,Default,,0000,0000,0000,,Seems like she's better\Nsuited to run an orphanage.
+Dialogue: 0,0:01:55.80,0:01:58.18,Default,,0000,0000,0000,,Do you know what the people are calling her?
+Dialogue: 0,0:01:58.55,0:01:59.26,Default,,0000,0000,0000,,--Snacks come after our work is all done!
+Dialogue: 0,0:01:59.26,0:02:01.41,Default,,0000,0000,0000,,--The Cattle-Farming Goddess.\N--Snacks come after our work is all done!
+Dialogue: 0,0:02:01.85,0:02:03.76,Default,,0000,0000,0000,,--In a good way, of course.\N--You're such a piggy!
+Dialogue: 0,0:02:04.26,0:02:06.69,Default,,0000,0000,0000,,So we've finally got a goddess among us.
+Dialogue: 0,0:02:07.31,0:02:12.77,Default,,0000,0000,0000,,At this rate, no one will remember\Nthe chump who plugged up Trost, yeah?
+Dialogue: 0,0:02:13.36,0:02:17.15,Default,,0000,0000,0000,,One of the reasons Historia decided\Nto become queen was...
+Dialogue: 0,0:02:17.74,0:02:18.90,Default,,0000,0000,0000,,...to do all this.
+Dialogue: 0,0:02:19.78,0:02:21.24,Default,,0000,0000,0000,,This, meaning?
+Dialogue: 0,0:02:21.37,0:02:26.25,Default,,0000,0000,0000,,Taking care of the orphans and needy from\Nthe underground to the edge of the walls.
+Dialogue: 0,0:02:26.91,0:02:30.67,Default,,0000,0000,0000,,Since he was raised underground,\Nthe captain supported her, too.
+Dialogue: 0,0:02:31.21,0:02:33.04,Default,,0000,0000,0000,,When people need help,
+Dialogue: 0,0:02:33.04,0:02:36.53,Default,,0000,0000,0000,,she said she'll come to their rescue,\Nno matter who or where.
+Dialogue: 0,0:02:37.38,0:02:40.68,Default,,0000,0000,0000,,That's... what Historia wants to do.
+Dialogue: 0,0:02:41.18,0:02:43.43,Default,,0000,0000,0000,,Oh? You're slacking again!
+Dialogue: 0,0:02:43.43,0:02:44.35,Default,,0000,0000,0000,,Uh...
+Dialogue: 0,0:02:44.35,0:02:45.93,Default,,0000,0000,0000,,It's getting dark, you know!
+Dialogue: 0,0:02:47.39,0:02:50.56,Default,,0000,0000,0000,,She's becoming more\Nand more like my mother...
+Dialogue: 0,0:02:51.02,0:02:52.39,Default,,0000,0000,0000,,Some goddess...
+Dialogue: 0,0:02:54.36,0:02:57.21,Default,,0000,0000,0000,,I hear your hardening\Nexperiments are going well.
+Dialogue: 0,0:02:57.74,0:02:58.36,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:02:58.90,0:03:02.45,Default,,0000,0000,0000,,But if we don't hurry... they'll be back.
+Dialogue: 0,0:03:04.62,0:03:05.74,Default,,0000,0000,0000,,What would you do?
+Dialogue: 0,0:03:06.83,0:03:10.71,Default,,0000,0000,0000,,If you met Reiner and Bertholdt...\Nand had to face them again?
+Dialogue: 0,0:03:12.96,0:03:16.28,Default,,0000,0000,0000,,I've got no other choice... but to kill them.
+Dialogue: 0,0:03:22.84,0:03:24.55,Default,,0000,0000,0000,,I hope we find out soon.
+Dialogue: 0,0:03:25.68,0:03:28.75,Default,,0000,0000,0000,,About this world... and why it is like it is.
+Dialogue: 0,0:03:29.98,0:03:34.76,Default,,0000,0000,0000,,All that we've done...\NI don't want to regret any of it.
+Dialogue: 0,0:03:39.78,0:03:43.13,Default,,0000,0000,0000,,Even the kids from the underground\Nhave been smiling lately.
+Dialogue: 0,0:03:44.66,0:03:47.03,Default,,0000,0000,0000,,This can't have been the wrong choice.
+Dialogue: 0,0:03:48.16,0:03:48.98,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:49.54,0:03:51.00,Default,,0000,0000,0000,,You've done great.
+Dialogue: 0,0:03:51.00,0:03:52.04,Default,,0000,0000,0000,,That's not...
+Dialogue: 0,0:03:52.79,0:03:56.21,Default,,0000,0000,0000,,Though you're the one who said\Nhumanity should get wiped out.
+Dialogue: 0,0:03:56.21,0:03:58.93,Default,,0000,0000,0000,,Th-That was only 'cuz I got carried away!
+Dialogue: 0,0:04:05.51,0:04:06.35,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:06.68,0:04:07.60,Default,,0000,0000,0000,,Gimme that.
+Dialogue: 0,0:04:07.85,0:04:09.06,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:04:09.06,0:04:10.93,Default,,0000,0000,0000,,Eren's tired from the experiments.
+Dialogue: 0,0:04:10.93,0:04:13.19,Default,,0000,0000,0000,,That's true. Sorry, Mikasa.
+Dialogue: 0,0:04:13.19,0:04:16.40,Default,,0000,0000,0000,,Would you stop treating me\Nlike some feeble old man?
+Dialogue: 0,0:04:19.40,0:04:25.25,Default,,0000,0000,0000,,Due to the military purge, considerable\Ntalent was lost from humanity's forces, but...
+Dialogue: 0,0:04:25.99,0:04:29.33,Default,,0000,0000,0000,,...the discovery of glowing\Nore in the underground cavern
+Dialogue: 0,0:04:29.91,0:04:31.91,Default,,0000,0000,0000,,was one of many things gained.
+Dialogue: 0,0:04:33.83,0:04:40.82,Default,,0000,0000,0000,,Also, with Eren's hardening ability,\Na certain anti-Titan weapon was born.
+Dialogue: 0,0:04:46.34,0:04:47.55,Default,,0000,0000,0000,,That's it...
+Dialogue: 0,0:04:47.80,0:04:49.64,Default,,0000,0000,0000,,Jam your head in here.
+Dialogue: 0,0:04:51.89,0:04:52.52,Default,,0000,0000,0000,,Now!
+Dialogue: 0,0:04:56.81,0:04:58.19,Default,,0000,0000,0000,,Ooh!
+Dialogue: 0,0:04:58.44,0:05:00.36,Default,,0000,0000,0000,,A direct hit on the nape!
+Dialogue: 0,0:05:00.82,0:05:02.40,Default,,0000,0000,0000,,This could be it...!
+Dialogue: 0,0:05:06.61,0:05:09.83,Default,,0000,0000,0000,,We did it! That's a 12-meter, crushed!
+Dialogue: 0,0:05:09.83,0:05:11.29,Default,,0000,0000,0000,,We did it!
+Dialogue: 0,0:05:11.49,0:05:16.08,Default,,0000,0000,0000,,Hell yeah! With this, we can kill Titans\Nwithout a single soldier fighting!
+Dialogue: 0,0:05:16.42,0:05:19.08,Default,,0000,0000,0000,,We'll hack down the Titans all day and night!
+Dialogue: 0,0:05:19.21,0:05:22.17,Default,,0000,0000,0000,,Say hello to the executioner from hell!
+Dialogue: 0,0:05:22.17,0:05:23.75,Default,,0000,0000,0000,,We did it, Eren!
+Dialogue: 0,0:05:25.97,0:05:27.05,Default,,0000,0000,0000,,Eren?
+Dialogue: 0,0:05:27.84,0:05:30.51,Default,,0000,0000,0000,,He probably overused his Titan powers.
+Dialogue: 0,0:05:31.47,0:05:34.38,Default,,0000,0000,0000,,All he's done is hardening \Nexperiments lately.
+Dialogue: 0,0:05:35.10,0:05:37.23,Default,,0000,0000,0000,,Sorry, Eren...
+Dialogue: 0,0:05:38.15,0:05:40.44,Default,,0000,0000,0000,,There's nothing to apologize for, Hange.
+Dialogue: 0,0:05:41.02,0:05:43.51,Default,,0000,0000,0000,,Who gives a damn if I'm tired?
+Dialogue: 0,0:05:44.61,0:05:47.75,Default,,0000,0000,0000,,Let's hurry... make weapons, and get going...
+Dialogue: 0,0:05:48.32,0:05:49.99,Default,,0000,0000,0000,,...to Shiganshina.
+Dialogue: 0,0:05:53.20,0:05:54.66,Default,,0000,0000,0000,,We can win! We can beat 'em!
+Dialogue: 0,0:05:54.95,0:05:58.24,Default,,0000,0000,0000,,With the new weapons,\Nthe Titans will crumble like paper!
+Dialogue: 0,0:05:58.67,0:06:00.54,Default,,0000,0000,0000,,You're so damn worked up.
+Dialogue: 0,0:06:00.83,0:06:04.51,Default,,0000,0000,0000,,Only you would be happy\Nabout becoming a Scout.
+Dialogue: 0,0:06:04.51,0:06:08.30,Default,,0000,0000,0000,,That's right! Didn't Hitch try\Nto stop you from joining?
+Dialogue: 0,0:06:08.68,0:06:10.64,Default,,0000,0000,0000,,Hitch? Why would she?
+Dialogue: 0,0:06:11.22,0:06:14.89,Default,,0000,0000,0000,,Why? 'Cuz you two are... you know?
+Dialogue: 0,0:06:15.31,0:06:16.93,Default,,0000,0000,0000,,I don't follow, but...
+Dialogue: 0,0:06:16.93,0:06:21.25,Default,,0000,0000,0000,,Hitch told me off, saying I wasn't\Ncut out for it and not to act cool.
+Dialogue: 0,0:06:21.73,0:06:25.31,Default,,0000,0000,0000,,That if I stayed in the Military Police,\NI could coast along in life.
+Dialogue: 0,0:06:25.86,0:06:27.79,Default,,0000,0000,0000,,I thought she was better than that...
+Dialogue: 0,0:06:28.32,0:06:30.41,Default,,0000,0000,0000,,Told her I was wrong about her.
+Dialogue: 0,0:06:30.74,0:06:31.49,Default,,0000,0000,0000,,You shit.
+Dialogue: 0,0:06:31.49,0:06:33.08,Default,,0000,0000,0000,,--Huh?\N--Marlo, are you stupid?
+Dialogue: 0,0:06:33.08,0:06:35.04,Default,,0000,0000,0000,,He's a bowl cut imbecile.
+Dialogue: 0,0:06:35.04,0:06:37.16,Default,,0000,0000,0000,,Why? Marlo said nothing wrong.
+Dialogue: 0,0:06:37.33,0:06:43.81,Default,,0000,0000,0000,,Anyways, the only ones as worked up as you\Nare the recruits with zero battle experience.
+Dialogue: 0,0:06:43.81,0:06:47.46,Default,,0000,0000,0000,,Whoa, whoa... Think you're\Nsome veteran hero now?
+Dialogue: 0,0:06:48.47,0:06:50.75,Default,,0000,0000,0000,,Compared to you, I am.
+Dialogue: 0,0:06:51.39,0:06:54.28,Default,,0000,0000,0000,,How rude. Weren't we in the 104th together?
+Dialogue: 0,0:06:54.72,0:06:57.39,Default,,0000,0000,0000,,Besides, we're not the only ones.
+Dialogue: 0,0:06:57.47,0:07:02.38,Default,,0000,0000,0000,,Everyone in the walls is pumped up\Nabout the idea of retaking Wall Maria.
+Dialogue: 0,0:07:02.94,0:07:04.06,Default,,0000,0000,0000,,Is that so?
+Dialogue: 0,0:07:05.73,0:07:09.32,Default,,0000,0000,0000,,Still, you all do seem different now.
+Dialogue: 0,0:07:09.78,0:07:11.82,Default,,0000,0000,0000,,It's your faces, I guess...
+Dialogue: 0,0:07:12.24,0:07:14.70,Default,,0000,0000,0000,,What... exactly happened?
+Dialogue: 0,0:07:15.62,0:07:16.83,Default,,0000,0000,0000,,Wanna know?
+Dialogue: 0,0:07:19.00,0:07:22.53,Default,,0000,0000,0000,,No... I think... I'll ask later.
+Dialogue: 0,0:07:27.67,0:07:29.59,Default,,0000,0000,0000,,I'm outta here. See you later.
+Dialogue: 0,0:07:29.59,0:07:31.13,Default,,0000,0000,0000,,Eh? So soon?
+Dialogue: 0,0:07:31.34,0:07:35.46,Default,,0000,0000,0000,,Tomorrow's a prep day, so I'm heading\Nto my village in the morning.
+Dialogue: 0,0:07:37.10,0:07:39.23,Default,,0000,0000,0000,,Might find out something new there.
+Dialogue: 0,0:07:40.23,0:07:41.23,Default,,0000,0000,0000,,Good night.
+Dialogue: 0,0:07:43.85,0:07:49.90,Default,,0000,0000,0000,,Turning Conny's mom back to\Nnormal... isn't impossible, right?
+Dialogue: 0,0:07:49.90,0:07:50.94,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:07:50.94,0:07:55.24,Default,,0000,0000,0000,,If our understanding of Titans\Nkeeps improving, someday...
+Dialogue: 0,0:07:57.53,0:08:00.04,Default,,0000,0000,0000,,You're telling me Titans are people?
+Dialogue: 0,0:08:00.04,0:08:02.16,Default,,0000,0000,0000,,It's just speculation for now.
+Dialogue: 0,0:08:02.75,0:08:04.41,Default,,0000,0000,0000,,About 60 years.
+Dialogue: 0,0:08:05.08,0:08:09.31,Default,,0000,0000,0000,,It was like... I was stuck in a\Nnightmare that never would end.
+Dialogue: 0,0:08:10.96,0:08:12.47,Default,,0000,0000,0000,,A nightmare, huh?
+Dialogue: 0,0:08:12.47,0:08:13.32,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:08:13.76,0:08:16.45,Default,,0000,0000,0000,,With all that's happened, \Nit's been so vague...
+Dialogue: 0,0:08:17.39,0:08:20.00,Default,,0000,0000,0000,,But who exactly are we fighting against?
+Dialogue: 0,0:08:21.27,0:08:24.14,Default,,0000,0000,0000,,That is, are Titans just...
+Dialogue: 0,0:08:25.15,0:08:28.98,Default,,0000,0000,0000,,...people being tormented by some nightmare?
+Dialogue: 0,0:08:30.23,0:08:33.86,Default,,0000,0000,0000,,For a time, I was... one of those Titans.
+Dialogue: 0,0:08:34.99,0:08:35.53,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:08:38.49,0:08:40.81,Default,,0000,0000,0000,,You still have bread and soup left.
+Dialogue: 0,0:08:41.83,0:08:44.15,Default,,0000,0000,0000,,Save talking for after you've eaten.
+Dialogue: 0,0:08:46.38,0:08:47.33,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:08:48.25,0:08:50.45,Default,,0000,0000,0000,,Sorry, Mikasa.
+Dialogue: 0,0:08:50.84,0:08:53.01,Default,,0000,0000,0000,,For crying out loud, Eren.
+Dialogue: 0,0:08:53.26,0:08:57.72,Default,,0000,0000,0000,,I swear that's all you do lately...\Nmumbling shit to yourself.
+Dialogue: 0,0:08:58.14,0:09:01.72,Default,,0000,0000,0000,,When you should be trying\Nto remember that one guy.
+Dialogue: 0,0:09:02.52,0:09:06.40,Default,,0000,0000,0000,,You saw, right? In the cavern\Nwhen those memories came back...
+Dialogue: 0,0:09:06.81,0:09:10.11,Default,,0000,0000,0000,,That guy in the Scouts\Nwho you think met your dad.
+Dialogue: 0,0:09:11.94,0:09:16.34,Default,,0000,0000,0000,,Yeah... That day, I'm pretty sure\Nhe was with my dad.
+Dialogue: 0,0:09:18.20,0:09:20.40,Default,,0000,0000,0000,,He's gotta know something.
+Dialogue: 0,0:09:20.87,0:09:25.04,Default,,0000,0000,0000,,The thing is, though, I feel like\NI've met the guy somewhere.
+Dialogue: 0,0:09:25.21,0:09:28.79,Default,,0000,0000,0000,,You mean not Dr. Jaeger, but you, yourself?
+Dialogue: 0,0:09:28.79,0:09:30.42,Default,,0000,0000,0000,,I think so...
+Dialogue: 0,0:09:30.42,0:09:32.67,Default,,0000,0000,0000,,Smack your head and see if you remember.
+Dialogue: 0,0:09:32.67,0:09:34.17,Default,,0000,0000,0000,,That's right, twerp.
+Dialogue: 0,0:09:34.17,0:09:38.05,Default,,0000,0000,0000,,You might remember if you stopped\Nholding hands with Historia for once.
+Dialogue: 0,0:09:38.80,0:09:40.85,Default,,0000,0000,0000,,Get a head-butt from the commandant.
+Dialogue: 0,0:09:40.97,0:09:43.15,Default,,0000,0000,0000,,If that helped me remember, I'd--
+Dialogue: 0,0:09:46.44,0:09:47.45,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:10:01.49,0:10:03.71,Default,,0000,0000,0000,,The Cadet Corps commandant...
+Dialogue: 0,0:10:04.95,0:10:06.26,Default,,0000,0000,0000,,Keith Sadies!
+Dialogue: 0,0:10:10.04,0:10:14.80,Default,,0000,0000,0000,,Before Erwin, he was the 12th\Ncommander of the Scout Regiment.
+Dialogue: 0,0:10:15.80,0:10:18.19,Default,,0000,0000,0000,,It's been a long while since I've seen him.
+Dialogue: 0,0:10:20.97,0:10:22.31,Default,,0000,0000,0000,,Commandant Sadies.
+Dialogue: 0,0:10:31.02,0:10:36.03,Eyecatch2,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Executioner from Hell"\N"A semi-automatic Titan extermination weapon constructed in part by Eren Jaeger's hardening ability and the wall. It can safely fell and eliminate Titans compared to previous methods."
+Dialogue: 0,0:10:38.28,0:10:40.91,Default,,0000,0000,0000,,What's wrong, Braus? Not sitting?
+Dialogue: 0,0:10:41.07,0:10:43.74,Default,,0000,0000,0000,,No! I am quite fine standing here!
+Dialogue: 0,0:10:44.54,0:10:46.04,Default,,0000,0000,0000,,If I recall...
+Dialogue: 0,0:10:46.04,0:10:51.08,Default,,0000,0000,0000,,Back in the day, I always used to\Ncall you in here to chew you out.
+Dialogue: 0,0:10:52.46,0:10:54.56,Default,,0000,0000,0000,,And it's only been a handful of months.
+Dialogue: 0,0:10:55.34,0:10:57.84,Default,,0000,0000,0000,,I hardly recognize you all anymore.
+Dialogue: 0,0:10:58.38,0:11:00.05,Default,,0000,0000,0000,,Commander Sadies...
+Dialogue: 0,0:11:00.05,0:11:02.06,Default,,0000,0000,0000,,Rather, Commandant...
+Dialogue: 0,0:11:02.72,0:11:05.76,Default,,0000,0000,0000,,With preparations to retake\NWall Maria underway,
+Dialogue: 0,0:11:05.76,0:11:09.20,Default,,0000,0000,0000,,perhaps you can guess\Nwhat brings us here today.
+Dialogue: 0,0:11:18.03,0:11:21.74,Default,,0000,0000,0000,,Eren. You resemble your mother so much.
+Dialogue: 0,0:11:23.03,0:11:28.20,Default,,0000,0000,0000,,However, the fangs lurking deep\Nin your eyes are surely your father's.
+Dialogue: 0,0:11:29.50,0:11:32.44,Default,,0000,0000,0000,,Tell me about him! Everything you know!
+Dialogue: 0,0:11:33.33,0:11:36.83,Default,,0000,0000,0000,,I know nothing... in the \Ngrand scheme of things.
+Dialogue: 0,0:11:37.38,0:11:42.51,Default,,0000,0000,0000,,However, I can tell you a story\Nutterly useless to humanity.
+Dialogue: 0,0:11:43.26,0:11:47.24,Default,,0000,0000,0000,,The story of my past... as a mere bystander.
+Dialogue: 0,0:11:49.73,0:11:52.98,Default,,0000,0000,0000,,Twenty years ago. Wall Maria.
+Dialogue: 0,0:11:52.98,0:11:56.30,Default,,0000,0000,0000,,In front of the gates of\NShiganshina, he was there.
+Dialogue: 0,0:11:57.78,0:11:59.07,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:11:59.36,0:12:00.81,Default,,0000,0000,0000,,What are you doing here?!
+Dialogue: 0,0:12:01.36,0:12:03.30,Default,,0000,0000,0000,,How did you get past the wall?!
+Dialogue: 0,0:12:04.11,0:12:07.26,Default,,0000,0000,0000,,Wh-What are all you doing outside the wall?!
+Dialogue: 0,0:12:08.24,0:12:10.95,Default,,0000,0000,0000,,Don't tell me... you're fighting?!
+Dialogue: 0,0:12:11.71,0:12:12.78,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:13.96,0:12:15.58,Default,,0000,0000,0000,,Was it the truth or a lie?
+Dialogue: 0,0:12:16.54,0:12:20.26,Default,,0000,0000,0000,,He couldn't remember why\Nhe was outside the walls.
+Dialogue: 0,0:12:22.42,0:12:25.30,Default,,0000,0000,0000,,All of his memories had been lost.
+Dialogue: 0,0:12:25.30,0:12:28.82,Default,,0000,0000,0000,,Except that he knew his\Nname was Grisha Jaeger.
+Dialogue: 0,0:12:30.02,0:12:34.31,Default,,0000,0000,0000,,Who knew it's a crime to go into\NTitan territory without permission?
+Dialogue: 0,0:12:34.98,0:12:40.94,Default,,0000,0000,0000,,I thought only you Scouts were\Ndumb enough to go outside the walls.
+Dialogue: 0,0:12:40.94,0:12:47.24,Default,,0000,0000,0000,,Isn't there a law that jails idiots\Nwho drink on duty, Hannes?
+Dialogue: 0,0:12:47.24,0:12:49.99,Default,,0000,0000,0000,,Anyways, it's not like he hurt anyone, so...
+Dialogue: 0,0:12:50.20,0:12:52.78,Default,,0000,0000,0000,,Let's not report it, all right?
+Dialogue: 0,0:12:53.54,0:12:54.33,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:56.63,0:12:57.67,Default,,0000,0000,0000,,Well?
+Dialogue: 0,0:12:57.88,0:13:01.66,Default,,0000,0000,0000,,What do you plan on doing now, Grisha Jaeger?
+Dialogue: 0,0:13:02.42,0:13:05.29,Default,,0000,0000,0000,,I remember something other than my name.
+Dialogue: 0,0:13:06.30,0:13:07.80,Default,,0000,0000,0000,,I'm a doctor.
+Dialogue: 0,0:13:08.30,0:13:11.91,Default,,0000,0000,0000,,Introduce me to a hospital.\NI should be able to help.
+Dialogue: 0,0:13:12.47,0:13:13.64,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:13:14.10,0:13:17.22,Default,,0000,0000,0000,,Also... Do you think you could teach me?
+Dialogue: 0,0:13:17.98,0:13:21.48,Default,,0000,0000,0000,,About this world... About the Scouts.
+Dialogue: 0,0:13:23.40,0:13:25.15,Default,,0000,0000,0000,,About all of you.
+Dialogue: 0,0:13:29.20,0:13:32.06,Default,,0000,0000,0000,,He truly knew nothing at all.
+Dialogue: 0,0:13:32.70,0:13:35.98,Default,,0000,0000,0000,,Not about this world... or anything.
+Dialogue: 0,0:13:37.33,0:13:38.00,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:13:39.08,0:13:43.21,Default,,0000,0000,0000,,Although there's economic inequality,\Nthere's peace within the walls.
+Dialogue: 0,0:13:43.80,0:13:47.99,Default,,0000,0000,0000,,At the least, you don't live\Nin constant fear of Titans.
+Dialogue: 0,0:13:48.84,0:13:49.68,Default,,0000,0000,0000,,That's good.
+Dialogue: 0,0:13:51.85,0:13:53.64,Default,,0000,0000,0000,,That's good, huh?
+Dialogue: 0,0:13:53.64,0:13:55.63,Default,,0000,0000,0000,,You're one of them?
+Dialogue: 0,0:13:55.98,0:13:56.63,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:13:57.19,0:13:59.31,Default,,0000,0000,0000,,Within these cramped walls,
+Dialogue: 0,0:13:59.77,0:14:04.57,Default,,0000,0000,0000,,as long as there's food and alcohol,\Nsome think that's good enough.
+Dialogue: 0,0:14:04.57,0:14:08.71,Default,,0000,0000,0000,,Not once have they stopped to\Nthink how wide the world might be.
+Dialogue: 0,0:14:10.49,0:14:13.43,Default,,0000,0000,0000,,Is that why you venture outside the walls?
+Dialogue: 0,0:14:13.95,0:14:15.66,Default,,0000,0000,0000,,Is that what Scouts do?
+Dialogue: 0,0:14:16.25,0:14:17.28,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:18.12,0:14:19.55,Default,,0000,0000,0000,,Does it seem foolish?
+Dialogue: 0,0:14:20.21,0:14:22.09,Default,,0000,0000,0000,,Not at all.
+Dialogue: 0,0:14:22.09,0:14:25.80,Default,,0000,0000,0000,,The Scouts are wiser and braver\Nthan anyone else in the walls.
+Dialogue: 0,0:14:26.26,0:14:29.93,Default,,0000,0000,0000,,Your existence signifies\Nthe freedom in our souls.
+Dialogue: 0,0:14:29.93,0:14:32.30,Default,,0000,0000,0000,,You're the pride of humanity.
+Dialogue: 0,0:14:32.30,0:14:35.31,Default,,0000,0000,0000,,Pride? We are?
+Dialogue: 0,0:14:35.72,0:14:36.81,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:36.81,0:14:38.56,Default,,0000,0000,0000,,Come on, Keith.
+Dialogue: 0,0:14:39.94,0:14:42.36,Default,,0000,0000,0000,,Recruiting for the Scouts again, are we?
+Dialogue: 0,0:14:42.36,0:14:44.94,Default,,0000,0000,0000,,N-Not this time, Carla. I'm just...
+Dialogue: 0,0:14:44.94,0:14:48.57,Default,,0000,0000,0000,,Oh, no. I'd never be suited\Nfor that kind of work.
+Dialogue: 0,0:14:48.99,0:14:51.53,Default,,0000,0000,0000,,Being a Scout takes someone special...
+Dialogue: 0,0:14:51.78,0:14:53.74,Default,,0000,0000,0000,,You have to be a chosen one.
+Dialogue: 0,0:14:54.54,0:14:56.18,Default,,0000,0000,0000,,Oh, is that right?
+Dialogue: 0,0:15:00.42,0:15:01.98,Default,,0000,0000,0000,,A chosen one...
+Dialogue: 0,0:15:02.54,0:15:05.55,Default,,0000,0000,0000,,It was the first time anyone told me that.
+Dialogue: 0,0:15:06.96,0:15:11.47,Default,,0000,0000,0000,,It's true, inside the wall was\Nmuch too cramped for me.
+Dialogue: 0,0:15:14.89,0:15:17.02,Default,,0000,0000,0000,,Another day, another defeat...
+Dialogue: 0,0:15:17.35,0:15:19.68,Default,,0000,0000,0000,,Will you ever build a base outside the wall?
+Dialogue: 0,0:15:20.56,0:15:24.44,Default,,0000,0000,0000,,If only I was commander, I'd show results.
+Dialogue: 0,0:15:25.07,0:15:27.44,Default,,0000,0000,0000,,These idiots with their tiny brains...
+Dialogue: 0,0:15:27.44,0:15:30.53,Default,,0000,0000,0000,,I'd accomplish so much,\Neven they'd understand.
+Dialogue: 0,0:15:30.53,0:15:34.20,Default,,0000,0000,0000,,And then everyone...\Nwould have to acknowledge me.
+Dialogue: 0,0:15:38.54,0:15:39.41,Default,,0000,0000,0000,,Grisha!
+Dialogue: 0,0:15:39.87,0:15:42.04,Default,,0000,0000,0000,,Carla caught the plague going around!
+Dialogue: 0,0:15:42.04,0:15:43.25,Default,,0000,0000,0000,,Can you help her?!
+Dialogue: 0,0:15:44.42,0:15:45.78,Default,,0000,0000,0000,,Put her in the rear bed.
+Dialogue: 0,0:15:48.71,0:15:50.22,Default,,0000,0000,0000,,Dr. Jaeger...
+Dialogue: 0,0:15:50.97,0:15:53.72,Default,,0000,0000,0000,,My parents... have it, too.
+Dialogue: 0,0:15:55.51,0:15:57.68,Default,,0000,0000,0000,,Don't worry, I'll help everyone.
+Dialogue: 0,0:16:03.02,0:16:04.27,Default,,0000,0000,0000,,Dr. Jaeger!
+Dialogue: 0,0:16:05.48,0:16:07.50,Default,,0000,0000,0000,,My wife is well again!
+Dialogue: 0,0:16:08.03,0:16:10.74,Default,,0000,0000,0000,,Dr. Jaeger, thank you!
+Dialogue: 0,0:16:18.20,0:16:19.27,Default,,0000,0000,0000,,Congrats!
+Dialogue: 0,0:16:19.95,0:16:22.33,Default,,0000,0000,0000,,You're appointed as the\NScout Regiment commander.
+Dialogue: 0,0:16:22.33,0:16:23.83,Default,,0000,0000,0000,,Congratulations!
+Dialogue: 0,0:16:25.75,0:16:29.03,Default,,0000,0000,0000,,Congratulations, Dr. Jaeger!
+Dialogue: 0,0:16:35.39,0:16:36.98,Default,,0000,0000,0000,,Shit, our base!
+Dialogue: 0,0:16:39.14,0:16:42.14,Default,,0000,0000,0000,,It's no use! Let's retreat, Commander!
+Dialogue: 0,0:16:47.48,0:16:50.03,Default,,0000,0000,0000,,The moron charges straight into death.
+Dialogue: 0,0:16:50.03,0:16:52.15,Default,,0000,0000,0000,,He's always the only one who lives.
+Dialogue: 0,0:16:52.53,0:16:55.91,Default,,0000,0000,0000,,I hear nobody on Erwin's squad has died yet.
+Dialogue: 0,0:16:55.91,0:16:58.43,Default,,0000,0000,0000,,Wish they'd change commanders then.
+Dialogue: 0,0:17:00.83,0:17:02.20,Default,,0000,0000,0000,,Someone special...
+Dialogue: 0,0:17:03.62,0:17:05.25,Default,,0000,0000,0000,,A chosen one...
+Dialogue: 0,0:17:06.29,0:17:07.17,Default,,0000,0000,0000,,Keith?
+Dialogue: 0,0:17:18.05,0:17:20.56,Default,,0000,0000,0000,,Carla? Who's this child?
+Dialogue: 0,0:17:20.56,0:17:23.24,Default,,0000,0000,0000,,Eren. He's our boy.
+Dialogue: 0,0:17:23.81,0:17:26.85,Default,,0000,0000,0000,,I guess you never got the news.
+Dialogue: 0,0:17:26.85,0:17:28.60,Default,,0000,0000,0000,,My husband worried about you.
+Dialogue: 0,0:17:29.19,0:17:31.40,Default,,0000,0000,0000,,Yeah... I'm sorry.
+Dialogue: 0,0:17:33.94,0:17:35.10,Default,,0000,0000,0000,,Do you intend...
+Dialogue: 0,0:17:36.07,0:17:38.53,Default,,0000,0000,0000,,...on keeping this up until you die?
+Dialogue: 0,0:17:43.83,0:17:45.28,Default,,0000,0000,0000,,It's about time you...
+Dialogue: 0,0:17:46.92,0:17:51.55,Default,,0000,0000,0000,,Do you know why people live and\Ndie without doing a damn thing?
+Dialogue: 0,0:17:51.55,0:17:54.17,Default,,0000,0000,0000,,It's because they lack imagination!
+Dialogue: 0,0:17:54.17,0:17:56.18,Default,,0000,0000,0000,,Their whole lives, for nothing!
+Dialogue: 0,0:17:56.18,0:17:59.72,Default,,0000,0000,0000,,They're not ashamed of a life\Nthat produces nothing but shit!
+Dialogue: 0,0:17:59.93,0:18:02.18,Default,,0000,0000,0000,,They can't accomplish greatness... No!
+Dialogue: 0,0:18:02.18,0:18:04.64,Default,,0000,0000,0000,,They can't even understand it!
+Dialogue: 0,0:18:04.64,0:18:06.63,Default,,0000,0000,0000,,Not even the half of it!
+Dialogue: 0,0:18:07.19,0:18:09.86,Default,,0000,0000,0000,,So a girl who flirts with \Nevery man in sight...
+Dialogue: 0,0:18:09.86,0:18:13.32,Default,,0000,0000,0000,,...good for absolutely nothing\Nbesides pouring drinks...
+Dialogue: 0,0:18:14.11,0:18:15.20,Default,,0000,0000,0000,,...will never...
+Dialogue: 0,0:18:17.91,0:18:18.93,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:18:20.07,0:18:22.75,Default,,0000,0000,0000,,Normal people accomplish nothing...
+Dialogue: 0,0:18:26.62,0:18:29.80,Default,,0000,0000,0000,,Erwin... Will you take over as commander?
+Dialogue: 0,0:18:32.38,0:18:34.58,Default,,0000,0000,0000,,Special people do exist.
+Dialogue: 0,0:18:36.30,0:18:40.45,Default,,0000,0000,0000,,This just means I was never one of them.
+Dialogue: 0,0:18:41.93,0:18:46.22,Default,,0000,0000,0000,,Why did I not realize that simple fact?
+Dialogue: 0,0:18:48.14,0:18:51.11,Default,,0000,0000,0000,,Wall Maria was destroyed!
+Dialogue: 0,0:18:51.40,0:18:53.69,Default,,0000,0000,0000,,Shiganshina District was decimated!
+Dialogue: 0,0:18:53.94,0:18:55.90,Default,,0000,0000,0000,,Us in Trost District are next!
+Dialogue: 0,0:19:03.24,0:19:04.37,Default,,0000,0000,0000,,Keith!
+Dialogue: 0,0:19:07.41,0:19:09.87,Default,,0000,0000,0000,,Oh... I know now...
+Dialogue: 0,0:19:11.25,0:19:12.91,Default,,0000,0000,0000,,It was your fault...
+Dialogue: 0,0:19:17.34,0:19:18.25,Default,,0000,0000,0000,,Eren.
+Dialogue: 0,0:19:19.68,0:19:22.95,Default,,0000,0000,0000,,Wake up, Eren. Was your mother not with you?
+Dialogue: 0,0:19:26.60,0:19:27.58,Default,,0000,0000,0000,,Dad...
+Dialogue: 0,0:19:28.93,0:19:30.06,Default,,0000,0000,0000,,Mom...
+Dialogue: 0,0:19:30.64,0:19:31.74,Default,,0000,0000,0000,,A Titan...
+Dialogue: 0,0:19:33.65,0:19:34.76,Default,,0000,0000,0000,,...ate her.
+Dialogue: 0,0:19:45.20,0:19:46.41,Default,,0000,0000,0000,,Eren.
+Dialogue: 0,0:19:47.08,0:19:48.76,Default,,0000,0000,0000,,Avenge your mother.
+Dialogue: 0,0:19:49.91,0:19:50.73,Default,,0000,0000,0000,,You must.
+Dialogue: 0,0:19:52.21,0:19:53.51,Default,,0000,0000,0000,,I know you can.
+Dialogue: 0,0:19:55.46,0:19:57.21,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:19:57.21,0:19:59.26,Default,,0000,0000,0000,,Wait. Where are you going?
+Dialogue: 0,0:20:00.09,0:20:01.49,Default,,0000,0000,0000,,Don't follow us.
+Dialogue: 0,0:20:02.93,0:20:03.79,Default,,0000,0000,0000,,Wait.
+Dialogue: 0,0:20:04.68,0:20:08.52,Default,,0000,0000,0000,,Why don't you just do it? Avenge Carla...
+Dialogue: 0,0:20:08.52,0:20:11.11,Default,,0000,0000,0000,,Why? Is it because you're special?
+Dialogue: 0,0:20:11.48,0:20:13.01,Default,,0000,0000,0000,,Unlike me...
+Dialogue: 0,0:20:14.06,0:20:16.38,Default,,0000,0000,0000,,What if your kid is different, too?
+Dialogue: 0,0:20:16.90,0:20:19.31,Default,,0000,0000,0000,,He might not be a chosen one either.
+Dialogue: 0,0:20:20.53,0:20:21.48,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:20:22.24,0:20:25.61,Default,,0000,0000,0000,,Are you going to curse... someone else now?
+Dialogue: 0,0:20:27.28,0:20:29.21,Default,,0000,0000,0000,,This child is not like you.
+Dialogue: 0,0:20:30.00,0:20:31.37,Default,,0000,0000,0000,,He's my son.
+Dialogue: 0,0:20:31.87,0:20:32.94,Default,,0000,0000,0000,,I beg you.
+Dialogue: 0,0:20:33.58,0:20:34.86,Default,,0000,0000,0000,,Stay out of it.
+Dialogue: 0,0:20:43.30,0:20:44.34,Default,,0000,0000,0000,,Thunder?
+Dialogue: 0,0:20:54.44,0:21:00.64,Default,,0000,0000,0000,,And then I carried your unconscious\Nbody back to the shelter.
+Dialogue: 0,0:21:04.28,0:21:07.99,Default,,0000,0000,0000,,That is everything I know.
+Dialogue: 0,0:21:15.83,0:21:18.09,Default,,0000,0000,0000,,So that's... it?
+Dialogue: 0,0:21:21.71,0:21:24.71,Default,,0000,0000,0000,,Now we know the real reason you resigned.
+Dialogue: 0,0:21:25.26,0:21:27.80,Default,,0000,0000,0000,,Not to atone for the soldiers you killed,
+Dialogue: 0,0:21:28.14,0:21:30.97,Default,,0000,0000,0000,,but because you realized\Nyou were never special.
+Dialogue: 0,0:21:30.97,0:21:33.27,Default,,0000,0000,0000,,That's the childish reason you're here.
+Dialogue: 0,0:21:33.27,0:21:34.56,Default,,0000,0000,0000,,Quit it, Hange.
+Dialogue: 0,0:21:34.81,0:21:39.15,Default,,0000,0000,0000,,Screw your inferiority complex.\NDon't run from reality.
+Dialogue: 0,0:21:39.15,0:21:43.19,Default,,0000,0000,0000,,Isn't that what vowing to give\Nour hearts was all about?!
+Dialogue: 0,0:21:43.19,0:21:44.89,Default,,0000,0000,0000,,Please stop, Hange.
+Dialogue: 0,0:21:46.36,0:21:50.98,Default,,0000,0000,0000,,The commandant was right.\NI was never special or anything.
+Dialogue: 0,0:21:51.95,0:21:52.80,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:21:53.79,0:21:56.11,Default,,0000,0000,0000,,I'm the son of a special man.
+Dialogue: 0,0:21:57.21,0:21:58.78,Default,,0000,0000,0000,,That's all it is.
+Dialogue: 0,0:22:01.25,0:22:03.02,Default,,0000,0000,0000,,Your mother...
+Dialogue: 0,0:22:03.80,0:22:05.93,Default,,0000,0000,0000,,Carla said this...
+Dialogue: 0,0:22:07.26,0:22:09.47,Default,,0000,0000,0000,,Is it wrong not to be special?
+Dialogue: 0,0:22:13.85,0:22:16.03,Default,,0000,0000,0000,,I don't think that way.
+Dialogue: 0,0:22:17.44,0:22:19.26,Default,,0000,0000,0000,,When it comes to my child...
+Dialogue: 0,0:22:20.06,0:22:22.38,Default,,0000,0000,0000,,...it's fine if he's never great.
+Dialogue: 0,0:22:23.61,0:22:25.71,Default,,0000,0000,0000,,He doesn't have to be better than anyone.
+Dialogue: 0,0:22:28.70,0:22:31.28,Default,,0000,0000,0000,,After all, just look at him...
+Dialogue: 0,0:22:32.79,0:22:34.48,Default,,0000,0000,0000,,He's so cute!
+Dialogue: 0,0:22:37.25,0:22:39.50,Default,,0000,0000,0000,,He's already special.
+Dialogue: 0,0:22:40.38,0:22:41.63,Default,,0000,0000,0000,,Because he was...
+Dialogue: 0,0:22:42.42,0:22:44.39,Default,,0000,0000,0000,,...born into this world.
+Dialogue: 0,0:22:49.13,0:22:53.03,Default,,0000,0000,0000,,And you, just like your father wanted...
+Dialogue: 0,0:22:53.60,0:22:55.75,Default,,0000,0000,0000,,...chose to set ablaze your life...
+Dialogue: 0,0:22:56.39,0:22:58.79,Default,,0000,0000,0000,,...which will burn to \Nashes outside the walls.
+Dialogue: 0,0:23:08.86,0:23:11.15,Default,,0000,0000,0000,,In the end, I couldn't...
+Dialogue: 0,0:23:13.03,0:23:16.66,Default,,0000,0000,0000,,I couldn't change a single thing at all.
+Dialogue: 0,0:23:18.91,0:23:21.00,Default,,0000,0000,0000,,I'm a mere bystander.
+Dialogue: 0,0:23:40.64,0:23:43.48,Default,,0000,0000,0000,,The night before leaving for Shiganshina...
+Dialogue: 0,0:23:43.48,0:23:48.44,Default,,0000,0000,0000,,Now knowing of a world outside the walls,\Nwith hope and fear in their hearts,
+Dialogue: 0,0:23:48.90,0:23:51.03,Default,,0000,0000,0000,,they pray for the future of humanity.
+Dialogue: 0,0:23:51.74,0:23:56.54,Default,,0000,0000,0000,,Next episode: "Night of the\NBattle to Retake the Wall."
+Dialogue: 0,0:23:54.24,0:23:56.54,On Top,,0000,0000,0000,,"Night of the Battle to Retake the Wall"
+Dialogue: 0,0:23:56.54,0:23:58.53,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.53,0:24:00.55,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.55,0:24:02.54,Default,,0000,0000,0000,,

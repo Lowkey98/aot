@@ -1,0 +1,246 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Arial,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: Eyecatch3A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0165,0020,0080,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: 0,0:00:08.67,0:00:10.38,Default,,0000,0000,0000,,Reiner!
+Dialogue: 0,0:00:41.08,0:00:42.50,Default,,0000,0000,0000,,Eren!
+Dialogue: 0,0:00:43.79,0:00:49.42,Default,,0000,0000,0000,,I think the fight's over. We're out of strength.
+Dialogue: 0,0:00:49.42,0:00:54.30,Default,,0000,0000,0000,,At this point, I can't exactly kill Reiner.
+Dialogue: 0,0:00:57.01,0:01:00.81,Default,,0000,0000,0000,,In that case, let's go back home.
+Dialogue: 0,0:01:03.06,0:01:05.81,Default,,0000,0000,0000,,See you later, Reiner.
+Dialogue: 0,0:01:23.58,0:01:28.96,Default,,0000,0000,0000,,Protect the airship from below!\NUse every last shot you've got!
+Dialogue: 0,0:01:28.96,0:01:34.63,Default,,0000,0000,0000,,They're retreating... Does this mean we're safe?
+Dialogue: 0,0:01:36.05,0:01:38.09,Default,,0000,0000,0000,,They're running.
+Dialogue: 0,0:01:41.64,0:01:42.89,Default,,0000,0000,0000,,Gabi!
+Dialogue: 0,0:01:42.89,0:01:47.19,Default,,0000,0000,0000,,Eren Jaeger!
+Dialogue: 0,0:01:47.19,0:01:48.60,Default,,0000,0000,0000,,Gabi!
+Dialogue: 0,0:01:48.60,0:01:52.32,Default,,0000,0000,0000,,You won't get away! I'm gonna kill you!
+Dialogue: 0,0:03:21.99,0:03:26.99,On Top,,0000,0000,0000,,"Assassin's Bullet"
+Dialogue: 0,0:04:09.45,0:04:12.21,Default,,0000,0000,0000,,Damn, you're a filthy sight.
+Dialogue: 0,0:04:13.79,0:04:17.17,Default,,0000,0000,0000,,You fall in a pile of shit?
+Dialogue: 0,0:04:17.17,0:04:19.50,Default,,0000,0000,0000,,Eren...
+Dialogue: 0,0:04:19.50,0:04:21.55,Default,,0000,0000,0000,,Captain...
+Dialogue: 0,0:04:36.31,0:04:43.28,Default,,0000,0000,0000,,This brings back memories, Eren.\NYou have such a kickable face.
+Dialogue: 0,0:04:43.28,0:04:47.78,Default,,0000,0000,0000,,After you're all tied up, we'll have a chat.
+Dialogue: 0,0:04:47.78,0:04:53.16,Default,,0000,0000,0000,,That's fine, but I explained\Neverything in the letters.
+Dialogue: 0,0:04:53.16,0:04:55.87,Default,,0000,0000,0000,,Did you not understand it?
+Dialogue: 0,0:04:58.21,0:05:04.59,Default,,0000,0000,0000,,That face... It reminds me of the\Nrotten shits who lived underground.
+Dialogue: 0,0:05:04.59,0:05:08.30,Default,,0000,0000,0000,,Never thought I'd see it on you.
+Dialogue: 0,0:05:09.97,0:05:14.68,Default,,0000,0000,0000,,Cheer up. Everything happened like you wanted.
+Dialogue: 0,0:05:22.90,0:05:26.74,Default,,0000,0000,0000,,Stop 'em! Kill every last one you can!
+Dialogue: 0,0:05:29.66,0:05:35.33,Default,,0000,0000,0000,,Everybody, in! They've got nothing\Nto take down an airship!
+Dialogue: 0,0:05:35.33,0:05:37.29,Default,,0000,0000,0000,,Jean!
+Dialogue: 0,0:05:37.29,0:05:40.46,Default,,0000,0000,0000,,You go! I'll hold the rear!
+Dialogue: 0,0:05:40.46,0:05:43.13,Default,,0000,0000,0000,,It's all you, Commander Lobov!
+Dialogue: 0,0:05:43.13,0:05:46.88,Default,,0000,0000,0000,,I told you, I'm a recruit!
+Dialogue: 0,0:05:46.88,0:05:50.22,Default,,0000,0000,0000,,Nobody needs the Garrison anymore!
+Dialogue: 0,0:05:51.72,0:05:54.81,Default,,0000,0000,0000,,Especially not some overpaid geezer!
+Dialogue: 0,0:05:56.89,0:05:57.73,Default,,0000,0000,0000,,Jean!
+Dialogue: 0,0:05:57.73,0:05:59.35,Default,,0000,0000,0000,,Grab on!
+Dialogue: 0,0:06:02.65,0:06:03.82,Default,,0000,0000,0000,,Who's left?
+Dialogue: 0,0:06:03.82,0:06:06.32,Default,,0000,0000,0000,,Still waiting on Lima Squad.
+Dialogue: 0,0:06:06.32,0:06:10.03,Default,,0000,0000,0000,,As far as we know, there're six casualties.
+Dialogue: 0,0:06:10.03,0:06:12.49,Default,,0000,0000,0000,,I see... Shit!
+Dialogue: 0,0:06:12.49,0:06:16.41,Default,,0000,0000,0000,,That's nothing compared to the damage we did!
+Dialogue: 0,0:06:16.41,0:06:18.29,Default,,0000,0000,0000,,It's a huge victory!
+Dialogue: 0,0:06:18.29,0:06:23.04,Default,,0000,0000,0000,,The New Eldian Empire's\Nfirst battle ends in victory!
+Dialogue: 0,0:06:23.04,0:06:26.88,Default,,0000,0000,0000,,--Yeah!\N--Yeah!
+Dialogue: 0,0:06:26.88,0:06:32.76,Default,,0000,0000,0000,,Tonight, we celebrate in honor\Nof our six fallen heroes!
+Dialogue: 0,0:06:35.22,0:06:40.56,Default,,0000,0000,0000,,First battle, huh?\NHow many more till the fighting ends?
+Dialogue: 0,0:06:40.56,0:06:43.69,Default,,0000,0000,0000,,Just how many have to die?
+Dialogue: 0,0:06:47.61,0:06:51.53,Default,,0000,0000,0000,,Anyways, I'm just glad we survived again.
+Dialogue: 0,0:06:51.53,0:06:57.25,Default,,0000,0000,0000,,It's not very fair to the others,\Nbut you guys are special...
+Dialogue: 0,0:06:57.25,0:06:58.96,Default,,0000,0000,0000,,...to me.
+Dialogue: 0,0:07:04.50,0:07:08.97,Default,,0000,0000,0000,,That hurts, idiot. Don't hug us\Nwearing hard-ass gear.
+Dialogue: 0,0:07:08.97,0:07:14.80,Default,,0000,0000,0000,,Excuse me, Jean?! You're the idiot for\Nalways fussing over your tiny-ass beard!
+Dialogue: 0,0:07:14.80,0:07:15.64,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:15.64,0:07:19.73,Default,,0000,0000,0000,,That's right! Why grow a beard\Nif you can't eat it?
+Dialogue: 0,0:07:19.73,0:07:20.64,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:07:20.64,0:07:23.15,Default,,0000,0000,0000,,Say, are we eating soon?
+Dialogue: 0,0:07:23.15,0:07:25.32,Default,,0000,0000,0000,,Not till we reach the island.
+Dialogue: 0,0:07:25.32,0:07:28.86,Default,,0000,0000,0000,,What a useless leader you are.
+Dialogue: 0,0:07:28.86,0:07:30.36,Default,,0000,0000,0000,,Gabi!
+Dialogue: 0,0:07:33.03,0:07:35.49,Default,,0000,0000,0000,,Gabi, wait!
+Dialogue: 0,0:07:48.42,0:07:50.97,Default,,0000,0000,0000,,C'mon, that's enough.
+Dialogue: 0,0:07:50.97,0:07:55.18,Default,,0000,0000,0000,,They're flying away.\NRunning after them is pointless.
+Dialogue: 0,0:07:55.18,0:07:57.43,Default,,0000,0000,0000,,Even you know that.
+Dialogue: 0,0:08:02.52,0:08:05.06,Default,,0000,0000,0000,,Zofia...
+Dialogue: 0,0:08:05.06,0:08:11.36,Default,,0000,0000,0000,,Zofia's body was crushed under debris.\NI was sitting right next to her.
+Dialogue: 0,0:08:11.36,0:08:16.95,Default,,0000,0000,0000,,Udo tried to help her,\Nbut he got trampled by the stampede.
+Dialogue: 0,0:08:16.95,0:08:22.08,Default,,0000,0000,0000,,Stepped on, over and over,\Nuntil his head split open.
+Dialogue: 0,0:08:22.08,0:08:27.38,Default,,0000,0000,0000,,And the two gate guards... They stopped me.
+Dialogue: 0,0:08:27.38,0:08:30.63,Default,,0000,0000,0000,,I was trying to run back to the plaza.
+Dialogue: 0,0:08:30.63,0:08:36.51,Default,,0000,0000,0000,,I'm an Eldian, but they told me to\Nturn back because it's dangerous.
+Dialogue: 0,0:08:36.51,0:08:41.31,Default,,0000,0000,0000,,Then they were shot by a girl\Non the roof and died.
+Dialogue: 0,0:08:43.73,0:08:50.28,Default,,0000,0000,0000,,Being an Eldian born in the zone,\Npeople spit at me when I go outside.
+Dialogue: 0,0:08:50.28,0:08:56.57,Default,,0000,0000,0000,,I've had a lot of miserable memories,\Nbut that's why I try so hard.
+Dialogue: 0,0:08:56.57,0:09:01.24,Default,,0000,0000,0000,,To show the world that Eldians\Nare good people!
+Dialogue: 0,0:09:01.24,0:09:06.29,Default,,0000,0000,0000,,So that someday, we could be proud\Nof our Eldian armbands!
+Dialogue: 0,0:09:06.29,0:09:12.38,Default,,0000,0000,0000,,I worked hard believing it could happen!\NBut they crushed everything!
+Dialogue: 0,0:09:12.38,0:09:19.05,Default,,0000,0000,0000,,This internment zone is my home!\NIt's where the people I care about live!
+Dialogue: 0,0:09:19.05,0:09:22.77,Default,,0000,0000,0000,,Isn't trampling on it unforgivable?!
+Dialogue: 0,0:09:25.31,0:09:30.36,Default,,0000,0000,0000,,And yet, you're telling me\Nnot to run after them?
+Dialogue: 0,0:09:30.36,0:09:35.24,Default,,0000,0000,0000,,When Zeke was killed before our eyes\Nand we could do nothing?
+Dialogue: 0,0:09:35.24,0:09:38.95,Default,,0000,0000,0000,,Not knowing why any of this happened?!
+Dialogue: 0,0:09:38.95,0:09:45.87,Default,,0000,0000,0000,,Why, Reiner? Why was my mom eaten by a Titan?
+Dialogue: 0,0:09:48.21,0:09:50.34,Default,,0000,0000,0000,,They were trampled on.
+Dialogue: 0,0:09:50.34,0:09:51.75,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:51.75,0:09:57.26,Default,,0000,0000,0000,,The enemy was attacked by Marley\NWarriors and lots of people died.
+Dialogue: 0,0:09:57.26,0:09:59.47,Default,,0000,0000,0000,,This is revenge.
+Dialogue: 0,0:10:01.51,0:10:05.93,Default,,0000,0000,0000,,Did you... see it happen?
+Dialogue: 0,0:10:05.93,0:10:09.65,Default,,0000,0000,0000,,No, I didn't.
+Dialogue: 0,0:10:09.65,0:10:12.98,Default,,0000,0000,0000,,Neither did I.
+Dialogue: 0,0:10:23.54,0:10:29.29,Default,,0000,0000,0000,,Besides, they're all just island devils\Nwho threaten world peace.
+Dialogue: 0,0:10:29.29,0:10:35.67,Default,,0000,0000,0000,,You should know that! They're cruel\Ndevils who've always deserved to die.
+Dialogue: 0,0:10:35.67,0:10:38.05,Default,,0000,0000,0000,,They're nothing like us.
+Dialogue: 0,0:10:40.55,0:10:44.18,Default,,0000,0000,0000,,Reiner, I'm the same as you.
+Dialogue: 0,0:10:44.18,0:10:49.98,Default,,0000,0000,0000,,Across the sea, within the walls...\NIt's the same.
+Dialogue: 0,0:10:56.78,0:11:00.45,Default,,0000,0000,0000,,Lima Squad? That means everyone's aboard.
+Dialogue: 0,0:11:00.45,0:11:03.45,Default,,0000,0000,0000,,Tell the bridge we're good to ascend!
+Dialogue: 0,0:11:03.45,0:11:05.12,Default,,0000,0000,0000,,Roger!
+Dialogue: 0,0:11:09.50,0:11:10.83,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:11:13.71,0:11:15.25,Default,,0000,0000,0000,,A kid?!
+Dialogue: 0,0:11:23.93,0:11:26.06,Default,,0000,0000,0000,,It hit!
+Dialogue: 0,0:11:34.90,0:11:38.61,Default,,0000,0000,0000,,It's still attached...
+Dialogue: 0,0:11:40.53,0:11:42.16,Default,,0000,0000,0000,,Gabi!
+Dialogue: 0,0:11:43.95,0:11:46.28,Default,,0000,0000,0000,,What do you think you're doing?!
+Dialogue: 0,0:11:46.28,0:11:50.04,Default,,0000,0000,0000,,This trigger... If I pull it...
+Dialogue: 0,0:11:53.08,0:11:58.34,Default,,0000,0000,0000,,Gabi... Don't tell me you're\Nthinking of boarding it!
+Dialogue: 0,0:11:58.34,0:12:00.97,Default,,0000,0000,0000,,I'm gonna kill those island devils!
+Dialogue: 0,0:12:00.97,0:12:04.26,Default,,0000,0000,0000,,You'll just end up dead, idiot!
+Dialogue: 0,0:12:04.26,0:12:09.68,Default,,0000,0000,0000,,Tell my mom and dad.\NLet Reiner and the others know:
+Dialogue: 0,0:12:09.68,0:12:13.35,Default,,0000,0000,0000,,That I fought till the end.
+Dialogue: 0,0:12:13.35,0:12:19.15,Default,,0000,0000,0000,,Even if we don't win today,\Nyou guys will carry on my will.
+Dialogue: 0,0:12:19.15,0:12:22.20,Default,,0000,0000,0000,,Falco! Gabi!
+Dialogue: 0,0:12:22.20,0:12:25.37,Default,,0000,0000,0000,,What the hell are you guys doing?!
+Dialogue: 0,0:12:25.37,0:12:27.03,Default,,0000,0000,0000,,My brother...
+Dialogue: 0,0:12:27.03,0:12:29.16,Default,,0000,0000,0000,,Goodbye, Falco.
+Dialogue: 0,0:12:29.16,0:12:33.29,Default,,0000,0000,0000,,You were one of the good ones.
+Dialogue: 0,0:12:35.79,0:12:41.84,Default,,0000,0000,0000,,You have to rescue Gabi\Nfrom the dark future that awaits us.
+Dialogue: 0,0:12:46.30,0:12:47.80,Default,,0000,0000,0000,,Falco!
+Dialogue: 0,0:12:51.72,0:12:53.48,Default,,0000,0000,0000,,Falco?!
+Dialogue: 0,0:12:54.48,0:12:55.48,Default,,0000,0000,0000,,Why?!
+Dialogue: 0,0:12:55.48,0:12:59.73,Default,,0000,0000,0000,,The one who should inherit\Nthe Armored Titan... is me!
+Dialogue: 0,0:12:59.73,0:13:01.53,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:13:07.78,0:13:10.20,Default,,0000,0000,0000,,Did you hear a sound just now?
+Dialogue: 0,0:13:10.20,0:13:12.04,Default,,0000,0000,0000,,Hey! Quiet down!
+Dialogue: 0,0:13:12.04,0:13:15.04,Default,,0000,0000,0000,,Make some noise! Victory!
+Dialogue: 0,0:13:15.04,0:13:16.54,Default,,0000,0000,0000,,--Yeah!\N--Yeah!
+Dialogue: 0,0:13:16.54,0:13:17.83,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:13:17.83,0:13:20.09,Default,,0000,0000,0000,,Isn't Lobov still out there?
+Dialogue: 0,0:13:20.09,0:13:23.72,Default,,0000,0000,0000,,No, I think he came aboard.
+Dialogue: 0,0:13:42.36,0:13:44.19,Default,,0000,0000,0000,,Sasha!
+Dialogue: 0,0:13:45.03,0:13:50.03,Eyecatch1,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Marley Military's Official Rifle"\N"The military's official bolt-action rifle fires five shots and can be equipped with the standard-issue knife as a bayonet. They are used regularly by Marley's Warrior unit, army, and navy."
+Dialogue: 0,0:14:05.34,0:14:07.59,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:14:09.22,0:14:11.68,Default,,0000,0000,0000,,Sasha! Hey!
+Dialogue: 0,0:14:11.68,0:14:15.02,Default,,0000,0000,0000,,Hang in there! Hey!
+Dialogue: 0,0:14:16.31,0:14:20.86,Default,,0000,0000,0000,,You're so... damn loud...
+Dialogue: 0,0:14:22.86,0:14:27.36,Default,,0000,0000,0000,,Are we... eating soon?
+Dialogue: 0,0:14:27.36,0:14:30.36,Default,,0000,0000,0000,,Bandages, now!\NWe've gotta stop the bleeding!
+Dialogue: 0,0:14:30.36,0:14:31.24,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:14:31.24,0:14:34.04,Default,,0000,0000,0000,,Sasha! Make it to the island!
+Dialogue: 0,0:14:35.04,0:14:37.41,Default,,0000,0000,0000,,Meat...
+Dialogue: 0,0:14:51.72,0:14:57.06,Default,,0000,0000,0000,,Jean, they climbed aboard\Nusing Lobov's ODM gear.
+Dialogue: 0,0:14:58.56,0:15:02.40,Default,,0000,0000,0000,,I'll toss 'em outside. All right?
+Dialogue: 0,0:15:07.19,0:15:14.37,Default,,0000,0000,0000,,If we toss kids out of an airship,\Nwill the killing ever end?
+Dialogue: 0,0:15:25.42,0:15:28.01,Default,,0000,0000,0000,,What happened to Braun and Grice?
+Dialogue: 0,0:15:28.01,0:15:33.34,Default,,0000,0000,0000,,They ran off without warning\Nand never came back.
+Dialogue: 0,0:15:38.35,0:15:40.18,Default,,0000,0000,0000,,Pieck...
+Dialogue: 0,0:15:42.10,0:15:47.53,Default,,0000,0000,0000,,Commander, I remember...
+Dialogue: 0,0:15:47.53,0:15:54.37,Default,,0000,0000,0000,,There was a Marley soldier who\Nled Galliard and me into a trap.
+Dialogue: 0,0:15:57.20,0:16:01.75,Default,,0000,0000,0000,,I remember seeing that\Nsame soldier three years ago.
+Dialogue: 0,0:16:01.75,0:16:10.88,Default,,0000,0000,0000,,They were on the first scout fleet sent\Nto Paradis after Reiner came back.
+Dialogue: 0,0:16:10.88,0:16:13.51,Default,,0000,0000,0000,,The missing scout ships?
+Dialogue: 0,0:16:13.51,0:16:17.72,Default,,0000,0000,0000,,Yes. I'm sure of it.
+Dialogue: 0,0:16:17.72,0:16:21.77,Default,,0000,0000,0000,,They looked so awful with a beard.
+Dialogue: 0,0:16:21.77,0:16:25.31,Default,,0000,0000,0000,,Hey, you gonna wear that forever?
+Dialogue: 0,0:16:25.31,0:16:30.07,Default,,0000,0000,0000,,Huh? I thought it was well-received.
+Dialogue: 0,0:16:33.57,0:16:36.16,Default,,0000,0000,0000,,They're still celebrating?
+Dialogue: 0,0:16:36.16,0:16:41.00,Default,,0000,0000,0000,,Don't touch me, you devils!\NWe haven't lost yet!
+Dialogue: 0,0:16:41.00,0:16:46.25,Default,,0000,0000,0000,,The rest of our comrades will carry\Non the will of War Chief Zeke!
+Dialogue: 0,0:16:46.25,0:16:49.05,Default,,0000,0000,0000,,Gabi, stop!
+Dialogue: 0,0:16:49.05,0:16:51.71,Default,,0000,0000,0000,,What do we do with 'em, Jean?
+Dialogue: 0,0:16:53.30,0:16:57.05,Default,,0000,0000,0000,,Us true Eldians are gonna\Nhaunt you till you die!
+Dialogue: 0,0:16:57.05,0:17:01.56,Default,,0000,0000,0000,,Pass that on to your\Nringleader after I'm dead!
+Dialogue: 0,0:17:01.56,0:17:04.48,Default,,0000,0000,0000,,I'll take you to him.
+Dialogue: 0,0:17:04.48,0:17:08.56,Default,,0000,0000,0000,,You can tell him exactly what you told me.
+Dialogue: 0,0:17:18.16,0:17:21.54,Default,,0000,0000,0000,,How'd you identify the soldier?
+Dialogue: 0,0:17:21.54,0:17:28.50,Default,,0000,0000,0000,,Well, it's someone I had\Na particular interest in.
+Dialogue: 0,0:17:28.50,0:17:34.47,Default,,0000,0000,0000,,Because... she's a devout follower of Zeke.
+Dialogue: 0,0:17:34.47,0:17:39.10,Default,,0000,0000,0000,,Gabi... Falco...? Why are you here?
+Dialogue: 0,0:17:39.10,0:17:42.22,Default,,0000,0000,0000,,Why? Why are you?
+Dialogue: 0,0:17:42.22,0:17:46.81,Default,,0000,0000,0000,,You're alive?! Why did you\Nlet them capture you?!
+Dialogue: 0,0:17:50.27,0:17:52.11,Default,,0000,0000,0000,,Who are these kids?
+Dialogue: 0,0:17:52.11,0:17:56.86,Default,,0000,0000,0000,,They killed Lobov and used\Nhis gear to come aboard.
+Dialogue: 0,0:17:56.86,0:18:00.28,Default,,0000,0000,0000,,Sasha was shot by this one here.
+Dialogue: 0,0:18:01.66,0:18:05.04,Default,,0000,0000,0000,,I don't think she's gonna make it.
+Dialogue: 0,0:18:11.21,0:18:13.80,Default,,0000,0000,0000,,It's all you, Onyankopon.
+Dialogue: 0,0:18:13.80,0:18:15.76,Default,,0000,0000,0000,,You got it, Hange!
+Dialogue: 0,0:18:17.76,0:18:23.85,Default,,0000,0000,0000,,Well? Did everything play out\Nas you hoped, Zeke Jaeger?
+Dialogue: 0,0:18:25.60,0:18:27.69,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:27.69,0:18:33.52,Default,,0000,0000,0000,,For the most part,\Nbut there were a few miscalculations.
+Dialogue: 0,0:18:33.52,0:18:35.90,Default,,0000,0000,0000,,Zeke...?
+Dialogue: 0,0:18:35.90,0:18:39.78,Default,,0000,0000,0000,,Huh? Who are these kids?
+Dialogue: 0,0:18:39.78,0:18:41.20,Default,,0000,0000,0000,,Miscalculations.
+Dialogue: 0,0:18:41.20,0:18:46.20,Default,,0000,0000,0000,,Yelena! What the hell happened\Nto trapping the Cart and Jaw?!
+Dialogue: 0,0:18:46.20,0:18:48.87,Default,,0000,0000,0000,,People died because of you!
+Dialogue: 0,0:18:48.87,0:18:56.30,Default,,0000,0000,0000,,I'm sorry. I assure you they fell\Ndown the hole, but it's still my fault.
+Dialogue: 0,0:18:56.30,0:19:02.72,Default,,0000,0000,0000,,And to cover for that slip-up, the Beast\Nchucked more rocks at us than planned.
+Dialogue: 0,0:19:02.72,0:19:08.93,Default,,0000,0000,0000,,That was some clever improv for a clown\Nlike you. Wouldn't you say, hairball?
+Dialogue: 0,0:19:08.93,0:19:15.15,Default,,0000,0000,0000,,Don't glare at me like that, Levi.\NWhat if I piss my pants?
+Dialogue: 0,0:19:15.15,0:19:22.28,Default,,0000,0000,0000,,And you're quite the actor yourself,\Nconsidering you want to kill me so bad.
+Dialogue: 0,0:19:23.49,0:19:28.50,Default,,0000,0000,0000,,I'm the kind of person\Nwho saves the best bite for last.
+Dialogue: 0,0:19:28.50,0:19:31.83,Default,,0000,0000,0000,,I like to savor the taste.
+Dialogue: 0,0:19:32.71,0:19:38.46,Default,,0000,0000,0000,,We killed the Marley brass\Nand destroyed their port and fleet.
+Dialogue: 0,0:19:38.46,0:19:41.30,Default,,0000,0000,0000,,That should buy us some time.
+Dialogue: 0,0:19:41.30,0:19:46.39,Default,,0000,0000,0000,,Until the whole world launches\Na joint attack on Paradis?
+Dialogue: 0,0:19:46.39,0:19:52.02,Default,,0000,0000,0000,,Every time you're caught by the enemy,\Nwe sacrifice lives to get you back.
+Dialogue: 0,0:19:52.02,0:19:54.94,Default,,0000,0000,0000,,No matter how many it takes.
+Dialogue: 0,0:19:54.94,0:20:00.99,Default,,0000,0000,0000,,And yet knowing that, you went\Nso far as to make yourself a hostage.
+Dialogue: 0,0:20:00.99,0:20:05.28,Default,,0000,0000,0000,,Just like you hoped,\Nwe didn't have much choice.
+Dialogue: 0,0:20:05.28,0:20:11.58,Default,,0000,0000,0000,,You put your trust in us\Nand we lost our trust in you.
+Dialogue: 0,0:20:11.58,0:20:17.50,Default,,0000,0000,0000,,But now we have the Founding Titan\Nand a Titan with royal blood.
+Dialogue: 0,0:20:17.50,0:20:24.39,Default,,0000,0000,0000,,The cost of those sacrifices\Nwill be paid through Eldia's freedom.
+Dialogue: 0,0:20:35.56,0:20:37.77,Default,,0000,0000,0000,,Sasha...
+Dialogue: 0,0:20:37.77,0:20:39.90,Default,,0000,0000,0000,,...is dead.
+Dialogue: 0,0:20:59.75,0:21:01.88,Default,,0000,0000,0000,,Conny.
+Dialogue: 0,0:21:01.88,0:21:07.93,Default,,0000,0000,0000,,Did Sasha... have any last words?
+Dialogue: 0,0:21:07.93,0:21:11.93,Default,,0000,0000,0000,,She said... "Meat."
+Dialogue: 0,0:21:22.53,0:21:27.87,Default,,0000,0000,0000,,I brought some meat from\Nthe officers' storehouse!
+Dialogue: 0,0:21:30.16,0:21:32.08,Default,,0000,0000,0000,,It'll be fine!
+Dialogue: 0,0:21:32.08,0:21:37.08,Default,,0000,0000,0000,,We can just raise more cattle and sheep\Nonce we retake our land!
+Dialogue: 0,0:21:49.89,0:21:57.10,Default,,0000,0000,0000,,Eren... Sasha only died because you\Ndragged the Scouts into this.
+Dialogue: 0,0:23:40.91,0:23:44.96,Default,,0000,0000,0000,,Could they have taken some other path?
+Dialogue: 0,0:23:44.96,0:23:52.76,Default,,0000,0000,0000,,Unable to change the past, they must\Ncontinue down the one before them.
+Dialogue: 0,0:23:52.76,0:23:54.97,Default,,0000,0000,0000,,Next episode: "Brave Volunteers."
+Dialogue: 0,0:23:53.01,0:23:54.97,On Top,,0000,0000,0000,,"Brave Volunteers"

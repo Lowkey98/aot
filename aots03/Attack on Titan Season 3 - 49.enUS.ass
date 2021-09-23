@@ -1,0 +1,347 @@
+[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.85,0:00:03.39,Default,,0000,0000,0000,,In other words...
+Dialogue: 0,0:00:03.39,0:00:07.56,Default,,0000,0000,0000,,It's possible for us to plug\Nthat hole in Wall Maria now.
+Dialogue: 0,0:00:08.57,0:00:14.20,Default,,0000,0000,0000,,The Scout Regiment hurry their\Npreparations for retaking Wall Maria.
+Dialogue: 0,0:00:19.83,0:00:22.71,Default,,0000,0000,0000,,Hell yeah! We did it, Eren!
+Dialogue: 0,0:00:24.75,0:00:26.42,Default,,0000,0000,0000,,Eren?
+Dialogue: 0,0:00:26.42,0:00:29.80,Default,,0000,0000,0000,,Let's hurry... make weapons, and get going...
+Dialogue: 0,0:00:29.80,0:00:32.09,Default,,0000,0000,0000,,...to Shiganshina.
+Dialogue: 0,0:00:32.09,0:00:37.26,Default,,0000,0000,0000,,Seems if I inject this...\NI'll turn into a Titan.
+Dialogue: 0,0:00:38.39,0:00:40.89,Default,,0000,0000,0000,,There came another...
+Dialogue: 0,0:00:40.89,0:00:45.52,Default,,0000,0000,0000,,One more thing to shape\Ntheir fate had been found.
+Dialogue: 0,0:00:49.44,0:00:51.53,Default,,0000,0000,0000,,Sorry I'm late.
+Dialogue: 0,0:00:54.82,0:00:56.45,Default,,0000,0000,0000,,Well?
+Dialogue: 0,0:00:56.45,0:00:59.28,Default,,0000,0000,0000,,Have we discovered what's in the container?
+Dialogue: 0,0:00:59.28,0:01:01.16,Default,,0000,0000,0000,,The thing is...
+Dialogue: 0,0:01:01.16,0:01:06.25,Default,,0000,0000,0000,,With our technology, I'm afraid\Nwe can't dig much deeper.
+Dialogue: 0,0:01:06.25,0:01:08.58,Default,,0000,0000,0000,,Like we've heard from Eren and Historia,
+Dialogue: 0,0:01:08.58,0:01:13.84,Default,,0000,0000,0000,,it seems to originate from\Nsome sort of human bodily fluid.
+Dialogue: 0,0:01:13.84,0:01:19.76,Default,,0000,0000,0000,,However, it vaporizes when exposed\Nto air, making analysis difficult.
+Dialogue: 0,0:01:19.76,0:01:24.85,Default,,0000,0000,0000,,Whoever made it must have had\Ntechnology far superior to ours.
+Dialogue: 0,0:01:24.85,0:01:28.77,Default,,0000,0000,0000,,If it was the Reiss family,\NI can't imagine how...
+Dialogue: 0,0:01:28.77,0:01:30.48,Default,,0000,0000,0000,,Hmm...
+Dialogue: 0,0:01:31.86,0:01:34.28,Default,,0000,0000,0000,,In that case, instead of tampering with it,
+Dialogue: 0,0:01:34.28,0:01:37.70,Default,,0000,0000,0000,,we should use it to achieve\Nour current objective.
+Dialogue: 0,0:01:37.70,0:01:40.32,Default,,0000,0000,0000,,But who do we entrust it to?
+Dialogue: 0,0:01:40.32,0:01:42.49,Default,,0000,0000,0000,,Erwin, to you?
+Dialogue: 0,0:01:42.49,0:01:44.33,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:01:44.33,0:01:47.33,Default,,0000,0000,0000,,I'm no more than a wounded soldier.
+Dialogue: 0,0:01:47.33,0:01:53.30,Default,,0000,0000,0000,,This box belongs with one of our elite\Nsoldiers who has the best odds of survival.
+Dialogue: 0,0:01:53.30,0:01:56.59,Default,,0000,0000,0000,,Levi, would you keep it?
+Dialogue: 0,0:01:56.59,0:01:59.18,Default,,0000,0000,0000,,If it's an order, just say so.
+Dialogue: 0,0:01:59.18,0:02:01.55,Default,,0000,0000,0000,,Why even ask the question?
+Dialogue: 0,0:02:02.93,0:02:07.48,Default,,0000,0000,0000,,We can't predict in what situation\Nwe'll have to use this.
+Dialogue: 0,0:02:07.48,0:02:12.56,Default,,0000,0000,0000,,We'll be relying on you\Nto make a decision on the fly.
+Dialogue: 0,0:02:12.56,0:02:18.28,Default,,0000,0000,0000,,Judging when and who to use it on\Nwill be for you to choose.
+Dialogue: 0,0:02:18.28,0:02:21.16,Default,,0000,0000,0000,,Can we leave that to you?
+Dialogue: 0,0:02:21.16,0:02:26.50,Default,,0000,0000,0000,,If this dream of yours comes true,\Nwhat will you do then?
+Dialogue: 0,0:02:26.50,0:02:29.29,Default,,0000,0000,0000,,I... don't know.
+Dialogue: 0,0:02:29.29,0:02:31.54,Default,,0000,0000,0000,,I won't until it happens.
+Dialogue: 0,0:02:32.67,0:02:35.34,Default,,0000,0000,0000,,I see... All right.
+Dialogue: 0,0:02:35.34,0:02:37.01,Default,,0000,0000,0000,,I'll do it.
+Dialogue: 0,0:02:41.51,0:02:46.06,Default,,0000,0000,0000,,By the way, I'd like to unveil\Nthat work of mine soon.
+Dialogue: 0,0:02:46.06,0:02:47.56,Default,,0000,0000,0000,,Have you given it thought?
+Dialogue: 0,0:02:47.56,0:02:49.94,Default,,0000,0000,0000,,You still haven't given up on that?
+Dialogue: 0,0:02:49.94,0:02:56.69,Default,,0000,0000,0000,,If the public saw that repulsive display,\Ntrust in the military would hit rock bottom.
+Dialogue: 0,0:02:56.69,0:02:59.49,Default,,0000,0000,0000,,You don't know art when you see it.
+Dialogue: 0,0:04:29.99,0:04:35.00,Default,,0000,0000,0000,,"Night of the Battle to Retake the Wall"
+Dialogue: 0,0:04:41.26,0:04:44.59,Default,,0000,0000,0000,,In other words, Eren's \Nfather, Grisha Jaeger...
+Dialogue: 0,0:04:44.59,0:04:48.85,Default,,0000,0000,0000,,...is likely a human who came\Nfrom outside the walls.
+Dialogue: 0,0:04:48.85,0:04:50.31,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:04:50.31,0:04:56.73,Default,,0000,0000,0000,,Just like Annie, Reiner, and Bertholdt,\Nhe possessed the Power of the Titans.
+Dialogue: 0,0:04:56.73,0:05:03.03,Default,,0000,0000,0000,,But different from those three, he was\Nsupportive of humanity within the walls.
+Dialogue: 0,0:05:03.03,0:05:06.53,Default,,0000,0000,0000,,If he was so interested to know\Nabout the Scouts and such,
+Dialogue: 0,0:05:06.53,0:05:09.95,Default,,0000,0000,0000,,we could've used more of that support of his.
+Dialogue: 0,0:05:09.95,0:05:11.99,Default,,0000,0000,0000,,I wonder...
+Dialogue: 0,0:05:11.99,0:05:14.33,Default,,0000,0000,0000,,From the moment he entered the walls,
+Dialogue: 0,0:05:14.33,0:05:18.25,Default,,0000,0000,0000,,he was searching for the royal\Nfamily all alone, I'm sure.
+Dialogue: 0,0:05:18.25,0:05:19.84,Default,,0000,0000,0000,,And that...
+Dialogue: 0,0:05:19.84,0:05:24.13,Default,,0000,0000,0000,,That's not something you do\Nwithout incredible resolve.
+Dialogue: 0,0:05:24.13,0:05:29.85,Default,,0000,0000,0000,,That same father wanted to show his\N10-year-old son, eager to join the Scouts,
+Dialogue: 0,0:05:29.85,0:05:31.81,Default,,0000,0000,0000,,the basement of their house.
+Dialogue: 0,0:05:32.93,0:05:38.23,Default,,0000,0000,0000,,On death's door, he said the truth\Nof it all was... in the basement.
+Dialogue: 0,0:05:38.23,0:05:41.82,Default,,0000,0000,0000,,What in the world do you think is down there?
+Dialogue: 0,0:05:43.82,0:05:46.32,Default,,0000,0000,0000,,Things which mustn't be said.
+Dialogue: 0,0:05:47.74,0:05:49.24,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:05:49.24,0:05:54.20,Default,,0000,0000,0000,,Things Grisha Jaeger couldn't say,\Neven if he wanted to.
+Dialogue: 0,0:05:54.20,0:05:58.42,Default,,0000,0000,0000,,That which the First Reiss King\Nwiped from our memories...
+Dialogue: 0,0:05:58.42,0:06:00.83,Default,,0000,0000,0000,,...memories of our world...
+Dialogue: 0,0:06:00.83,0:06:02.63,Default,,0000,0000,0000,,...is what I hope, but...
+Dialogue: 0,0:06:02.63,0:06:05.76,Default,,0000,0000,0000,,Pondering about it here \Nwon't accomplish much.
+Dialogue: 0,0:06:07.38,0:06:10.59,Default,,0000,0000,0000,,The preparations finished today.
+Dialogue: 0,0:06:10.59,0:06:14.77,Default,,0000,0000,0000,,The operation to retake\NWall Maria starts in two days.
+Dialogue: 0,0:06:14.77,0:06:17.35,Default,,0000,0000,0000,,Want to know what's in the basement?
+Dialogue: 0,0:06:17.35,0:06:19.94,Default,,0000,0000,0000,,Let's go see for ourselves.
+Dialogue: 0,0:06:19.94,0:06:22.98,Default,,0000,0000,0000,,Isn't that what Scouts do?
+Dialogue: 0,0:06:26.49,0:06:28.65,Default,,0000,0000,0000,,Let all your squads know.
+Dialogue: 0,0:06:28.65,0:06:31.66,Default,,0000,0000,0000,,Right. Keeping it secret of course, yeah?
+Dialogue: 0,0:06:31.66,0:06:34.66,Default,,0000,0000,0000,,On a day like this,\Nwe deserve some meat, right?
+Dialogue: 0,0:06:34.66,0:06:40.12,Default,,0000,0000,0000,,Good idea. Gotta show those kids\Nus adults can be counted on.
+Dialogue: 0,0:06:40.12,0:06:43.42,Default,,0000,0000,0000,,What about Commander Sadies\Nkeeping secrets from us?
+Dialogue: 0,0:06:43.42,0:06:46.88,Default,,0000,0000,0000,,Forget about him.\NWe don't have time to deal with it.
+Dialogue: 0,0:06:46.88,0:06:50.26,Default,,0000,0000,0000,,I'm shocked, Hange. You used to adore him!
+Dialogue: 0,0:06:50.26,0:06:51.76,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:06:55.22,0:06:57.64,Default,,0000,0000,0000,,What is it, Levi?
+Dialogue: 0,0:06:57.64,0:07:00.27,Default,,0000,0000,0000,,It's a bit hasty, but...
+Dialogue: 0,0:07:00.27,0:07:03.90,Default,,0000,0000,0000,,What will you do after retaking Wall Maria?
+Dialogue: 0,0:07:03.90,0:07:07.40,Default,,0000,0000,0000,,I'd guess a defense plan comes first, but...
+Dialogue: 0,0:07:07.40,0:07:09.19,Default,,0000,0000,0000,,After that?
+Dialogue: 0,0:07:09.19,0:07:11.49,Default,,0000,0000,0000,,Eliminating threats.
+Dialogue: 0,0:07:11.49,0:07:17.75,Default,,0000,0000,0000,,Outside the walls, there seems to be\Nsomeone hoping Titans will eat us all.
+Dialogue: 0,0:07:17.75,0:07:23.42,Default,,0000,0000,0000,,Of course, the answer to who\Nis in the basement, I imagine.
+Dialogue: 0,0:07:23.42,0:07:25.92,Default,,0000,0000,0000,,It's as I said earlier.
+Dialogue: 0,0:07:25.92,0:07:28.84,Default,,0000,0000,0000,,We'll plan that after the basement.
+Dialogue: 0,0:07:28.84,0:07:33.05,Default,,0000,0000,0000,,I'm asking this because you\Nmight not live that long.
+Dialogue: 0,0:07:33.05,0:07:36.35,Default,,0000,0000,0000,,You can't exactly move like you used to.
+Dialogue: 0,0:07:37.43,0:07:40.23,Default,,0000,0000,0000,,Let Hange call the shots.
+Dialogue: 0,0:07:40.23,0:07:42.85,Default,,0000,0000,0000,,You'll just be dead weight.
+Dialogue: 0,0:07:42.85,0:07:45.15,Default,,0000,0000,0000,,Let the good news come to you.
+Dialogue: 0,0:07:45.15,0:07:48.57,Default,,0000,0000,0000,,We'll tell the others I \Nargued till you gave in.
+Dialogue: 0,0:07:48.57,0:07:51.90,Default,,0000,0000,0000,,No... That's actually what I intend.
+Dialogue: 0,0:07:51.90,0:07:53.61,Default,,0000,0000,0000,,Fine with that?
+Dialogue: 0,0:08:01.50,0:08:02.87,Default,,0000,0000,0000,,I'm not.
+Dialogue: 0,0:08:04.25,0:08:07.67,Default,,0000,0000,0000,,I'm fine being food. Use me as bait.
+Dialogue: 0,0:08:07.67,0:08:10.51,Default,,0000,0000,0000,,The chain of command still remains.
+Dialogue: 0,0:08:10.51,0:08:12.47,Default,,0000,0000,0000,,If I'm gone, then Hange.
+Dialogue: 0,0:08:12.47,0:08:15.39,Default,,0000,0000,0000,,If Hange's gone, the next.
+Dialogue: 0,0:08:15.39,0:08:18.68,Default,,0000,0000,0000,,It's true, this operation\Nwill be dangerous, but...
+Dialogue: 0,0:08:18.68,0:08:22.23,Default,,0000,0000,0000,,...to humanity, it's more\Nimportant than anything else.
+Dialogue: 0,0:08:22.23,0:08:24.35,Default,,0000,0000,0000,,That's why I've gone to such lengths.
+Dialogue: 0,0:08:24.35,0:08:26.86,Default,,0000,0000,0000,,This is all my plan.
+Dialogue: 0,0:08:26.86,0:08:29.65,Default,,0000,0000,0000,,If I don't do it, the \Nsuccess rate will plummet.
+Dialogue: 0,0:08:29.65,0:08:33.82,Default,,0000,0000,0000,,That's right. The operation \Nmight fail, but...
+Dialogue: 0,0:08:33.82,0:08:37.28,Default,,0000,0000,0000,,If you bite the dust in\Nthe process, we're doomed.
+Dialogue: 0,0:08:37.28,0:08:41.37,Default,,0000,0000,0000,,So just sit at your desk\Nand keep using your head.
+Dialogue: 0,0:08:41.37,0:08:44.50,Default,,0000,0000,0000,,That's the last thing the Titans would want.
+Dialogue: 0,0:08:44.50,0:08:48.92,Default,,0000,0000,0000,,And for humanity,\Nit's the best thing going for us.
+Dialogue: 0,0:08:48.92,0:08:50.80,Default,,0000,0000,0000,,No, you're wrong.
+Dialogue: 0,0:08:50.80,0:08:53.55,Default,,0000,0000,0000,,Our best option is for me to gamble it all--
+Dialogue: 0,0:08:53.55,0:08:56.51,Default,,0000,0000,0000,,Hey, hey, hey, hey! Hold up...
+Dialogue: 0,0:08:56.51,0:09:01.60,Default,,0000,0000,0000,,Keep using that bluff around me\Nand I'll break both of your damn legs.
+Dialogue: 0,0:09:01.60,0:09:05.02,Default,,0000,0000,0000,,I'll make it nice and easy \Nto attach them later.
+Dialogue: 0,0:09:05.02,0:09:10.02,Default,,0000,0000,0000,,But the operation to retake Wall Maria\Nwill proceed with you weeping here.
+Dialogue: 0,0:09:10.02,0:09:13.32,Default,,0000,0000,0000,,It'll be a bitch to get to the toilet though.
+Dialogue: 0,0:09:15.53,0:09:17.61,Default,,0000,0000,0000,,I'd like to avoid that.
+Dialogue: 0,0:09:18.95,0:09:21.41,Default,,0000,0000,0000,,What you're saying is right.
+Dialogue: 0,0:09:21.41,0:09:25.12,Default,,0000,0000,0000,,A wounded soldier should\Nstay off the battlefield.
+Dialogue: 0,0:09:26.25,0:09:28.54,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:09:28.54,0:09:32.00,Default,,0000,0000,0000,,There will come a moment when\Nwe learn the truth of our world...
+Dialogue: 0,0:09:32.00,0:09:34.72,Default,,0000,0000,0000,,...and I must be there for it.
+Dialogue: 0,0:09:37.05,0:09:40.51,Default,,0000,0000,0000,,Is it that important to you?
+Dialogue: 0,0:09:40.51,0:09:42.43,Default,,0000,0000,0000,,More than your legs?
+Dialogue: 0,0:09:42.43,0:09:44.06,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:44.06,0:09:47.02,Default,,0000,0000,0000,,More than humanity's victory?
+Dialogue: 0,0:09:47.02,0:09:48.35,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:09:52.90,0:09:54.49,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:10:00.20,0:10:01.62,Default,,0000,0000,0000,,Erwin...
+Dialogue: 0,0:10:01.62,0:10:04.24,Default,,0000,0000,0000,,I'll trust your judgment.
+Dialogue: 0,0:10:10.00,0:10:15.01,Eyecatch2,,0000,0000,0000,,"Information Available for Public Disclosure"\N"Meat"\N"After the fall of Wall Maria, there was a dramatic decrease in food production. Livestock in particular suffered due to requiring plentiful land. As a result, meat became expensive and occasions to eat it are scarce."
+Dialogue: 0,0:10:17.51,0:10:22.60,Default,,0000,0000,0000,,This may be a special night, but...\Nlet's not let the public find out!
+Dialogue: 0,0:10:22.60,0:10:25.77,Default,,0000,0000,0000,,Behave like soldiers \Nwithout causing a ruckus!
+Dialogue: 0,0:10:25.77,0:10:28.14,Default,,0000,0000,0000,,Eh? Meat?
+Dialogue: 0,0:10:28.14,0:10:31.36,Default,,0000,0000,0000,,What? Is this... meat?
+Dialogue: 0,0:10:32.27,0:10:33.77,Default,,0000,0000,0000,,Am I dreaming?
+Dialogue: 0,0:10:33.77,0:10:37.49,Default,,0000,0000,0000,,Tonight's the night before\Nwe retake Wall Maria!
+Dialogue: 0,0:10:37.49,0:10:39.11,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:10:39.11,0:10:40.61,Default,,0000,0000,0000,,Huh?! Wait!
+Dialogue: 0,0:10:40.61,0:10:42.95,Default,,0000,0000,0000,,Calm down! We'll split it evenly!
+Dialogue: 0,0:10:42.95,0:10:45.08,Default,,0000,0000,0000,,Hey! That big piece counts as two!
+Dialogue: 0,0:10:45.08,0:10:45.95,Default,,0000,0000,0000,,Hell no!
+Dialogue: 0,0:10:45.95,0:10:49.71,Default,,0000,0000,0000,,But you suck with the spear!\NYou're useless, so gimme yours!
+Dialogue: 0,0:10:49.71,0:10:50.79,Default,,0000,0000,0000,,Say what?!
+Dialogue: 0,0:10:50.79,0:10:53.21,Default,,0000,0000,0000,,Don't you start pulling \Nthat shit, potato girl!
+Dialogue: 0,0:10:53.21,0:10:55.92,Default,,0000,0000,0000,,What the hell do you think you're doing?!
+Dialogue: 0,0:10:55.92,0:10:57.38,Default,,0000,0000,0000,,Cut it out, Sasha!
+Dialogue: 0,0:10:57.38,0:11:01.09,Default,,0000,0000,0000,,I... I don't wanna have to kill you!
+Dialogue: 0,0:11:01.09,0:11:03.55,Default,,0000,0000,0000,,You can't eat the whole thing alone!
+Dialogue: 0,0:11:04.76,0:11:06.68,Default,,0000,0000,0000,,You're eating me! Eating me! Eating me!
+Dialogue: 0,0:11:06.68,0:11:10.52,Default,,0000,0000,0000,,Sasha! That meat is Jean!\NHave you lost your mind?!
+Dialogue: 0,0:11:10.52,0:11:13.65,Default,,0000,0000,0000,,Do the Scouts never get fed any meat?
+Dialogue: 0,0:11:13.65,0:11:15.19,Default,,0000,0000,0000,,Pathetic...
+Dialogue: 0,0:11:17.61,0:11:20.20,Default,,0000,0000,0000,,Conny, would you knock Sasha out already?
+Dialogue: 0,0:11:20.20,0:11:21.78,Default,,0000,0000,0000,,I'm trying!
+Dialogue: 0,0:11:21.78,0:11:24.83,Default,,0000,0000,0000,,She should be unconscious,\Nbut she's still moving!
+Dialogue: 0,0:11:24.83,0:11:27.29,Default,,0000,0000,0000,,Hey, I think we've got casualties.
+Dialogue: 0,0:11:27.29,0:11:30.21,Default,,0000,0000,0000,,Whose brilliant idea was it to serve meat?
+Dialogue: 0,0:11:30.21,0:11:36.21,Default,,0000,0000,0000,,Sorry. But now we know blowing the food budget\Nfor two months in one night results in this.
+Dialogue: 0,0:11:38.84,0:11:40.38,Default,,0000,0000,0000,,That should do it.
+Dialogue: 0,0:11:40.38,0:11:42.80,Default,,0000,0000,0000,,She finally ran out of energy.
+Dialogue: 0,0:11:43.89,0:11:46.22,Default,,0000,0000,0000,,Can you believe this freak?
+Dialogue: 0,0:11:46.22,0:11:49.60,Default,,0000,0000,0000,,And to think she once offered\Nto share meat with everyone.
+Dialogue: 0,0:11:49.60,0:11:51.56,Default,,0000,0000,0000,,Huh? When?
+Dialogue: 0,0:11:51.56,0:11:55.73,Default,,0000,0000,0000,,Four months ago, when we were\Nservicing the cannons.
+Dialogue: 0,0:11:57.23,0:12:00.99,Default,,0000,0000,0000,,I brought some meat from\Nthe officers' storehouse!
+Dialogue: 0,0:12:00.99,0:12:02.95,Default,,0000,0000,0000,,It'll be fine!
+Dialogue: 0,0:12:02.95,0:12:07.37,Default,,0000,0000,0000,,We can just raise more cattle and\Nsheep once we retake our land!
+Dialogue: 0,0:12:12.46,0:12:13.67,Default,,0000,0000,0000,,It's happening again!
+Dialogue: 0,0:12:13.67,0:12:17.04,Default,,0000,0000,0000,,The Titans are going to get in!
+Dialogue: 0,0:12:19.21,0:12:20.71,Default,,0000,0000,0000,,It disappeared!
+Dialogue: 0,0:12:20.71,0:12:24.34,Default,,0000,0000,0000,,I thought... I felt sorry for you.
+Dialogue: 0,0:12:25.55,0:12:26.64,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:12:29.43,0:12:33.94,Default,,0000,0000,0000,,Only four months have passed since back then?
+Dialogue: 0,0:12:33.94,0:12:35.73,Default,,0000,0000,0000,,Only four months.
+Dialogue: 0,0:12:35.73,0:12:39.44,Default,,0000,0000,0000,,But think, in just four months,\Nwe're in Squad Levi.
+Dialogue: 0,0:12:39.44,0:12:41.86,Default,,0000,0000,0000,,We climbed the ranks in a flash.
+Dialogue: 0,0:12:43.20,0:12:45.24,Default,,0000,0000,0000,,It's 'cuz you're a genius.
+Dialogue: 0,0:12:45.24,0:12:46.91,Default,,0000,0000,0000,,Damn straight I am.
+Dialogue: 0,0:12:46.91,0:12:49.79,Default,,0000,0000,0000,,Let's eat before our food gets cold.
+Dialogue: 0,0:12:50.79,0:12:52.75,Default,,0000,0000,0000,,Don't you see?
+Dialogue: 0,0:12:52.75,0:12:56.83,Default,,0000,0000,0000,,You're the rear guard 'cuz\Nyou've got no experience.
+Dialogue: 0,0:12:56.83,0:12:59.25,Default,,0000,0000,0000,,I understand that I may be weak, but...
+Dialogue: 0,0:12:59.25,0:13:03.26,Default,,0000,0000,0000,,Isn't the vanguard the best place\Nto learn how the enemy moves?
+Dialogue: 0,0:13:03.26,0:13:07.30,Default,,0000,0000,0000,,What's this? Trying to act all tough\Ntalking about self-sacrifice?
+Dialogue: 0,0:13:07.30,0:13:12.14,Default,,0000,0000,0000,,But if we're all not of that mentality,\Nhow will we be effective as a unit?
+Dialogue: 0,0:13:12.14,0:13:15.73,Default,,0000,0000,0000,,Listen here... Everyone \Nstarts out as a recruit.
+Dialogue: 0,0:13:15.73,0:13:20.94,Default,,0000,0000,0000,,If we throw recruits into battle like cannon\Nfodder, they'll all be too dead to learn.
+Dialogue: 0,0:13:20.94,0:13:24.19,Default,,0000,0000,0000,,Which is why it's your job to\Nsit in the back and study,
+Dialogue: 0,0:13:24.19,0:13:27.03,Default,,0000,0000,0000,,so you can come home in one piece.
+Dialogue: 0,0:13:28.24,0:13:33.91,Default,,0000,0000,0000,,But the most useless of all is the suicidal\Nmaniac who only knows how to charge in.
+Dialogue: 0,0:13:33.91,0:13:35.12,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:13:37.62,0:13:40.50,Default,,0000,0000,0000,,Jean... Who do you mean by that?
+Dialogue: 0,0:13:42.30,0:13:44.17,Default,,0000,0000,0000,,Who else but you?
+Dialogue: 0,0:13:44.17,0:13:45.84,Default,,0000,0000,0000,,You suicidal maniac.
+Dialogue: 0,0:13:45.84,0:13:48.39,Default,,0000,0000,0000,,Actually, I found something out recently.
+Dialogue: 0,0:13:48.39,0:13:50.80,Default,,0000,0000,0000,,I'm quite a normal person, you know?
+Dialogue: 0,0:13:50.80,0:13:56.19,Default,,0000,0000,0000,,So if you're saying that to me,\Nthat just makes you a coward, Jean.
+Dialogue: 0,0:13:58.27,0:14:00.61,Default,,0000,0000,0000,,You're so full of yourself, you pig shit!
+Dialogue: 0,0:14:00.61,0:14:04.19,Default,,0000,0000,0000,,You trying to grow out the hair\Non your mane, horse face?!
+Dialogue: 0,0:14:04.19,0:14:05.32,Default,,0000,0000,0000,,Hey, what the--?
+Dialogue: 0,0:14:05.32,0:14:06.90,Default,,0000,0000,0000,,Just don't hit the face.
+Dialogue: 0,0:14:06.90,0:14:07.70,Default,,0000,0000,0000,,You jerk!
+Dialogue: 0,0:14:07.70,0:14:09.32,Default,,0000,0000,0000,,You're ripping it, ass!
+Dialogue: 0,0:14:09.32,0:14:11.49,Default,,0000,0000,0000,,What the hell are they doing?
+Dialogue: 0,0:14:15.70,0:14:17.67,Default,,0000,0000,0000,,You bastard!
+Dialogue: 0,0:14:19.46,0:14:20.71,Default,,0000,0000,0000,,Show 'em what you've got!
+Dialogue: 0,0:14:20.71,0:14:23.50,Default,,0000,0000,0000,,He's losing ground!
+Dialogue: 0,0:14:23.50,0:14:25.30,Default,,0000,0000,0000,,Looks like something started.
+Dialogue: 0,0:14:25.30,0:14:27.84,Default,,0000,0000,0000,,And here I told 'em to behave...
+Dialogue: 0,0:14:30.59,0:14:32.01,Default,,0000,0000,0000,,But seriously...
+Dialogue: 0,0:14:32.01,0:14:32.97,Default,,0000,0000,0000,,Ah?
+Dialogue: 0,0:14:32.97,0:14:37.23,Default,,0000,0000,0000,,If you didn't have Titan powers,\Nyou'd be dead ten times over.
+Dialogue: 0,0:14:37.23,0:14:41.31,Default,,0000,0000,0000,,And every time, Mikasa would\Nswoop in to save your ass.
+Dialogue: 0,0:14:42.73,0:14:45.11,Default,,0000,0000,0000,,If you insist on being suicidal...
+Dialogue: 0,0:14:45.11,0:14:47.70,Default,,0000,0000,0000,,...I'll just have to kill you!
+Dialogue: 0,0:14:47.70,0:14:51.95,Default,,0000,0000,0000,,That's something I'll have to take to heart!
+Dialogue: 0,0:14:51.95,0:14:56.08,Default,,0000,0000,0000,,You should start showing\Nyour mom some respect, Jean-boy!
+Dialogue: 0,0:14:56.08,0:14:57.37,Default,,0000,0000,0000,,Would you forget that?!
+Dialogue: 0,0:14:57.37,0:14:59.00,Default,,0000,0000,0000,,Blargh!
+Dialogue: 0,0:15:00.33,0:15:02.33,Default,,0000,0000,0000,,Shouldn't we stop them?
+Dialogue: 0,0:15:03.46,0:15:04.63,Default,,0000,0000,0000,,No...
+Dialogue: 0,0:15:06.42,0:15:08.13,Default,,0000,0000,0000,,I think it's fine.
+Dialogue: 0,0:15:11.51,0:15:15.14,Default,,0000,0000,0000,,Why isn't anybody stopping us?
+Dialogue: 0,0:15:15.14,0:15:17.02,Default,,0000,0000,0000,,How long will this go on for?
+Dialogue: 0,0:15:17.02,0:15:20.77,Default,,0000,0000,0000,,Shit... I think I'm gonna barf up that meat.
+Dialogue: 0,0:15:20.77,0:15:21.90,Default,,0000,0000,0000,,Hey.
+Dialogue: 0,0:15:24.48,0:15:27.23,Default,,0000,0000,0000,,You're all too damn rowdy.
+Dialogue: 0,0:15:27.23,0:15:29.45,Default,,0000,0000,0000,,Go to sleep.
+Dialogue: 0,0:15:29.45,0:15:30.78,Default,,0000,0000,0000,,And clean that up.
+Dialogue: 0,0:15:30.78,0:15:32.41,Default,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:15:37.49,0:15:39.54,Default,,0000,0000,0000,,Ouch...
+Dialogue: 0,0:15:39.54,0:15:41.96,Default,,0000,0000,0000,,It's weird when I say it, but...
+Dialogue: 0,0:15:41.96,0:15:44.79,Default,,0000,0000,0000,,Shouldn't you guys watch out for me more?
+Dialogue: 0,0:15:44.79,0:15:49.34,Default,,0000,0000,0000,,I knew if you got hurt it would\Nheal up quick, so I just watched.
+Dialogue: 0,0:15:50.80,0:15:52.84,Default,,0000,0000,0000,,That's so cruel.
+Dialogue: 0,0:15:52.84,0:15:55.47,Default,,0000,0000,0000,,You're the one who incited it.
+Dialogue: 0,0:15:55.47,0:15:58.56,Default,,0000,0000,0000,,But... at least you're spunky again.
+Dialogue: 0,0:16:02.56,0:16:05.27,Default,,0000,0000,0000,,I'm glad we met the commandant.
+Dialogue: 0,0:16:05.27,0:16:08.19,Default,,0000,0000,0000,,I... It doesn't...
+Dialogue: 0,0:16:08.19,0:16:13.07,Default,,0000,0000,0000,,Whether I'm spunky or not,\NI'll do what I have to do.
+Dialogue: 0,0:16:13.07,0:16:15.20,Default,,0000,0000,0000,,But, yeah...
+Dialogue: 0,0:16:15.20,0:16:17.16,Default,,0000,0000,0000,,It's easier now.
+Dialogue: 0,0:16:17.16,0:16:20.62,Default,,0000,0000,0000,,Kept thinking about stuff I can't change.
+Dialogue: 0,0:16:21.62,0:16:27.42,Default,,0000,0000,0000,,And wondering why I can't be\Nstrong like Mikasa and Levi...
+Dialogue: 0,0:16:27.42,0:16:29.25,Default,,0000,0000,0000,,I was jealous.
+Dialogue: 0,0:16:30.34,0:16:36.39,Default,,0000,0000,0000,,But even you and the captain...\Nalone, you can't do much.
+Dialogue: 0,0:16:36.39,0:16:41.10,Default,,0000,0000,0000,,Which is why we've all gotta\Nfind the things we can do.
+Dialogue: 0,0:16:41.10,0:16:45.85,Default,,0000,0000,0000,,And by joining together,\Nthat's what makes us powerful.
+Dialogue: 0,0:16:47.40,0:16:49.78,Default,,0000,0000,0000,,Every person is different.
+Dialogue: 0,0:16:49.78,0:16:52.36,Default,,0000,0000,0000,,And it's all for times like this.
+Dialogue: 0,0:17:01.91,0:17:03.33,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:17:04.58,0:17:06.38,Default,,0000,0000,0000,,I think you're right.
+Dialogue: 0,0:17:25.85,0:17:28.36,Default,,0000,0000,0000,,Once we retake Wall Maria...
+Dialogue: 0,0:17:28.36,0:17:31.86,Default,,0000,0000,0000,,...and defeat all the \Nenemies coming for us...
+Dialogue: 0,0:17:31.86,0:17:34.49,Default,,0000,0000,0000,,...will they come back?
+Dialogue: 0,0:17:34.49,0:17:37.11,Default,,0000,0000,0000,,Those days...
+Dialogue: 0,0:17:37.11,0:17:39.20,Default,,0000,0000,0000,,We'll bring it back.
+Dialogue: 0,0:17:39.20,0:17:43.16,Default,,0000,0000,0000,,But some things are forever changed.
+Dialogue: 0,0:17:43.16,0:17:45.87,Default,,0000,0000,0000,,We'll make them pay for that.
+Dialogue: 0,0:17:47.33,0:17:49.34,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:49.34,0:17:51.59,Default,,0000,0000,0000,,But there's more than that.
+Dialogue: 0,0:17:53.05,0:17:55.05,Default,,0000,0000,0000,,The sea...
+Dialogue: 0,0:17:55.05,0:17:58.55,Default,,0000,0000,0000,,A salt lake so big that merchants\Ncould spend their whole lives
+Dialogue: 0,0:17:58.55,0:18:01.22,Default,,0000,0000,0000,,and still not get all the salt.
+Dialogue: 0,0:18:02.26,0:18:06.44,Default,,0000,0000,0000,,There's more than just \NTitans outside the walls.
+Dialogue: 0,0:18:06.44,0:18:11.65,Default,,0000,0000,0000,,Fiery water, lands of \Nice, sandy snowfields...
+Dialogue: 0,0:18:11.65,0:18:16.28,Default,,0000,0000,0000,,I joined the Scouts so I could see all that.
+Dialogue: 0,0:18:16.28,0:18:20.24,Default,,0000,0000,0000,,Y-Yeah. You sure did.
+Dialogue: 0,0:18:28.25,0:18:29.67,Default,,0000,0000,0000,,Right?!
+Dialogue: 0,0:18:29.67,0:18:32.00,Default,,0000,0000,0000,,Let's start by seeing the sea!
+Dialogue: 0,0:18:32.00,0:18:34.55,Default,,0000,0000,0000,,You still doubt that it's real, Eren!
+Dialogue: 0,0:18:34.55,0:18:37.80,Default,,0000,0000,0000,,You'll see! It does exist!
+Dialogue: 0,0:18:37.80,0:18:39.47,Default,,0000,0000,0000,,All right then.
+Dialogue: 0,0:18:39.47,0:18:41.68,Default,,0000,0000,0000,,Guess we'll have to go see.
+Dialogue: 0,0:18:41.68,0:18:43.31,Default,,0000,0000,0000,,It's a promise, then!
+Dialogue: 0,0:18:43.31,0:18:44.52,Default,,0000,0000,0000,,You have to!
+Dialogue: 0,0:18:44.52,0:18:47.56,Default,,0000,0000,0000,,--Yet another conversation only you two get.\N--We can explore the outside world!
+Dialogue: 0,0:18:47.56,0:18:51.06,Default,,0000,0000,0000,,It's gotta be way bigger \Nthan inside the walls!
+Dialogue: 0,0:18:51.06,0:18:53.07,Default,,0000,0000,0000,,Okay, I get it.
+Dialogue: 0,0:19:00.03,0:19:02.07,Default,,0000,0000,0000,,Just before sunset...
+Dialogue: 0,0:19:03.91,0:19:05.62,Default,,0000,0000,0000,,It's finally time.
+Dialogue: 0,0:19:17.63,0:19:20.22,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:20.22,0:19:22.51,Default,,0000,0000,0000,,Hange!
+Dialogue: 0,0:19:22.51,0:19:23.76,Default,,0000,0000,0000,,Good luck!
+Dialogue: 0,0:19:23.76,0:19:25.85,Default,,0000,0000,0000,,Flegel?
+Dialogue: 0,0:19:25.85,0:19:29.69,Default,,0000,0000,0000,,Take back Wall Maria for us!
+Dialogue: 0,0:19:29.69,0:19:33.48,Default,,0000,0000,0000,,The future of humanity is in your hands!
+Dialogue: 0,0:19:33.48,0:19:35.52,Default,,0000,0000,0000,,Captain Levi!
+Dialogue: 0,0:19:35.52,0:19:39.70,Default,,0000,0000,0000,,Thank you for saving our city!
+Dialogue: 0,0:19:39.70,0:19:43.66,Default,,0000,0000,0000,,You all come back in one piece, all right?!
+Dialogue: 0,0:19:43.66,0:19:47.87,Default,,0000,0000,0000,,But go and reclaim our territory!
+Dialogue: 0,0:19:47.87,0:19:50.29,Default,,0000,0000,0000,,Someone's got a big mouth.
+Dialogue: 0,0:19:50.29,0:19:53.75,Default,,0000,0000,0000,,Well, with the commotion we made,\Nof course they'd find out.
+Dialogue: 0,0:19:53.75,0:19:58.05,Default,,0000,0000,0000,,The thing is, all that meat we ordered\Nwas from the Reeves Company.
+Dialogue: 0,0:19:58.05,0:19:59.72,Default,,0000,0000,0000,,Damn that Flegel.
+Dialogue: 0,0:19:59.72,0:20:03.72,Default,,0000,0000,0000,,--Yeah! You can count on us!\N--You know we will!
+Dialogue: 0,0:20:03.72,0:20:07.93,Default,,0000,0000,0000,,How long's it been since the Scouts\Ngot a send-off like this?
+Dialogue: 0,0:20:07.93,0:20:12.35,Default,,0000,0000,0000,,Who knows? I don't think we've ever...
+Dialogue: 0,0:20:12.35,0:20:16.15,Default,,0000,0000,0000,,As far as I'm aware, this is a first.
+Dialogue: 0,0:20:33.00,0:20:35.88,Default,,0000,0000,0000,,The final operation to retake Wall Maria...
+Dialogue: 0,0:20:35.88,0:20:37.67,Default,,0000,0000,0000,,...will now commence!
+Dialogue: 0,0:20:44.55,0:20:48.76,Default,,0000,0000,0000,,Advance!
+Dialogue: 0,0:22:43.00,0:22:44.51,Default,,0000,0000,0000,,You guys...
+Dialogue: 0,0:22:45.63,0:22:48.72,Default,,0000,0000,0000,,Do you have the faintest damn clue...
+Dialogue: 0,0:22:48.72,0:22:50.68,Default,,0000,0000,0000,,...what you're doing?!
+Dialogue: 0,0:22:50.68,0:22:52.68,Default,,0000,0000,0000,,
+Dialogue: 0,0:22:52.68,0:22:54.68,Default,,0000,0000,0000,,
+Dialogue: 0,0:22:54.68,0:22:56.68,Default,,0000,0000,0000,,

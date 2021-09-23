@@ -1,0 +1,360 @@
+[Script Info]
+Title: English (US)
+Original Script: Funimation  [http://www.crunchyroll.com/user/Funimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: WallEyecatch,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+Style: WallEyecatchI,Arial,12,&H00000000,&H000000FF,&H00FFFFFF,&H00DBF8F4,-1,0,0,0,100,100,0,0,1,2,2,5,0010,0010,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:09.11,0:00:13.49,Default,,0000,0000,0000,,The soldiers had their lives squeezed\Nout of them like fruit being juiced...
+Dialogue: 0,0:00:14.11,0:00:15.76,Default,,0000,0000,0000,,...and their scraps cast into the sea.
+Dialogue: 0,0:00:24.92,0:00:28.13,Default,,0000,0000,0000,,I suppose I should explain what the sea is.
+Dialogue: 0,0:00:29.88,0:00:34.95,Default,,0000,0000,0000,,The sea is a body of salt water that\Ncovers 70% of our world's surface.
+Dialogue: 0,0:02:05.98,0:02:10.98,Default,,0000,0000,0000,,"Attack Titan"
+Dialogue: 0,0:02:25.20,0:02:27.33,Default,,0000,0000,0000,,Owl... Who are you?
+Dialogue: 0,0:02:30.46,0:02:32.50,Default,,0000,0000,0000,,I am Eren Kruger.
+Dialogue: 0,0:02:32.50,0:02:36.42,Default,,0000,0000,0000,,As you just saw, I possess\None of the Nine Titans.
+Dialogue: 0,0:02:37.09,0:02:40.19,Default,,0000,0000,0000,,In other words, I'm a Subject\Nof Ymir, just like you.
+Dialogue: 0,0:02:41.76,0:02:45.43,Default,,0000,0000,0000,,You pretended to be a Marleyan\Nand infiltrated Public Security?
+Dialogue: 0,0:02:45.93,0:02:47.43,Default,,0000,0000,0000,,What about the blood tests?!
+Dialogue: 0,0:02:47.64,0:02:50.69,Default,,0000,0000,0000,,That was easy enough with \Nthe help of a doctor.
+Dialogue: 0,0:02:51.31,0:02:53.29,Default,,0000,0000,0000,,Doctors make good spies.
+Dialogue: 0,0:02:53.81,0:02:56.19,Default,,0000,0000,0000,,In all honesty, you did very well.
+Dialogue: 0,0:02:57.03,0:03:00.97,Default,,0000,0000,0000,,But in terms of results, Grice had\Nevery right to grieve like he did.
+Dialogue: 0,0:03:03.07,0:03:04.62,Default,,0000,0000,0000,,You're absolutely right...
+Dialogue: 0,0:03:05.45,0:03:10.35,Default,,0000,0000,0000,,I was a useless father, a useless\Nhusband, and a useless man.
+Dialogue: 0,0:03:11.58,0:03:15.94,Default,,0000,0000,0000,,And yet, why am I the only one\Nwho remains as a human?
+Dialogue: 0,0:03:19.72,0:03:24.00,Default,,0000,0000,0000,,Dina was someone special,\Nbeing a Subject of Ymir with royal blood.
+Dialogue: 0,0:03:24.85,0:03:26.54,Default,,0000,0000,0000,,She can tap into a Titan's true power.
+Dialogue: 0,0:03:27.26,0:03:30.64,Default,,0000,0000,0000,,If you hadn't jumped to keep\Nme quiet, Dina would--
+Dialogue: 0,0:03:33.31,0:03:35.94,Default,,0000,0000,0000,,Answer me! Why did you let only me live?!
+Dialogue: 0,0:03:37.98,0:03:40.36,Default,,0000,0000,0000,,Enough. Don't your fingers hurt?
+Dialogue: 0,0:03:41.07,0:03:43.20,Default,,0000,0000,0000,,Thanks so much for your concern!
+Dialogue: 0,0:03:43.20,0:03:46.57,Default,,0000,0000,0000,,You didn't seem to care so much\Nwhen you were chopping them off!
+Dialogue: 0,0:03:48.04,0:03:51.37,Default,,0000,0000,0000,,Well?! If you had gone on a rampage\Nas your Titan sooner,
+Dialogue: 0,0:03:51.37,0:03:53.79,Default,,0000,0000,0000,,wouldn't the others not be Titans right now?!
+Dialogue: 0,0:03:54.00,0:03:57.02,Default,,0000,0000,0000,,What was the whole point of\Nletting them become Titans?!
+Dialogue: 0,0:04:00.67,0:04:02.68,Default,,0000,0000,0000,,What's wrong? You look pale...
+Dialogue: 0,0:04:05.09,0:04:07.68,Default,,0000,0000,0000,,It wasn't just fellow patriots...
+Dialogue: 0,0:04:08.39,0:04:11.85,Default,,0000,0000,0000,,I've severed thousands of fingers\Nfrom Subjects of Ymir...
+Dialogue: 0,0:04:12.31,0:04:14.16,Default,,0000,0000,0000,,...and made them into Titans.
+Dialogue: 0,0:04:15.31,0:04:17.19,Default,,0000,0000,0000,,Women and children, too...
+Dialogue: 0,0:04:19.11,0:04:22.19,Default,,0000,0000,0000,,All while believing it was \Nfor the sake of Eldia.
+Dialogue: 0,0:04:25.20,0:04:27.38,Default,,0000,0000,0000,,I don't have much time, Grisha.
+Dialogue: 0,0:04:27.78,0:04:30.06,Default,,0000,0000,0000,,I'm entrusting you with the final task.
+Dialogue: 0,0:04:30.41,0:04:33.12,Default,,0000,0000,0000,,Not anyone else. Just you.
+Dialogue: 0,0:04:41.55,0:04:44.82,Default,,0000,0000,0000,,That day... The day I first met you,
+Dialogue: 0,0:04:45.59,0:04:47.30,Default,,0000,0000,0000,,if none of that had happened,
+Dialogue: 0,0:04:47.89,0:04:52.29,Default,,0000,0000,0000,,you wouldn't have festered enough\Nhatred of Marley to come this far.
+Dialogue: 0,0:04:53.18,0:04:56.56,Default,,0000,0000,0000,,Is that... the reason you chose me?
+Dialogue: 0,0:04:57.90,0:04:59.06,Default,,0000,0000,0000,,That's part of it.
+Dialogue: 0,0:05:00.57,0:05:03.71,Default,,0000,0000,0000,,The country... Your father... Yourself...
+Dialogue: 0,0:05:04.19,0:05:09.33,Default,,0000,0000,0000,,The hate in your eyes was enough\Nto burn the world to ashes.
+Dialogue: 0,0:05:10.53,0:05:12.56,Default,,0000,0000,0000,,I was once like that, too...
+Dialogue: 0,0:05:13.91,0:05:17.62,Default,,0000,0000,0000,,The royal family that stayed\Nbehind formed a revolution.
+Dialogue: 0,0:05:17.62,0:05:19.77,Default,,0000,0000,0000,,My father was part of it.
+Dialogue: 0,0:05:20.92,0:05:24.22,Default,,0000,0000,0000,,However, they accomplished nothing at all...
+Dialogue: 0,0:05:24.63,0:05:26.59,Default,,0000,0000,0000,,...and were burned alive.
+Dialogue: 0,0:05:27.18,0:05:32.64,Default,,0000,0000,0000,,I was so young, all I could do was peek\Nthrough the closet door and watch.
+Dialogue: 0,0:05:33.35,0:05:38.65,Default,,0000,0000,0000,,Ever since then, I've sworn revenge\Non Marley and the revival of Eldia.
+Dialogue: 0,0:05:39.94,0:05:44.65,Default,,0000,0000,0000,,But all I've managed to do is cut\Nthe fingers off my fellow patriots,
+Dialogue: 0,0:05:44.65,0:05:47.98,Default,,0000,0000,0000,,kick them off this wall,\Nand turn them into Titans.
+Dialogue: 0,0:05:48.53,0:05:53.59,Default,,0000,0000,0000,,It's because of the things I've done\Nthat my true identity was never discovered.
+Dialogue: 0,0:05:55.20,0:05:57.83,Default,,0000,0000,0000,,I'm no different than when I was little.
+Dialogue: 0,0:05:57.83,0:06:01.82,Default,,0000,0000,0000,,Perhaps I'm still looking at the world\Nthrough a crack from the closet.
+Dialogue: 0,0:06:05.84,0:06:08.02,Default,,0000,0000,0000,,Tell me, Owl.
+Dialogue: 0,0:06:09.09,0:06:11.47,Default,,0000,0000,0000,,What is this task left for me?
+Dialogue: 0,0:06:14.31,0:06:18.48,Default,,0000,0000,0000,,It's to infiltrate the walls and\Nretake the Founding Titan.
+Dialogue: 0,0:06:19.27,0:06:21.48,Default,,0000,0000,0000,,After you inherit my Titan, that is.
+Dialogue: 0,0:06:23.65,0:06:24.62,Default,,0000,0000,0000,,What did you say?
+Dialogue: 0,0:06:25.15,0:06:27.07,Default,,0000,0000,0000,,That would mean... you...
+Dialogue: 0,0:06:27.07,0:06:29.28,Default,,0000,0000,0000,,I'll be eaten by you as a Titan.
+Dialogue: 0,0:06:30.07,0:06:33.31,Default,,0000,0000,0000,,You'll take the Founding Titan\Nfrom its owner the same way.
+Dialogue: 0,0:06:34.08,0:06:35.45,Default,,0000,0000,0000,,Why aren't you doing it?
+Dialogue: 0,0:06:38.12,0:06:42.58,Default,,0000,0000,0000,,Those who inherit the power of\Nthe Nine Titans perish in 13 years.
+Dialogue: 0,0:06:43.42,0:06:46.45,Default,,0000,0000,0000,,I inherited this power 13 years ago.
+Dialogue: 0,0:06:47.09,0:06:50.26,Default,,0000,0000,0000,,The Owl called it "The Curse of Ymir."
+Dialogue: 0,0:06:51.09,0:06:55.01,Default,,0000,0000,0000,,The founder Ymir lived that long\Nafter her powers awakened,
+Dialogue: 0,0:06:55.01,0:06:57.97,Default,,0000,0000,0000,,so it's only appropriate \Nwe live that long, too.
+Dialogue: 0,0:06:59.02,0:07:00.94,Default,,0000,0000,0000,,I've got 13 years left...
+Dialogue: 0,0:07:01.69,0:07:02.59,Default,,0000,0000,0000,,And you...
+Dialogue: 0,0:07:03.31,0:07:05.90,Default,,0000,0000,0000,,Eight years left... Not even.
+Dialogue: 0,0:07:05.90,0:07:06.73,Default,,0000,0000,0000,,You're wrong.
+Dialogue: 0,0:07:08.11,0:07:10.68,Default,,0000,0000,0000,,This has to be... a mistake.
+Dialogue: 0,0:07:14.41,0:07:15.53,Default,,0000,0000,0000,,It's wrong.
+Dialogue: 0,0:07:20.37,0:07:25.63,Default,,0000,0000,0000,,If one possessing the power of the\NNine Titans dies without passing it on,
+Dialogue: 0,0:07:26.25,0:07:32.20,Default,,0000,0000,0000,,the power is inherited by a baby\Nyet to be born by a Subject of Ymir.
+Dialogue: 0,0:07:32.97,0:07:39.14,Default,,0000,0000,0000,,It's as if all the Subjects of Ymir are\Nconnected by something we can't see.
+Dialogue: 0,0:07:39.89,0:07:42.64,Default,,0000,0000,0000,,One inheritor said they saw paths.
+Dialogue: 0,0:07:43.44,0:07:45.87,Default,,0000,0000,0000,,The blood and bones that form a Titan,
+Dialogue: 0,0:07:46.32,0:07:50.28,Default,,0000,0000,0000,,and at times, even memories and\Nthoughts are sent through those paths.
+Dialogue: 0,0:07:51.28,0:07:55.24,Default,,0000,0000,0000,,All the paths cross at a single coordinate.
+Dialogue: 0,0:07:56.03,0:07:58.00,Default,,0000,0000,0000,,In other words, that's...
+Dialogue: 0,0:07:58.74,0:08:00.34,Default,,0000,0000,0000,,...the Founding Titan.
+Dialogue: 0,0:08:03.58,0:08:08.02,Default,,0000,0000,0000,,Every single Subject of Ymir\Nis connected to that coordinate.
+Dialogue: 0,0:08:08.84,0:08:11.67,Default,,0000,0000,0000,,Who was the founder Ymir exactly?
+Dialogue: 0,0:08:12.93,0:08:15.62,Default,,0000,0000,0000,,Under Marley authority,\Nshe's a pawn of the devil.
+Dialogue: 0,0:08:16.18,0:08:19.85,Default,,0000,0000,0000,,During the Eldian Empire era,\Nshe was a miracle of God.
+Dialogue: 0,0:08:21.06,0:08:24.35,Default,,0000,0000,0000,,Some say she touched the\Nsource of all living matter.
+Dialogue: 0,0:08:24.35,0:08:26.31,Default,,0000,0000,0000,,Who's to say they're wrong?
+Dialogue: 0,0:08:26.31,0:08:26.86,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:27.27,0:08:30.70,Default,,0000,0000,0000,,The only truth in this world\Nis that there is no truth.
+Dialogue: 0,0:08:31.49,0:08:34.15,Default,,0000,0000,0000,,Anyone can become a god or a devil.
+Dialogue: 0,0:08:34.99,0:08:37.85,Default,,0000,0000,0000,,All it takes is for people to believe it.
+Dialogue: 0,0:08:38.99,0:08:42.66,Default,,0000,0000,0000,,You're the one who said that\NDina had royal blood in her.
+Dialogue: 0,0:08:42.66,0:08:44.46,Default,,0000,0000,0000,,Was that a "truth" of yours?
+Dialogue: 0,0:08:45.46,0:08:49.84,Default,,0000,0000,0000,,Unfortunately, Dina having\Nroyal blood was true.
+Dialogue: 0,0:08:49.84,0:08:51.30,Default,,0000,0000,0000,,Then why abandon her?
+Dialogue: 0,0:08:51.80,0:08:56.80,Default,,0000,0000,0000,,Precisely because she had royal blood.\NI couldn't let the enemy have her.
+Dialogue: 0,0:08:57.14,0:09:00.05,Default,,0000,0000,0000,,It had to be done before Zeke\Ntold Marley everything.
+Dialogue: 0,0:09:01.06,0:09:02.06,Default,,0000,0000,0000,,Even so...
+Dialogue: 0,0:09:02.14,0:09:03.25,Default,,0000,0000,0000,,Even so?
+Dialogue: 0,0:09:03.93,0:09:09.29,Default,,0000,0000,0000,,Would she be better off giving birth to\Nchildren for the enemy her entire life?
+Dialogue: 0,0:09:10.98,0:09:14.45,Default,,0000,0000,0000,,I've done my duty. You do yours.
+Dialogue: 0,0:09:15.32,0:09:21.09,Default,,0000,0000,0000,,Only someone with the power of the\NTitans is capable of reaching the walls.
+Dialogue: 0,0:09:22.08,0:09:25.96,Default,,0000,0000,0000,,To be perfectly honest,\NI don't think I'm fit for the job.
+Dialogue: 0,0:09:25.96,0:09:27.48,Default,,0000,0000,0000,,You will do it.
+Dialogue: 0,0:09:29.04,0:09:30.46,Default,,0000,0000,0000,,Look at that...
+Dialogue: 0,0:09:31.55,0:09:33.96,Default,,0000,0000,0000,,He was eaten alive by a Titan.
+Dialogue: 0,0:09:34.92,0:09:38.29,Default,,0000,0000,0000,,And you asked if watching\Nthat was interesting?
+Dialogue: 0,0:09:39.30,0:09:41.35,Default,,0000,0000,0000,,It wasn't interesting at all.
+Dialogue: 0,0:09:41.35,0:09:44.59,Default,,0000,0000,0000,,His screams of agony were unbearable to hear.
+Dialogue: 0,0:09:46.19,0:09:49.44,Default,,0000,0000,0000,,I... didn't know any better.
+Dialogue: 0,0:09:50.31,0:09:54.75,Default,,0000,0000,0000,,If I had known this was the price\Nof freedom, I wouldn't have paid it.
+Dialogue: 0,0:10:00.20,0:10:00.95,Default,,0000,0000,0000,,Stand.
+Dialogue: 0,0:10:01.66,0:10:02.68,Default,,0000,0000,0000,,Fight!
+Dialogue: 0,0:10:04.83,0:10:07.98,Default,,0000,0000,0000,,For the sake of restoring\Nfreedom and dignity to Eldia...
+Dialogue: 0,0:10:08.58,0:10:09.26,Default,,0000,0000,0000,,Stand!
+Dialogue: 0,0:10:10.21,0:10:11.25,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:10:12.29,0:10:13.21,Default,,0000,0000,0000,,...can't.
+Dialogue: 0,0:10:16.34,0:10:19.16,Default,,0000,0000,0000,,Look. I brought this from your home.
+Dialogue: 0,0:10:20.76,0:10:21.72,Default,,0000,0000,0000,,I can't look.
+Dialogue: 0,0:10:23.14,0:10:26.31,Default,,0000,0000,0000,,You can't look. Can't stand. Can't fight.
+Dialogue: 0,0:10:26.31,0:10:27.73,Default,,0000,0000,0000,,Have you no balls?
+Dialogue: 0,0:10:28.23,0:10:30.08,Default,,0000,0000,0000,,Did Marley castrate you?
+Dialogue: 0,0:10:30.60,0:10:33.86,Default,,0000,0000,0000,,It's pointless to try and\Nmake me recall my hatred.
+Dialogue: 0,0:10:34.90,0:10:36.55,Default,,0000,0000,0000,,All I have left now...
+Dialogue: 0,0:10:38.40,0:10:39.57,Default,,0000,0000,0000,,...are my sins.
+Dialogue: 0,0:10:40.49,0:10:42.24,Default,,0000,0000,0000,,That's more than enough.
+Dialogue: 0,0:10:43.87,0:10:49.12,Default,,0000,0000,0000,,The main reason I picked you was\Nbecause you left the walls that day.
+Dialogue: 0,0:10:50.37,0:10:54.21,Default,,0000,0000,0000,,That day, if you hadn't taken your\Nlittle sister and gone past the walls,
+Dialogue: 0,0:10:54.88,0:10:57.59,Default,,0000,0000,0000,,you would've taken over your father's clinic,
+Dialogue: 0,0:10:57.59,0:11:02.05,Default,,0000,0000,0000,,your sister may have grown up,\Nmarried, and even had children.
+Dialogue: 0,0:11:02.68,0:11:05.25,Default,,0000,0000,0000,,But you did go outside the walls.
+Dialogue: 0,0:11:06.43,0:11:09.78,Default,,0000,0000,0000,,Ever since the first day I kicked\Na patriot off this wall...
+Dialogue: 0,0:11:10.39,0:11:13.58,Default,,0000,0000,0000,,Ever since that day you took\Nyour sister outside the walls...
+Dialogue: 0,0:11:14.02,0:11:17.86,Default,,0000,0000,0000,,We must push forward until\Nthe price of our actions is paid.
+Dialogue: 0,0:11:18.44,0:11:21.07,Default,,0000,0000,0000,,Even in death and after death.
+Dialogue: 0,0:11:26.41,0:11:27.24,Default,,0000,0000,0000,,This is...
+Dialogue: 0,0:11:29.20,0:11:31.83,Default,,0000,0000,0000,,...a story that you began, is it not?
+Dialogue: 0,0:11:44.05,0:11:47.64,Default,,0000,0000,0000,,There are names given\Nto each of the Nine Titans.
+Dialogue: 0,0:11:48.31,0:11:51.31,Default,,0000,0000,0000,,That includes the Titan you will inherit.
+Dialogue: 0,0:11:52.48,0:11:56.27,Default,,0000,0000,0000,,No matter which era this\NTitan has found itself in,
+Dialogue: 0,0:11:56.82,0:12:00.07,Default,,0000,0000,0000,,it has pushed ever forward,\Nseeking out freedom.
+Dialogue: 0,0:12:00.90,0:12:03.54,Default,,0000,0000,0000,,For the sake of freedom, it fights.
+Dialogue: 0,0:12:05.95,0:12:06.70,Default,,0000,0000,0000,,Its name...
+Dialogue: 0,0:12:07.83,0:12:09.58,Default,,0000,0000,0000,,The Attack Titan.
+Dialogue: 0,0:12:09.95,0:12:14.96,WallEyecatchI,,0000,0000,0000,,"Information Available for Public Disclosure"\N"The Nine Titans"\N"The true identity of Intelligent Titans stemming from a power exceeding human comprehension that sleeps in Subjects of Ymir. Said power is inherited along with memories through paths which transcend space and time. The 'Coordinate' where all paths intersect is the Founding Titan."
+Dialogue: 0,0:12:18.55,0:12:19.59,Default,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:12:23.76,0:12:25.30,Default,,0000,0000,0000,,The Attack Titan.
+Dialogue: 0,0:12:25.93,0:12:27.42,Default,,0000,0000,0000,,Didn't you just do that?
+Dialogue: 0,0:12:28.10,0:12:28.64,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:12:28.89,0:12:33.39,Default,,0000,0000,0000,,Huh?! He did that, right?\NDidn't you two see it just now?
+Dialogue: 0,0:12:33.39,0:12:35.52,Default,,0000,0000,0000,,Yeah, but that was...
+Dialogue: 0,0:12:35.77,0:12:38.65,Default,,0000,0000,0000,,See?! What was that all about, Eren?
+Dialogue: 0,0:12:38.65,0:12:39.98,Default,,0000,0000,0000,,No, it's nothing.
+Dialogue: 0,0:12:40.35,0:12:44.71,Default,,0000,0000,0000,,It's the name of your Titan, isn't it?\NWhat were you doing talking to yourself?
+Dialogue: 0,0:12:44.71,0:12:47.78,Default,,0000,0000,0000,,Enough, Hange. He's 15 years old.
+Dialogue: 0,0:12:47.78,0:12:49.66,Default,,0000,0000,0000,,Everyone goes through a phase.
+Dialogue: 0,0:12:49.74,0:12:51.91,Default,,0000,0000,0000,,Huh? What kind of phase are we talking about?
+Dialogue: 0,0:12:51.91,0:12:55.92,Default,,0000,0000,0000,,Hange, I'll explain to you later.\NIt's not right with him here.
+Dialogue: 0,0:12:55.92,0:12:58.17,Default,,0000,0000,0000,,Huh? What do you mean by that?
+Dialogue: 0,0:12:58.17,0:13:00.05,Default,,0000,0000,0000,,What the hell did you come for?!
+Dialogue: 0,0:13:01.09,0:13:01.55,Default,,0000,0000,0000,,Get out.
+Dialogue: 0,0:13:02.72,0:13:05.55,Default,,0000,0000,0000,,I'm supposed to be disciplined\Nfor ten more days.
+Dialogue: 0,0:13:06.01,0:13:06.80,Default,,0000,0000,0000,,It's over.
+Dialogue: 0,0:13:07.51,0:13:10.06,Default,,0000,0000,0000,,Hange just now was punishment enough.
+Dialogue: 0,0:13:10.39,0:13:13.77,Default,,0000,0000,0000,,We had a talk with Premier Zachary,\Nso don't worry about it.
+Dialogue: 0,0:13:13.77,0:13:17.27,Default,,0000,0000,0000,,If we jail the heroes who toppled\Nthe Armored and Colossal Titan,
+Dialogue: 0,0:13:17.27,0:13:19.82,Default,,0000,0000,0000,,it kinda sends a bad message, you know?
+Dialogue: 0,0:13:20.02,0:13:25.40,Default,,0000,0000,0000,,Plus, you were defying us morons who let\Nthe Beast and Armored Titan get away.
+Dialogue: 0,0:13:25.40,0:13:26.45,Default,,0000,0000,0000,,That's not...
+Dialogue: 0,0:13:30.53,0:13:32.17,Default,,0000,0000,0000,,Did you lose some weight?
+Dialogue: 0,0:13:33.12,0:13:34.96,Default,,0000,0000,0000,,We had plenty to eat, though.
+Dialogue: 0,0:13:39.38,0:13:41.46,Default,,0000,0000,0000,,You seem... good.
+Dialogue: 0,0:13:41.88,0:13:42.92,Default,,0000,0000,0000,,I guess...
+Dialogue: 0,0:13:42.92,0:13:45.13,Default,,0000,0000,0000,,Let's go. Get dressed quick.
+Dialogue: 0,0:13:45.97,0:13:47.18,Default,,0000,0000,0000,,Where are we going?
+Dialogue: 0,0:13:47.93,0:13:48.93,Default,,0000,0000,0000,,To an audience.
+Dialogue: 0,0:13:49.55,0:13:51.78,Default,,0000,0000,0000,,Her Majesty has come to Trost.
+Dialogue: 0,0:13:59.10,0:14:00.95,Default,,0000,0000,0000,,To my dear Historia...
+Dialogue: 0,0:14:01.44,0:14:04.44,Default,,0000,0000,0000,,As I'm writing this, \NReiner stands next to me.
+Dialogue: 0,0:14:05.19,0:14:08.63,Default,,0000,0000,0000,,It's pretty obvious that he's\Nsneaking peeks at this love letter.
+Dialogue: 0,0:14:08.95,0:14:11.87,Default,,0000,0000,0000,,He can be such a creep.\NNo wonder he's single.
+Dialogue: 0,0:14:12.95,0:14:17.21,Default,,0000,0000,0000,,However, he did promise me\Nhe'd deliver this letter to you.
+Dialogue: 0,0:14:18.54,0:14:21.79,Default,,0000,0000,0000,,He says it's payback for\Nsaving them that one time.
+Dialogue: 0,0:14:23.67,0:14:25.21,Default,,0000,0000,0000,,I'm sorry about then.
+Dialogue: 0,0:14:25.67,0:14:29.83,Default,,0000,0000,0000,,I never imagined I would end up\Nchoosing them over you.
+Dialogue: 0,0:14:31.47,0:14:33.20,Default,,0000,0000,0000,,It won't be long till I die.
+Dialogue: 0,0:14:33.68,0:14:35.85,Default,,0000,0000,0000,,But I have no regrets.
+Dialogue: 0,0:14:36.73,0:14:40.38,Default,,0000,0000,0000,,That's what I'd like to say,\Nbut there is one thing...
+Dialogue: 0,0:14:41.27,0:14:43.66,Default,,0000,0000,0000,,It's that I wasn't able to marry you.
+Dialogue: 0,0:14:44.65,0:14:45.73,Default,,0000,0000,0000,,Sincerely, Ymir.
+Dialogue: 0,0:15:01.13,0:15:05.19,Default,,0000,0000,0000,,All the paths cross at a single coordinate.
+Dialogue: 0,0:15:06.34,0:15:08.61,Default,,0000,0000,0000,,In other words, that's...
+Dialogue: 0,0:15:09.22,0:15:10.79,Default,,0000,0000,0000,,...the Founding Titan.
+Dialogue: 0,0:15:13.51,0:15:15.23,Default,,0000,0000,0000,,What... was that?
+Dialogue: 0,0:15:19.14,0:15:20.19,Default,,0000,0000,0000,,Something wrong?
+Dialogue: 0,0:15:20.19,0:15:21.48,Default,,0000,0000,0000,,Uh, no...
+Dialogue: 0,0:15:23.73,0:15:25.15,Default,,0000,0000,0000,,Is that all there was?
+Dialogue: 0,0:15:25.44,0:15:26.12,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:26.69,0:15:30.97,Default,,0000,0000,0000,,Of course, I doubt she was able\Nto write anything beneficial for us.
+Dialogue: 0,0:15:31.57,0:15:34.56,Default,,0000,0000,0000,,Was there any secret message\Nonly you would know?
+Dialogue: 0,0:15:35.16,0:15:35.91,Default,,0000,0000,0000,,Like a code?
+Dialogue: 0,0:15:37.20,0:15:38.20,Default,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:15:38.95,0:15:41.31,Default,,0000,0000,0000,,But I doubt she would do something like that.
+Dialogue: 0,0:15:44.84,0:15:46.77,Default,,0000,0000,0000,,Ymir's such a dummy...
+Dialogue: 0,0:15:47.71,0:15:48.88,Default,,0000,0000,0000,,Such a dummy.
+Dialogue: 0,0:15:50.67,0:15:53.05,Default,,0000,0000,0000,,You'd play it off the second\Nyou're embarrassed...
+Dialogue: 0,0:15:54.22,0:15:55.93,Default,,0000,0000,0000,,I just never know with you...
+Dialogue: 0,0:15:58.60,0:15:59.40,Default,,0000,0000,0000,,We're here.
+Dialogue: 0,0:15:59.73,0:16:00.39,Default,,0000,0000,0000,,Come in.
+Dialogue: 0,0:16:08.61,0:16:09.43,Default,,0000,0000,0000,,Your Majesty.
+Dialogue: 0,0:16:09.78,0:16:10.94,Default,,0000,0000,0000,,--Your Majesty.\N--Your Majesty.
+Dialogue: 0,0:16:10.94,0:16:14.30,Default,,0000,0000,0000,,S-Stop it. It's not an official position yet.
+Dialogue: 0,0:16:16.99,0:16:19.35,Default,,0000,0000,0000,,So much has happened, hasn't it?
+Dialogue: 0,0:16:20.29,0:16:23.93,Default,,0000,0000,0000,,But all I did was stare at the\Nsouth sky from within the walls.
+Dialogue: 0,0:16:24.54,0:16:27.67,Default,,0000,0000,0000,,It's an important duty of yours\Njust to stay alive.
+Dialogue: 0,0:16:27.67,0:16:28.93,Default,,0000,0000,0000,,Yeah, that's right.
+Dialogue: 0,0:16:30.05,0:16:33.05,Default,,0000,0000,0000,,I'm glad to see you're all acting like usual.
+Dialogue: 0,0:16:34.76,0:16:35.75,Default,,0000,0000,0000,,Well, that's...
+Dialogue: 0,0:16:36.22,0:16:38.81,Default,,0000,0000,0000,,It just hasn't sunk in for us yet.
+Dialogue: 0,0:16:39.72,0:16:41.06,Default,,0000,0000,0000,,Shall we get this going?
+Dialogue: 0,0:16:45.56,0:16:47.75,Default,,0000,0000,0000,,{\i1}The Early Life of Grisha Yeager{\i0}.
+Dialogue: 0,0:16:48.11,0:16:50.57,Default,,0000,0000,0000,,{\i1}The Extent of Our Knowledge{\i0}\N{\i1}of Titans and Their History{\i0}.
+Dialogue: 0,0:16:51.07,0:16:52.94,Default,,0000,0000,0000,,{\i1}Information About the World Beyond the Walls{\i0}.
+Dialogue: 0,0:16:53.28,0:16:56.37,Default,,0000,0000,0000,,The only people who know about\Nthe existence of these books
+Dialogue: 0,0:16:56.37,0:16:58.76,Default,,0000,0000,0000,,are those here in this very room.
+Dialogue: 0,0:16:59.74,0:17:02.43,Default,,0000,0000,0000,,These were gained by the\Nefforts of nine living Scouts...
+Dialogue: 0,0:17:02.71,0:17:06.33,Default,,0000,0000,0000,,...and the 199 others who are not here today.
+Dialogue: 0,0:17:06.96,0:17:11.59,Default,,0000,0000,0000,,Today, and in the Queen's presence,\NI would like to assess our situation...
+Dialogue: 0,0:17:11.88,0:17:15.42,Default,,0000,0000,0000,,...and establish an agreement\Nin terms of our course of action.
+Dialogue: 0,0:17:17.30,0:17:20.10,Default,,0000,0000,0000,,Scout Regiment Commander Hange Zoë.
+Dialogue: 0,0:17:20.10,0:17:21.18,Default,,0000,0000,0000,,Sir.
+Dialogue: 0,0:17:22.39,0:17:26.27,Default,,0000,0000,0000,,The Scouts have lost a great\Ndeal, including Erwin Smith.
+Dialogue: 0,0:17:26.27,0:17:29.11,Default,,0000,0000,0000,,But in exchange for the \Nmany heroes that we lost,
+Dialogue: 0,0:17:29.40,0:17:34.86,Default,,0000,0000,0000,,we have retaken Wall Maria and\Nstolen the Colossal Titan's powers.
+Dialogue: 0,0:17:35.15,0:17:40.78,Default,,0000,0000,0000,,However, humanity that lives within the walls\Nremains in a precarious situation.
+Dialogue: 0,0:17:41.45,0:17:45.68,Default,,0000,0000,0000,,It would be a relief were Titans\Nthe only monsters we had for enemies.
+Dialogue: 0,0:17:46.25,0:17:49.92,Default,,0000,0000,0000,,--However, the true identity of\Nthe enemies we've been fighting
+Dialogue: 0,0:17:49.04,0:17:50.67,On Top,,0000,0000,0000,,--Then who's the enemy?!
+Dialogue: 0,0:17:49.92,0:17:53.96,Default,,0000,0000,0000,,--are humans. A civilization.\NYou could even say...
+Dialogue: 0,0:17:50.67,0:17:52.80,On Top,,0000,0000,0000,,--Enemy?
+Dialogue: 0,0:17:52.80,0:17:55.55,On Top,,0000,0000,0000,,--If I said that, the--
+Dialogue: 0,0:17:53.96,0:17:55.55,Default,,0000,0000,0000,,--...the world.
+Dialogue: 0,0:17:57.59,0:17:58.89,Default,,0000,0000,0000,,According to these,
+Dialogue: 0,0:17:58.89,0:18:03.02,Default,,0000,0000,0000,,we're a special race called Subjects\Nof Ymir who can turn into Titans.
+Dialogue: 0,0:18:03.52,0:18:06.43,Default,,0000,0000,0000,,There's also a belief that we\Nmay rule the world again.
+Dialogue: 0,0:18:07.02,0:18:12.06,Default,,0000,0000,0000,,That's why the world wishes to\Neradicate us Subjects of Ymir for good.
+Dialogue: 0,0:18:15.90,0:18:20.71,Default,,0000,0000,0000,,If the Founding Titan falls into\NMarley hands, Eldians are done for.
+Dialogue: 0,0:18:22.24,0:18:25.13,Default,,0000,0000,0000,,The King in the walls wouldn't\Nallow that to happen.
+Dialogue: 0,0:18:25.75,0:18:27.75,Default,,0000,0000,0000,,The King in the walls won't fight.
+Dialogue: 0,0:18:27.75,0:18:28.25,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:29.75,0:18:35.48,Default,,0000,0000,0000,,"If once again Eldia is driven to sin,\Nwe will perish as it's meant to be.
+Dialogue: 0,0:18:35.92,0:18:39.57,Default,,0000,0000,0000,,I have made a vow renouncing war\Nwith the Founding Titan."
+Dialogue: 0,0:18:40.14,0:18:45.10,Default,,0000,0000,0000,,He said that to the royal family on the\Ncontinent and then closed the walls.
+Dialogue: 0,0:18:46.81,0:18:51.75,Default,,0000,0000,0000,,Did he not warn that the Titans of\Nthe walls would flatten the earth?
+Dialogue: 0,0:18:52.27,0:18:55.11,Default,,0000,0000,0000,,Those words were meant to deter an attack.
+Dialogue: 0,0:18:55.19,0:18:57.85,Default,,0000,0000,0000,,It allowed for a brief time of peace.
+Dialogue: 0,0:18:59.86,0:19:02.62,Default,,0000,0000,0000,,The King of the walls stole\Nhis people's memories
+Dialogue: 0,0:19:02.62,0:19:05.54,Default,,0000,0000,0000,,and made them believe humanity\Nperished beyond the walls.
+Dialogue: 0,0:19:06.29,0:19:10.75,Default,,0000,0000,0000,,He surrounded himself with the ignorant\Nand babbled about paradise.
+Dialogue: 0,0:19:11.67,0:19:14.54,Default,,0000,0000,0000,,A King who can't protect \Nhis people is no King.
+Dialogue: 0,0:19:14.92,0:19:19.59,Default,,0000,0000,0000,,You must find that cowardly King\Nand strip him of the Founding Titan.
+Dialogue: 0,0:19:20.09,0:19:22.22,Default,,0000,0000,0000,,That is our mission.
+Dialogue: 0,0:19:24.05,0:19:26.93,Default,,0000,0000,0000,,Mr. Jaeger later achieved his mission
+Dialogue: 0,0:19:26.93,0:19:29.94,Default,,0000,0000,0000,,and entrusted the Founding\NTitan to his son Eren.
+Dialogue: 0,0:19:31.02,0:19:34.27,Default,,0000,0000,0000,,In order to wield the\NFounding Titan's full power,
+Dialogue: 0,0:19:34.27,0:19:37.65,Default,,0000,0000,0000,,it must be possessed by\Nsomeone with royal blood.
+Dialogue: 0,0:19:38.53,0:19:42.20,Default,,0000,0000,0000,,However, even if that person\Npossesses the Founding Titan,
+Dialogue: 0,0:19:42.20,0:19:44.53,Default,,0000,0000,0000,,they're enslaved by the King's ideals,
+Dialogue: 0,0:19:44.53,0:19:47.91,Default,,0000,0000,0000,,which only leads them down\Nthe path to humanity's downfall.
+Dialogue: 0,0:19:48.83,0:19:51.75,Default,,0000,0000,0000,,That is the vow renouncing war.
+Dialogue: 0,0:19:53.29,0:19:59.38,Default,,0000,0000,0000,,However, Eren was able to control Pure Titans\Nin the past to escape a dire situation.
+Dialogue: 0,0:20:00.55,0:20:03.26,Default,,0000,0000,0000,,So it may be possible even\Nwithout royal blood
+Dialogue: 0,0:20:03.26,0:20:06.87,Default,,0000,0000,0000,,for Eren to wield that power as well.
+Dialogue: 0,0:20:07.64,0:20:08.72,Default,,0000,0000,0000,,That's right...
+Dialogue: 0,0:20:10.02,0:20:13.95,Default,,0000,0000,0000,,Just for that split second,\Nit felt like everything connected.
+Dialogue: 0,0:20:15.65,0:20:16.40,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:20:17.94,0:20:19.44,Default,,0000,0000,0000,,Why just then?
+Dialogue: 0,0:20:22.82,0:20:25.20,Default,,0000,0000,0000,,My name is Dina Fritz.
+Dialogue: 0,0:20:25.57,0:20:27.95,Default,,0000,0000,0000,,I'm a descendant of the royal family.
+Dialogue: 0,0:20:28.33,0:20:29.37,Default,,0000,0000,0000,,It can't be!
+Dialogue: 0,0:20:32.41,0:20:35.33,Default,,0000,0000,0000,,You scared me. What was that about?
+Dialogue: 0,0:20:35.33,0:20:36.71,Default,,0000,0000,0000,,U-Uh... I-I...
+Dialogue: 0,0:20:41.67,0:20:44.22,Default,,0000,0000,0000,,Please continue, our Titan.
+Dialogue: 0,0:20:49.14,0:20:50.64,Default,,0000,0000,0000,,It's... nothing.
+Dialogue: 0,0:20:50.64,0:20:51.41,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:52.94,0:20:54.73,Default,,0000,0000,0000,,Sorry for interrupting the meeting.
+Dialogue: 0,0:21:00.07,0:21:03.61,Default,,0000,0000,0000,,Oh? I see... Right...
+Dialogue: 0,0:21:05.66,0:21:09.12,Default,,0000,0000,0000,,It would seem that he is\Nhaving a phase of sorts.
+Dialogue: 0,0:21:09.12,0:21:12.41,Default,,0000,0000,0000,,One where he acts up\Nand randomly yells things.
+Dialogue: 0,0:21:12.71,0:21:15.81,Default,,0000,0000,0000,,Ah, I see. That's unfortunate.
+Dialogue: 0,0:21:16.08,0:21:17.67,Default,,0000,0000,0000,,He's that age, I guess.
+Dialogue: 0,0:21:18.21,0:21:18.97,Default,,0000,0000,0000,,Eren?
+Dialogue: 0,0:21:19.84,0:21:22.67,Default,,0000,0000,0000,,I haven't told those two about it, either...
+Dialogue: 0,0:21:23.42,0:21:26.39,Default,,0000,0000,0000,,That the Titan who killed my mom and Hannes
+Dialogue: 0,0:21:26.39,0:21:29.36,Default,,0000,0000,0000,,was actually someone my dad\Nwas married to before.
+Dialogue: 0,0:21:31.06,0:21:34.30,Default,,0000,0000,0000,,What's more, if I talk about it...
+Dialogue: 0,0:21:36.02,0:21:39.73,Default,,0000,0000,0000,,If someone with royal blood\Nis made into a Titan that I touch,
+Dialogue: 0,0:21:39.73,0:21:43.46,Default,,0000,0000,0000,,it might be possible for me to use\Nthe Founding Titan's powers.
+Dialogue: 0,0:21:44.32,0:21:46.91,Default,,0000,0000,0000,,That's right... It's just a possibility...
+Dialogue: 0,0:21:47.74,0:21:52.91,Default,,0000,0000,0000,,But if they knew of that possibility,\Nwhat would the military do to Historia?
+Dialogue: 0,0:22:00.13,0:22:01.46,Default,,0000,0000,0000,,Have a family.
+Dialogue: 0,0:22:02.00,0:22:02.92,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:22:02.92,0:22:05.76,Default,,0000,0000,0000,,After you enter the walls, build a family.
+Dialogue: 0,0:22:05.76,0:22:08.94,Default,,0000,0000,0000,,What are you talking about? I have Dina...
+Dialogue: 0,0:22:09.51,0:22:14.48,Default,,0000,0000,0000,,Won't I forget the things you tell me\Njust before I become a Titan anyways?
+Dialogue: 0,0:22:14.48,0:22:16.12,Default,,0000,0000,0000,,That's not always the case.
+Dialogue: 0,0:22:16.44,0:22:18.77,Default,,0000,0000,0000,,And someone may see it later.
+Dialogue: 0,0:22:18.77,0:22:19.23,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:22:19.56,0:22:22.61,Default,,0000,0000,0000,,Your wife, your child,\Nyour neighbors if need be...
+Dialogue: 0,0:22:23.03,0:22:24.97,Default,,0000,0000,0000,,Love someone inside the walls.
+Dialogue: 0,0:22:27.53,0:22:30.45,Default,,0000,0000,0000,,If you can't do that, it'll only repeat.
+Dialogue: 0,0:22:30.45,0:22:34.75,Default,,0000,0000,0000,,The same history... The same\Nmistakes... Over and over...
+Dialogue: 0,0:22:35.41,0:22:40.25,Default,,0000,0000,0000,,To save Mikasa, Armin, and everyone else,\Nyou must see it through.
+Dialogue: 0,0:22:41.00,0:22:44.00,Default,,0000,0000,0000,,Mikasa? Armin? Who is that?
+Dialogue: 0,0:22:47.97,0:22:50.59,Default,,0000,0000,0000,,Who knows? I'm not sure...
+Dialogue: 0,0:22:51.47,0:22:53.00,Default,,0000,0000,0000,,Whose memories are those?
+Dialogue: 0,0:23:40.85,0:23:43.62,Default,,0000,0000,0000,,They believed freedom\Nwould come if they fought.
+Dialogue: 0,0:23:44.27,0:23:47.19,Default,,0000,0000,0000,,After viewing the sea on the outside world,
+Dialogue: 0,0:23:47.19,0:23:51.07,Default,,0000,0000,0000,,what runs through their minds now,\Nknowing the truth of humanity?
+Dialogue: 0,0:23:51.93,0:23:54.88,Default,,0000,0000,0000,,Next episode: "The Other Side of the Wall."
+Dialogue: 0,0:23:54.24,0:23:56.54,On Top,,0000,0000,0000,,"The Other Side of the Wall"
+Dialogue: 0,0:23:56.54,0:23:58.53,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:58.53,0:24:00.55,Default,,0000,0000,0000,,
+Dialogue: 0,0:24:00.55,0:24:02.54,Default,,0000,0000,0000,,
